@@ -137,12 +137,14 @@ class ResourceItem extends XFCP_ResourceItem
 			return 'article';
 		}
 
-		if ($type === 'external_purchase' || (float) $this->price > 0)
+		// Product schema için Google "offers VEYA aggregateRating VEYA review" zorunlu kılar.
+		// price > 0 → offers; rating_count > 0 → aggregateRating sağlanır.
+		if ($type === 'external_purchase' || (float) $this->price > 0 || (int) $this->rating_count > 0)
 		{
 			return 'product';
 		}
 
-		// Ücretsiz indirilebilir kaynak — XFRM default'u (CreativeWork) doğru çalışır
+		// Ücretsiz indirilebilir kaynak (rating de yok) — XFRM default'u (CreativeWork) doğru çalışır
 		return 'website';
 	}
 }
