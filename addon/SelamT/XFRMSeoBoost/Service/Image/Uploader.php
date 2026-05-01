@@ -88,12 +88,20 @@ class Uploader extends AbstractService
 		]);
 		$image->save();
 
-		// Dosyayı flysystem üzerinden data:// public alanına yaz
+		// Dosyayı flysystem üzerinden data:// public alanına yaz.
+		// Orphan disk dosyası (DB kaydı silinmiş ama disk'te kalan, veya aynı hash'li
+		// dosya tekrar yüklenmesi) varsa önce sil ki "FileExistsException" alma.
 		$abstractedPath = $image->getDataAbstractedPath();
 		$stream = fopen($tempFile, 'rb');
 		try
 		{
 			$fs = $this->app->fs();
+
+			if ($fs->has($abstractedPath))
+			{
+				$fs->delete($abstractedPath);
+			}
+
 			$fs->writeStream($abstractedPath, $stream);
 		}
 		finally
