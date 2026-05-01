@@ -71,39 +71,78 @@ class ResourceItem extends XFCP_ResourceItem
 			$data['mainEntity']['interactionStatistic'] = $existingStats;
 		}
 
-		// 5) og:type=product ise @type'ı Product (veya SoftwareApplication) yap
-		if (!empty($options->xfrmseoBoostEnableProductSchema) && $ogType === 'product')
-		{
-			$data['mainEntity']['@type'] = 'Product';
-			// 'name' alanını ekle (Product şeması için zorunlu)
-			$data['mainEntity']['name'] = $this->title;
-		}
-		elseif ($ogType === 'article')
+		// 5) Schema @type seçimi (akıllı: og:type + Google "rich result için zorunlu alan" gereksinimleri):
+		//    - Article: og_type=article → @type=Article (her zaman geçerli — zorunlu offers/rating yok)
+		//    - Product: og_type=product VE (price>0 OR rating_count>0) → @type=Product
+		//      (offers veya aggregateRating zorunlu alanları sağlanır; aksi halde Google "invalid" der)
+		//    - Diğer: parent default (CreativeWork) bırakılır
+		$enableProduct = !empty($options->xfrmseoBoostEnableProductSchema);
+		$hasOffers = (float) $this->price > 0 && $this->currency !== '';
+		$hasRating = (int) $this->rating_count > 0;
+
+		if ($ogType === 'article')
 		{
 			$data['mainEntity']['@type'] = 'Article';
 			$data['mainEntity']['headline'] = $data['mainEntity']['headline'] ?? $this->title;
+			$data['mainEntity']['datePublished'] = $data['mainEntity']['dateCreated'] ?? \XF::language()->dateTime($this->resource_date, 'Y-m-d\TH:i:sP');
 		}
+		elseif ($enableProduct && $ogType === 'product' && ($hasOffers || $hasRating))
+		{
+			$data['mainEntity']['@type'] = 'Product';
+			$data['mainEntity']['name'] = $this->title;
+		}
+		// Aksi halde XFRM default @type=CreativeWork olarak kalır (her zaman geçerli)
 
 		return $data;
 	}
 
 	/**
-	 * Efektif og_type: resource SeoMeta override → category SeoSettings.default_og_type → 'website'
+	 * Efektif og_type seçimi:
+	 *   1. Resource SeoMeta.og_type override (kullanıcı manuel seçti)
+	 *   2. Category SeoSettings.default_og_type
+	 *   3. Otomatik tespit (resource_type + price'a göre)
 	 */
 	public function getEffectiveOgType(): string
 	{
+		// 1. Resource manual override
 		$seoMeta = $this->SeoMeta;
 		if ($seoMeta && $seoMeta->og_type !== '')
 		{
 			return $seoMeta->og_type;
 		}
 
+		// 2. Category default
 		$category = $this->Category;
 		if ($category && $category->SeoSettings && $category->SeoSettings->default_og_type !== '')
 		{
 			return $category->SeoSettings->default_og_type;
 		}
 
+		// 3. Otomatik
+		return $this->autoDetectOgType();
+	}
+
+	/**
+	 * Otomatik og_type tespiti — resource_type ve price'a göre:
+	 *   - fileless (dosyasız makale)        → article
+	 *   - external_purchase / price > 0     → product
+	 *   - download (ücretsiz)                → website (default — CreativeWork kalır)
+	 */
+	protected function autoDetectOgType(): string
+	{
+		$type = (string) $this->resource_type;
+
+		if ($type === 'fileless')
+		{
+			return 'article';
+		}
+
+		if ($type === 'external_purchase' || (float) $this->price > 0)
+		{
+			return 'product';
+		}
+
+		// Ücretsiz indirilebilir kaynak — XFRM default'u (CreativeWork) doğru çalışır
 		return 'website';
 	}
 }
