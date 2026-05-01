@@ -11,6 +11,6 @@ deployment:
     - /bin/rm -rf $DEPLOYPATH/_translations
     - /bin/cp -R translations $DEPLOYPATH/_translations
     # XF eklenti install (yoksa) — varsa: önce upgrade dene (yeni version), olmazsa rerun (aynı version, XML re-import)
-    - cd $DEPLOYPATH && ($PHP cmd.php xf-addon:install SelamT/XFRMSeoBoost --no-interaction || $PHP cmd.php xf-addon:upgrade SelamT/XFRMSeoBoost --no-interaction || $PHP cmd.php xf-addon:rerun SelamT/XFRMSeoBoost --no-interaction)
+    - cd $DEPLOYPATH && ($PHP cmd.php xf-addon:install SelamT/XFRMSeoBoost --no-interaction || $PHP cmd.php xf-addon:upgrade SelamT/XFRMSeoBoost --no-interaction || $PHP cmd.php xf-addon:rebuild SelamT/XFRMSeoBoost --no-interaction)
     # TR çevirileri toplu import
     - cd $DEPLOYPATH && $PHP cmd.php selamt:import-translations --language=tr
