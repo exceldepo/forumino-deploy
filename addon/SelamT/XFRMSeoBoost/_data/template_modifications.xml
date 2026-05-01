@@ -191,7 +191,7 @@
 	arg-shareUrl="{{ link('canonical:resources', $resource) }}"
 	arg-canonicalUrl="{{ link('canonical:resources', $resource) }}"
 	arg-imageUrl="{{ $resource.SeoMeta.FeaturedImage ? $resource.SeoMeta.FeaturedImage.getDataUrl() : '' }}"
-	arg-type="{{ $resource.SeoMeta.og_type ?: ($resource.Category.SeoSettings.default_og_type ?: 'website') }}" />]]></replace>
+	arg-type="{$resource.getEffectiveOgType()}" />]]></replace>
   </modification>
   <modification type="public" template="xfrm_resource_view" modification_key="selamt_xfrmseo_view_title_override" description="HTML title ve og:title override (meta_title varsa)" execution_order="0" enabled="1" action="str_replace">
     <find><![CDATA[<xf:title>{{ prefix('resource', $resource, 'escaped') }}{$resource.title}</xf:title>]]></find>
