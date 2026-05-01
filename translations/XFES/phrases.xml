@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="admin_navigation.xfes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gelişmiş arama]]></phrase>
+  <phrase title="cron_entry.xfesReindex" version_id="2010270" version_string="2.1.2"><![CDATA[XFES: Yeniden indeksle]]></phrase>
+  <phrase title="cron_entry.xfesSimilarThreads" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[XFES: Benzer konu önbelleklerini güncelle]]></phrase>
+  <phrase title="option.xfesConfig" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gelişmiş arama yapılandırması]]></phrase>
+  <phrase title="option.xfesEnabled" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gelişmiş arama etkin]]></phrase>
+  <phrase title="option.xfesRecencyRelevance" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gelişmiş arama tarih ağırlıklı puanlama]]></phrase>
+  <phrase title="option.xfesSimilarThreads" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Gelişmiş arama benzer konular]]></phrase>
+  <phrase title="option.xfesSimilarThreadsExcludedForums" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Gelişmiş arama benzer konular için hariç tutulan forumlar]]></phrase>
+  <phrase title="option_explain.xfesConfig" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen bunu "Gelişmiş arama" bölümünden düzenleyin.]]></phrase>
+  <phrase title="option_explain.xfesEnabled" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="option_explain.xfesRecencyRelevance" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen bunu "Gelişmiş arama" bölümünden düzenleyin.]]></phrase>
+  <phrase title="option_explain.xfesSimilarThreads" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Lütfen bunu "Gelişmiş arama" bölümünden düzenleyin.]]></phrase>
+  <phrase title="option_explain.xfesSimilarThreadsExcludedForums" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Lütfen bunu "Gelişmiş arama" bölümünden düzenleyin.]]></phrase>
+  <phrase title="widget_def.xfes_similar_threads" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[XFES: Benzer konular]]></phrase>
+  <phrase title="widget_def_desc.xfes_similar_threads" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mevcut konuya benzer X konuyu içeren bir blok görüntüler. Bu widget yalnızca "konu görünümü" konumlarında çalışır.]]></phrase>
+  <phrase title="xfes_allocated_memory" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tahsis edilen bellek]]></phrase>
+  <phrase title="xfes_arabic" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Arapça]]></phrase>
+  <phrase title="xfes_armenian" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Ermenice]]></phrase>
+  <phrase title="xfes_basque" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Baskça]]></phrase>
+  <phrase title="xfes_bengali" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Bengalce]]></phrase>
+  <phrase title="xfes_brazilian_portuguese" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Brezilya Portekizcesi]]></phrase>
+  <phrase title="xfes_bulgarian" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Bulgarca]]></phrase>
+  <phrase title="xfes_catalan" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Katalanca]]></phrase>
+  <phrase title="xfes_changes_have_been_saved_must_rebuild" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Değişiklikleriniz kaydedildi. Bu işlemi tamamlamak için şimdi <a href="{link}">arama indeksini yeniden oluşturmanız</a> gerekir.]]></phrase>
+  <phrase title="xfes_clear_similar_threads_caches" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Benzer konu önbelleklerini temizle]]></phrase>
+  <phrase title="xfes_clear_similar_threads_explain" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[İşaretlenirse, "Benzer konular" widget önbellekleri temizlenir. Önbellekler talep üzerine oluşturulur ve widget aktifken bir konu görüntülendiğinde periyodik olarak güncellenir.]]></phrase>
+  <phrase title="xfes_configure_enhanced_search" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gelişmiş aramayı yapılandır]]></phrase>
+  <phrase title="xfes_confirm_enhanced_search_configuration" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gelişmiş arama yapılandırmasını onayla]]></phrase>
+  <phrase title="xfes_connection_could_not_be_made_to_elasticsearch_server" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Elasticsearch sunucusuna bağlantı kurulamadı.]]></phrase>
+  <phrase title="xfes_current_index_configuration_not_supported" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mevcut indeks yapılandırması XenForo tarafından desteklenmeyen bir yapılandırmayı temsil ediyor. Buradaki indeks seçeneklerini güncellemek mevcut yapılandırmanızı kaldıracaktır.]]></phrase>
+  <phrase title="xfes_custom_bundle_x" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Özel paket: {path}]]></phrase>
+  <phrase title="xfes_czech" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Çekçe]]></phrase>
+  <phrase title="xfes_danish" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Danca]]></phrase>
+  <phrase title="xfes_disable_ssl_certificate_verification" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[SSL sertifika doğrulamasını devre dışı bırak]]></phrase>
+  <phrase title="xfes_display_similar_threads_suggestions_in_this_forum" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bu forumda yeni konu oluştururken benzer konu önerilerini görüntüle]]></phrase>
+  <phrase title="xfes_documents" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Belgeler]]></phrase>
+  <phrase title="xfes_does_not_appear_to_be_elasticsearch_server" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu bir Elasticsearch sunucusu gibi görünmüyor.]]></phrase>
+  <phrase title="xfes_dutch" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Felemenkçe]]></phrase>
+  <phrase title="xfes_elasticsearch_server" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Elasticsearch sunucusu]]></phrase>
+  <phrase title="xfes_elasticsearch_server_could_not_be_reached" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Elasticsearch sunucusuna ulaşılamadı. Lütfen sunucunun çalıştığından emin olun.]]></phrase>
+  <phrase title="xfes_elasticsearch_version_does_not_meet_requirements" version_id="2030034" version_string="2.3.0 Beta 4"><![CDATA[Elasticsearch sürümünüz gereksinimlerimizi karşılamıyor. {required} veya daha yeni bir sürüm çalıştırıyor olmanız gerekir. Sürümünüz: {version}.]]></phrase>
+  <phrase title="xfes_empty_mysql_search_index" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[MySQL arama indeksini boşalt]]></phrase>
+  <phrase title="xfes_enable_accent_removal_and_character_simplification" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aksan kaldırmayı ve karakter basitleştirmeyi etkinleştir]]></phrase>
+  <phrase title="xfes_enable_enhanced_search_now" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gelişmiş aramayı şimdi etkinleştir]]></phrase>
+  <phrase title="xfes_enable_recency_weighted_relevance_searches" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tarih ağırlıklı alaka aramalarını etkinleştir]]></phrase>
+  <phrase title="xfes_enable_similar_threads_widget" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Benzer konular widget'ını etkinleştir]]></phrase>
+  <phrase title="xfes_enable_ssl_certificate_verification" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[SSL sertifika doğrulamasını etkinleştir]]></phrase>
+  <phrase title="xfes_enable_stemming_for_language" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dil için kök bulmayı etkinleştir]]></phrase>
+  <phrase title="xfes_english" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[İngilizce]]></phrase>
+  <phrase title="xfes_enhanced_search" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gelişmiş arama]]></phrase>
+  <phrase title="xfes_enhanced_search_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>Gelişmiş arama, XenForo içinde geliştirilmiş arama işlevselliği sağlamak için bir Elasticsearch sunucusu kullanır. Bu, alaka düzeyine göre sıralama, daha kısa kelimeler için aramalar, kök bulma ve özelleştirilebilir durak kelime desteği ve geliştirilmiş performansı içerir.</p>
+
+<p>Gelişmiş arama, Elasticsearch 2.0 veya daha yenisini gerektirir. Elasticsearch, web sunucunuzdan, PHP'den ve MySQL'den ayrı olarak kurulması gereken ayrı bir hizmettir. Elasticsearch kurulumu, sunucunuza root erişimine sahip olmanızı gerektirir. Elasticsearch kurulumuyla ilgili sorularınız için lütfen sunucu yöneticinizle görüşün.</p>]]></phrase>
+  <phrase title="xfes_enhanced_search_not_currently_enabled" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gelişmiş arama şu anda etkin değil. Aramalar bunu kullanmıyor.]]></phrase>
+  <phrase title="xfes_error_was_triggered_while_indexing_see_log" version_id="2000270" version_string="2.0.2"><![CDATA[İndeksleme sırasında bir hata tetiklendi. Ayrıntılar için <a href="{link}">XenForo hata günlüğüne</a> bakın.]]></phrase>
+  <phrase title="xfes_finnish" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Fince]]></phrase>
+  <phrase title="xfes_forums_excluded_from_similar_thread_suggestions" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Aşağıdaki forumlarda yazarken benzer konuları önerme]]></phrase>
+  <phrase title="xfes_french" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Fransızca]]></phrase>
+  <phrase title="xfes_galician" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Galiçyaca]]></phrase>
+  <phrase title="xfes_german" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Almanca]]></phrase>
+  <phrase title="xfes_greek" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Yunanca]]></phrase>
+  <phrase title="xfes_half_life" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yarı ömür]]></phrase>
+  <phrase title="xfes_hindi" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Hintçe]]></phrase>
+  <phrase title="xfes_hungarian" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Macarca]]></phrase>
+  <phrase title="xfes_if_disabled_similar_thread_suggestions_will_not_be_displayed_in_forum" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Devre dışı bırakılırsa, bu forumda yeni konu oluşturulurken benzer konu önerileri görüntülenmeyecektir.]]></phrase>
+  <phrase title="xfes_if_left_blank_this_will_default_to_your_mysql_database_name" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Boş bırakılırsa, varsayılan olarak MySQL veritabanı adınız kullanılır.]]></phrase>
+  <phrase title="xfes_index_already_exists_used_as_is" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu indeks zaten var. Olduğu gibi kullanılacak.]]></phrase>
+  <phrase title="xfes_index_configuration" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İndeks yapılandırması]]></phrase>
+  <phrase title="xfes_index_does_not_exist_yet" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu indeks henüz mevcut değil.]]></phrase>
+  <phrase title="xfes_index_name" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İndeks adı]]></phrase>
+  <phrase title="xfes_index_updates" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İndeks güncellemeleri]]></phrase>
+  <phrase title="xfes_indonesian" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Endonezce]]></phrase>
+  <phrase title="xfes_irish" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[İrlandaca]]></phrase>
+  <phrase title="xfes_italian" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[İtalyanca]]></phrase>
+  <phrase title="xfes_kurdish_sorani" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Kürtçe (Sorani)]]></phrase>
+  <phrase title="xfes_latvian" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Letonca]]></phrase>
+  <phrase title="xfes_lithuanian" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Litvanca]]></phrase>
+  <phrase title="xfes_maximum_results" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Maksimum sonuç]]></phrase>
+  <phrase title="xfes_norwegian" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Norveççe]]></phrase>
+  <phrase title="xfes_optimization_required" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Optimizasyon gerekli]]></phrase>
+  <phrase title="xfes_optimize" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Optimize et]]></phrase>
+  <phrase title="xfes_optimize_elasticsearch_index" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Elasticsearch indeksini optimize et]]></phrase>
+  <phrase title="xfes_optimize_now" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Şimdi optimize et]]></phrase>
+  <phrase title="xfes_optimizing_index_can_reduce_space_required" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İndeksi optimize etmek gereken alan miktarını azaltabilir ve performansı iyileştirebilir.]]></phrase>
+  <phrase title="xfes_path_to_custom_bundle" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Özel paket yolu]]></phrase>
+  <phrase title="xfes_persian" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Farsça]]></phrase>
+  <phrase title="xfes_portuguese" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Portekizce]]></phrase>
+  <phrase title="xfes_reconfigure" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yeniden yapılandır]]></phrase>
+  <phrase title="xfes_relevancy_recency_weighted_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Etkinleştirilirse, arama alaka algoritması yarı ömür değerine göre yeni sonuçlara doğru ağırlıklandırılır. Bugün gönderilen bir belge, yarı ömür kadar önce gönderilen aynı belgeye göre iki kat daha alakalı olacaktır.]]></phrase>
+  <phrase title="xfes_remove_accents_simplify_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Etkinleştirilirse, indekslemeden önce aksanlar kaldırılır ve diğer karmaşık karakter temsilleri daha basit olanlara dönüştürülür. Bu, bir kelimenin birden fazla aksan varyasyonunun (esta, está) eşleşmesine izin vererek arama sonuçlarını iyileştirebilir. Ancak yalnızca aksan farkıyla ayrılan kelimelerin beklenmedik şekilde eşleşmesine de neden olabilir.]]></phrase>
+  <phrase title="xfes_romanian" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Romence]]></phrase>
+  <phrase title="xfes_russian" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Rusça]]></phrase>
+  <phrase title="xfes_same_forum_boost_amount" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Aynı forum güçlendirme miktarı]]></phrase>
+  <phrase title="xfes_same_forum_boost_amount_explain" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bu, orijinal konuyla aynı forumdaki benzer konu sonuçlarının daha alakalı kabul edilmesini sağlar. Alaka puanları burada girilen değerle çarpılır. Bu güçlendirmeyi devre dışı bırakmak için 1 kullanın.]]></phrase>
+  <phrase title="xfes_search_could_not_be_completed_try_again_later" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Arama tamamlanamadı. Lütfen daha sonra tekrar deneyin.]]></phrase>
+  <phrase title="xfes_search_for_similar_threads_when_users_creating_new_threads" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcılar yeni konu oluştururken benzer konuları ara]]></phrase>
+  <phrase title="xfes_search_options" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Arama seçenekleri]]></phrase>
+  <phrase title="xfes_searches" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aramalar]]></phrase>
+  <phrase title="xfes_searches_will_now_use_elasticsearch_rebuild_index" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aramalar artık Elasticsearch sunucusunu kullanacak. Mevcut içeriği aranabilir hale getirmek için arama indeksini yeniden oluşturmanız gerekecek.]]></phrase>
+  <phrase title="xfes_similar_thread_date_limit_explain" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yalnızca belirtilen zaman aralığında oluşturulan benzer konuları görüntüle.]]></phrase>
+  <phrase title="xfes_similar_threads" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Benzer konular]]></phrase>
+  <phrase title="xfes_similar_threads_excluded_forums_explain" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bazı forumlarda konu oluştururken benzer konu önerilerinin görünmesi yararsız veya rahatsız edici olabilir. Bu kontrol, belirli forumların benzer konu öneri sisteminden vazgeçmesine olanak tanır.]]></phrase>
+  <phrase title="xfes_similar_threads_explain" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Etkinleştirilirse, kullanıcılar yeni konu oluştururken benzer konular için bir arama yapılır ve sonuçlar başlık girişinin altında görüntülenir.]]></phrase>
+  <phrase title="xfes_similar_threads_widget_explain" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Etkinleştirilirse, benzer konular widget'ı yapılandırılan tüm konumlarında görüntülenecektir.]]></phrase>
+  <phrase title="xfes_spanish" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[İspanyolca]]></phrase>
+  <phrase title="xfes_ssl_certificate_verification_disabled" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[SSL sertifika doğrulaması devre dışı.]]></phrase>
+  <phrase title="xfes_ssl_certificate_verification_enabled" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[SSL sertifika doğrulaması etkin.]]></phrase>
+  <phrase title="xfes_stats" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İstatistikler]]></phrase>
+  <phrase title="xfes_stop_words" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Durak kelimeler]]></phrase>
+  <phrase title="xfes_stop_words_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Durak kelimeler arama indeksine dahil edilmeyecek kelimelerdir. Bazı kelimelerin indekslenmemesi indeks alanı tasarrufu sağlayabilir ancak bazı aramaları zorlaştırabilir.]]></phrase>
+  <phrase title="xfes_suggest_heading_article" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bu konu daha önce işlendi mi?]]></phrase>
+  <phrase title="xfes_suggest_heading_discussion" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bu zaten tartışılıyor mu?]]></phrase>
+  <phrase title="xfes_suggest_heading_question" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bu soru daha önce soruldu mu?]]></phrase>
+  <phrase title="xfes_suggest_heading_suggestion" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bu daha önce önerildi mi?]]></phrase>
+  <phrase title="xfes_swedish" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[İsveççe]]></phrase>
+  <phrase title="xfes_test_settings" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ayarları test et]]></phrase>
+  <phrase title="xfes_thai" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Tayca]]></phrase>
+  <phrase title="xfes_toggle_enhanced_search" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gelişmiş aramayı aç/kapat]]></phrase>
+  <phrase title="xfes_turkish" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Türkçe]]></phrase>
+  <phrase title="xfes_use_custom_bundle_for_ssl_certificate_verification" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[SSL sertifika doğrulaması için özel paket kullan]]></phrase>
+  <phrase title="xfes_use_custom_list" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Özel liste kullan]]></phrase>
+  <phrase title="xfes_use_https_connection" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[HTTPS bağlantısı kullan]]></phrase>
+  <phrase title="xfes_use_language_defaults" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dil varsayılanlarını kullan]]></phrase>
+  <phrase title="xfes_version" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sürüm]]></phrase>
+  <phrase title="xfes_will_save_disk_space_but_index_rebuild_required_mysql" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu disk alanından tasarruf sağlar, ancak MySQL aramalarına dönerseniz tam bir arama indeksi yeniden oluşturma gerekecektir.]]></phrase>
+  <phrase title="xfes_word_stemming" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kelime kök bulma]]></phrase>
+  <phrase title="xfes_word_stemming_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kelime kök bulma, bir kelimenin birden çok biçiminin eşleşmesine izin vererek aramayı iyileştirebilir. Örneğin, "test" araması "testler", "testleme", "test edilen" vb. ile eşit şekilde eşleşir.]]></phrase>
+  <phrase title="xfes_x_milliseconds_average" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ortalama {time} milisaniye]]></phrase>
+  <phrase title="xfes_you_sure_want_to_optimize_elasticsearch_delete_create" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Elasticsearch indeksinizi optimize etmek istediğinizden emin misiniz? Bu, mevcut indeksi siler ve yerine yeni bir tane oluşturur.]]></phrase>
+  <phrase title="xfes_you_sure_you_want_to_disable_enhanced_search" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gelişmiş aramayı devre dışı bırakmak istediğinizden emin misiniz?]]></phrase>
+  <phrase title="xfes_you_sure_you_want_to_enable_enhanced_search" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gelişmiş aramayı etkinleştirmek istediğinizden emin misiniz?]]></phrase>
+</phrases>

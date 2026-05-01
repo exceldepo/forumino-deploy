@@ -95,6 +95,67 @@
 
 <xf:submitrow icon="save" sticky="true" />]]></replace>
   </modification>
+  <modification type="public" template="xfrm_category_add_resource" modification_key="selamt_xfrmseo_add_form" description="XFRM resource ADD form'una SEO alanları + featured image + display_image toggle ekler" execution_order="0" enabled="1" action="str_replace">
+    <find><![CDATA[<xf:submitrow icon="save" sticky="true" />]]></find>
+    <replace><![CDATA[<hr class="formRowSep" />
+
+<xf:formrow rowtype="fullWidth" label="{{ phrase('selamt_xfrmseo_seo_settings') }}">&nbsp;</xf:formrow>
+
+<xf:textboxrow name="selamt_xfrmseo[meta_title]"
+	value=""
+	maxlength="200"
+	label="{{ phrase('selamt_xfrmseo_meta_title') }}"
+	explain="{{ phrase('selamt_xfrmseo_meta_title_explain') }}" />
+
+<xf:textarearow name="selamt_xfrmseo[meta_description]"
+	value=""
+	maxlength="500"
+	rows="3"
+	label="{{ phrase('selamt_xfrmseo_meta_description') }}"
+	explain="{{ phrase('selamt_xfrmseo_meta_description_explain') }}" />
+
+<xf:textboxrow name="selamt_xfrmseo[focus_keyword]"
+	value=""
+	maxlength="100"
+	label="{{ phrase('selamt_xfrmseo_focus_keyword') }}"
+	explain="{{ phrase('selamt_xfrmseo_focus_keyword_explain') }}" />
+
+<xf:selectrow name="selamt_xfrmseo[og_type]"
+	value=""
+	label="{{ phrase('selamt_xfrmseo_og_type') }}"
+	explain="{{ phrase('selamt_xfrmseo_og_type_explain') }}">
+	<xf:option value="">{{ phrase('selamt_xfrmseo_og_type_inherit_category') }}</xf:option>
+	<xf:option value="website">{{ phrase('selamt_xfrmseo_og_type_website') }}</xf:option>
+	<xf:option value="article">{{ phrase('selamt_xfrmseo_og_type_article') }}</xf:option>
+	<xf:option value="product">{{ phrase('selamt_xfrmseo_og_type_product') }}</xf:option>
+</xf:selectrow>
+
+<xf:formrow rowclass="noColon"
+	label="{{ phrase('selamt_xfrmseo_featured_image') }}"
+	explain="{{ phrase('selamt_xfrmseo_featured_image_explain') }} {{ phrase('selamt_xfrmseo_featured_image_size_hint') }}">
+	<div class="contentRow">
+		<div class="contentRow-figure">
+			<span class="avatar avatar--m avatar--default">
+				<i class="fa--xf far fa-image"></i>
+			</span>
+		</div>
+		<div class="contentRow-main">
+			<xf:set var="$uploadId" value="{{ unique_id() }}" />
+			<label for="{$uploadId}">{{ phrase('selamt_xfrmseo_featured_image_upload:') }}</label>
+			<xf:upload name="selamt_xfrmseo_featured_image" accept=".jpg,.jpeg,.png,.webp" id="{$uploadId}" />
+			<xf:hiddenval name="selamt_xfrmseo[image_action]">custom</xf:hiddenval>
+		</div>
+	</div>
+</xf:formrow>
+
+<xf:checkboxrow name="selamt_xfrmseo[display_image]" value="1"
+	label="{{ phrase('selamt_xfrmseo_display_image') }}"
+	explain="{{ phrase('selamt_xfrmseo_display_image_explain') }}">
+	<xf:option value="1" />
+</xf:checkboxrow>
+
+<xf:submitrow icon="save" sticky="true" />]]></replace>
+  </modification>
   <modification type="public" template="xfrm_resource_list_macros" modification_key="selamt_xfrmseo_list_card_thumbnail" description="Resource listings card icon'unu featured image ile override (varsa, display_image=1)" execution_order="10" enabled="1" action="str_replace">
     <find><![CDATA[{{ resource_icon($resource, 's', link('resources', $resource)) }}]]></find>
     <replace><![CDATA[<xf:if is="$resource.SeoMeta && $resource.SeoMeta.display_image && $resource.SeoMeta.FeaturedImage">
