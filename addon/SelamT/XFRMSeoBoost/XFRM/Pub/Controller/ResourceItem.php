@@ -48,7 +48,6 @@ class ResourceItem extends XFCP_ResourceItem
 			'meta_description' => 'str',
 			'focus_keyword'    => 'str',
 			'canonical_url'    => 'str',
-			'og_type'          => 'str',
 			'image_action'     => 'str',
 			'display_image'    => 'bool',
 		]);

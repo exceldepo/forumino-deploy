@@ -70,13 +70,6 @@ class Saver extends AbstractService
 		return $this;
 	}
 
-	public function setOgType(string $value): self
-	{
-		$allowed = ['', 'website', 'article', 'product', 'video.other', 'music.song'];
-		$this->meta->og_type = in_array($value, $allowed, true) ? $value : '';
-		return $this;
-	}
-
 	public function setDisplayImage(bool $value): self
 	{
 		$this->meta->display_image = $value;
@@ -89,7 +82,6 @@ class Saver extends AbstractService
 		if (array_key_exists('meta_description', $input)) { $this->setMetaDescription((string) $input['meta_description']); }
 		if (array_key_exists('focus_keyword', $input))    { $this->setFocusKeyword((string) $input['focus_keyword']); }
 		if (array_key_exists('canonical_url', $input))    { $this->setCanonicalUrl((string) $input['canonical_url']); }
-		if (array_key_exists('og_type', $input))          { $this->setOgType((string) $input['og_type']); }
 		if (array_key_exists('display_image', $input))    { $this->setDisplayImage((bool) $input['display_image']); }
 		return $this;
 	}
@@ -121,7 +113,6 @@ class Saver extends AbstractService
 			&& $this->meta->meta_description === ''
 			&& $this->meta->focus_keyword === ''
 			&& $this->meta->canonical_url === ''
-			&& $this->meta->og_type === ''
 			&& (int) $this->meta->image_id === 0
 			&& (bool) $this->meta->display_image === true; // varsayılan değer = boş kabul et
 	}

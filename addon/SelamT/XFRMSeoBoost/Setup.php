@@ -28,7 +28,6 @@ class Setup extends AbstractSetup
 			$table->addColumn('meta_description', 'varchar', 500)->setDefault('');
 			$table->addColumn('focus_keyword', 'varchar', 100)->setDefault('');
 			$table->addColumn('canonical_url', 'varchar', 500)->setDefault('');
-			$table->addColumn('og_type', 'varchar', 50)->setDefault('');
 			$table->addColumn('image_id', 'int')->setDefault(0);
 			$table->addColumn('display_image', 'tinyint')->setDefault(1);
 			$table->addKey('image_id');
@@ -51,22 +50,12 @@ class Setup extends AbstractSetup
 		});
 	}
 
-	public function installStep3(): void
-	{
-		$this->schemaManager()->createTable('xf_st_xfrmseo_category', function (Create $table)
-		{
-			$table->addColumn('resource_category_id', 'int')->primaryKey();
-			$table->addColumn('default_og_type', 'varchar', 50)->setDefault('');
-		});
-	}
-
 	// =============================================================
 	// UPGRADE — 1.0.0 → 1.1.0 schema migrasyonu
 	// =============================================================
 
 	public function upgrade1010070Step1(): void
 	{
-		// xf_st_xfrmseo_meta'ya display_image kolonu ekle (varsa atla).
 		$this->schemaManager()->alterTable('xf_st_xfrmseo_meta', function (Alter $table)
 		{
 			if (!$table->getColumnDefinition('display_image'))
@@ -78,7 +67,6 @@ class Setup extends AbstractSetup
 
 	public function upgrade1010070Step2(): void
 	{
-		// Yeni tablo: kategori bazında SEO ayarları
 		if (!$this->tableExists('xf_st_xfrmseo_category'))
 		{
 			$this->schemaManager()->createTable('xf_st_xfrmseo_category', function (Create $table)
@@ -86,6 +74,32 @@ class Setup extends AbstractSetup
 				$table->addColumn('resource_category_id', 'int')->primaryKey();
 				$table->addColumn('default_og_type', 'varchar', 50)->setDefault('');
 			});
+		}
+	}
+
+	// =============================================================
+	// UPGRADE — 1.1.0 → 1.2.0 (manuel og_type override KALDIRILDI;
+	// autoDetectOgType resource_type+price+rating üzerinden seçer)
+	// =============================================================
+
+	public function upgrade1020070Step1(): void
+	{
+		// xf_st_xfrmseo_meta.og_type kolonu kaldırılıyor — artık autoDetect kullanılıyor.
+		$this->schemaManager()->alterTable('xf_st_xfrmseo_meta', function (Alter $table)
+		{
+			if ($table->getColumnDefinition('og_type'))
+			{
+				$table->dropColumns(['og_type']);
+			}
+		});
+	}
+
+	public function upgrade1020070Step2(): void
+	{
+		// xf_st_xfrmseo_category tablosu komple kaldırılıyor (default_og_type artık yok).
+		if ($this->tableExists('xf_st_xfrmseo_category'))
+		{
+			$this->schemaManager()->dropTable('xf_st_xfrmseo_category');
 		}
 	}
 
@@ -98,11 +112,14 @@ class Setup extends AbstractSetup
 		$tables = [
 			'xf_st_xfrmseo_meta',
 			'xf_st_xfrmseo_image',
-			'xf_st_xfrmseo_category',
+			'xf_st_xfrmseo_category', // 1.2.0 öncesinden kalmış olabilir
 		];
 		foreach ($tables as $table)
 		{
-			$this->schemaManager()->dropTable($table);
+			if ($this->tableExists($table))
+			{
+				$this->schemaManager()->dropTable($table);
+			}
 		}
 	}
 

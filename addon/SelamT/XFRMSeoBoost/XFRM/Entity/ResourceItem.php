@@ -97,38 +97,15 @@ class ResourceItem extends XFCP_ResourceItem
 	}
 
 	/**
-	 * Efektif og_type seçimi:
-	 *   1. Resource SeoMeta.og_type override (kullanıcı manuel seçti)
-	 *   2. Category SeoSettings.default_og_type
-	 *   3. Otomatik tespit (resource_type + price'a göre)
+	 * Otomatik og_type tespiti — resource_type, price ve rating'e göre:
+	 *   - fileless (dosyasız makale)                                     → article
+	 *   - external_purchase / price > 0 / rating_count > 0               → product
+	 *   - ücretsiz indirilebilir, oylanmamış                              → website (CreativeWork kalır)
+	 *
+	 * Manuel override yok — autoDetect içerik bilgisinden doğru değeri seçer.
+	 * (v1.2.0'da SeoMeta.og_type kolonu ve Category.default_og_type tablosu kaldırıldı.)
 	 */
 	public function getEffectiveOgType(): string
-	{
-		// 1. Resource manual override
-		$seoMeta = $this->SeoMeta;
-		if ($seoMeta && $seoMeta->og_type !== '')
-		{
-			return $seoMeta->og_type;
-		}
-
-		// 2. Category default
-		$category = $this->Category;
-		if ($category && $category->SeoSettings && $category->SeoSettings->default_og_type !== '')
-		{
-			return $category->SeoSettings->default_og_type;
-		}
-
-		// 3. Otomatik
-		return $this->autoDetectOgType();
-	}
-
-	/**
-	 * Otomatik og_type tespiti — resource_type ve price'a göre:
-	 *   - fileless (dosyasız makale)        → article
-	 *   - external_purchase / price > 0     → product
-	 *   - download (ücretsiz)                → website (default — CreativeWork kalır)
-	 */
-	protected function autoDetectOgType(): string
 	{
 		$type = (string) $this->resource_type;
 

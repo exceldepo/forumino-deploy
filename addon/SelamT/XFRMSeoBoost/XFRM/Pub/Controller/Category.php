@@ -70,14 +70,13 @@ class Category extends XFCP_Category
 			'meta_description' => 'str',
 			'focus_keyword'    => 'str',
 			'canonical_url'    => 'str',
-			'og_type'          => 'str',
 			'image_action'     => 'str',
 			'display_image'    => 'bool',
 		]);
 
 		// Hiç input yoksa atla (add formunda alanlar boş bırakılmış olabilir)
 		$hasAnyInput = false;
-		foreach (['meta_title', 'meta_description', 'focus_keyword', 'og_type'] AS $f)
+		foreach (['meta_title', 'meta_description', 'focus_keyword'] AS $f)
 		{
 			if (!empty($input[$f]))
 			{

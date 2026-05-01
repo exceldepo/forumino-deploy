@@ -18,17 +18,8 @@
   <phrase title="selamt_xfrmseo_focus_keyword_explain" version_id="1000070" version_string="1.0.0"><![CDATA[Bu kaynağın sıralanmasını istediğin birincil anahtar kelime. Sadece rehberlik için; HTML'e basılmaz. Meta alanlarını yazarken odaklanmana yardımcı olur.]]></phrase>
   <phrase title="selamt_xfrmseo_canonical_url" version_id="1000070" version_string="1.0.0"><![CDATA[Canonical URL]]></phrase>
   <phrase title="selamt_xfrmseo_canonical_url_explain" version_id="1000070" version_string="1.0.0"><![CDATA[<code>&lt;link rel="canonical"&gt;</code> URL'sini özelleştir. Boş bırakırsan kaynak URL'si otomatik kullanılır. Sadece aynı içerik bilinçli olarak birden fazla URL'de varsa kullan.]]></phrase>
-  <phrase title="selamt_xfrmseo_og_type" version_id="1000070" version_string="1.0.0"><![CDATA[Open Graph tipi]]></phrase>
-  <phrase title="selamt_xfrmseo_og_type_explain" version_id="1000070" version_string="1.0.0"><![CDATA[<code>og:type</code> meta etiketini özelleştir. Ücretli indirilebilir içerik için <i>product</i>, makale tipi içerik için <i>article</i>, normal sayfalar için varsayılan <i>website</i> kullan.]]></phrase>
-  <phrase title="selamt_xfrmseo_og_type_default" version_id="1000070" version_string="1.0.0"><![CDATA[(varsayılan: website)]]></phrase>
-  <phrase title="selamt_xfrmseo_og_type_inherit_category" version_id="1010070" version_string="1.1.0"><![CDATA[(kategoriden devral)]]></phrase>
   <phrase title="selamt_xfrmseo_display_image" version_id="1010070" version_string="1.1.0"><![CDATA[Öne çıkan görseli sayfada göster]]></phrase>
   <phrase title="selamt_xfrmseo_display_image_explain" version_id="1010070" version_string="1.1.0"><![CDATA[İşaretlenirse, öne çıkan görsel kaynak sayfasında (hero banner olarak) gösterilir. Sosyal medya paylaşımı için <code>og:image</code> meta etiketi bu ayardan bağımsız olarak her zaman gönderilir.]]></phrase>
-  <phrase title="selamt_xfrmseo_category_default_og_type" version_id="1010070" version_string="1.1.0"><![CDATA[Varsayılan Open Graph tipi]]></phrase>
-  <phrase title="selamt_xfrmseo_category_default_og_type_explain" version_id="1010070" version_string="1.1.0"><![CDATA[Bu kategorideki tüm kaynaklara varsayılan olarak uygulanan <code>og:type</code>. Bireysel kaynaklar düzenleme sayfasından bunu geçersiz kılabilir. Örneğin: ücretli indirme içeren bir kategori için <i>product</i> seç.]]></phrase>
-  <phrase title="selamt_xfrmseo_og_type_website" version_id="1000070" version_string="1.0.0"><![CDATA[website]]></phrase>
-  <phrase title="selamt_xfrmseo_og_type_article" version_id="1000070" version_string="1.0.0"><![CDATA[article]]></phrase>
-  <phrase title="selamt_xfrmseo_og_type_product" version_id="1000070" version_string="1.0.0"><![CDATA[product]]></phrase>
   <phrase title="selamt_xfrmseo_featured_image" version_id="1000070" version_string="1.0.0"><![CDATA[Öne çıkan görsel]]></phrase>
   <phrase title="selamt_xfrmseo_featured_image_explain" version_id="1000070" version_string="1.0.0"><![CDATA[<code>og:image</code> olarak kullanılacak ve listelerdeki kaynak kartında gösterilecek bir öne çıkan görsel yükle. Önerilen boyut: 1200x630px (Open Graph standardı). Maks 5 MB.]]></phrase>
   <phrase title="selamt_xfrmseo_featured_image_remove" version_id="1000070" version_string="1.0.0"><![CDATA[Mevcut görseli kaldır]]></phrase>

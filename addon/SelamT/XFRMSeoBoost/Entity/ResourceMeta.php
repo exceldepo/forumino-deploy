@@ -12,7 +12,6 @@ use XF\Mvc\Entity\Structure;
  * @property string $meta_description
  * @property string $focus_keyword
  * @property string $canonical_url
- * @property string $og_type
  * @property int $image_id
  * @property bool $display_image
  *
@@ -34,9 +33,6 @@ class ResourceMeta extends Entity
 			'meta_description' => ['type' => self::STR, 'maxLength' => 500, 'default' => ''],
 			'focus_keyword'    => ['type' => self::STR, 'maxLength' => 100, 'default' => ''],
 			'canonical_url'    => ['type' => self::STR, 'maxLength' => 500, 'default' => ''],
-			'og_type'          => ['type' => self::STR, 'maxLength' => 50, 'default' => '',
-				'allowedValues' => ['', 'website', 'article', 'product', 'video.other', 'music.song'],
-			],
 			'image_id'         => ['type' => self::UINT, 'default' => 0],
 			'display_image'    => ['type' => self::BOOL, 'default' => true],
 		];

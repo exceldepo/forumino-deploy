@@ -10,8 +10,6 @@
   <phrase title="option_group_description.xfrmseoboost" version_id="1010070" version_string="1.1.0"><![CDATA[Settings for the XFRM SEO Boost add-on (featured images, og:type defaults, JSON-LD output).]]></phrase>
   <phrase title="selamt_xfrmseo_canonical_url" version_id="1000070" version_string="1.0.0"><![CDATA[Canonical URL]]></phrase>
   <phrase title="selamt_xfrmseo_canonical_url_explain" version_id="1000070" version_string="1.0.0"><![CDATA[Override the <code>&lt;link rel="canonical"&gt;</code> URL. Leave blank to use the resource URL automatically. Use this only if the same content is intentionally available at multiple URLs.]]></phrase>
-  <phrase title="selamt_xfrmseo_category_default_og_type" version_id="1010070" version_string="1.1.0"><![CDATA[Default Open Graph type]]></phrase>
-  <phrase title="selamt_xfrmseo_category_default_og_type_explain" version_id="1010070" version_string="1.1.0"><![CDATA[The <code>og:type</code> applied to all resources in this category by default. Individual resources can override this on their edit page. For example: choose <i>product</i> for a category that contains paid downloads.]]></phrase>
   <phrase title="selamt_xfrmseo_display_image" version_id="1010070" version_string="1.1.0"><![CDATA[Display featured image on page]]></phrase>
   <phrase title="selamt_xfrmseo_display_image_explain" version_id="1010070" version_string="1.1.0"><![CDATA[If checked, the featured image is shown on the resource page (as a hero banner). The <code>og:image</code> meta tag for social sharing is always sent regardless of this setting.]]></phrase>
   <phrase title="selamt_xfrmseo_error_image_invalid_type" version_id="1000070" version_string="1.0.0"><![CDATA[The featured image must be a JPG, PNG, or WebP file.]]></phrase>
@@ -30,13 +28,6 @@
   <phrase title="selamt_xfrmseo_meta_description_explain" version_id="1000070" version_string="1.0.0"><![CDATA[Override the auto-generated description used in <code>&lt;meta name="description"&gt;</code> and <code>og:description</code>. Leave blank to use a snippet of the resource description. Recommended length: 150-160 characters.]]></phrase>
   <phrase title="selamt_xfrmseo_meta_title" version_id="1000070" version_string="1.0.0"><![CDATA[Meta title]]></phrase>
   <phrase title="selamt_xfrmseo_meta_title_explain" version_id="1000070" version_string="1.0.0"><![CDATA[Override the page title shown to search engines and in social previews. Leave blank to use the resource title automatically. Recommended length: 50-60 characters.]]></phrase>
-  <phrase title="selamt_xfrmseo_og_type" version_id="1000070" version_string="1.0.0"><![CDATA[Open Graph type]]></phrase>
-  <phrase title="selamt_xfrmseo_og_type_article" version_id="1000070" version_string="1.0.0"><![CDATA[article]]></phrase>
-  <phrase title="selamt_xfrmseo_og_type_default" version_id="1000070" version_string="1.0.0"><![CDATA[(default: website)]]></phrase>
-  <phrase title="selamt_xfrmseo_og_type_explain" version_id="1000070" version_string="1.0.0"><![CDATA[Override the <code>og:type</code> meta tag. Use <i>product</i> for paid downloads, <i>article</i> for written content, or leave as default for the standard <i>website</i>.]]></phrase>
-  <phrase title="selamt_xfrmseo_og_type_inherit_category" version_id="1010070" version_string="1.1.0"><![CDATA[(inherit from category)]]></phrase>
-  <phrase title="selamt_xfrmseo_og_type_product" version_id="1000070" version_string="1.0.0"><![CDATA[product]]></phrase>
-  <phrase title="selamt_xfrmseo_og_type_website" version_id="1000070" version_string="1.0.0"><![CDATA[website]]></phrase>
   <phrase title="selamt_xfrmseo_seo" version_id="1000070" version_string="1.0.0"><![CDATA[SEO]]></phrase>
   <phrase title="selamt_xfrmseo_seo_settings" version_id="1000070" version_string="1.0.0"><![CDATA[SEO settings]]></phrase>
 </phrases>

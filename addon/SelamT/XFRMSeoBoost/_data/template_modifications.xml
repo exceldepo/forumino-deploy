@@ -1,23 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <template_modifications>
-  <modification type="admin" template="xfrm_category_edit" modification_key="selamt_xfrmseo_admin_category_default_og_type" description="Kategori admin formuna 'Default Open Graph type' alanı ekler" execution_order="0" enabled="1" action="str_replace">
-    <find><![CDATA[<xf:submitrow icon="save" sticky="true" />]]></find>
-    <replace><![CDATA[<hr class="formRowSep" />
-
-<xf:formrow rowtype="fullWidth" label="{{ phrase('selamt_xfrmseo_seo_settings') }}">&nbsp;</xf:formrow>
-
-<xf:selectrow name="selamt_xfrmseo_category[default_og_type]"
-	value="{{ $seoSettings ? $seoSettings.default_og_type : '' }}"
-	label="{{ phrase('selamt_xfrmseo_category_default_og_type') }}"
-	explain="{{ phrase('selamt_xfrmseo_category_default_og_type_explain') }}">
-	<xf:option value="">{{ phrase('selamt_xfrmseo_og_type_default') }}</xf:option>
-	<xf:option value="website">{{ phrase('selamt_xfrmseo_og_type_website') }}</xf:option>
-	<xf:option value="article">{{ phrase('selamt_xfrmseo_og_type_article') }}</xf:option>
-	<xf:option value="product">{{ phrase('selamt_xfrmseo_og_type_product') }}</xf:option>
-</xf:selectrow>
-
-<xf:submitrow icon="save" sticky="true" />]]></replace>
-  </modification>
   <modification type="public" template="xfrm_resource_edit" modification_key="selamt_xfrmseo_edit_form" description="XFRM resource edit form'una SEO alanları + featured image + display_image toggle ekler" execution_order="0" enabled="1" action="str_replace">
     <find><![CDATA[<xf:submitrow icon="save" sticky="true" />]]></find>
     <replace><![CDATA[<hr class="formRowSep" />
@@ -42,16 +24,6 @@
 	maxlength="100"
 	label="{{ phrase('selamt_xfrmseo_focus_keyword') }}"
 	explain="{{ phrase('selamt_xfrmseo_focus_keyword_explain') }}" />
-
-<xf:selectrow name="selamt_xfrmseo[og_type]"
-	value="{{ $seoMeta ? $seoMeta.og_type : '' }}"
-	label="{{ phrase('selamt_xfrmseo_og_type') }}"
-	explain="{{ phrase('selamt_xfrmseo_og_type_explain') }}">
-	<xf:option value="">{{ phrase('selamt_xfrmseo_og_type_inherit_category') }}</xf:option>
-	<xf:option value="website">{{ phrase('selamt_xfrmseo_og_type_website') }}</xf:option>
-	<xf:option value="article">{{ phrase('selamt_xfrmseo_og_type_article') }}</xf:option>
-	<xf:option value="product">{{ phrase('selamt_xfrmseo_og_type_product') }}</xf:option>
-</xf:selectrow>
 
 <xf:formrow rowclass="noColon"
 	label="{{ phrase('selamt_xfrmseo_featured_image') }}"
@@ -119,16 +91,6 @@
 	maxlength="100"
 	label="{{ phrase('selamt_xfrmseo_focus_keyword') }}"
 	explain="{{ phrase('selamt_xfrmseo_focus_keyword_explain') }}" />
-
-<xf:selectrow name="selamt_xfrmseo[og_type]"
-	value=""
-	label="{{ phrase('selamt_xfrmseo_og_type') }}"
-	explain="{{ phrase('selamt_xfrmseo_og_type_explain') }}">
-	<xf:option value="">{{ phrase('selamt_xfrmseo_og_type_inherit_category') }}</xf:option>
-	<xf:option value="website">{{ phrase('selamt_xfrmseo_og_type_website') }}</xf:option>
-	<xf:option value="article">{{ phrase('selamt_xfrmseo_og_type_article') }}</xf:option>
-	<xf:option value="product">{{ phrase('selamt_xfrmseo_og_type_product') }}</xf:option>
-</xf:selectrow>
 
 <xf:formrow rowclass="noColon"
 	label="{{ phrase('selamt_xfrmseo_featured_image') }}">
