@@ -88,23 +88,11 @@ class Saver extends AbstractService
 
 	public function save(): ResourceMeta
 	{
-		// Tüm alanlar boşsa kayıt tutmayalım, varsa sil.
-		if ($this->isAllEmpty())
+		// Yeni entity + tüm alanlar boşsa: gereksiz kayıt yapmayalım.
+		// (Mevcut entity her durumda save edilir; alanlar boş olsa bile entity korunur,
+		//  çünkü display_image=1, image_id, focus_keyword vs. partial update'leri olabilir.)
+		if ($this->isAllEmpty() && !$this->meta->exists())
 		{
-			if ($this->meta->exists())
-			{
-				// Pending değişiklikleri bypass et: DB'den fresh entity al, onu sil.
-				// Aksi halde "Cannot delete an entity that has been partially updated"
-				// LogicException atılır (setFromInput pending state oluşturmuş olabilir).
-				$fresh = $this->em()->find(
-					'SelamT\XFRMSeoBoost:ResourceMeta',
-					$this->meta->resource_id
-				);
-				if ($fresh instanceof ResourceMeta)
-				{
-					$fresh->delete();
-				}
-			}
 			return $this->meta;
 		}
 
