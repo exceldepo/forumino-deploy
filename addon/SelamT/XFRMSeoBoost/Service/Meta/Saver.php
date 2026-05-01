@@ -17,7 +17,16 @@ class Saver extends AbstractService
 		parent::__construct($app);
 		$this->resource = $resource;
 
+		// Önce Resource entity'sinin SeoMeta relation'ından dene (cache'de varsa hızlı).
 		$existing = $resource->SeoMeta;
+
+		// Cache stale olabilir (yeni save sonrası); DB'den explicit fetch yap.
+		if (!($existing instanceof ResourceMeta))
+		{
+			/** @var ResourceMeta|null $existing */
+			$existing = $this->em()->find('SelamT\XFRMSeoBoost:ResourceMeta', $resource->resource_id);
+		}
+
 		if ($existing instanceof ResourceMeta)
 		{
 			$this->meta = $existing;
