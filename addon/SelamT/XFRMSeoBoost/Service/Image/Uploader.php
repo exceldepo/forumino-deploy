@@ -165,11 +165,22 @@ class Uploader extends AbstractService
 
 	protected function getOrCreateMeta(): ResourceMeta
 	{
+		// Önce relation cache'inden dene
 		$meta = $this->resource->SeoMeta;
+
+		// Cache stale olabilir (Saver yeni oluşturduktan hemen sonra) — DB'den explicit fetch
+		if (!($meta instanceof ResourceMeta))
+		{
+			/** @var ResourceMeta|null $meta */
+			$meta = $this->em()->find('SelamT\XFRMSeoBoost:ResourceMeta', $this->resource->resource_id);
+		}
+
 		if ($meta instanceof ResourceMeta)
 		{
 			return $meta;
 		}
+
+		// Gerçekten yok → yeni create
 		/** @var ResourceMeta $meta */
 		$meta = $this->em()->create('SelamT\XFRMSeoBoost:ResourceMeta');
 		$meta->resource_id = $this->resource->resource_id;
