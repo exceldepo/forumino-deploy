@@ -40,8 +40,10 @@ class Category extends XFCP_Category
 			return null;
 		}
 
+		// Sadece path kısmını al (query string varsa hariç tut), sonra resource_id'yi yakala.
+		$path = parse_url($url, PHP_URL_PATH) ?: '';
 		// /resources/<title>.<id>/ veya /resources/<id>/ pattern
-		if (!preg_match('#/resources/(?:[a-z0-9-]+\.)?(\d+)/?(?:[?#].*)?$#i', $url, $m))
+		if (!preg_match('~/resources/(?:[^/]*\.)?(\d+)/?$~', $path, $m))
 		{
 			return null;
 		}
