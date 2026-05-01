@@ -170,7 +170,7 @@
     <replace><![CDATA[<xf:css src="public_selamt_xfrmseo.less" />
 <article class="resourceBody-main js-lbContainer">
 <xf:if is="$resource.SeoMeta && $resource.SeoMeta.display_image && $resource.SeoMeta.FeaturedImage">
-	<div class="block-row block-row--separated selamt_xfrmseo-heroImage">
+	<div class="selamt_xfrmseo-heroImage">
 		<img src="{{ $resource.SeoMeta.FeaturedImage.getDataUrl() }}"
 			alt="{$resource.title|for_attr}"
 			loading="lazy" />
