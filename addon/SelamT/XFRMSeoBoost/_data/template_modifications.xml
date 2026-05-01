@@ -165,7 +165,7 @@
 	arg-shareUrl="{{ link('canonical:resources', $resource) }}"
 	arg-canonicalUrl="{{ link('canonical:resources', $resource) }}"
 	arg-imageUrl="{{ $resource.SeoMeta.FeaturedImage ? $resource.SeoMeta.FeaturedImage.getDataUrl() : '' }}"
-	arg-type="{$resource.getEffectiveOgType()}"
+	arg-type="{{ $resource.getEffectiveOgType() }}"
 	arg-twitterCard="{{ $resource.SeoMeta.FeaturedImage ? 'summary_large_image' : 'summary' }}" />]]></replace>
   </modification>
   <modification type="public" template="xfrm_resource_view" modification_key="selamt_xfrmseo_view_title_override" description="HTML title ve og:title override (meta_title varsa)" execution_order="0" enabled="1" action="str_replace">

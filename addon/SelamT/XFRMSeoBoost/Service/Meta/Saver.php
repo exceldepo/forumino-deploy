@@ -93,7 +93,17 @@ class Saver extends AbstractService
 		{
 			if ($this->meta->exists())
 			{
-				$this->meta->delete();
+				// Pending değişiklikleri bypass et: DB'den fresh entity al, onu sil.
+				// Aksi halde "Cannot delete an entity that has been partially updated"
+				// LogicException atılır (setFromInput pending state oluşturmuş olabilir).
+				$fresh = $this->em()->find(
+					'SelamT\XFRMSeoBoost:ResourceMeta',
+					$this->meta->resource_id
+				);
+				if ($fresh instanceof ResourceMeta)
+				{
+					$fresh->delete();
+				}
 			}
 			return $this->meta;
 		}
