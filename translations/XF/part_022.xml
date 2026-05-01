@@ -1,0 +1,200 @@
+  <phrase title="outbound_email_test_body" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[<div>{username} kullanıcısından {board} adresinde bu test e-postasını alıyorsunuz.</div>]]></phrase>
+  <phrase title="outbound_email_test_subject" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[{board} adresinden giden e-posta testi]]></phrase>
+  <phrase title="outdated_phrases" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Güncel olmayan ifadeler]]></phrase>
+  <phrase title="outdated_templates" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Güncel olmayan şablonlar]]></phrase>
+  <phrase title="outdated_templates_desc" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[Özelleştirilmiş şablonlar, son güncellemeleri tabanlı oldukları şablonun son güncellemesinden öncesinde kalırlarsa güncel olmaz, çünkü en son değişiklikleri içeremezler. Bu şablonlar, en son özelliklerin ve hata düzeltmelerinin beklendiği gibi çalışmasını sağlamak için güncellenmelidir. Üçüncü taraf bir stil kullanıyorsanız, şablonlarınızı güncellemek için yeni bir sürüm yükleyebilirsiniz.]]></phrase>
+  <phrase title="outdent" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Girintiyi azalt]]></phrase>
+  <phrase title="output" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Çıktı]]></phrase>
+  <phrase title="override_articles_per_page" version_id="2020370" version_string="2.2.3"><![CDATA[Sayfa başına makaleleri geçersiz kıl]]></phrase>
+  <phrase title="override_articles_per_page_explain" version_id="2020370" version_string="2.2.3"><![CDATA[Bu, bu forum görüntülenirken sayfa başına gösterilen makale sayısını geçersiz kılmanıza olanak tanır. Standart miktarı görüntülemek için 0 kullanın.]]></phrase>
+  <phrase title="override_user_style_choice" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Kullanıcı stil seçimini geçersiz kıl]]></phrase>
+  <phrase title="overview" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Genel bakış]]></phrase>
+  <phrase title="overwrite_language" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Dilin üzerine yaz]]></phrase>
+  <phrase title="overwrite_language_id_explain" version_id="2001070" version_string="2.0.10"><![CDATA[Dilin üzerine yazmak yalnızca dildeki ifadeleri değiştirecektir. Diğer tüm dil özellikleri aynı kalacaktır.]]></phrase>
+  <phrase title="overwrite_style" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Stilin üzerine yaz]]></phrase>
+  <phrase title="padding" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dolgu]]></phrase>
+  <phrase title="page" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sayfa]]></phrase>
+  <phrase title="page_callback_explanation_html" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sayfanız için daha fazla veri almak veya kontrolör yanıtını değiştirmek için isteğe bağlı olarak burada bir PHP geri çağırması belirtebilirsiniz.<br />
+<br />
+Geri çağırma argümanları:
+<ol>
+	<li><code>\XF\Pub\Controller\AbstractController $controller</code><br />Kontrolör örneği. Bundan istek, yanıt vb. inceleyebilirsiniz.</li>
+	<li><code>\XF\Mvc\Reply\AbstractReply &$reply</code><br />Sayfa kontrolörünün standart yanıtı.</li>
+</ol>]]></phrase>
+  <phrase title="page_content" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sayfa içeriği]]></phrase>
+  <phrase title="page_could_not_be_loaded" version_id="2020470" version_string="2.2.4"><![CDATA[Sayfa yüklenemedi]]></phrase>
+  <phrase title="page_could_not_be_loaded_explain" version_id="2020470" version_string="2.2.4"><![CDATA[İstenen sayfa yüklenemedi.
+
+<ul>
+	<li>İnternet bağlantınızı kontrol edin ve tekrar deneyin.</li>
+	<li>Reklam engelleyiciler gibi belirli tarayıcı uzantıları sayfaları beklenmedik şekilde engelleyebilir. Bunları devre dışı bırakın ve tekrar deneyin.</li>
+	<li>{title} geçici olarak kullanılamaz olabilir. Lütfen daha sonra tekrar kontrol edin.</li>
+</ul>]]></phrase>
+  <phrase title="page_criteria" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sayfa kriterleri]]></phrase>
+  <phrase title="page_information" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sayfa bilgileri]]></phrase>
+  <phrase title="page_is_within_nodes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sayfa düğümler içinde]]></phrase>
+  <phrase title="page_no_longer_available_back_try_again" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bu sayfa artık mevcut değil. Lütfen geri dönün ve tekrar deneyin.]]></phrase>
+  <phrase title="page_only_available_debug_mode" version_id="0"><![CDATA[Bu sayfa yalnızca hata ayıklama modu etkin olduğunda kullanılabilir.]]></phrase>
+  <phrase title="page_views" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sayfa görüntülemeleri]]></phrase>
+  <phrase title="pages" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sayfalar]]></phrase>
+  <phrase title="palette" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Palet]]></phrase>
+  <phrase title="paragraph_format" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Paragraf biçimi]]></phrase>
+  <phrase title="paragraph_normal" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Normal]]></phrase>
+  <phrase title="parent_category" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Üst kategori]]></phrase>
+  <phrase title="parent_language" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Üst dil]]></phrase>
+  <phrase title="parent_last_edited" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Üst öğenin son düzenlenmesi]]></phrase>
+  <phrase title="parent_navigation_entry" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Üst navigasyon girişi]]></phrase>
+  <phrase title="parent_node" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Üst düğüm]]></phrase>
+  <phrase title="parent_style" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Üst stil]]></phrase>
+  <phrase title="parent_version" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Üst sürüm]]></phrase>
+  <phrase title="parentheses_characters" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Parantez karakterleri]]></phrase>
+  <phrase title="participants" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Katılımcılar]]></phrase>
+  <phrase title="passkey" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Geçiş anahtarı]]></phrase>
+  <phrase title="passkey_date_x" version_id="2030033" version_string="2.3.0 Beta 3"><![CDATA[Geçiş anahtarı {date}]]></phrase>
+  <phrase title="passkey_login" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Geçiş anahtarı girişi]]></phrase>
+  <phrase title="passkeys_secure_replacement_for_passwords_allowing_you_to_use" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Geçiş anahtarları, hesabınıza erişmek için biyometrik veya cihaz tabanlı kimlik doğrulama kullanmanıza olanak tanıyan, şifreler için güvenli bir alternatiftir.]]></phrase>
+  <phrase title="password" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Şifre]]></phrase>
+  <phrase title="password_and_security" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Şifre ve güvenlik]]></phrase>
+  <phrase title="password_changed_body_html" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{username},</p>
+
+<p>{board} adresindeki şifreniz yakın zamanda değiştirildi. Bu değişikliği siz yaptıysanız, bu mesajı yok sayabilirsiniz.</p>
+
+<p>Bu değişikliği talep etmediyseniz, lütfen kayıp şifre sürecini kullanarak yeni bir şifre oluşturun. Bunu yapamıyorsanız, lütfen bir yöneticiyle iletişime geçin.</p>
+
+<p>Şifreniz {ip} IP adresi tarafından değiştirildi.</p>]]></phrase>
+  <phrase title="password_changed_subject" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{board} - Şifre değiştirildi]]></phrase>
+  <phrase title="password_confirmation" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Şifre onayı]]></phrase>
+  <phrase title="password_of_x_account_wish_to_associate_with" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Bu, ilişkilendirmek istediğiniz {board_title} hesabının şifresidir.]]></phrase>
+  <phrase title="password_reset_confirmation_will_be_emailed_to_user" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcıya bir şifre sıfırlama onayı e-postayla gönderilecek ve yeni bir şifre belirleyene kadar giriş yapamayacak.]]></phrase>
+  <phrase title="password_reset_request_has_been_emailed_to_you" version_id="0"><![CDATA[Bir şifre sıfırlama isteği size e-postayla gönderildi. Lütfen bu e-postadaki talimatları izleyin.]]></phrase>
+  <phrase title="passwords_did_not_match" version_id="0"><![CDATA[Şifreler eşleşmedi. Lütfen her iki alana da aynı şifreyi girin.]]></phrase>
+  <phrase title="paused" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Duraklatıldı]]></phrase>
+  <phrase title="pay_by_card" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kart ile öde]]></phrase>
+  <phrase title="pay_faster" version_id="2010270" version_string="2.1.2"><![CDATA[Daha hızlı öde]]></phrase>
+  <phrase title="pay_with_apple_pay" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Apple Pay ile öde]]></phrase>
+  <phrase title="pay_with_paypal" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[PayPal ile öde]]></phrase>
+  <phrase title="pay_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{cost} öde]]></phrase>
+  <phrase title="payment" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Ödeme]]></phrase>
+  <phrase title="payment_could_not_be_processed_and_you_have_not_been_charged" version_id="2000570" version_string="2.0.5"><![CDATA[Ödeme işlenemedi ve hesabınızdan ücret alınmadı. Lütfen tekrar deneyin veya farklı bir ödeme yöntemi kullanın.]]></phrase>
+  <phrase title="payment_profile" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ödeme profili]]></phrase>
+  <phrase title="payment_profile_display_title_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu profille ürün satın alırken kullanıcılara gösterilecek bu ödeme profili için bir ad girin. Hiçbir görüntüleme başlığı girilmezse, yukarıdaki profil başlığı kullanılacaktır.]]></phrase>
+  <phrase title="payment_profiles" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ödeme profilleri]]></phrase>
+  <phrase title="payment_provider_log" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ödeme sağlayıcısı günlüğü]]></phrase>
+  <phrase title="payment_provider_log_search" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ödeme sağlayıcısı günlüğü araması]]></phrase>
+  <phrase title="payment_provider_logs" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Ödeme sağlayıcı günlükleri]]></phrase>
+  <phrase title="payment_updated_for_your_account_upgrade_at_x" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[{board_title} adresindeki hesap yükseltmeniz için ödeme güncellendi]]></phrase>
+  <phrase title="payments_processed_securely_by_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ödemeler <a href="{link}" target="_blank">{provider}</a> tarafından güvenli bir şekilde işlenir. Ödeme ayrıntılarınızı işlemiyor veya saklamıyoruz.]]></phrase>
+  <phrase title="payments_received" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alınan ödemeler]]></phrase>
+  <phrase title="paypal_alternate_accounts" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[PayPal Alternatif Hesaplar]]></phrase>
+  <phrase title="paypal_alternate_accounts_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı yükseltmeleri için ödemeleri alabilecek birincil dışındaki herhangi bir PayPal hesabının e-posta adresini girin. Bu, örneğin birincil hesap değiştirildiğinde ve yinelenen ödemelerin hala eski hesaptan geldiği durumlarda yararlı olabilir. Eski hesap geçerli bir alternatif olarak listelenmezse, ödemeler bu hesap için kabul edilmeyecektir. Satır başına bir hesap girin.]]></phrase>
+  <phrase title="paypal_primary_account" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[PayPal Birincil Hesap E-posta]]></phrase>
+  <phrase title="paypal_primary_account_explain" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Bu, PayPal hesabınızdaki birincil e-posta adresidir. Bu yanlışsa, ödemeler başarıyla işlenmeyebilir. Bunun bir PayPal Premier veya Business hesabı olması ve IPN'lerin etkin olması gerektiğini unutmayın.]]></phrase>
+  <phrase title="paypal_webhook_explain" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[<strong>Not:</strong> PayPal'ın ödemeleri doğrulamak ve işlemek için mesaj göndermesi için bir webhook uç noktası kurmalısınız. Bunu <a href="https://developer.paypal.com/dashboard/" target="_blank">PayPal Geliştirici Panonuzun</a> aynı sayfasında yapabilirsiniz. Webhook URL'niz sorulduğunda, aşağıdakini kopyalayıp yapıştırın:
+		<pre><code>{boardUrl}/payment_callback.php?_xfProvider=paypalrest</code></pre>
+		Webhook uç noktanızı ayrıca aşağıdaki olayları dinleyecek şekilde yapılandırmanız gerekir:]]></phrase>
+  <phrase title="paypalrest_secret_key_explain" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[<a href="https://developer.paypal.com/dashboard/applications/" target="_blank">PayPal Panonuzdaki</a> ilgili uygulamadan istemci ID'sini ve gizli anahtarını girin. Ayrıca bir webhook kurmalısınız.]]></phrase>
+  <phrase title="paypalrest_webhook_id_explain" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Gelen webhook imzalarını doğrulamak ve yeniden oynatma saldırılarını önlemek için yukarıdaki onay kutusunu etkinleştirmeli ve &quot;Webhook ID&quot;yi sağlamalısınız. Bunu, panonuzda webhook uç noktasını kurduktan sonra elde edebilirsiniz.]]></phrase>
+  <phrase title="paypalrest_webhook_signing_explain" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Ek güvenlik için, aşağıdaki webhook imzalama doğrulamasını da etkinleştirmeniz önerilir.]]></phrase>
+  <phrase title="pcre_unicode_property_support_missing" version_id="2001070" version_string="2.0.10"><![CDATA[Gerekli PHP uzantısı PCRE Unicode desteğiyle bulundu, ancak Unicode karakter özellik desteği eksik.]]></phrase>
+  <phrase title="pcre_unicode_support_missing" version_id="2001070" version_string="2.0.10"><![CDATA[Gerekli PHP uzantısı PCRE bulundu, ancak Unicode desteği eksik. Lütfen sunucunuzdan PCRE'ye Unicode desteği eklemesini isteyin.]]></phrase>
+  <phrase title="pending" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Beklemede]]></phrase>
+  <phrase title="pending_changes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bekleyen değişiklikler]]></phrase>
+  <phrase title="pending_import_from_x_has_been_found" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[{title} adresinden bekleyen bir içe aktarım bulundu. Aşağıdaki düğmeyi kullanarak bu içe aktarımı yeniden başlatabilirsiniz.]]></phrase>
+  <phrase title="pending_username_awaiting_approval" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yakın zamanda kullanıcı adınızı değiştirme talebinde bulundunuz ve bu şu anda bir moderatör tarafından onay bekliyor.]]></phrase>
+  <phrase title="pending_username_change_message" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yakın zamanda kullanıcı adınızı {username} olarak değiştirme talebinde bulundunuz ve bu şu anda bir moderatör tarafından onay bekliyor.]]></phrase>
+  <phrase title="people_may_reply_to_this_thread" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[İnsanlar bu konuya cevap verebilir]]></phrase>
+  <phrase title="people_x_follows" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} kullanıcısının takip ettiği kişiler]]></phrase>
+  <phrase title="people_you_follow" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Takip ettiğiniz kişiler]]></phrase>
+  <phrase title="performing_moderation_duties" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Moderasyon görevleri yapıyor]]></phrase>
+  <phrase title="performing_upgrade_check" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Yükseltme kontrolü yapılıyor]]></phrase>
+  <phrase title="period" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dönem]]></phrase>
+  <phrase title="permanent" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Kalıcı]]></phrase>
+  <phrase title="permanent_link" version_id="2030038" version_string="2.3.0 Beta 8"><![CDATA[Kalıcı bağlantı]]></phrase>
+  <phrase title="permanently_delete" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Kalıcı olarak sil]]></phrase>
+  <phrase title="permission.avatar_allowed" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avatar yükle]]></phrase>
+  <phrase title="permission.bookmark_create" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Yer imi oluştur]]></phrase>
+  <phrase title="permission.bookmark_view" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Kendi yer imlerini görüntüle]]></phrase>
+  <phrase title="permission.conversation_alwaysInvite" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Doğrudan mesajlara her zaman katılımcı davet et]]></phrase>
+  <phrase title="permission.conversation_editAnyMessage" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Herhangi bir mesajı düzenle]]></phrase>
+  <phrase title="permission.conversation_editOwnMessage" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Kendi mesajlarını düzenle]]></phrase>
+  <phrase title="permission.conversation_editOwnMessageTimeLimit" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Kendi mesajlarını düzenleme süresi sınırı (dakika)]]></phrase>
+  <phrase title="permission.conversation_manageReports" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bildirilen mesajları yönet]]></phrase>
+  <phrase title="permission.conversation_maxRecipients" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Maksimum doğrudan mesaj alıcısı]]></phrase>
+  <phrase title="permission.conversation_react" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Mesajlara tepki ver]]></phrase>
+  <phrase title="permission.conversation_receive" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Yeni doğrudan mesajları al]]></phrase>
+  <phrase title="permission.conversation_start" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Doğrudan mesajları başlat]]></phrase>
+  <phrase title="permission.conversation_uploadAttachment" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Doğrudan mesajlara ek yükle]]></phrase>
+  <phrase title="permission.conversation_uploadVideo" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Doğrudan mesajlara video/ses yükle]]></phrase>
+  <phrase title="permission.forum_approveUnapprove" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konuları / mesajları onayla / onayı kaldır]]></phrase>
+  <phrase title="permission.forum_contentVote" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Konulara/mesajlara oy ver (uygun olduğunda)]]></phrase>
+  <phrase title="permission.forum_deleteAnyPost" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir mesajı sil]]></phrase>
+  <phrase title="permission.forum_deleteAnyThread" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir konuyu sil]]></phrase>
+  <phrase title="permission.forum_deleteOwnPost" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kendi mesajını sil]]></phrase>
+  <phrase title="permission.forum_deleteOwnThread" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kendi konusunu sil]]></phrase>
+  <phrase title="permission.forum_editAnyPost" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir mesajı düzenle]]></phrase>
+  <phrase title="permission.forum_editOwnPost" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kendi mesajını düzenle]]></phrase>
+  <phrase title="permission.forum_editOwnPostTimeLimit" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kendi mesajlarını düzenleme/silme süre sınırı (dakika)]]></phrase>
+  <phrase title="permission.forum_editOwnThreadTitle" version_id="2020770" version_string="2.2.7"><![CDATA[Kendi konusunu düzenle (kendi mesajını düzenleme gerektirir)]]></phrase>
+  <phrase title="permission.forum_featureUnfeatureThread" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Konuları öne çıkar / öne çıkarmayı kaldır]]></phrase>
+  <phrase title="permission.forum_hardDeleteAnyPost" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir mesajı kalıcı olarak sil]]></phrase>
+  <phrase title="permission.forum_hardDeleteAnyThread" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir konuyu kalıcı olarak sil]]></phrase>
+  <phrase title="permission.forum_inlineMod" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konularda / mesajlarda satır içi moderasyon kullan]]></phrase>
+  <phrase title="permission.forum_lockUnlockThread" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konuları kilitle / kilidini aç]]></phrase>
+  <phrase title="permission.forum_manageAnyTag" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir etiketi yönet]]></phrase>
+  <phrase title="permission.forum_manageAnyThread" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir konuyu yönet (taşı, birleştir, vb.)]]></phrase>
+  <phrase title="permission.forum_manageIndexing" version_id="2030170" version_string="2.3.1"><![CDATA[Konu arama motoru indekslemesini yönet]]></phrase>
+  <phrase title="permission.forum_manageOthersTagsOwnThread" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kendi konusundaki başkalarına ait etiketleri yönet]]></phrase>
+  <phrase title="permission.forum_markSolution" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mesajı kendi soru konusuna çözüm olarak işaretle (uygun olduğunda)]]></phrase>
+  <phrase title="permission.forum_markSolutionAnyThread" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mesajı herhangi bir soru konusuna çözüm olarak işaretle (uygun olduğunda)]]></phrase>
+  <phrase title="permission.forum_postReply" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cevap gönder]]></phrase>
+  <phrase title="permission.forum_postThread" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yeni konu aç]]></phrase>
+  <phrase title="permission.forum_react" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Mesajlara tepki ver]]></phrase>
+  <phrase title="permission.forum_stickUnstickThread" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konu sabitle / sabitlemeyi kaldır]]></phrase>
+  <phrase title="permission.forum_tagAnyThread" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir konuyu etiketle]]></phrase>
+  <phrase title="permission.forum_tagOwnThread" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kendi konusunu etiketle]]></phrase>
+  <phrase title="permission.forum_threadReplyBan" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcıları bir konuya cevap vermekten yasakla]]></phrase>
+  <phrase title="permission.forum_undelete" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konuları / mesajları geri yükle]]></phrase>
+  <phrase title="permission.forum_uploadAttachment" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesajlara ek yükle]]></phrase>
+  <phrase title="permission.forum_uploadVideo" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Mesajlara video/ses yükle]]></phrase>
+  <phrase title="permission.forum_viewAttachment" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesajlardaki ekleri görüntüle]]></phrase>
+  <phrase title="permission.forum_viewContent" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konu içeriğini görüntüle]]></phrase>
+  <phrase title="permission.forum_viewDeleted" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Silinen konuları / mesajları görüntüle]]></phrase>
+  <phrase title="permission.forum_viewModerated" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Onaylanmamış konuları / mesajları görüntüle]]></phrase>
+  <phrase title="permission.forum_viewOthers" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Başkalarının konularını görüntüle]]></phrase>
+  <phrase title="permission.forum_votePoll" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Anketlerde oy ver]]></phrase>
+  <phrase title="permission.forum_warn" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesajlara uyarı ver]]></phrase>
+  <phrase title="permission.general_approveRejectUser" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcıları onayla / reddet]]></phrase>
+  <phrase title="permission.general_approveUsernameChange" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı adı değişikliğini onayla / reddet]]></phrase>
+  <phrase title="permission.general_banUser" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcıları yasakla]]></phrase>
+  <phrase title="permission.general_bypassFloodCheck" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sel kontrolünü atla]]></phrase>
+  <phrase title="permission.general_bypassNofollowLinks" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Gönderilen içerik bağlantılarında "nofollow" özelliğini atla]]></phrase>
+  <phrase title="permission.general_bypassSpamCheck" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spam kontrolünü atla]]></phrase>
+  <phrase title="permission.general_bypassUserPrivacy" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı gizliliğini atla]]></phrase>
+  <phrase title="permission.general_bypassUserTagLimit" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı içerik etiket sınırını atla]]></phrase>
+  <phrase title="permission.general_changeUsername" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı adını değiştir]]></phrase>
+  <phrase title="permission.general_changeUsernameNoApproval" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Onaysız kullanıcı adı değiştir]]></phrase>
+  <phrase title="permission.general_cleanSpam" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spam temizleyiciyi kullan]]></phrase>
+  <phrase title="permission.general_createTag" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yeni içerik etiketi oluştur]]></phrase>
+  <phrase title="permission.general_editBasicProfile" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Temel kullanıcı profillerini düzenle]]></phrase>
+  <phrase title="permission.general_editCustomTitle" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Özel başlığı düzenle]]></phrase>
+  <phrase title="permission.general_editProfile" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profil düzenle]]></phrase>
+  <phrase title="permission.general_editSignature" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İmza düzenle]]></phrase>
+  <phrase title="permission.general_manageWarning" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tüm uyarıları sil]]></phrase>
+  <phrase title="permission.general_maxMentionedUsers" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maksimum bahsetme uyarıları]]></phrase>
+  <phrase title="permission.general_report" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İçerik bildir]]></phrase>
+  <phrase title="permission.general_requireTfa" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İki adımlı doğrulama gerektir]]></phrase>
+  <phrase title="permission.general_search" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ara]]></phrase>
+  <phrase title="permission.general_submitWithoutApproval" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İçeriği onaysız gönder]]></phrase>
+  <phrase title="permission.general_useContactForm" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İletişim formunu kullan]]></phrase>
+  <phrase title="permission.general_usePush" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Anlık bildirimleri kullan]]></phrase>
+  <phrase title="permission.general_view" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Görüntüle]]></phrase>
+  <phrase title="permission.general_viewIps" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[IP adreslerini görüntüle]]></phrase>
+  <phrase title="permission.general_viewMemberList" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Üye listelerini görüntüle]]></phrase>
+  <phrase title="permission.general_viewNode" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Düğümü görüntüle]]></phrase>
+  <phrase title="permission.general_viewProfile" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Üye profillerini görüntüle]]></phrase>
+  <phrase title="permission.general_viewWarning" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uyarı ayrıntılarını görüntüle]]></phrase>
+  <phrase title="permission.general_warn" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcılara doğrudan uyarı ver]]></phrase>
+  <phrase title="permission.profileBanner_allowed" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Profil afişi yükle]]></phrase>
+  <phrase title="permission.profilePost_approveUnapprove" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profil mesajlarını onayla / onayı kaldır]]></phrase>
+  <phrase title="permission.profilePost_comment" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profil mesajlarına yorum yap]]></phrase>
+  <phrase title="permission.profilePost_deleteAny" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir profil mesajını sil]]></phrase>

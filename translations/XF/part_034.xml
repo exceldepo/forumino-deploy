@@ -1,0 +1,300 @@
+  <phrase title="view_this_report" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu raporu görüntüle]]></phrase>
+  <phrase title="view_this_thread" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu konuyu görüntüle]]></phrase>
+  <phrase title="view_this_users_identities" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Bu kullanıcının kimliklerini görüntüle]]></phrase>
+  <phrase title="view_this_users_profile_page_details" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Bu kullanıcının profil sayfası detaylarını görüntüle]]></phrase>
+  <phrase title="view_users" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcıları görüntüle]]></phrase>
+  <phrase title="view_warning" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uyarıyı görüntüle]]></phrase>
+  <phrase title="view_warnings_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uyarıları görüntüle ({count})]]></phrase>
+  <phrase title="view_your_backup_codes" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Yedek kodlarınızı görüntüleyin.]]></phrase>
+  <phrase title="view_your_content" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[İçeriğinizi görüntüleyin]]></phrase>
+  <phrase title="view_your_details_on_your_profile_page" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Profil sayfanızdaki detaylarınızı görüntüleyin]]></phrase>
+  <phrase title="view_your_identities" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Kimliklerinizi görüntüleyin]]></phrase>
+  <phrase title="viewable_in_message_user_info" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Mesaj kullanıcı bilgisinde görüntülenebilir]]></phrase>
+  <phrase title="viewable_on_profile_pages" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Profil sayfalarında görüntülenebilir]]></phrase>
+  <phrase title="viewing_an_error" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Hata görüntüleniyor]]></phrase>
+  <phrase title="viewing_category" version_id="0"><![CDATA[Kategori görüntüleniyor]]></phrase>
+  <phrase title="viewing_direct_messages" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Doğrudan mesajlar görüntüleniyor]]></phrase>
+  <phrase title="viewing_featured_content" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Öne çıkarılan içerik görüntüleniyor]]></phrase>
+  <phrase title="viewing_forum" version_id="0"><![CDATA[Forum görüntüleniyor]]></phrase>
+  <phrase title="viewing_forum_list" version_id="0"><![CDATA[Forum listesi görüntüleniyor]]></phrase>
+  <phrase title="viewing_help" version_id="0"><![CDATA[Yardım görüntüleniyor]]></phrase>
+  <phrase title="viewing_latest_content" version_id="0"><![CDATA[En son içerik görüntüleniyor]]></phrase>
+  <phrase title="viewing_list_of_online_members" version_id="0"><![CDATA[Çevrimiçi üye listesi görüntüleniyor]]></phrase>
+  <phrase title="viewing_member_profile" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[Üye profili görüntüleniyor]]></phrase>
+  <phrase title="viewing_members" version_id="0"><![CDATA[Üyeler görüntüleniyor]]></phrase>
+  <phrase title="viewing_page" version_id="0"><![CDATA[Sayfa görüntüleniyor]]></phrase>
+  <phrase title="viewing_search_forum" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Arama forumu görüntüleniyor]]></phrase>
+  <phrase title="viewing_tags" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Etiketler görüntüleniyor]]></phrase>
+  <phrase title="viewing_thread" version_id="0"><![CDATA[Konu görüntüleniyor]]></phrase>
+  <phrase title="viewing_unknown_page" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Bilinmeyen sayfa görüntüleniyor]]></phrase>
+  <phrase title="views" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Görüntüleme]]></phrase>
+  <phrase title="visibility" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Görünürlük]]></phrase>
+  <phrase title="visibility_callback" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Görünürlük geri çağrısı]]></phrase>
+  <phrase title="visible" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Görünür]]></phrase>
+  <phrase title="visit_board_html" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<a href="{board_url}">{board_title} sitesini ziyaret edin</a>]]></phrase>
+  <phrase title="visit_board_text" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{board_title} sitesini ziyaret edin: {board_url}]]></phrase>
+  <phrase title="visit_site" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Siteyi ziyaret et]]></phrase>
+  <phrase title="visits_in_last_hour_may_not_be_considered" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Son bir saatteki ziyaretler dikkate alınmayabilir.]]></phrase>
+  <phrase title="vote_action_cancelled" version_id="2020035" version_string="2.2.0 Beta 5"><![CDATA[Oy kaldırıldı]]></phrase>
+  <phrase title="vote_action_downvoted" version_id="2020035" version_string="2.2.0 Beta 5"><![CDATA[Beğenilmedi]]></phrase>
+  <phrase title="vote_action_upvoted" version_id="2020035" version_string="2.2.0 Beta 5"><![CDATA[Beğenildi]]></phrase>
+  <phrase title="vote_for_content" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[İçerik için oy ver]]></phrase>
+  <phrase title="vote_noun" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Oy]]></phrase>
+  <phrase title="vote_score" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Oy puanı]]></phrase>
+  <phrase title="vote_score_between" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Şu oy puanı arasında]]></phrase>
+  <phrase title="votes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oylar]]></phrase>
+  <phrase title="voting_not_allowed_no_solution_existing_displayed_question" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Oylamaya izin verilmeyecek ve bir çözüm seçilemeyecek, ancak mevcut değerler görüntülenecektir.]]></phrase>
+  <phrase title="voting_on_this_suggestion_has_been_paused" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bu öneri için oylama duraklatıldı.]]></phrase>
+  <phrase title="warn" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Uyar]]></phrase>
+  <phrase title="warn_member" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Üyeyi uyar]]></phrase>
+  <phrase title="warning" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Uyarı]]></phrase>
+  <phrase title="warning_action_applied_crossing_threshold" version_id="1040370" version_string="1.4.3"><![CDATA[Bu uyarı eylemi yalnızca bir kullanıcı puan eşiğini aştığında uygulanacaktır. Bu nedenle, bu kadar puan veya daha fazla puana sahip kullanıcılar, uyarı puanı toplamı bu eşiğin altına düşene ve sonra tekrar geçene kadar bu eyleme tabi tutulmayacaktır.]]></phrase>
+  <phrase title="warning_actions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uyarı eylemleri]]></phrase>
+  <phrase title="warning_ban_reason" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Kural ihlalleri]]></phrase>
+  <phrase title="warning_for_x" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{name} için uyarı]]></phrase>
+  <phrase title="warning_not_filled_try_again" version_id="1040770" version_string="1.4.7"><![CDATA[Uyarı detayları beklendiği gibi doldurulmadı. Lütfen tekrar deneyin.]]></phrase>
+  <phrase title="warning_points" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uyarı puanları]]></phrase>
+  <phrase title="warning_type" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uyarı türü]]></phrase>
+  <phrase title="warnings" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Uyarılar]]></phrase>
+  <phrase title="watch" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İzle]]></phrase>
+  <phrase title="watch_category" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kategoriyi izle]]></phrase>
+  <phrase title="watch_content_on_creation" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İçeriği oluşturma sırasında izle]]></phrase>
+  <phrase title="watch_content_on_interaction" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İçeriği etkileşim sırasında izle]]></phrase>
+  <phrase title="watch_forum" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forumu izle]]></phrase>
+  <phrase title="watch_this_thread" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu konuyu izle]]></phrase>
+  <phrase title="watch_thread" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konuyu izle]]></phrase>
+  <phrase title="watched_categories" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İzlenen kategoriler]]></phrase>
+  <phrase title="watched_content" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İzlenen içerik]]></phrase>
+  <phrase title="watched_forum_email_html_footer" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p class="minorText">Lütfen bu mesaja yanıt vermeyin. Cevap vermek için forumu ziyaret etmelisiniz.</p>
+
+<p class="minorText">Bu mesaj, {board} sitesindeki "{node_title}" forumunu yeni konular veya mesajlar için e-posta bildirimi ile izlemeyi seçtiğiniz için size gönderildi. Yeni mesajları okuyana kadar bu konu hakkında daha fazla e-posta almayacaksınız.</p>
+
+<p class="minorText">Artık bu e-postaları almak istemiyorsanız, <a href="{disable_this_link}">bu forumdan e-postaları devre dışı bırakabilir</a> veya <a href="{disable_all_link}">tüm e-postaları devre dışı bırakabilirsiniz</a>.</p>]]></phrase>
+  <phrase title="watched_forum_message_email_html" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{replier}, {board} sitesinde izlediğiniz bir foruma yeni bir mesaj gönderdi.</p>]]></phrase>
+  <phrase title="watched_forum_thread_email_html" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{replier}, {board} sitesinde izlediğiniz bir foruma yeni bir konu gönderdi.</p>]]></phrase>
+  <phrase title="watched_forums" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İzlenen forumlar]]></phrase>
+  <phrase title="watched_thread_email_html_footer" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[<p class="minorText">Lütfen bu mesaja yanıt vermeyin. Cevap vermek için forumu ziyaret etmelisiniz.</p>
+
+<p class="minorText">Bu mesaj, {board} sitesindeki {thread} konusunu yeni cevaplar için e-posta bildirimi ile izlemeyi seçtiğiniz için size gönderildi. Yeni mesajları okuyana kadar bu konu hakkında daha fazla e-posta almayacaksınız.</p>
+
+<p class="minorText">Artık bu e-postaları almak istemiyorsanız, <a href="{disable_this_link}">bu konudan e-postaları devre dışı bırakabilir</a> veya <a href="{disable_all_link}">tüm e-postaları devre dışı bırakabilirsiniz</a>.</p>]]></phrase>
+  <phrase title="watched_thread_reply_email_html" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{replier}, {board} sitesinde izlediğiniz bir konuya cevap verdi.</p>]]></phrase>
+  <phrase title="watched_threads" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İzlenen konular]]></phrase>
+  <phrase title="we_do_not_recommend_disabling_this_as_it_is_insecure" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Güvensiz olduğu ve çoğu durumda buna ihtiyacınız olmayacağı için bunu devre dışı bırakmanızı önermiyoruz. Risklerin farkındaysanız ve hedef URL'ye güveniyorsanız bunu devre dışı bırakın.]]></phrase>
+  <phrase title="we_found_some_errors_while_trying_to_install_following_add_on" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aşağıdaki eklentiyi yüklemeye çalışırken bazı hatalar bulduk]]></phrase>
+  <phrase title="we_found_some_errors_while_trying_to_rebuild_following_add_on" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aşağıdaki eklentinin ana verilerini yeniden oluşturmaya çalışırken bazı hatalar bulduk]]></phrase>
+  <phrase title="we_found_some_errors_while_trying_to_upgrade_following_add_on" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aşağıdaki eklentiyi yükseltmeye çalışırken bazı hatalar bulduk]]></phrase>
+  <phrase title="we_require_you_to_change_your_password" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Hesabınızı güvende tutmak için, siteyi kullanmaya devam etmeden önce şifrenizi değiştirmenizi istiyoruz.]]></phrase>
+  <phrase title="we_strongly_recommend_enabling_push_notifications" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Site etkinliğinden haberdar olmak için bu cihazda anlık bildirimleri etkinleştirmenizi şiddetle öneririz.]]></phrase>
+  <phrase title="we_were_unable_to_verify_dns_record" version_id="2020970" version_string="2.2.9"><![CDATA[DNS kaydını doğrulayamadık. Lütfen kurulum işlemini tekrar deneyin.]]></phrase>
+  <phrase title="we_will_keep_you_updated_new_content_when_not_visited" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bir süredir ziyaret etmediğinizde sizi yeni içerikler hakkında bilgilendirmeye devam edeceğiz.]]></phrase>
+  <phrase title="webhook_action.thread_delete" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Konu silindi]]></phrase>
+  <phrase title="webhook_action.thread_feature" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Konu öne çıkarıldı]]></phrase>
+  <phrase title="webhook_action.thread_insert" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Konu eklendi]]></phrase>
+  <phrase title="webhook_action.thread_unfeature" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Konu öne çıkarması kaldırıldı]]></phrase>
+  <phrase title="webhook_action.thread_update" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Konu güncellendi]]></phrase>
+  <phrase title="webhook_description_explain" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu yalnızca referans amaçlıdır ve hedef URL'ye gönderilmeyecektir.]]></phrase>
+  <phrase title="webhook_id" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Webhook Kimliği:]]></phrase>
+  <phrase title="webhook_is_active" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Webhook etkin]]></phrase>
+  <phrase title="webhooks" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Webhook'lar]]></phrase>
+  <phrase title="website" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Web sitesi]]></phrase>
+  <phrase title="week_start_day" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hafta başlangıç günü]]></phrase>
+  <phrase title="weekly" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Haftalık]]></phrase>
+  <phrase title="weekly_statistics" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Haftalık istatistikler]]></phrase>
+  <phrase title="weeks" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Hafta]]></phrase>
+  <phrase title="weight" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ağırlık]]></phrase>
+  <phrase title="weight_bold" version_id="2000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Kalın]]></phrase>
+  <phrase title="weight_light" version_id="2000051" version_string="2.0.0 Release Candidate 1"><![CDATA[İnce]]></phrase>
+  <phrase title="weight_normal" version_id="2000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Normal]]></phrase>
+  <phrase title="weight_regular" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Düzenli]]></phrase>
+  <phrase title="weight_solid" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Dolu]]></phrase>
+  <phrase title="welcome_to_boardtitle" version_id="2020052" version_string="2.2.0 Release Candidate 2"><![CDATA[{boardTitle} sitesine hoş geldiniz!]]></phrase>
+  <phrase title="whats_gravatar" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gravatar nedir?]]></phrase>
+  <phrase title="whats_new" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yenilikler]]></phrase>
+  <phrase title="whatsapp" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[WhatsApp]]></phrase>
+  <phrase title="when_user_state_non_x_users_receive_permissions_guest_group" version_id="2001170" version_string="2.0.11"><![CDATA['{valid_state}' dışında bir kullanıcı durumundayken, kullanıcılar {guest} grubundan izinleri alacaklardır.]]></phrase>
+  <phrase title="while_at_or_above_points_threshold" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Puan eşiğinde veya üzerindeyken]]></phrase>
+  <phrase title="while_import_running_sending_activity_summary_disabled" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bir içe aktarma çalışırken etkin olmayan kullanıcılara etkinlik özeti e-postası gönderme devre dışı bırakılır.]]></phrase>
+  <phrase title="widget.latest_followed_profile_posts" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Takipçilerden en son profil mesajları]]></phrase>
+  <phrase title="widget.latest_posts" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En son mesajlar]]></phrase>
+  <phrase title="widget.latest_profile_posts" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En son profil mesajları]]></phrase>
+  <phrase title="widget.latest_watched" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En son izlenen]]></phrase>
+  <phrase title="widget.unread_posts" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Okunmamış mesajlar]]></phrase>
+  <phrase title="widget_def.birthdays" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bugünkü doğum günleri]]></phrase>
+  <phrase title="widget_def.featured_content" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Öne çıkarılan içerik]]></phrase>
+  <phrase title="widget_def.find_member" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Üye bul]]></phrase>
+  <phrase title="widget_def.forum_statistics" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum istatistikleri]]></phrase>
+  <phrase title="widget_def.html" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[HTML]]></phrase>
+  <phrase title="widget_def.member_stat" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Üye istatistiği]]></phrase>
+  <phrase title="widget_def.members_online" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Çevrimiçi üyeler]]></phrase>
+  <phrase title="widget_def.new_posts" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yeni mesajlar]]></phrase>
+  <phrase title="widget_def.new_profile_posts" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yeni profil mesajları]]></phrase>
+  <phrase title="widget_def.new_threads" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yeni konular]]></phrase>
+  <phrase title="widget_def.newest_members" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En yeni üyeler]]></phrase>
+  <phrase title="widget_def.online_statistics" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Çevrimiçi istatistikleri]]></phrase>
+  <phrase title="widget_def.php_callback" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[PHP geri çağrısı]]></phrase>
+  <phrase title="widget_def.search_forum" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Arama forumu]]></phrase>
+  <phrase title="widget_def.share_page" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu sayfayı paylaş]]></phrase>
+  <phrase title="widget_def.template_syntax" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Şablon söz dizimi]]></phrase>
+  <phrase title="widget_def.thread_poll" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konu anketi]]></phrase>
+  <phrase title="widget_def.thread_statistics" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Konu istatistikleri]]></phrase>
+  <phrase title="widget_def.trending_content" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Trend içerik]]></phrase>
+  <phrase title="widget_def.visitor_panel" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ziyaretçi paneli]]></phrase>
+  <phrase title="widget_def_desc.birthdays" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Doğum günü bugün olan kullanıcıların avatarlarından oluşan bir blok.]]></phrase>
+  <phrase title="widget_def_desc.featured_content" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Öne çıkarılan içeriği görüntüler.]]></phrase>
+  <phrase title="widget_def_desc.find_member" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sayfaya, kullanıcı adına göre bir üyenin profilini bulmanıza olanak tanıyan otomatik tamamlama bloğu ekler.]]></phrase>
+  <phrase title="widget_def_desc.forum_statistics" version_id="2020670" version_string="2.2.6"><![CDATA[Toplam tartışma, mesaj ve üye gibi şeyler hakkında forumun mevcut istatistiklerini gösteren bir blok görüntüler.]]></phrase>
+  <phrase title="widget_def_desc.html" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Özel HTML eklemenize olanak tanıyan widget. Bu widget XenForo şablon söz dizimini destekler.]]></phrase>
+  <phrase title="widget_def_desc.member_stat" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Belirtilen üye istatistik önbelleğinden kullanıcı listesini görüntüler.]]></phrase>
+  <phrase title="widget_def_desc.members_online" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Çevrimiçi kullanıcı, misafir ve robot sayısının özetini ve ayrıca çevrimiçi üyelerin ve takip ettiğiniz kişilerin özetini görüntüler.]]></phrase>
+  <phrase title="widget_def_desc.new_posts" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En son mesaj gönderilen X konunun listesini içeren bir blok görüntüler.]]></phrase>
+  <phrase title="widget_def_desc.new_profile_posts" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En son X profil mesajının listesini içeren bir blok görüntüler.]]></phrase>
+  <phrase title="widget_def_desc.new_threads" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En son oluşturulan X konunun listesini içeren bir blok görüntüler.]]></phrase>
+  <phrase title="widget_def_desc.newest_members" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yakın zamanda kayıt olan kullanıcıların avatarlarından oluşan bir blok.]]></phrase>
+  <phrase title="widget_def_desc.online_statistics" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forumdaki mevcut ziyaretçilerin ve bunların kayıtlı, misafir veya robot olup olmadığının dökümünü içeren bir istatistik bloğu görüntüler.]]></phrase>
+  <phrase title="widget_def_desc.php_callback" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bir PHP geri çağrısı kullanarak bir widget'ın içeriğini oluşturmanıza olanak tanır. Geri çağrı, widget'ı oluşturmak için gerekli şablon adı ve parametrelerle ayarlanmış \XF\Widget\WidgetRenderer nesnesini döndürmelidir.]]></phrase>
+  <phrase title="widget_def_desc.search_forum" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bir arama forumundan X konunun listesini içeren bir blok görüntüler.]]></phrase>
+  <phrase title="widget_def_desc.share_page" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mevcut sayfanın sosyal medyada paylaşılmasına izin vermek için bir bloğa bir dizi paylaşım düğmesi ekler.]]></phrase>
+  <phrase title="widget_def_desc.template_syntax" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[XF şablon söz dizimi ve HTML görüntülemenize olanak tanıyan ilişkili bir şablon oluşturan widget.]]></phrase>
+  <phrase title="widget_def_desc.thread_poll" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Belirtilen anketi bir widget'ta görüntüler.]]></phrase>
+  <phrase title="widget_def_desc.thread_statistics" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Belirtilen konu için görüntülemeler, ekler, tarihler vb. dahil mevcut istatistikleri gösteren bir blok görüntüler.]]></phrase>
+  <phrase title="widget_def_desc.trending_content" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[İçerik etkinlik günlüğünde kaydedilen metriklerden hesaplanan trend içeriği görüntüler.]]></phrase>
+  <phrase title="widget_def_desc.visitor_panel" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ziyaretçinin avatarını ve kendileri hakkında temel bilgileri ziyaretçiye görüntüler.]]></phrase>
+  <phrase title="widget_def_options_php_callback_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Burada widget'ınızı oluşturmak için kullanılabilecek bir PHP geri çağrısı belirtin.<br />
+<br />
+Geri çağrı argümanları:
+<ol>
+	<li><code>\XF\Widget\AbstractWidget $widget</code><br />Bu widget. Bunun aracılığıyla, veri almak ve <code>$widget->renderer()</code> nesnesini döndürerek bir şablon oluşturmak için <code>WidgetConfig</code> nesnesine ve <code>\XF\App</code> nesnesine erişebilirsiniz.</li>
+</ol>]]></phrase>
+  <phrase title="widget_definition" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widget tanımı]]></phrase>
+  <phrase title="widget_definitions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widget tanımları]]></phrase>
+  <phrase title="widget_display_simple_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kenar çubukları gibi dar alanlar için tasarlanmış basit bir görünüm.]]></phrase>
+  <phrase title="widget_key" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widget anahtarı]]></phrase>
+  <phrase title="widget_key_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu widget için benzersiz bir tanımlayıcı girin. Bu, widget'ı doğrudan bir şablona eklendiğinde başvurmayı kolaylaştırır.]]></phrase>
+  <phrase title="widget_keys_may_only_contain_alphanumeric_underscore" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widget anahtarları yalnızca A-Z, 0-9 ve alt çizgi içerebilir.]]></phrase>
+  <phrase title="widget_keys_must_be_unique" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widget anahtarları benzersiz olmalıdır. Belirtilen anahtar zaten kullanılıyor.]]></phrase>
+  <phrase title="widget_no_position_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konumu olmayan widget'lar hiçbir yerde görünmeyecektir, ancak yapılandırılmış widget örneğini şablonlarda doğrudan <code>&lt;xf:widget key="widget_key" /&gt;</code> söz dizimini kullanarak çağırabilirsiniz.]]></phrase>
+  <phrase title="widget_option_names_may_only_contain_alphanumeric_underscore" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widget seçenek adları yalnızca A-Z, 0-9 ve alt çizgi içerebilir.]]></phrase>
+  <phrase title="widget_pos.category_view_sidebar" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kategori görünümü: Kenar çubuğu]]></phrase>
+  <phrase title="widget_pos.conversation_list_sidebar" version_id="2030037" version_string="2.3.0 Beta 7"><![CDATA[Doğrudan mesaj listesi: Kenar çubuğu]]></phrase>
+  <phrase title="widget_pos.conversation_view_sidebar" version_id="2030037" version_string="2.3.0 Beta 7"><![CDATA[Doğrudan mesaj görünümü: Kenar çubuğu]]></phrase>
+  <phrase title="widget_pos.featured_content_list_above_features" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Öne çıkarılan içerik listesi: Özelliklerin üstünde]]></phrase>
+  <phrase title="widget_pos.featured_content_list_below_features" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Öne çıkarılan içerik listesi: Özelliklerin altında]]></phrase>
+  <phrase title="widget_pos.featured_content_list_sidebar" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Öne çıkarılan içerik listesi: Kenar çubuğu]]></phrase>
+  <phrase title="widget_pos.find_threads_sidenav" version_id="2010035" version_string="2.1.0 Beta 5"><![CDATA[Konuları bul: Yan gezinme]]></phrase>
+  <phrase title="widget_pos.forum_list_above_nodes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum listesi: Düğümlerin üstünde]]></phrase>
+  <phrase title="widget_pos.forum_list_below_nodes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum listesi: Düğümlerin altında]]></phrase>
+  <phrase title="widget_pos.forum_list_sidebar" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum listesi: Kenar çubuğu]]></phrase>
+  <phrase title="widget_pos.forum_new_posts_sidebar" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum yeni mesajlar: Kenar çubuğu]]></phrase>
+  <phrase title="widget_pos.forum_overview_bottom" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum genel bakış: Alt]]></phrase>
+  <phrase title="widget_pos.forum_overview_top" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum genel bakış: Üst]]></phrase>
+  <phrase title="widget_pos.forum_view_sidebar" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum görünümü: Kenar çubuğu]]></phrase>
+  <phrase title="widget_pos.help_page_sidenav" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yardım sayfası: Yan gezinme]]></phrase>
+  <phrase title="widget_pos.member_view_sidebar" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Üye görünümü: Kenar çubuğu]]></phrase>
+  <phrase title="widget_pos.member_wrapper_sidenav" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Üye sarmalayıcı: Yan gezinme]]></phrase>
+  <phrase title="widget_pos.online_list_sidebar" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Çevrimiçi listesi: Kenar çubuğu]]></phrase>
+  <phrase title="widget_pos.pub_sidebar_bottom" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Genel: Kenar çubuğu altı]]></phrase>
+  <phrase title="widget_pos.pub_sidebar_top" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Genel: Kenar çubuğu üstü]]></phrase>
+  <phrase title="widget_pos.thread_view_above_messages" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Konu görünümü: Mesajların üstünde]]></phrase>
+  <phrase title="widget_pos.thread_view_below_messages" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Konu görünümü: Mesajların altında]]></phrase>
+  <phrase title="widget_pos.thread_view_below_quick_reply" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Konu görünümü: Hızlı cevabın altında]]></phrase>
+  <phrase title="widget_pos.thread_view_sidebar" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konu görünümü: Kenar çubuğu]]></phrase>
+  <phrase title="widget_pos.whats_new_overview" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yenilikler: Genel bakış]]></phrase>
+  <phrase title="widget_pos.whats_new_sidebar" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Yenilikler: Kenar çubuğu]]></phrase>
+  <phrase title="widget_pos.whats_new_sidenav" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yenilikler: Yan gezinme]]></phrase>
+  <phrase title="widget_pos_desc.category_view_sidebar" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[category_view şablonunun kenar çubuğundaki konum. Bu konumda oluşturulan widget şablonları, mevcut kategori varlığını <code>{$context.category}</code> parametresinde kullanabilir. Buradaki widget'lar yalnızca 'Kategoriler için sayfalar oluştur' seçeneği etkinse görünür olacaktır.]]></phrase>
+  <phrase title="widget_pos_desc.conversation_list_sidebar" version_id="2030037" version_string="2.3.0 Beta 7"><![CDATA[Doğrudan mesaj listesini görüntülerken kenar çubuğundaki konum.]]></phrase>
+  <phrase title="widget_pos_desc.conversation_view_sidebar" version_id="2030037" version_string="2.3.0 Beta 7"><![CDATA[Bir doğrudan mesajı görüntülerken kenar çubuğundaki konum. Bu konumda oluşturulan widget şablonları, mevcut konuşma varlığını <code>{$context.conversation}</code> parametresinde kullanabilir.]]></phrase>
+  <phrase title="widget_pos_desc.featured_content_list_above_features" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Öne çıkarılan içerik listesindeki, öne çıkarılan içerik listesinin üstündeki bir konum.]]></phrase>
+  <phrase title="widget_pos_desc.featured_content_list_below_features" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Öne çıkarılan içerik listesindeki, öne çıkarılan içerik listesinin altındaki bir konum.]]></phrase>
+  <phrase title="widget_pos_desc.featured_content_list_sidebar" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Öne çıkarılan içerik listesindeki kenar çubuğundaki bir konum.]]></phrase>
+  <phrase title="widget_pos_desc.find_threads_sidenav" version_id="2010035" version_string="2.1.0 Beta 5"><![CDATA[Yalnızca <i>Görünüm &gt; Stil özellikleri &gt; Çeşitli &gt; Konu bulma gezinme stili</i> 'Yan gezinme' olarak ayarlandığında gösterilen 'konuları bul' yan gezinmesinin içindeki konum.]]></phrase>
+  <phrase title="widget_pos_desc.forum_list_above_nodes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum listesinin ana içerik alanındaki, düğüm ağacının üzerindeki bir konum.]]></phrase>
+  <phrase title="widget_pos_desc.forum_list_below_nodes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum listesinin ana içerik alanındaki, düğüm ağacının altındaki bir konum.]]></phrase>
+  <phrase title="widget_pos_desc.forum_list_sidebar" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Çeşitli istatistikler ve yeni içerik widget'ları için forum listesi kenar çubuğundaki konum.]]></phrase>
+  <phrase title="widget_pos_desc.forum_new_posts_sidebar" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Çeşitli istatistikler ve yeni içerik widget'ları için forum yeni mesajlar kenar çubuğundaki konum. Not: Bu sayfa yalnızca varsayılan forumlar sayfası "Yeni mesajlar" olarak ayarlanmışsa kullanılabilir.]]></phrase>
+  <phrase title="widget_pos_desc.forum_overview_bottom" version_id="2010431" version_string="2.1.4 Beta 1"><![CDATA[Varsayılan forum açılış sayfası olarak ayarlanmışsa, forum genel bakış sarmalayıcısının altında, forum listesi veya yeni mesajlar listesinin içeriğinin altında görünen bir konum.]]></phrase>
+  <phrase title="widget_pos_desc.forum_overview_top" version_id="2010431" version_string="2.1.4 Beta 1"><![CDATA[Varsayılan forum açılış sayfası olarak ayarlanmışsa, forum listesi veya yeni mesajlar listesi tarafından kullanılan forum genel bakış sarmalayıcısının üstünde görünen bir konum.]]></phrase>
+  <phrase title="widget_pos_desc.forum_view_sidebar" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Bir forumdaki konu veya alt forum listesini görüntülerken kenar çubuğundaki konum. Bu konumda oluşturulan widget şablonları, mevcut forum varlığını <code>{$context.forum}</code> parametresinde kullanabilir.]]></phrase>
+  <phrase title="widget_pos_desc.help_page_sidenav" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yardım yan gezinmesinin içindeki, gezinme bloğunun altındaki konum. Buradaki widget'lar dar ekranlarda tuval dışında görünecektir.]]></phrase>
+  <phrase title="widget_pos_desc.member_view_sidebar" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Bir üyenin profilini görüntülerken kenar çubuğundaki konum. Bu konumda oluşturulan widget şablonları, mevcut kullanıcı varlığını <code>{$context.user}</code> parametresinde kullanabilir.]]></phrase>
+  <phrase title="widget_pos_desc.member_wrapper_sidenav" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yan gezinmedeki dikkat çekici üyeler ve üye listeleri sayfalarını saran üye sarmalayıcı şablonu içinde görüntülenir.]]></phrase>
+  <phrase title="widget_pos_desc.online_list_sidebar" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Çeşitli çevrimiçi kullanıcı istatistikleri için online_list şablonu kenar çubuğundaki konum.]]></phrase>
+  <phrase title="widget_pos_desc.pub_sidebar_bottom" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tüm genel sayfaların altında görünen widget konumu. Sayfaya özgü widget'lar her zaman bu konumun üstünde görünecektir.]]></phrase>
+  <phrase title="widget_pos_desc.pub_sidebar_top" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tüm genel sayfaların üstünde görünen widget konumu. Sayfaya özgü widget'lar her zaman bu konumun altında görünecektir.]]></phrase>
+  <phrase title="widget_pos_desc.thread_view_above_messages" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Konu görünümünün ana içerik alanındaki, mesajların üzerindeki bir konum. Bu konumda oluşturulan widget şablonları, mevcut konu varlığını <code>{$context.thread}</code> parametresinde kullanabilir.]]></phrase>
+  <phrase title="widget_pos_desc.thread_view_below_messages" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Konu görünümünün ana içerik alanındaki, mesajların altındaki bir konum. Bu konumda oluşturulan widget şablonları, mevcut konu varlığını <code>{$context.thread}</code> parametresinde kullanabilir.]]></phrase>
+  <phrase title="widget_pos_desc.thread_view_below_quick_reply" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Konu görünümünün ana içerik alanındaki, hızlı cevabın altındaki bir konum. Bu konumda oluşturulan widget şablonları, mevcut konu varlığını <code>{$context.thread}</code> parametresinde kullanabilir.]]></phrase>
+  <phrase title="widget_pos_desc.thread_view_sidebar" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Bir konuyu görüntülerken kenar çubuğundaki konum. Bu konumda oluşturulan widget şablonları, mevcut konu varlığını <code>{$context.thread}</code> parametresinde kullanabilir.]]></phrase>
+  <phrase title="widget_pos_desc.whats_new_overview" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yeni ve son olayları görüntülemek için whats_new şablonunun içindeki konum. Bu, ana sütunu kapladığı için daha büyük widget'ları destekleyebilir.]]></phrase>
+  <phrase title="widget_pos_desc.whats_new_sidebar" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Standart yenilik içeriğinin yanındaki kenar çubuğu]]></phrase>
+  <phrase title="widget_pos_desc.whats_new_sidenav" version_id="2001270" version_string="2.0.12"><![CDATA[Yenilikler yan gezinmesinin içindeki, gezinme bloğunun altındaki konum. Buradaki widget'lar dar ekranlarda tuval dışında görünecektir. Yalnızca "Yenilikler gezinme stili" stil özelliği için yan gezinme seçeneği seçilirse uygulanabilir.]]></phrase>
+  <phrase title="widget_position_is_active" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widget konumu etkin]]></phrase>
+  <phrase title="widget_position_keys_must_be_unique" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widget konum anahtarları benzersiz olmalıdır. Belirtilen anahtar zaten kullanılıyor.]]></phrase>
+  <phrase title="widget_positions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widget konumları]]></phrase>
+  <phrase title="widget_tag_widget_attribute_must_be_widget_definition_class_name" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widget etiketi widget özniteliği bir widget tanım sınıf adı olmalıdır.]]></phrase>
+  <phrase title="widget_tags_must_contain_either_key_or_widget_attribute" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Widget etiketleri ya bir anahtar ya da sınıf özniteliği içermelidir.]]></phrase>
+  <phrase title="widget_title_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu widget için belirli bir başlık girmeyi seçebilirsiniz. Bir tane girmezseniz, widget uygun bir başlık görüntüleyecektir. Tüm widget'ların belirli bir başlık görüntülemediğini unutmayın.]]></phrase>
+  <phrase title="widgets" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widget'lar]]></phrase>
+  <phrase title="width" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Genişlik]]></phrase>
+  <phrase title="will_slow_process_down_only_needed_if_posts_in_incorrect_order" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[Bu süreci yavaşlatacaktır ve yalnızca mesajlar yanlış sırada gösteriliyorsa veya kullanıcılara bir konuya ne zaman gönderdiklerini göstermek için gereklidir.]]></phrase>
+  <phrase title="with" version_id="2001070" version_string="2.0.10"><![CDATA[İle]]></phrase>
+  <phrase title="with_people" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[İle]]></phrase>
+  <phrase title="with_selected" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seçilenlerle]]></phrase>
+  <phrase title="with_status_icons" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Durum simgeleriyle]]></phrase>
+  <phrase title="within_this_bb_code" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu BB kodu içinde]]></phrase>
+  <phrase title="without_receiving_email_notifications" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[e-posta bildirimleri almadan]]></phrase>
+  <phrase title="word_by_itself_is_easy_to_guess" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Tek başına bir kelimenin tahmin edilmesi kolaydır.]]></phrase>
+  <phrase title="word_or_phrase" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kelime veya ifade]]></phrase>
+  <phrase title="words_or_phrases_in_field_not_allowed_in_user_names" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bu alandaki kelime veya ifadelere kullanıcı adlarının hiçbir kısmında izin verilmeyecektir. Her kelime veya ifadeyi kendi satırına koyun. 'tar' girilmesi 'star' ve 'tarnish' vb. yasaklayacaktır.]]></phrase>
+  <phrase title="words_or_phrases_in_this_field_not_allowed_in_tags" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Bu alandaki kelime veya ifadelere etiketlerin hiçbir kısmında izin verilmeyecektir. Her kelime veya ifadeyi kendi satırına koyun. 'tar' girilmesi 'star' ve 'tarnish' vb. yasaklayacaktır.]]></phrase>
+  <phrase title="wrapper_display_html" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Sarmalayıcı görüntüleme HTML'i]]></phrase>
+  <phrase title="wrapper_template_html_description" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Boş değilse, bu, bu alanın ve seçilen değerlerinin içeren işaretlemesini biçimlendirmenize olanak tanır. Bu daha fazla esneklik ve özelleştirme sunar, ancak görüntülenecek seçili alan değerleri için <b>{$value}</b> yer tutucusunu kullanmalısınız. İsteğe bağlı olarak ayrıca <b>{$title}</b> - alanın başlığını, <b>{$description}</b> - alanın açıklamasını ve <b>{$fieldId}</b> - bu alanın kimliğini (<span id="FieldId">{fieldId}</span>) kullanabilirsiniz.]]></phrase>
+  <phrase title="write_comment" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yorum yaz]]></phrase>
+  <phrase title="write_something" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Bir şeyler yaz]]></phrase>
+  <phrase title="x_also_commented_on_ys_profile_post" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name} ayrıca <a {poster_params}>{poster} kullanıcısının profil mesajına</a> yorum yaptı.]]></phrase>
+  <phrase title="x_also_commented_on_ys_status" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name} ayrıca <a {poster_params}>{poster} kullanıcısının durumuna</a> yorum yaptı.]]></phrase>
+  <phrase title="x_b" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[{number}B]]></phrase>
+  <phrase title="x_bytes" version_id="1000011" version_string="1.0.0 Alpha 1" global_cache="1"><![CDATA[{size} bayt]]></phrase>
+  <phrase title="x_commented_on_your_post_on_ys_profile" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{name}, {profile} kullanıcısının profilindeki <a {post_params}>mesajınıza</a> yorum yaptı.]]></phrase>
+  <phrase title="x_commented_on_your_status" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{name} <a {status_attributes}>durumunuza</a> yorum yaptı.]]></phrase>
+  <phrase title="x_commented_on_ys_post_on_your_profile" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{name}, profilinizdeki <a {post_attributes}>{poster} kullanıcısının mesajına</a> yorum yaptı.]]></phrase>
+  <phrase title="x_days" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{days} gün]]></phrase>
+  <phrase title="x_events" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{count} olay]]></phrase>
+  <phrase title="x_for_one_day" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 gün için {cost}]]></phrase>
+  <phrase title="x_for_one_month" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 ay için {cost}]]></phrase>
+  <phrase title="x_for_one_year" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 yıl için {cost}]]></phrase>
+  <phrase title="x_for_y_days" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{length} gün için {cost}]]></phrase>
+  <phrase title="x_for_y_months" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{length} ay için {cost}]]></phrase>
+  <phrase title="x_for_y_years" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{length} yıl için {cost}]]></phrase>
+  <phrase title="x_gb" version_id="1020010" version_string="1.2.0 Alpha" global_cache="1"><![CDATA[{size} GB]]></phrase>
+  <phrase title="x_has_not_been_awarded_any_trophies_yet" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{name} henüz herhangi bir kupa kazanmadı.]]></phrase>
+  <phrase title="x_has_not_posted_any_content_recently" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{name} yakın zamanda herhangi bir içerik göndermedi.]]></phrase>
+  <phrase title="x_has_not_provided_any_additional_information" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} ek bilgi sağlamadı.]]></phrase>
+  <phrase title="x_hours" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[{count} saat]]></phrase>
+  <phrase title="x_hours_y_minutes" version_id="2000170" version_string="2.0.1"><![CDATA[{hours} saat, {minutes} dakika]]></phrase>
+  <phrase title="x_is_already_up_to_date" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{title} zaten güncel.]]></phrase>
+  <phrase title="x_is_installed_but_not_enabled_so_cannot_be_upgraded" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{title} kurulu ancak etkin değil, bu nedenle yükseltilemez.]]></phrase>
+  <phrase title="x_is_not_installed_so_cannot_be_upgraded" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{title} kurulu değil, bu nedenle yükseltilemez.]]></phrase>
+  <phrase title="x_k" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[{number}K]]></phrase>
+  <phrase title="x_kb" version_id="1010033" version_string="1.1.0 Beta 3" global_cache="1"><![CDATA[{size} KB]]></phrase>
+  <phrase title="x_m" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[{number}M]]></phrase>
+  <phrase title="x_marked_your_answer_to_question_y_as_a_solution" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[{name}, {title} sorusuna verdiğiniz cevabı çözüm olarak işaretledi.]]></phrase>
+  <phrase title="x_mb" version_id="1010033" version_string="1.1.0 Beta 3" global_cache="1"><![CDATA[{size} MB]]></phrase>
+  <phrase title="x_mentioned_you_comment_on_ys_profile" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name}, {profile} kullanıcısının profilindeki <a {post_attributes}>bir yorumda</a> sizden bahsetti.]]></phrase>
+  <phrase title="x_mentioned_you_in_comment_in_report_y" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name}, {title} raporundaki bir yorumda sizden bahsetti.]]></phrase>
+  <phrase title="x_mentioned_you_in_post_in_thread_y" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name}, {title} konusundaki bir mesajda sizden bahsetti.]]></phrase>
+  <phrase title="x_mentioned_you_message_on_ys_profile" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name}, {profile} kullanıcısının profilindeki <a {post_attributes}>bir mesajda</a> sizden bahsetti.]]></phrase>
+  <phrase title="x_minutes" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[{count} dakika]]></phrase>
+  <phrase title="x_minutes_ago" version_id="0" global_cache="1"><![CDATA[{minutes} dakika önce]]></phrase>
+  <phrase title="x_months" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{months} ay]]></phrase>
+  <phrase title="x_of_y" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{total} içinden {current}]]></phrase>
+  <phrase title="x_per_day" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Günlük {cost}]]></phrase>
+  <phrase title="x_per_month" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aylık {cost}]]></phrase>
+  <phrase title="x_per_y_days" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{length} günde bir {cost}]]></phrase>
+  <phrase title="x_per_y_months" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{length} ayda bir {cost}]]></phrase>
+  <phrase title="x_per_y_years" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{length} yılda bir {cost}]]></phrase>
+  <phrase title="x_per_year" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yıllık {cost}]]></phrase>
+  <phrase title="x_quoted_your_post_in_thread_y" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{name}, {title} konusundaki mesajınızı alıntıladı.]]></phrase>
+  <phrase title="x_ratings" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[{count} değerlendirme]]></phrase>
+  <phrase title="x_reacted_to_your_comment_on_your_profile_post" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}, profil mesajınızdaki <a {post_attributes}>yorumunuza</a> {reaction} ile tepki verdi.]]></phrase>

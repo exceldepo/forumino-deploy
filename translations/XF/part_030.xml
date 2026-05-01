@@ -1,0 +1,300 @@
+  <phrase title="style_prop_desc.linkUgcHoverColor" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[UGC'deki bağlantılar için üzerine gelme durumu]]></phrase>
+  <phrase title="style_prop_desc.majorHeadingBg" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.majorHeadingTextColor" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.memberHeader" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Üye profili sayfasının içerik başlığı bu ayarlarla stillendirilir]]></phrase>
+  <phrase title="style_prop_desc.memberHeaderBlurbContainerBanner" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.memberHeaderName" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sayfası görüntülenen üyenin adının stili buradan kontrol edilir]]></phrase>
+  <phrase title="style_prop_desc.memberHeaderNameBanner" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı bir profil afişi yüklediyse, ipucu görüntülenen kullanıcının adı için stil]]></phrase>
+  <phrase title="style_prop_desc.memberTooltipBlurbContainerBanner" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.memberTooltipHeader" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı adlarının üzerine gelindiğinde görünen üye ipucu, bu kontrollerle stillendirilir]]></phrase>
+  <phrase title="style_prop_desc.memberTooltipName" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İpucu görüntülenen kullanıcının adı için stil]]></phrase>
+  <phrase title="style_prop_desc.memberTooltipNameBanner" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı bir profil afişi yüklediyse, ipucu görüntülenen kullanıcının adı için stil]]></phrase>
+  <phrase title="style_prop_desc.menu" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tüm açılır menülerin ana bloğunu kontrol eder]]></phrase>
+  <phrase title="style_prop_desc.menuBorderRadius" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tüm menüler için kenarlık yarıçapının boyutunu kontrol eder]]></phrase>
+  <phrase title="style_prop_desc.menuFeatureBorderColor" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Açılır menülerin üst kenarında kalın bir özellik kenarlığı bulunur, stili buradan kontrol edilir]]></phrase>
+  <phrase title="style_prop_desc.menuFooter" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bir açılır menünün altında, alt bilgi öğesi olduğunda, bu ayarları kullanır]]></phrase>
+  <phrase title="style_prop_desc.menuHeader" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Çoğu menü, üst kenarlığının hemen altındaki bir başlıkla kendini tanımlar]]></phrase>
+  <phrase title="style_prop_desc.menuLinkRow" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Açılır menülerdeki bağlantı satırları için stil]]></phrase>
+  <phrase title="style_prop_desc.menuLinkRowSelected" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Menülerdeki bağlantı satırları için, seçildiğinde veya üzerine gelindiğinde stil]]></phrase>
+  <phrase title="style_prop_desc.menuTabHeader" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Çok parçalı, sekmeli menü başlıkları bu ayarları kullanır]]></phrase>
+  <phrase title="style_prop_desc.menuTabHeaderSelected" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Çok parçalı menü başlıklarındaki seçili sekmeyi kontrol eder]]></phrase>
+  <phrase title="style_prop_desc.messageNewIndicator" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Genellikle mesaj bloğuna eklenen küçük bir simge, bir mesajın yeni/okunmamış olduğunu gösteren gösterge buradan kontrol edilir]]></phrase>
+  <phrase title="style_prop_desc.messagePadding" version_id="2020470" version_string="2.2.4"><![CDATA[Tam boy mesaj bloğu kullanırken, bu değer mesaj metni etrafındaki iç kenar boşluğunun boyutunu tanımlar]]></phrase>
+  <phrase title="style_prop_desc.messagePaddingSmall" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu değer, küçük mesaj bloğu kullanılırken mesaj metni etrafındaki iç kenar boşluğunu kontrol eder]]></phrase>
+  <phrase title="style_prop_desc.messageSignature" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcıların mesajlarındaki imzalarına stil uygulamak için kullanılan tüm kurallar burada tanımlanır]]></phrase>
+  <phrase title="style_prop_desc.messageSingleColumnWidth" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Görüntü alanı bu değerden küçük olduğunda, kullanıcı sütunu daralır ve tek sütunlu mesaj düzeni kalır]]></phrase>
+  <phrase title="style_prop_desc.messageUserBlock" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Genişliği dışında, (sol) mesaj kullanıcı bilgi sütunu burada stillendirilir]]></phrase>
+  <phrase title="style_prop_desc.messageUserBlockWidth" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tam boy mesaj bloğundaki (sol) kullanıcı bilgi sütununun genişliğini kontrol eder]]></phrase>
+  <phrase title="style_prop_desc.messageUserElements" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Burada seçilen öğeler mesaj kullanıcı bilgi bloğunda görüntülenecektir. Tek sütun genişliğinin altında görüntülenmeyecektir.]]></phrase>
+  <phrase title="style_prop_desc.metaThemeColor" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bu, PWA kurulumları için kullanılan tema rengini ve Android için Chrome'daki adres çubuğu rengini ayarlar.]]></phrase>
+  <phrase title="style_prop_desc.minorBlockContent" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ana içerikten daha az önemli olan bloklardaki içerik burada stillendirilebilir]]></phrase>
+  <phrase title="style_prop_desc.minorHeadingTextColor" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.nodeIconReadColor" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bir düğüm içindeki içerik okunduğunda, simgesi burada tanımlanan daha az dikkat çekici bir renge dönecektir]]></phrase>
+  <phrase title="style_prop_desc.nodeIconUnreadColor" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Düğüm simgeleri, düğüm içindeki içeriğin okunup okunmadığına dair bir bakışta bilgi verir. Okunmamış simge rengi, hızlı tanımlama için arka planından öne çıkmalıdır]]></phrase>
+  <phrase title="style_prop_desc.nodeListDescriptionDisplay" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dikey alandan tasarruf etmek için, düğüm açıklamalarını düğüm başlığının üzerine gelinene kadar gizlemek mümkündür, bu noktada bir ipucu içinde görüntülenirler]]></phrase>
+  <phrase title="style_prop_desc.nodeListSubDisplay" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Belirli bir düğüm öğesi içinde alt forumların ne kadar yer kaplamasını istediğinize göre, görüntülenecek stili seçin]]></phrase>
+  <phrase title="style_prop_desc.noticeScrollInterval" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Her kaydırılabilir bildirim, bir sonraki görüntülenmeden önce bu süre boyunca görüntülenecektir. Bildirimlerin üzerine gelmek veya etkileşime girmek otomatik kaydırmayı önler.]]></phrase>
+  <phrase title="style_prop_desc.overlayHeader" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bindirmeler, içeriklerini tanımlamak için burada stillendirilen bir başlık öğesi kullanır]]></phrase>
+  <phrase title="style_prop_desc.overlayMaskBlur" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Bir bindirme görüntülendiğinde, sayfa içeriği burada belirtilen miktarda bulanıklaştırılır. Bu, bindirme içeriğine odaklanmaya yardımcı olabilir.]]></phrase>
+  <phrase title="style_prop_desc.overlayMaskColor" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bir bindirme gösterildiğinde, arkadaki sayfa burada tanımlanan renkle maskelenir. Sayfanın görünmesini sağlamak için RGBA şeffaflığını kullanın]]></phrase>
+  <phrase title="style_prop_desc.overlayTopMargin" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu, görüntü alanının üst kısmı ile bindirmenin üst kısmı arasındaki mesafeyi tanımlar]]></phrase>
+  <phrase title="style_prop_desc.paddingLarge" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.paddingLargest" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.paddingMedium" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.paddingSmall" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.pageBackground" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tüm blok öğelerinin arkasındaki sayfa arka planı, burada tanımlanan stil kurallarını kullanır]]></phrase>
+  <phrase title="style_prop_desc.pageBg" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Diğer tüm içeriğin üzerinde durduğu sayfanın arka planı]]></phrase>
+  <phrase title="style_prop_desc.pageEdgeSpacer" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tüm öğeler, sayfa kenarlarından en az bu kadar uzakta yer alacaktır]]></phrase>
+  <phrase title="style_prop_desc.pageNavBase" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Tıklanabilir sayfa numaralarını stillendirmek için kullanılır]]></phrase>
+  <phrase title="style_prop_desc.pageNavCurrent" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Mevcut sayfa numarasını gösteren kontrolü stillendirir]]></phrase>
+  <phrase title="style_prop_desc.pageNavStyle" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Bu, sayfa gezinmesinin görünümünü kontrol eder. "Basit" mevcut sayfaya odaklanır ve dokunmatik cihazlar için iyidir. "Tam" göreli sayfa numaralarını gösterir ve masaüstleri için iyidir. "Karışık" cihaz boyutuna göre aralarında geçiş yapar.]]></phrase>
+  <phrase title="style_prop_desc.pageWidthMax" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pencere yeniden boyutlandırıldığında, bu değere kadar genişlikte büyümeye devam edecek, ardından sabit kalacaktır]]></phrase>
+  <phrase title="style_prop_desc.paletteAccent1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.paletteAccent2" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.paletteAccent3" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.paletteColor1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.paletteColor2" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.paletteColor3" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.paletteColor4" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.paletteColor5" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.paletteNeutral1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.paletteNeutral2" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.paletteNeutral3" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.profilePostCommentToggle" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Etkinleştirilirse, profil mesajı yorumu için giriş yalnızca geçiş tıklandıktan sonra görüntülenecektir.]]></phrase>
+  <phrase title="style_prop_desc.progressBarColor" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İlerleme çubuğu, sistem sunucudan yanıt beklerken pencerenin üst kısmında görünür]]></phrase>
+  <phrase title="style_prop_desc.publicFaviconUrl" version_id="2020170" version_string="2.2.1"><![CDATA[Sitenize işaret eden yer imleriyle ilişkili küçük logoya giden yol. Bunun 32x32 PNG görüntüsü olması beklenir.]]></phrase>
+  <phrase title="style_prop_desc.publicFooter" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alt bilgi, tüm genel sayfalarda ana içeriğin altında bulunan birincil öğedir]]></phrase>
+  <phrase title="style_prop_desc.publicFooterLink" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alt bilgi içindeki bireysel bağlantılar için stili kontrol eder]]></phrase>
+  <phrase title="style_prop_desc.publicHeader" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Başlık satırı logonuzu içerir ve her genel sayfanın üstünde bulunur]]></phrase>
+  <phrase title="style_prop_desc.publicHeaderAdjustColor" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Başlık arka planı rengi, başlıktaki gelen kutusu ve uyarılar alanı için arka plan olarak kullanılmak üzere ayarlanır]]></phrase>
+  <phrase title="style_prop_desc.publicIconUrl" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Simge görüntünüze giden yol. Bu 192x192 görüntü ve genellikle bir PNG olmalıdır.]]></phrase>
+  <phrase title="style_prop_desc.publicIconUrlLarge" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Büyük simge görüntünüze giden yol. Bu 512x512 görüntü ve genellikle bir PNG olmalıdır.]]></phrase>
+  <phrase title="style_prop_desc.publicIconsMaskable" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Etkinleştirilirse, yukarıdaki simgelerin <a href="https://web.dev/maskable-icon/" target="_blank">minimum güvenli bölgeye</a> uyduğunu ve çeşitli cihazlar için uygun simge boyutuna kırpılabileceğini belirtmiş olursunuz.]]></phrase>
+  <phrase title="style_prop_desc.publicLogoHeight" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Logonuzun yüksekliğini burada belirtirseniz, logo yüklendikten sonra sayfa düzeninizin masraflı bir şekilde yeniden akışını önleyebilirsiniz.]]></phrase>
+  <phrase title="style_prop_desc.publicLogoUrl" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[XenForo kök dizininizden logonuza giden yol. Alternatif varyasyonlar belirtirseniz, aynı boyutta olmalıdırlar. SVG belirtirseniz, daha iyi uyumluluk için <b>E-postalar &gt; E-posta logo URL'si</b>'ni PNG veya benzerine ayarlamalısınız.]]></phrase>
+  <phrase title="style_prop_desc.publicLogoUrl2x" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Logo görüntünüzün çift çözünürlüklü / retina sürümüne giden yol. Alternatif varyasyonlar belirtirseniz, aynı boyutta olmalıdırlar.]]></phrase>
+  <phrase title="style_prop_desc.publicLogoWidth" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Logonuzun genişliğini burada belirtirseniz, logo yüklendikten sonra sayfa düzeninizin masraflı bir şekilde yeniden akışını önleyebilirsiniz.]]></phrase>
+  <phrase title="style_prop_desc.publicMetadataLogoUrl" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Sosyal medyada sitenizin kullandığı meta veri / OpenGraph logosuna giden yol]]></phrase>
+  <phrase title="style_prop_desc.publicNav" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gezinme satırı başlığın altında yer alır ve birincil site gezinme sekmelerini ve menülerini içerir]]></phrase>
+  <phrase title="style_prop_desc.publicNavCollapseWidth" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu sayfa genişliğinin altında, gezinme sistemi bir tuval dışı menüye daraltılır]]></phrase>
+  <phrase title="style_prop_desc.publicNavPaddingH" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Başlıktaki her ana gezinme sekmesine yatay olarak uygulanan iç kenar boşluğu miktarını tanımlar]]></phrase>
+  <phrase title="style_prop_desc.publicNavPaddingV" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu değer, başlıktaki ana gezinme sekmelerine uygulanan iç kenar boşluğu miktarını tanımlar]]></phrase>
+  <phrase title="style_prop_desc.publicNavSelected" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seçildiklerinde gezinme sekmelerine uygulanacak ek stil]]></phrase>
+  <phrase title="style_prop_desc.publicNavSticky" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Başlığınızın bir kısmının veya tümünün sayfa kaydırıldığında üstte sabitlenmesini istiyorsanız, hangi öğelerin sabitleneceğini seçin]]></phrase>
+  <phrase title="style_prop_desc.publicNavTab" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gezinme satırındaki bireysel sekme öğelerinin stilini kontrol eder]]></phrase>
+  <phrase title="style_prop_desc.publicNavTabHover" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İmleç üzerlerine geldiğinde gezinme sekmelerine uygulanacak ek stil]]></phrase>
+  <phrase title="style_prop_desc.publicNavTabMenuOpen" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mevcut sekme için açılır menü görünür olduğunda uygulanan stil]]></phrase>
+  <phrase title="style_prop_desc.publicPushBadgeUrl" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Burada tek renkli/alfa kanal logo/simgesine bir URL sağlarsanız, tarayıcının varsayılan simgesi yerine bu kullanılacaktır.]]></phrase>
+  <phrase title="style_prop_desc.publicPwaInstallVideoUrl" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[iOS kullanıcılarına PWA'nın nasıl kurulacağını gösteren videoya giden yol.]]></phrase>
+  <phrase title="style_prop_desc.publicStaffBar" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yalnızca personele görünür olan personel araç çubuğu, başlığın üzerinde yer alır ve raporlanan içerik, moderasyon kuyruğu... gibi öğeleri içerir]]></phrase>
+  <phrase title="style_prop_desc.publicSubNav" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ana gezinme satırının altında, bu satır seçili ana gezinme sekmesiyle ilişkili içeriği gösterir]]></phrase>
+  <phrase title="style_prop_desc.publicSubNavElHover" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İmleç üzerlerine geldiğinde alt gezinme sekmelerine uygulanan ek stil]]></phrase>
+  <phrase title="style_prop_desc.publicSubNavElMenuOpen" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Açılır menüsü şu anda açık olan alt gezinme öğelerini stillendirir]]></phrase>
+  <phrase title="style_prop_desc.publicSubNavPaddingH" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Her alt gezinme öğesi için yatay iç kenar boşluğu miktarı]]></phrase>
+  <phrase title="style_prop_desc.publicSubNavPaddingV" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Başlıktaki alt gezinme çubuğundaki her öğeye uygulanan dikey iç kenar boşluğu miktarını tanımlar]]></phrase>
+  <phrase title="style_prop_desc.reactionSummaryOnLists" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Etkinleştirilirse, alınan ilk üç tepki liste sayfalarında (konu listeleri gibi) görüntülenecektir.]]></phrase>
+  <phrase title="style_prop_desc.responsiveEdgeSpacerRemoval" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sayfa bu değerden daha dar olduğunda, sayfa kenarındaki aralayıcılar atılır]]></phrase>
+  <phrase title="style_prop_desc.responsiveMedium" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu sayfa genişliği değerinin altında orta genişlik stil kuralları kullanılır]]></phrase>
+  <phrase title="style_prop_desc.responsiveNarrow" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sayfa genişliği bu değerden küçükse 'dar' olarak kabul edilir]]></phrase>
+  <phrase title="style_prop_desc.responsiveWide" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sayfa, genişliği bu değerin altındaysa 'geniş' stil kurallarını, genişlik aşıldığında 'tam' kuralları kullanır]]></phrase>
+  <phrase title="style_prop_desc.scrollJumpButtons" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Etkinleştirilirse, sayfa kaydırıldıktan kısa bir süre sonra sayfanın üst veya alt kısmına atlamanıza olanak tanıyan kayan düğmeler görüntülenecektir. Bu yalnızca yukarı kaydırırken tetiklenirse, yalnızca üste atlama düğmesi görüntülenecektir.]]></phrase>
+  <phrase title="style_prop_desc.selectedItemBgColor" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.selectedItemBorderColor" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.selectedItemColor" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.sidebarSpacer" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ana içerik ile kenar çubuğu arasındaki mesafe]]></phrase>
+  <phrase title="style_prop_desc.sidebarWidth" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kenar çubuğunu oluşturan herhangi bir öğenin genişliği]]></phrase>
+  <phrase title="style_prop_desc.standaloneTab" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blok başlıklarının parçası olmayan sekmeler burada stillendirilir]]></phrase>
+  <phrase title="style_prop_desc.standaloneTabSelected" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blok başlıklarının parçası olmayan gruplardaki seçili sekme]]></phrase>
+  <phrase title="style_prop_desc.starEmptyColor" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu, her derecelendirme yıldızının boş kısmının rengidir.]]></phrase>
+  <phrase title="style_prop_desc.starFullColor" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu, her derecelendirme yıldızının dolu kısmının rengidir.]]></phrase>
+  <phrase title="style_prop_desc.styleType" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu, içeriğin açık veya koyu bir arka plana yerleştirilip yerleştirilmediğine göre kullanılan genel stil türünü tanımlar. Bu, belirli senaryolarda renklerin nasıl seçileceğini değiştirebilir.]]></phrase>
+  <phrase title="style_prop_desc.subNavBg" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.subNavTextColor" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.successBg" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.successColor" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.successFeatureColor" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.textColor" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aksi belirtilmedikçe, metin bu renkte olacaktır]]></phrase>
+  <phrase title="style_prop_desc.textColorAccentContent" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.textColorAttention" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.textColorDimmed" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Daha az önemli metin normal metnin yanına yerleştirildiğinde kullanılır]]></phrase>
+  <phrase title="style_prop_desc.textColorEmphasized" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.textColorFeature" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.textColorMuted" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Metin bu stil kullanılarak daha da vurgusuzlaştırılır]]></phrase>
+  <phrase title="style_prop_desc.tooltip" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bazı öğelerin özel kayan ipuçları vardır, buradan kontrol edilirler]]></phrase>
+  <phrase title="style_prop_desc.voteNegativeColor" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.votePositiveColor" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.warningBg" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.warningColor" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.warningFeatureColor" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.whatsNewNavStyle" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu, <i>Yenilikler</i> bölümünde gezinmenin nasıl görüntüleneceğini kontrol eder. Yan gezinme daha fazla bölümle daha iyi çalışır ancak daha fazla alan gerektirir.]]></phrase>
+  <phrase title="style_prop_desc.zIndexMultiplier" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Z boyutundaki (ekrana dik) öğelerin göreli 'yüksekliğini' kontrol eder. Bunu değiştirmek için belirli bir nedeniniz yoksa, dokunmayın...]]></phrase>
+  <phrase title="style_prop_group.avatar" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avatarlar]]></phrase>
+  <phrase title="style_prop_group.basic" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Temel seçenekler]]></phrase>
+  <phrase title="style_prop_group.bbCode" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[BB kodu öğeleri]]></phrase>
+  <phrase title="style_prop_group.block" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bloklar]]></phrase>
+  <phrase title="style_prop_group.borderSpacing" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kenarlıklar ve aralıklar]]></phrase>
+  <phrase title="style_prop_group.button" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Düğmeler]]></phrase>
+  <phrase title="style_prop_group.color" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Temel renkler]]></phrase>
+  <phrase title="style_prop_group.content" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İçerik alanları]]></phrase>
+  <phrase title="style_prop_group.dataList" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Veri listeleri]]></phrase>
+  <phrase title="style_prop_group.email" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[E-postalar]]></phrase>
+  <phrase title="style_prop_group.fonts" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tipografi]]></phrase>
+  <phrase title="style_prop_group.footer" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alt bilgi]]></phrase>
+  <phrase title="style_prop_group.form" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Formlar]]></phrase>
+  <phrase title="style_prop_group.headerNav" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Başlık ve gezinme]]></phrase>
+  <phrase title="style_prop_group.inlineMod" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Satır içi moderasyon]]></phrase>
+  <phrase title="style_prop_group.input" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Girişler]]></phrase>
+  <phrase title="style_prop_group.member" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Üye profilleri]]></phrase>
+  <phrase title="style_prop_group.menu" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Açılır menüler]]></phrase>
+  <phrase title="style_prop_group.message" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesajlar]]></phrase>
+  <phrase title="style_prop_group.misc" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Çeşitli]]></phrase>
+  <phrase title="style_prop_group.nodeList" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Düğüm/forum listesi]]></phrase>
+  <phrase title="style_prop_group.overlay" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bindirmeler]]></phrase>
+  <phrase title="style_prop_group.page" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sayfa kurulumu]]></phrase>
+  <phrase title="style_prop_group.pageNav" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Sayfa numaraları]]></phrase>
+  <phrase title="style_prop_group.palette" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Renk paleti]]></phrase>
+  <phrase title="style_prop_group.rte" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Zengin metin editörü]]></phrase>
+  <phrase title="style_prop_group.tab" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sekmeler]]></phrase>
+  <phrase title="style_prop_group.tooltip" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İpuçları]]></phrase>
+  <phrase title="style_prop_group_desc.avatar" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avatarlar, kullanıcıların grafiksel temsilleridir. Bazı kullanıcılar kendi görüntülerini yükleyebilirken, diğerleri varsayılan harf tabanlı görüntüleri kullanacaktır. Her iki türün stili de buradan kontrol edilir.]]></phrase>
+  <phrase title="style_prop_group_desc.basic" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yaygın olarak kullanılan çeşitli varlıkların konumunu vb. tanımlar.]]></phrase>
+  <phrase title="style_prop_group_desc.bbCode" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu bölüm, mesajları ve diğer kullanıcı tarafından oluşturulan içeriği stillendirmek için kullanılan BB kodlarıyla ilgili özellikleri ve seçenekleri içerir.]]></phrase>
+  <phrase title="style_prop_group_desc.block" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[XenForo içindeki çoğu içerik, içeriği bir HTML kutu koleksiyonunda saran ve çok esnek stillendirmeye olanak tanıyan bir 'blok' yapısı içinde sunulur. Bu kutuları kontrol eden ayarlar buradadır.]]></phrase>
+  <phrase title="style_prop_group_desc.borderSpacing" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yapısal kenarlıkların kalınlığını ve rengini kontrol eden ayarların yanı sıra öğe aralığı ve iç kenar boşluğu için genel ayarlar.]]></phrase>
+  <phrase title="style_prop_group_desc.button" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[XenForo içinde çeşitli metin düğmesi türleri kullanılır ancak hepsi burada bulunan ortak stil özelliklerini paylaşır.]]></phrase>
+  <phrase title="style_prop_group_desc.color" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu ayarlar, sistem genelinde belirli içerik veya yapı türleri için kullanılacak renkleri tanımlar. Tutarlılık ve düzenleme kolaylığı için kullanılan renkler öncelikle Renk Paletinden gelmelidir.]]></phrase>
+  <phrase title="style_prop_group_desc.content" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İçerik alanlarının, yani üzerinde dinamik bilgilerin sunulduğu alanların stili buradan kontrol edilir.]]></phrase>
+  <phrase title="style_prop_group_desc.dataList" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Veri listeleri, satır ve sütunlara (tablo halinde içerik) düzenlenmiş içeriği görüntülemek için kullanılır.]]></phrase>
+  <phrase title="style_prop_group_desc.email" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[HTML e-posta stillendirmesi için temel ayarlar burada bulunur.]]></phrase>
+  <phrase title="style_prop_group_desc.fonts" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sistemdeki metin stilini ve boyutunu kontrol eden ayarlar.]]></phrase>
+  <phrase title="style_prop_group_desc.footer" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alt bilgi arka planı ve metin stili dahil olmak üzere genel sayfaların alt öğeleri buradan kontrol edilir.]]></phrase>
+  <phrase title="style_prop_group_desc.form" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Form başlıkları, etiket sütunları vb. gibi form yapısal öğeleri için stillendirme ve farklı görüntü alanı boyutlarındaki öğeler için boyutlar burada bulunur.]]></phrase>
+  <phrase title="style_prop_group_desc.headerNav" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gezinme sekmeleri ve başlık logosu dahil olmak üzere genel sayfaların üst öğeleri bu ayarlarla kontrol edilir.]]></phrase>
+  <phrase title="style_prop_group_desc.inlineMod" version_id="2030037" version_string="2.3.0 Beta 7"><![CDATA[Satır içi moderasyon, moderatörlerin birden fazla içerik parçasına karşı aynı anda eylem gerçekleştirmesine olanak tanır. Doğrudan mesajlar gibi sistemler aracılığıyla üyelere de açılabilir.]]></phrase>
+  <phrase title="style_prop_group_desc.input" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bireysel form kontrolleri - öncelikle metin kutuları, odaklanmış ve devre dışı bırakılmış varyantlar dahil olmak üzere burada stillendirilir.]]></phrase>
+  <phrase title="style_prop_group_desc.member" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bir kullanıcının tam bilgilerinin görüntülendiği özel sayfa için öğeler burada stillendirilir.]]></phrase>
+  <phrase title="style_prop_group_desc.menu" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sistemdeki çoğu açılır menü, burada bulunan ortak stil özelliklerini paylaşır.]]></phrase>
+  <phrase title="style_prop_group_desc.message" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ana mesaj bloğunu oluşturmak için birleşen, mesajın kendisi, kullanıcı bilgi bloğu ve imza dahil olmak üzere çeşitli öğeler buradan kontrol edilir.]]></phrase>
+  <phrase title="style_prop_group_desc.misc" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rozetler, çipler ve animasyon parametreleri dahil olmak üzere başka yere uymayan çeşitli ayarlar buraya dahil edilmiştir.]]></phrase>
+  <phrase title="style_prop_group_desc.nodeList" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forumlar, sayfalar vb. hiyerarşik liste için belirli stillendirme öğeleri buraya dahil edilmiştir.]]></phrase>
+  <phrase title="style_prop_group_desc.overlay" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Çeşitli bindirmeler (sayfanın geri kalanının üzerinde açılan içerik pencereleri) için ortak stillendirme kontrolleri burada bulunur.]]></phrase>
+  <phrase title="style_prop_group_desc.page" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Sayfaların düzeni ve farklı görüntü alanı boyutlarına nasıl tepki verdiğiyle ilgili ayarlar. Ayrıca bazı evrensel öğeler için stillendirme.]]></phrase>
+  <phrase title="style_prop_group_desc.pageNav" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Numaralı sayfalara atlamak için kullanılan kontrollerin görünümünü kontrol eder.]]></phrase>
+  <phrase title="style_prop_group_desc.palette" version_id="2030070" version_string="2.3.0"><![CDATA[Bu, sitenizin kullanacağı temel renk setini tanımlar. Bu renklerin belirli kullanımları bireysel gruplar içinde tanımlanabilir.]]></phrase>
+  <phrase title="style_prop_group_desc.rte" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Zengin metin (veya WYSIWYG) editörü, foruma gönderilen mesajlar için metin girmenin tercih edilen yöntemidir. Editörün çeşitli kısımları bu gruptaki ayarlarla stillendirilebilir.]]></phrase>
+  <phrase title="style_prop_group_desc.tab" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bağımsız sekmeler - ana sayfa gezinmesinin parçası olmayanlar, buradan kontrol edilir.]]></phrase>
+  <phrase title="style_prop_group_desc.tooltip" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İpuçları (genellikle), amacını veya içeriğini iletmek için ek bilgi gerektirebilecek sayfa öğelerinin üzerine fare imleci geldiğinde görünen küçük ipuçlarıdır.]]></phrase>
+  <phrase title="style_prop_vgroup.accent" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Vurgu]]></phrase>
+  <phrase title="style_prop_vgroup.bbCodeImage" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[BB kodu görüntüsü]]></phrase>
+  <phrase title="style_prop_vgroup.blockFooter" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Blok alt bilgisi]]></phrase>
+  <phrase title="style_prop_vgroup.blockTabHeader" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Blok sekme başlığı]]></phrase>
+  <phrase title="style_prop_vgroup.borderBasic" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Temel kenarlık]]></phrase>
+  <phrase title="style_prop_vgroup.borderOther" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Diğer kenarlık]]></phrase>
+  <phrase title="style_prop_vgroup.borderRadius" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Kenarlık yarıçapı]]></phrase>
+  <phrase title="style_prop_vgroup.borderSize" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Kenarlık boyutu]]></phrase>
+  <phrase title="style_prop_vgroup.buttons" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Düğmeler]]></phrase>
+  <phrase title="style_prop_vgroup.chrome" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Chrome]]></phrase>
+  <phrase title="style_prop_vgroup.contentBackground" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[İçerik arka planı]]></phrase>
+  <phrase title="style_prop_vgroup.errorMessage" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Hata mesajı]]></phrase>
+  <phrase title="style_prop_vgroup.font" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Yazı tipi]]></phrase>
+  <phrase title="style_prop_vgroup.header" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Başlık]]></phrase>
+  <phrase title="style_prop_vgroup.heading" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Başlık]]></phrase>
+  <phrase title="style_prop_vgroup.input" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Giriş]]></phrase>
+  <phrase title="style_prop_vgroup.links" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Bağlantılar]]></phrase>
+  <phrase title="style_prop_vgroup.logo" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Logo]]></phrase>
+  <phrase title="style_prop_vgroup.navPad" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Gezinme iç kenar boşluğu]]></phrase>
+  <phrase title="style_prop_vgroup.navigation" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Gezinme]]></phrase>
+  <phrase title="style_prop_vgroup.neutral" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Nötr]]></phrase>
+  <phrase title="style_prop_vgroup.padding" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[İç kenar boşluğu]]></phrase>
+  <phrase title="style_prop_vgroup.page" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Sayfa]]></phrase>
+  <phrase title="style_prop_vgroup.primary" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Birincil]]></phrase>
+  <phrase title="style_prop_vgroup.responsive" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Duyarlı]]></phrase>
+  <phrase title="style_prop_vgroup.selectedContent" version_id="2020052" version_string="2.2.0 Release Candidate 2"><![CDATA[Seçilen içerik]]></phrase>
+  <phrase title="style_prop_vgroup.selectedItems" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Seçilen öğeler]]></phrase>
+  <phrase title="style_prop_vgroup.setup" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Kurulum]]></phrase>
+  <phrase title="style_prop_vgroup.sidebar" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Kenar çubuğu]]></phrase>
+  <phrase title="style_prop_vgroup.size" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Boyut]]></phrase>
+  <phrase title="style_prop_vgroup.spacer" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Aralayıcı]]></phrase>
+  <phrase title="style_prop_vgroup.spacing" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Aralık]]></phrase>
+  <phrase title="style_prop_vgroup.subNavPad" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Alt gezinme iç kenar boşluğu]]></phrase>
+  <phrase title="style_prop_vgroup.successMessage" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Başarı mesajı]]></phrase>
+  <phrase title="style_prop_vgroup.textBasic" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Temel metin]]></phrase>
+  <phrase title="style_prop_vgroup.textOther" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Diğer metin]]></phrase>
+  <phrase title="style_prop_vgroup.toolbar" version_id="2020052" version_string="2.2.0 Release Candidate 2"><![CDATA[Araç çubuğu]]></phrase>
+  <phrase title="style_prop_vgroup.user" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Kullanıcı]]></phrase>
+  <phrase title="style_prop_vgroup.voting" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Oylama]]></phrase>
+  <phrase title="style_prop_vgroup.warningMessage" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Uyarı mesajı]]></phrase>
+  <phrase title="style_prop_vgroup.weight" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Ağırlık]]></phrase>
+  <phrase title="style_properties" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stil özellikleri]]></phrase>
+  <phrase title="style_properties_in_style_can_not_be_modified" version_id="0"><![CDATA[Bu stildeki stil özellikleri değiştirilemez. Lütfen başka birini deneyin.]]></phrase>
+  <phrase title="style_property" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[Stil özelliği]]></phrase>
+  <phrase title="style_property_definitions_must_be_unique_per_style" version_id="0"><![CDATA[Stil özelliği tanımları her stil için benzersiz olmalıdır. Belirtilen kimlik bu stilde zaten kullanılmaktadır.]]></phrase>
+  <phrase title="style_property_grouping" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Gruplama]]></phrase>
+  <phrase title="style_property_groups_must_be_unique_per_style" version_id="0"><![CDATA[Stil özelliği grupları her stil için benzersiz olmalıdır. Belirtilen kimlik bu stilde veya bir üst stilde zaten kullanılmaktadır.]]></phrase>
+  <phrase title="style_variation" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Stil varyasyonu]]></phrase>
+  <phrase title="style_variation.alternate" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Alternatif]]></phrase>
+  <phrase title="style_variation.default" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Varsayılan]]></phrase>
+  <phrase title="styles" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Stiller]]></phrase>
+  <phrase title="sub_categories" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alt kategoriler]]></phrase>
+  <phrase title="sub_forums" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alt forumlar]]></phrase>
+  <phrase title="sub_name" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alt ad]]></phrase>
+  <phrase title="sub_sections" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alt bölümler]]></phrase>
+  <phrase title="subject" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konu]]></phrase>
+  <phrase title="submit_rating" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Derecelendirmeyi gönder]]></phrase>
+  <phrase title="submitted_message_is_too_long_to_be_processed" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gönderilen mesaj işlenemeyecek kadar uzun. Lütfen kısaltın.]]></phrase>
+  <phrase title="subscriber_id" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abone Kimliği]]></phrase>
+  <phrase title="success" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Başarılı]]></phrase>
+  <phrase title="suggestion_closed_votes_not_accepted" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bu öneri kapatıldı. Artık oylar kabul edilmiyor.]]></phrase>
+  <phrase title="suggestion_implemented_votes_not_accepted" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bu öneri uygulandı. Artık oylar kabul edilmiyor.]]></phrase>
+  <phrase title="suggestion_status" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Öneri durumu]]></phrase>
+  <phrase title="summary_of_what_you_missed_recently" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Son zamanlarda kaçırdıklarınızın özeti]]></phrase>
+  <phrase title="super_administrator" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Süper yönetici]]></phrase>
+  <phrase title="super_admins_have_all_admin_permissions_and_can_manage_other_admins" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Süper yöneticiler tüm yönetici izinlerine sahiptir ve diğer yöneticileri yönetebilir.]]></phrase>
+  <phrase title="super_admins_will_not_be_updated" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Belirtilen toplu güncelleme eylemlerinin hiçbiri süper yöneticilere uygulanmayacaktır.]]></phrase>
+  <phrase title="super_moderator" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Süper moderatör]]></phrase>
+  <phrase title="super_moderator_can_moderate_entire_board" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Bir süper moderatör tüm forumu modere edebilir.]]></phrase>
+  <phrase title="super_moderators" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Süper moderatörler]]></phrase>
+  <phrase title="super_user_key" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Süper kullanıcı anahtarı]]></phrase>
+  <phrase title="support" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Destek]]></phrase>
+  <phrase title="support_answer_voting" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Cevap oylamayı destekle]]></phrase>
+  <phrase title="supports_option_parameter" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seçenek parametresini destekler]]></phrase>
+  <phrase title="sure_you_want_to_clear_server_error_log" version_id="1010034" version_string="1.1.0 Beta 4"><![CDATA[Sunucu hata günlüğünü temizlemek istediğinizden emin misiniz?]]></phrase>
+  <phrase title="sure_you_want_to_resend_account_confirmation_email" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Hesap onay e-postasını yeniden göndermek istediğinizden emin misiniz? Önceki tüm hesap onay e-postaları artık çalışmayacaktır. Bu e-posta {email} adresine gönderilecektir.]]></phrase>
+  <phrase title="sync_changes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Değişiklikleri senkronize et]]></phrase>
+  <phrase title="syntax_error" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Söz dizimi hatası]]></phrase>
+  <phrase title="system" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Sistem]]></phrase>
+  <phrase title="table_header" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Tablo başlığı]]></phrase>
+  <phrase title="table_prefix_incorrect_try_x" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[Belirtilen tablo öneki doğru değil, ancak veritabanında aşağıdaki önekler bulundu - bunlardan birini deneyin:<br />
+<br />
+<code>{prefixlist}</code>]]></phrase>
+  <phrase title="table_prefix_or_database_name_is_not_correct" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Tablo öneki veya veritabanı adı doğru değil.]]></phrase>
+  <phrase title="tabs" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sekmeler]]></phrase>
+  <phrase title="tag" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Etiket]]></phrase>
+  <phrase title="tag_contains" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Etiket içerir]]></phrase>
+  <phrase title="tag_match_regular_expression" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Etiket eşleşme düzenli ifadesi]]></phrase>
+  <phrase title="tag_must_be_valid_conditional_using_is_attribute_or_content_checking" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Etiket, is özniteliği veya içerik kontrolü kullanan geçerli bir koşullu olmalıdır.]]></phrase>
+  <phrase title="tag_url_versions_must_be_unique" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Etiketlerin URL sürümleri benzersiz olmalıdır. Belirtilen sürüm zaten mevcut.]]></phrase>
+  <phrase title="tag_x_contains_unexpected_child_element" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} etiketi beklenmeyen bir alt öğe içeriyor.]]></phrase>
+  <phrase title="tag_x_must_be_empty" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} etiketi boş olmalıdır.]]></phrase>
+  <phrase title="tag_x_must_have_attribute_y" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} etiketi {attribute} özniteliğine sahip olmalıdır.]]></phrase>
+  <phrase title="tag_x_only_used_top_level_template" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[{name} etiketi yalnızca bir şablonun en üst düzeyinde kullanılabilir.]]></phrase>
+  <phrase title="tagify_already_exists" version_id="2030370" version_string="2.3.3"><![CDATA[Zaten mevcut]]></phrase>
+  <phrase title="tagify_empty" version_id="2030370" version_string="2.3.3"><![CDATA[Boş]]></phrase>
+  <phrase title="tagify_limit_reached" version_id="2030370" version_string="2.3.3"><![CDATA[Sınıra ulaşıldı]]></phrase>
+  <phrase title="tagify_not_allowed" version_id="2030370" version_string="2.3.3"><![CDATA[İzin verilmiyor]]></phrase>
+  <phrase title="tagify_pattern_mismatch" version_id="2030370" version_string="2.3.3"><![CDATA[Desen uyuşmazlığı]]></phrase>
+  <phrase title="tags" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Etiketler]]></phrase>
+  <phrase title="tags_must_be_unique" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Etiketler benzersiz olmalıdır. Belirtilen etiket zaten mevcut.]]></phrase>
+  <phrase title="tags_will_also_be_searched" version_id="2020051" version_string="2.2.0 Release Candidate 1"><![CDATA[Etiketlerin desteklendiği içerikte etiketler de aranacaktır]]></phrase>
+  <phrase title="target_tag" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hedef etiket]]></phrase>
+  <phrase title="target_url" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Hedef URL]]></phrase>
+  <phrase title="target_user" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Hedef kullanıcı]]></phrase>
+  <phrase title="team_id" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Takım Kimliği]]></phrase>
+  <phrase title="template" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Şablon]]></phrase>
+  <phrase title="template_contains" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Şablon içerir]]></phrase>
+  <phrase title="template_contents" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Şablon içerikleri]]></phrase>
+  <phrase title="template_edit_format_params_invalid" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA['template' düzenleme biçimi belirtirken, biçim parametreleri yalnızca şablon adını veya bir template={templateName} parametresini içermelidir.]]></phrase>
+  <phrase title="template_history" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Şablon geçmişi]]></phrase>
+  <phrase title="template_html" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Şablon HTML'i]]></phrase>
+  <phrase title="template_modification_keys_must_be_unique" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Şablon değişiklik anahtarları benzersiz olmalıdır. Belirtilen anahtar zaten kullanılıyor.]]></phrase>
+  <phrase title="template_modification_log" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Şablon değişiklik günlüğü]]></phrase>

@@ -1,0 +1,300 @@
+  <phrase title="use_forum_language_preference" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Forum dil tercihini kullan]]></phrase>
+  <phrase title="use_gravatar" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gravatar kullan]]></phrase>
+  <phrase title="use_hcaptcha" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[hCaptcha kullan]]></phrase>
+  <phrase title="use_invisible_hcaptcha" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Görünmez hCaptcha kullan]]></phrase>
+  <phrase title="use_invisible_recaptcha" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Görünmez reCAPTCHA kullan]]></phrase>
+  <phrase title="use_keycaptcha" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[KeyCAPTCHA kullan]]></phrase>
+  <phrase title="use_line_column_or_scroll_syntax" version_id="2001070" version_string="2.0.10"><![CDATA[(satır:sütun veya kaydırma% söz dizimini kullanın)]]></phrase>
+  <phrase title="use_negative_one_specify_no_max" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Maksimum olmadığını belirtmek için -1 kullanın.]]></phrase>
+  <phrase title="use_oembed" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[oEmbed kullan]]></phrase>
+  <phrase title="use_option_and_text_in_custom_bb_code" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Etiketin seçeneği içindeki içeriğe (sağlanmışsa) başvurmak için {option} ve etiket içindeki içeriğe başvurmak için {text} kullanın.]]></phrase>
+  <phrase title="use_passkey_or_security_key" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Geçiş anahtarı veya güvenlik anahtarı kullan]]></phrase>
+  <phrase title="use_php_date_format" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[PHP <a href="https://www.php.net/manual/en/datetime.format.php" target="_blank">tarih biçimini</a> kullan]]></phrase>
+  <phrase title="use_php_time_format" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[PHP <a href="https://www.php.net/manual/en/datetime.format.php" target="_blank">saat biçimini</a> kullan]]></phrase>
+  <phrase title="use_question_captcha" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Soru &amp; cevap CAPTCHA kullan]]></phrase>
+  <phrase title="use_re_syntax" version_id="2001070" version_string="2.0.10"><![CDATA[(regexp araması için /re/ söz dizimini kullanın)]]></phrase>
+  <phrase title="use_recaptcha" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[reCAPTCHA v2 kullan]]></phrase>
+  <phrase title="use_ssl_tls" version_id="2030055" version_string="2.3.0 Release Candidate 5"><![CDATA[SSL/TLS kullan]]></phrase>
+  <phrase title="use_textcaptcha" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[textCAPTCHA kullan]]></phrase>
+  <phrase title="use_this_to_disable_api_key" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[API anahtarını devre dışı bırakmak için bunu kullanın.]]></phrase>
+  <phrase title="use_this_to_disable_member_stat_from_showing_on_members_page" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Üye istatistiğinin Üyeler sayfasında görüntülenmesini devre dışı bırakmak için bunu kullanın.]]></phrase>
+  <phrase title="use_this_to_disable_webhook" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Webhook'u devre dışı bırakmak için bunu kullanın.]]></phrase>
+  <phrase title="use_this_to_temporarily_disable_this_notice" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Bu bildirimi geçici olarak devre dışı bırakmak için bunu kullanın.]]></phrase>
+  <phrase title="use_this_tool_to_diagnose_outbound_mail_transport_issues" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[Giden posta aktarım sorunlarını teşhis etmek için bu aracı kullanın.]]></phrase>
+  <phrase title="user" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Kullanıcı]]></phrase>
+  <phrase title="user_account_approved_body_html" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{username}, {board} sitesinde kaydolduğunuz hesap artık onaylandı. Artık sitemizi kayıtlı bir üye olarak ziyaret edebilirsiniz.</p>]]></phrase>
+  <phrase title="user_account_approved_subject" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{board_title} sitesinde hesap onaylandı]]></phrase>
+  <phrase title="user_account_rejected_body_html" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{username}, maalesef {board} sitesinde kaydolduğunuz hesap üyelik gerekliliklerini karşılamıyor. Hesabınıza artık erişilemiyor.</p>]]></phrase>
+  <phrase title="user_account_rejected_subject" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{board_title} sitesinde hesap reddedildi]]></phrase>
+  <phrase title="user_banner_styling" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı afişi stili]]></phrase>
+  <phrase title="user_banner_text" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı afişi metni]]></phrase>
+  <phrase title="user_birthday_is_today" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcının doğum günü bugün]]></phrase>
+  <phrase title="user_change_log" version_id="2010870" version_string="2.1.8"><![CDATA[Kullanıcı değişiklik günlüğü]]></phrase>
+  <phrase title="user_criteria" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı kriterleri]]></phrase>
+  <phrase title="user_customizations_to_navigation_maintained_addon_upgrade" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu gezinme girişine yapılan kullanıcı özelleştirmeleri eklenti yükseltmelerinde korunacaktır.]]></phrase>
+  <phrase title="user_delete_rename_explain" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Bu kullanıcıyı yeniden adlandırmayı seçerseniz, tüm içeriklerindeki kullanıcı adı değiştirilecektir; bu, GDPR kuralları kapsamında kullanıcının silme hakkına uymak için içeriklerini anonimleştirmek için kullanılabilir. Kullanıcının orijinal adı, alıntılanan içerikte hala görünebilir.]]></phrase>
+  <phrase title="user_details" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı detayları]]></phrase>
+  <phrase title="user_editable" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Kullanıcı tarafından düzenlenebilir]]></phrase>
+  <phrase title="user_email_confirmation_body_html" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{username}, {board} sitesindeki kaydınızı tamamlamak veya hesabınızı yeniden etkinleştirmek için, aşağıdaki düğmeye tıklayarak e-posta adresinizi onaylamanız gerekir.</p>]]></phrase>
+  <phrase title="user_email_confirmation_plain_link_html" version_id="2021670" version_string="2.2.16"><![CDATA[<p class="minorText">Veya aşağıdaki bağlantıyı tarayıcınıza yapıştırın: {link}</p>]]></phrase>
+  <phrase title="user_email_confirmation_subject" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{boardTitle} - Hesap onayı gerekli]]></phrase>
+  <phrase title="user_email_unsubscribed_all_except_dm_body_html" version_id="2021470" version_string="2.2.14"><![CDATA[<p>Doğrudan mesajlarla ilgili e-postaları şu anda devre dışı bırakmadık. Bunları da devre dışı bırakmak istiyorsanız <a href="{unsub_all}">buraya tıklayın</a>.]]></phrase>
+  <phrase title="user_email_unsubscribed_body_html" version_id="2021470" version_string="2.2.14"><![CDATA[<p>{username},</p>
+
+<p>{board} sitesindeki e-posta tercihleriniz son zamanlarda istek üzerine değiştirildi.</p>
+
+<p>Hesabınıza giriş yaparak ve <a href="{preferences}">hesap tercihlerinizi</a> değiştirerek e-posta tercihlerinizde istediğiniz zaman değişiklik yapabilirsiniz.</p>
+
+<p><strong>Not:</strong> Önemli hesap değişiklikleri hakkında bizden hala e-posta alacaksınız.</p>]]></phrase>
+  <phrase title="user_email_unsubscribed_subject" version_id="2021470" version_string="2.2.14"><![CDATA[{board} - Abonelikten çıkma onayı]]></phrase>
+  <phrase title="user_group" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı grubu]]></phrase>
+  <phrase title="user_group_permissions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı grubu izinleri]]></phrase>
+  <phrase title="user_group_promotions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı grubu terfileri]]></phrase>
+  <phrase title="user_groups" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı grupları]]></phrase>
+  <phrase title="user_has_activity_summary_emails_disabled" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcının etkinlik özeti e-postaları devre dışı]]></phrase>
+  <phrase title="user_has_activity_summary_emails_enabled" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcının etkinlik özeti e-postaları etkin]]></phrase>
+  <phrase title="user_has_already_been_warned_for_this_content" version_id="2010670" version_string="2.1.6"><![CDATA[Kullanıcı bu içerik için zaten uyarıldı.]]></phrase>
+  <phrase title="user_has_at_least_x_trophy_points" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Kullanıcının en az X kupa puanı vardır]]></phrase>
+  <phrase title="user_has_avatar" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcının avatarı var]]></phrase>
+  <phrase title="user_has_been_registered_for_at_least_x_days" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Kullanıcı en az X gündür kayıtlı]]></phrase>
+  <phrase title="user_has_enabled_two_step_verification" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Kullanıcı iki adımlı doğrulamayı etkinleştirdi]]></phrase>
+  <phrase title="user_has_highdpi_avatar" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcının yüksek çözünürlüklü (retina) avatarı var]]></phrase>
+  <phrase title="user_has_no_avatar" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Kullanıcının avatarı yok]]></phrase>
+  <phrase title="user_has_no_highdpi_avatar" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcının yüksek çözünürlüklü (retina) avatarı yok]]></phrase>
+  <phrase title="user_has_not_enabled_two_step_verification" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Kullanıcı iki adımlı doğrulamayı etkinleştirmedi]]></phrase>
+  <phrase title="user_has_not_visited_for_at_least_x_days" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Kullanıcı en az X gündür ziyaret etmedi]]></phrase>
+  <phrase title="user_has_posted_at_least_x_messages" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Kullanıcı en az X mesaj göndermiştir]]></phrase>
+  <phrase title="user_has_posted_no_more_than_x_messages" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Kullanıcı en fazla X mesaj göndermiştir]]></phrase>
+  <phrase title="user_has_received_a_reaction_sore_of_at_least_x" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Kullanıcı en az X tepki puanı almıştır]]></phrase>
+  <phrase title="user_has_solved_at_least_x_questions" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı en az X soru çözmüştür]]></phrase>
+  <phrase title="user_has_solved_no_more_than_x_questions" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı en fazla X soru çözmüştür]]></phrase>
+  <phrase title="user_id" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Kullanıcı Kimliği]]></phrase>
+  <phrase title="user_id_match_criteria_explain" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Kullanıcılarınızı sayısal kullanıcı kimliğine göre bölümlere ayırmak için bu kriteri kullanın. Bu, kullanıcılarınızın yarısının kriterlerle eşleştiği ve yarısının eşleşmediği A-B testi gibi şeyler için yararlı olabilir. İfade için <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child" target="_blank">CSS :nth-child söz dizimini</a> kullanın, örneğin: çift sayılar için <code>2n</code> ve tek sayılar için <code>2n+1</code>.]]></phrase>
+  <phrase title="user_id_matches_expression" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Kullanıcı Kimliği ifadeyle eşleşir]]></phrase>
+  <phrase title="user_info" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı bilgisi]]></phrase>
+  <phrase title="user_is_administrator" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Kullanıcı yöneticidir]]></phrase>
+  <phrase title="user_is_associated_with_any_of_selected_connected_account_providers" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı seçili bağlı hesap sağlayıcılarından herhangi biriyle ilişkilendirilmiştir]]></phrase>
+  <phrase title="user_is_banned" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Kullanıcı yasaklıdır]]></phrase>
+  <phrase title="user_is_browsing_with_following_language" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Kullanıcı şu dil ile geziyor]]></phrase>
+  <phrase title="user_is_browsing_with_following_style" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Kullanıcı şu stil ile geziyor]]></phrase>
+  <phrase title="user_is_guest" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Kullanıcı misafirdir]]></phrase>
+  <phrase title="user_is_logged_in" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Kullanıcı giriş yapmıştır]]></phrase>
+  <phrase title="user_is_member_of_any_of_selected_user_groups" version_id="1010070" version_string="1.1.0"><![CDATA[Kullanıcı seçili kullanıcı gruplarından herhangi birinin üyesidir]]></phrase>
+  <phrase title="user_is_moderator" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Kullanıcı moderatördür]]></phrase>
+  <phrase title="user_is_not_member_of_any_of_selected_user_groups" version_id="1010070" version_string="1.1.0"><![CDATA[Kullanıcı seçili kullanıcı gruplarından HİÇBİRİNİN üyesi DEĞİLDİR]]></phrase>
+  <phrase title="user_key" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Kullanıcı anahtarı]]></phrase>
+  <phrase title="user_limit" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı sınırı]]></phrase>
+  <phrase title="user_lost_password_body_html" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{username}, {board} sitesindeki şifrenizi sıfırlamak için aşağıdaki düğmeye tıklamanız gerekir. Bu, yeni bir şifre seçmenize olanak tanıyacaktır.</p>]]></phrase>
+  <phrase title="user_lost_password_reset_body_html" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{username}, {board} sitesindeki şifreniz sıfırlandı. Artık yeni şifrenizi kullanarak giriş yapabilirsiniz.</p>]]></phrase>
+  <phrase title="user_lost_password_reset_subject" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{boardTitle} - Şifre sıfırlama]]></phrase>
+  <phrase title="user_lost_password_subject" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{boardTitle} - Şifre sıfırlama isteği]]></phrase>
+  <phrase title="user_must_change_password" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı şifresini değiştirmeli]]></phrase>
+  <phrase title="user_must_reset_password" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı şifresini sıfırlamalı]]></phrase>
+  <phrase title="user_name" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı adı]]></phrase>
+  <phrase title="user_name_and_password" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı adı ve şifre]]></phrase>
+  <phrase title="user_name_changed_to_x" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı adı {name} olarak değiştirildi]]></phrase>
+  <phrase title="user_name_conflicts" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı adı çakışmaları]]></phrase>
+  <phrase title="user_name_css" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı adı CSS]]></phrase>
+  <phrase title="user_name_input" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı adı girişi]]></phrase>
+  <phrase title="user_name_match_regular_expression" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı adı eşleşme düzenli ifadesi]]></phrase>
+  <phrase title="user_name_or_email" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı adı veya e-posta]]></phrase>
+  <phrase title="user_names" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı adları]]></phrase>
+  <phrase title="user_permissions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı izinleri]]></phrase>
+  <phrase title="user_permissions_warning" version_id="2020034" version_string="2.2.0 Beta 4"><![CDATA[Burada, yalnızca bu kullanıcı için izinleri düzenleyebilirsiniz. İzin yönetiminin kolaylığı ve basitliği için, bu kullanıcı için istediğiniz izinleri elde etmek üzere <a href="{link}">kullanıcı grubu düzeyinde izinler ayarlayamıyorsanız</a> yalnızca kullanıcı başına izinler ayarlamalısınız.]]></phrase>
+  <phrase title="user_profile_and_options" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı profili ve seçenekleri]]></phrase>
+  <phrase title="user_reaction_message_ratio_is_at_least" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Kullanıcı tepki puanı / mesaj oranı en az]]></phrase>
+  <phrase title="user_receiving_warning_can_be_added_to_groups_until_expiry" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Bu uyarıyı alan bir kullanıcı, uyarı sona erene kadar belirli kullanıcı gruplarına eklenebilir.]]></phrase>
+  <phrase title="user_referred_from_search" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Kullanıcı bu siteye bir arama motorundan geldi]]></phrase>
+  <phrase title="user_referred_from_search_hint" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu kriter kullanımdan kaldırılmıştır ve gelecek bir sürümde kaldırılacaktır. Gelişmiş çerez onayı özelliği kullanılırken beklendiği gibi çalışmayabilir.]]></phrase>
+  <phrase title="user_registration_ip" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı kayıt IP'si]]></phrase>
+  <phrase title="user_registrations" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı kayıtları]]></phrase>
+  <phrase title="user_security_lock_explain" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bir hesabı güvenlik kilidi altına alırken, bir kullanıcıyı şifresini değiştirmeye zorlayabilir veya yetkisiz erişimden şüpheleniyorsanız, bir kullanıcıyı şifresini sıfırlamaya zorlayabilirsiniz (e-posta adresi gerekir).]]></phrase>
+  <phrase title="user_security_lock_reset_body" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[<p>{name}, {board_title} sitesindeki hesabınızı güvende tutmak için şifrenizi değiştirmenizi istiyoruz. Bunu yapmak için aşağıdaki düğmeye tıklamanız gerekir. Bu, yeni bir şifre seçmenize olanak tanıyacaktır.</p>]]></phrase>
+  <phrase title="user_security_lock_reset_subject" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[{board_title} - Lütfen şifrenizi sıfırlayın]]></phrase>
+  <phrase title="user_segmentation" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Kullanıcı bölümleme]]></phrase>
+  <phrase title="user_state" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı durumu]]></phrase>
+  <phrase title="user_state_is" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Kullanıcı durumu]]></phrase>
+  <phrase title="user_title_ladder" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı başlığı merdiveni]]></phrase>
+  <phrase title="user_title_override" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı başlığı geçersiz kılma]]></phrase>
+  <phrase title="user_upgrades" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı yükseltmeleri]]></phrase>
+  <phrase title="user_value" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı değeri]]></phrase>
+  <phrase title="user_who_received_this_warning_no_longer_exists" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Bu uyarıyı alan kullanıcı artık mevcut değil.]]></phrase>
+  <phrase title="user_with_this_username_and_or_email_already_exists" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Bu kullanıcı adı ve/veya e-posta ile bir kullanıcı zaten mevcut.]]></phrase>
+  <phrase title="username_change" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı adı değişikliği]]></phrase>
+  <phrase title="username_change_log" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı adı değişiklik günlüğü]]></phrase>
+  <phrase title="username_change_log_entry" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı adı değişiklik günlük girişi]]></phrase>
+  <phrase title="username_change_reason_explain" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Lütfen bu kullanıcı adı değişikliğinin nedenini açıklayın.]]></phrase>
+  <phrase title="username_changed" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı adı değiştirildi]]></phrase>
+  <phrase title="username_changes" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı adı değişiklikleri]]></phrase>
+  <phrase title="username_contains" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı adı içerir]]></phrase>
+  <phrase title="username_criteria_explain" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Belirli kullanıcılarla eşleştirmek istiyorsanız, kullanıcı adlarını virgülle ayırarak buraya girebilirsiniz.]]></phrase>
+  <phrase title="username_email_ip" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı adı, e-posta, IP]]></phrase>
+  <phrase title="username_is" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı adı]]></phrase>
+  <phrase title="username_search_criteria_explain" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Virgülle ayrılmış bir veya daha fazla metin parçası girebilirsiniz ve adlarında bu parçalardan herhangi biri bulunan kullanıcılar kriterlerle eşleşecektir.]]></phrase>
+  <phrase title="usernames_must_be_unique" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı adları benzersiz olmalıdır. Belirtilen kullanıcı adı zaten kullanılıyor.]]></phrase>
+  <phrase title="users" version_id="0"><![CDATA[Kullanıcılar]]></phrase>
+  <phrase title="users_active" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Etkin kullanıcılar]]></phrase>
+  <phrase title="users_logged_at_ip_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{ip} adresinden giriş yapan kullanıcılar]]></phrase>
+  <phrase title="users_may_hide_this_notice_when_they_have_read_it" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Kullanıcılar bu bildirimi okuduktan sonra gizleyebilir.]]></phrase>
+  <phrase title="users_redirected_to_url_when_click_on_link_forum" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Kullanıcılar bu bağlantı forumuna tıkladıklarında bu URL'ye yönlendirilecektir.]]></phrase>
+  <phrase title="users_with_permissions_set" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İzinleri ayarlanmış kullanıcılar]]></phrase>
+  <phrase title="utc_0100_azores" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-01:00) Azor Adaları]]></phrase>
+  <phrase title="utc_0100_cape_verde" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-01:00) Cape Verde Adaları]]></phrase>
+  <phrase title="utc_0200_mid_atlantic" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-02:00) Orta Atlantik]]></phrase>
+  <phrase title="utc_0300_argentina" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-03:00) Arjantin, Cayenne, Fortaleza]]></phrase>
+  <phrase title="utc_0300_brasilia" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-03:00) Brasilia]]></phrase>
+  <phrase title="utc_0300_buenos_aires" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-03:00) Buenos Aires]]></phrase>
+  <phrase title="utc_0300_falkland_islands" version_id="1040370" version_string="1.4.3"><![CDATA[(UTC-03:00) Falkland Adaları]]></phrase>
+  <phrase title="utc_0300_greenland" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-03:00) Grönland]]></phrase>
+  <phrase title="utc_0300_miquelon" version_id="1010034" version_string="1.1.0 Beta 4"><![CDATA[(UTC-03:00) Saint Pierre ve Miquelon]]></phrase>
+  <phrase title="utc_0300_montevideo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-03:00) Montevideo]]></phrase>
+  <phrase title="utc_0300_san_luis" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[(UTC-03:00) San Luis]]></phrase>
+  <phrase title="utc_0330_newfoundland" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-03:30) Newfoundland]]></phrase>
+  <phrase title="utc_0400_asuncion" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-04:00) Asuncion]]></phrase>
+  <phrase title="utc_0400_atlantic_time_canada" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-04:00) Atlantik Saati (Kanada)]]></phrase>
+  <phrase title="utc_0400_atlantic_time_goose_bay" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-04:00) Atlantik Saati (Goose Bay)]]></phrase>
+  <phrase title="utc_0400_caracas" version_id="2020770" version_string="2.2.7"><![CDATA[(UTC-04:00) Caracas]]></phrase>
+  <phrase title="utc_0400_cuiaba" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-04:00) Cuiaba]]></phrase>
+  <phrase title="utc_0400_georgetown" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-04:00) Georgetown, La Paz, Manaus, San Juan]]></phrase>
+  <phrase title="utc_0400_santiago" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-04:00) Santiago]]></phrase>
+  <phrase title="utc_0500_bogota" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-05:00) Bogota, Lima, Quito]]></phrase>
+  <phrase title="utc_0500_cuba" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-05:00) Küba]]></phrase>
+  <phrase title="utc_0500_eastern_time" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-05:00) Doğu Saati (ABD ve Kanada)]]></phrase>
+  <phrase title="utc_0600_central_time" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-06:00) Orta Saat (ABD ve Kanada)]]></phrase>
+  <phrase title="utc_0600_easter_island" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[(UTC-06:00) Paskalya Adası]]></phrase>
+  <phrase title="utc_0600_guadalajara" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-06:00) Guadalajara, Mexico City, Monterrey]]></phrase>
+  <phrase title="utc_0600_saskatchewan" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-06:00) Saskatchewan, Orta Amerika]]></phrase>
+  <phrase title="utc_0700_arizona" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-07:00) Arizona]]></phrase>
+  <phrase title="utc_0700_chihuahua" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-07:00) Chihuahua, La Paz, Mazatlan]]></phrase>
+  <phrase title="utc_0700_mountain_time" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-07:00) Dağ Saati (ABD ve Kanada)]]></phrase>
+  <phrase title="utc_0800_baja_california" version_id="1010470" version_string="1.1.4"><![CDATA[(UTC-08:00) Baja California]]></phrase>
+  <phrase title="utc_0800_pacific_time" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-08:00) Pasifik Saati (ABD ve Kanada)]]></phrase>
+  <phrase title="utc_0800_tijuana" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[(UTC-08:00) Tijuana]]></phrase>
+  <phrase title="utc_0900_alaska" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-09:00) Alaska]]></phrase>
+  <phrase title="utc_0930_marquesas_islands" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-09:30) Marquesas Adaları]]></phrase>
+  <phrase title="utc_1000_hawaii" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-10:00) Hawaii]]></phrase>
+  <phrase title="utc_1100_american_samoa" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[(UTC-11:00) Amerikan Samoası]]></phrase>
+  <phrase title="utc_casablanca" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC) Kazablanka]]></phrase>
+  <phrase title="utc_dublin" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC) Dublin, Edinburgh, Lizbon, Londra]]></phrase>
+  <phrase title="utc_monrovia" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC) Monrovia, Reykjavik]]></phrase>
+  <phrase title="utc_plus_0100_central_european_time" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+01:00) Orta Avrupa Saati]]></phrase>
+  <phrase title="utc_plus_0100_tunis" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+01:00) Tunus]]></phrase>
+  <phrase title="utc_plus_0100_west_central_africa" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+01:00) Batı Orta Afrika]]></phrase>
+  <phrase title="utc_plus_0100_windhoek" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+01:00) Windhoek]]></phrase>
+  <phrase title="utc_plus_0200_amman" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+02:00) Amman]]></phrase>
+  <phrase title="utc_plus_0200_beirut" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+02:00) Beyrut]]></phrase>
+  <phrase title="utc_plus_0200_cairo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+02:00) Kahire]]></phrase>
+  <phrase title="utc_plus_0200_eastern_european_time" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+02:00) Doğu Avrupa Saati]]></phrase>
+  <phrase title="utc_plus_0200_gaza" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+02:00) Gazze]]></phrase>
+  <phrase title="utc_plus_0200_jerusalem" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+02:00) Kudüs]]></phrase>
+  <phrase title="utc_plus_0200_kaliningrad" version_id="1040370" version_string="1.4.3"><![CDATA[(UTC+02:00) Kaliningrad]]></phrase>
+  <phrase title="utc_plus_0200_south_africa_standard_time" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+02:00) Güney Afrika Standart Saati]]></phrase>
+  <phrase title="utc_plus_0200_syria" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+02:00) Suriye]]></phrase>
+  <phrase title="utc_plus_0300_baghdad" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+03:00) Nairobi, Bağdat, Kuveyt, Katar, Riyad]]></phrase>
+  <phrase title="utc_plus_0300_minsk" version_id="1040370" version_string="1.4.3"><![CDATA[(UTC+03:00) Minsk]]></phrase>
+  <phrase title="utc_plus_0300_moscow" version_id="1040370" version_string="1.4.3"><![CDATA[(UTC+03:00) Moskova, St. Petersburg, Volgograd]]></phrase>
+  <phrase title="utc_plus_0330_tehran" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+03:30) Tahran]]></phrase>
+  <phrase title="utc_plus_0400_abu_dhabi" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+04:00) Abu Dabi, Maskat, Tiflis]]></phrase>
+  <phrase title="utc_plus_0400_baku" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+04:00) Bakü]]></phrase>
+  <phrase title="utc_plus_0400_mauritius" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+04:00) Mauritius]]></phrase>
+  <phrase title="utc_plus_0400_yerevan" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+04:00) Erivan]]></phrase>
+  <phrase title="utc_plus_0430_kabul" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+04:30) Kabil]]></phrase>
+  <phrase title="utc_plus_0500_ekaterinburg" version_id="1040370" version_string="1.4.3"><![CDATA[(UTC+05:00) Yekaterinburg]]></phrase>
+  <phrase title="utc_plus_0500_tashkent" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+05:00) Taşkent, Karaçi]]></phrase>
+  <phrase title="utc_plus_0530_chennai" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+05:30) Chennai, Kalküta, Mumbai, Yeni Delhi]]></phrase>
+  <phrase title="utc_plus_0545_kathmandu" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+05:45) Katmandu]]></phrase>
+  <phrase title="utc_plus_0600_almaty" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+06:00) Almatı, Bişkek, Kızılorda]]></phrase>
+  <phrase title="utc_plus_0600_astana" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+06:00) Astana, Dakka]]></phrase>
+  <phrase title="utc_plus_0630_yangon" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+06:30) Yangon (Rangoon)]]></phrase>
+  <phrase title="utc_plus_0700_bangkok" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+07:00) Bangkok, Hanoi, Cakarta]]></phrase>
+  <phrase title="utc_plus_0700_krasnoyarsk" version_id="1040370" version_string="1.4.3"><![CDATA[(UTC+07:00) Krasnoyarsk]]></phrase>
+  <phrase title="utc_plus_0700_novosibirsk" version_id="2020970" version_string="2.2.9"><![CDATA[(UTC+07:00) Novosibirsk]]></phrase>
+  <phrase title="utc_plus_0800_beijing" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+08:00) Pekin, Çongçing, Hong Kong, Urumçi]]></phrase>
+  <phrase title="utc_plus_0800_irkutsk" version_id="1040370" version_string="1.4.3"><![CDATA[(UTC+08:00) İrkutsk]]></phrase>
+  <phrase title="utc_plus_0800_kuala_lumpur" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+08:00) Kuala Lumpur, Singapur]]></phrase>
+  <phrase title="utc_plus_0800_perth" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+08:00) Perth]]></phrase>
+  <phrase title="utc_plus_0900_seoul" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+09:00) Seul]]></phrase>
+  <phrase title="utc_plus_0900_tokyo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+09:00) Osaka, Sapporo, Tokyo]]></phrase>
+  <phrase title="utc_plus_0900_yakutsk" version_id="1040370" version_string="1.4.3"><![CDATA[(UTC+09:00) Yakutsk]]></phrase>
+  <phrase title="utc_plus_0930_adelaide" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+09:30) Adelaide]]></phrase>
+  <phrase title="utc_plus_0930_darwin" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+09:30) Darwin]]></phrase>
+  <phrase title="utc_plus_1000_brisbane" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+10:00) Brisbane, Guam]]></phrase>
+  <phrase title="utc_plus_1000_magadan" version_id="1040370" version_string="1.4.3"><![CDATA[(UTC+10:00) Magadan]]></phrase>
+  <phrase title="utc_plus_1000_sydney" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+10:00) Sidney, Melbourne, Hobart]]></phrase>
+  <phrase title="utc_plus_1000_vladivostok" version_id="1040370" version_string="1.4.3"><![CDATA[(UTC+10:00) Vladivostok]]></phrase>
+  <phrase title="utc_plus_1100_solomon_is" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+11:00) Solomon Adaları, Yeni Kaledonya]]></phrase>
+  <phrase title="utc_plus_1130_norfolk_island" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+11:30) Norfolk Adası]]></phrase>
+  <phrase title="utc_plus_1200_anadyr" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+12:00) Anadyr, Kamçatka]]></phrase>
+  <phrase title="utc_plus_1200_auckland" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+12:00) Auckland, Wellington]]></phrase>
+  <phrase title="utc_plus_1200_fiji" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+12:00) Fiji]]></phrase>
+  <phrase title="utc_plus_1245_chatham_islands" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+12:45) Chatham Adaları]]></phrase>
+  <phrase title="utc_plus_1300_apia_samoa" version_id="1040370" version_string="1.4.3"><![CDATA[(UTC+13:00) Apia, Samoa]]></phrase>
+  <phrase title="utc_plus_1300_nukualofa" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+13:00) Nuku'alofa]]></phrase>
+  <phrase title="utc_plus_1400_kiritimati" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+14:00) Kiritimati]]></phrase>
+  <phrase title="valid" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Geçerli]]></phrase>
+  <phrase title="valid_redirect_uri_is_required" version_id="2030037" version_string="2.3.0 Beta 7"><![CDATA[Geçerli bir yönlendirme URI'si gereklidir.]]></phrase>
+  <phrase title="valid_statement_descriptor_must_be_correct_length_and_format" version_id="2020370" version_string="2.2.3"><![CDATA[Geçerli bir ekstre tanımlayıcısı 5 ile 22 karakter arasında olmalı ve belgelenen biçimle eşleşmelidir.]]></phrase>
+  <phrase title="validation_callback" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Doğrulama geri çağrısı]]></phrase>
+  <phrase title="validator" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Doğrulayıcı]]></phrase>
+  <phrase title="value" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Değer]]></phrase>
+  <phrase title="value_a_z_0_9_and_only" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Değer (yalnızca A-Z, 0-9 ve _)]]></phrase>
+  <phrase title="value_customized" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Değer özelleştirildi]]></phrase>
+  <phrase title="value_display_html" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Değer görüntüleme HTML'i]]></phrase>
+  <phrase title="value_formatting_parameters" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Değer biçimlendirme parametreleri]]></phrase>
+  <phrase title="value_greater_than_server_config_allows" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Belirtilen değer, bu sunucunun yapılandırmasının izin verdiği maksimum değerden büyük]]></phrase>
+  <phrase title="value_grouping" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Değer gruplama]]></phrase>
+  <phrase title="value_grouping_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Listelendiğinde, bu özelliğin önceki özellikle aynı değer gruplaması yoksa, görsel bir ayırıcı eklenecektir.]]></phrase>
+  <phrase title="value_inherited" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Değer miras alındı]]></phrase>
+  <phrase title="value_match_requirements" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Değer eşleşme gereksinimleri]]></phrase>
+  <phrase title="value_represents_internal_value_for_choice_text_is_displayed" version_id="1020270" version_string="1.2.2"><![CDATA[Değer, seçim için dahili değeri temsil eder. Metin alanı, alan görüntülendiğinde gösterilir. Herhangi bir kullanıcı bu seçimi yaptıysa değer alanını değiştirmemelisiniz; değiştirirseniz, kullanıcılar seçimlerini kaybeder.]]></phrase>
+  <phrase title="value_style_properties_must_have_specific_type" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Değer stil özelliklerinin belirli bir türü olmalıdır.]]></phrase>
+  <phrase title="value_type" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Değer türü]]></phrase>
+  <phrase title="value_x_is_not_valid_email_address" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{email} değeri geçerli bir e-posta adresi değil.]]></phrase>
+  <phrase title="values_represent_daily_averages_within_each_time_period" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Değerler her bir zaman dilimi içindeki günlük ortalamaları temsil eder.]]></phrase>
+  <phrase title="verification" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Doğrulama]]></phrase>
+  <phrase title="verification_backup_codes_automatically_generated" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Doğrulama yedek kodları otomatik olarak oluşturuldu. Bu kodların her biri, diğer doğrulama yöntemlerine erişiminiz olmadığında bir kez kullanılabilir. Bu kodlar güvenli bir konumda saklanmalıdır.]]></phrase>
+  <phrase title="verification_code" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Doğrulama kodu]]></phrase>
+  <phrase title="verifying" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Doğrulanıyor]]></phrase>
+  <phrase title="verifying_dns_records_for_email_dkim" version_id="2020970" version_string="2.2.9"><![CDATA[E-posta DKIM için DNS kayıtları doğrulanıyor]]></phrase>
+  <phrase title="version" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Sürüm]]></phrase>
+  <phrase title="version_comparison" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sürüm karşılaştırması]]></phrase>
+  <phrase title="version_mismatch" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sürüm uyuşmazlığı]]></phrase>
+  <phrase title="version_of_x_older_than_currently_installed" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Sağlanan {title} sürümü, şu anda yüklü olan sürümden eski.]]></phrase>
+  <phrase title="version_of_xenforo_and_official_add_ons_fully_up_to_date_no_issues" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[XenForo sürümünüz ve resmi eklentileriniz tamamen güncel. Lisansınızla ilgili herhangi bir sorun bulunmadı.]]></phrase>
+  <phrase title="vertical_separator" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Dikey ayırıcı]]></phrase>
+  <phrase title="via_twitter_account" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hesap aracılığıyla: @...]]></phrase>
+  <phrase title="video" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Video]]></phrase>
+  <phrase title="view" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Görüntüle]]></phrase>
+  <phrase title="view_account" version_id="2001270" version_string="2.0.12"><![CDATA[Hesabı görüntüle]]></phrase>
+  <phrase title="view_addons" version_id="2001070" version_string="2.0.10"><![CDATA[Eklentileri görüntüle]]></phrase>
+  <phrase title="view_all_add_ons" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Tüm eklentileri görüntüle]]></phrase>
+  <phrase title="view_all_available_trophies" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mevcut tüm kupaları görüntüle]]></phrase>
+  <phrase title="view_all_featured_content" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Öne çıkarılan tüm içeriği görüntüle]]></phrase>
+  <phrase title="view_all_reports" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Tüm raporları görüntüle]]></phrase>
+  <phrase title="view_all_your_direct_messages" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Tüm doğrudan mesajlarınızı görüntüleyin]]></phrase>
+  <phrase title="view_approval_queue" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Onay sırasını görüntüle]]></phrase>
+  <phrase title="view_attachment_x" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{name} ekini görüntüle]]></phrase>
+  <phrase title="view_class_criteria_explain" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Mevcut sayfayı oluşturan görünüm sınıfının adı.]]></phrase>
+  <phrase title="view_class_is" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Görünüm sınıfı]]></phrase>
+  <phrase title="view_content" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[İçeriği görüntüle]]></phrase>
+  <phrase title="view_count_between" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Görüntüleme sayısı şunlar arasında]]></phrase>
+  <phrase title="view_custom_changes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Özel değişiklikleri görüntüle]]></phrase>
+  <phrase title="view_expired_upgrades" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Süresi dolan yükseltmeleri görüntüle]]></phrase>
+  <phrase title="view_files_to_be_deleted" version_id="2020770" version_string="2.2.7"><![CDATA[Silinecek dosyaları görüntüle]]></phrase>
+  <phrase title="view_full_article" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Tam makaleyi görüntüle]]></phrase>
+  <phrase title="view_full_key" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Tam anahtarı görüntüle]]></phrase>
+  <phrase title="view_full_list" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Tam listeyi görüntüle]]></phrase>
+  <phrase title="view_full_post" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Tam mesajı görüntüle]]></phrase>
+  <phrase title="view_history" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Geçmişi görüntüle]]></phrase>
+  <phrase title="view_host_content" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ana içeriği görüntüle]]></phrase>
+  <phrase title="view_more" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Daha fazla görüntüle]]></phrase>
+  <phrase title="view_older_results" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Daha eski sonuçları görüntüle]]></phrase>
+  <phrase title="view_or_filter_matches" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Eşleşmeleri görüntüle veya filtrele]]></phrase>
+  <phrase title="view_pre_edit_version" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Düzenleme öncesi sürümü görüntüle]]></phrase>
+  <phrase title="view_previous_comments" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Önceki yorumları görüntüle]]></phrase>
+  <phrase title="view_public_profile" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Genel profili görüntüle]]></phrase>
+  <phrase title="view_results" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sonuçları görüntüle]]></phrase>
+  <phrase title="view_secret" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Gizli anahtarı görüntüle]]></phrase>
+  <phrase title="view_solution" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Çözümü görüntüle]]></phrase>
+  <phrase title="view_them" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Görüntülensin mi?]]></phrase>
+  <phrase title="view_this_direct_message" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu doğrudan mesajı görüntüle]]></phrase>

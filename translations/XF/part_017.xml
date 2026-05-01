@@ -1,0 +1,300 @@
+  <phrase title="least_recent" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[En eski]]></phrase>
+  <phrase title="leave" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ayrıl]]></phrase>
+  <phrase title="leave_direct_message" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Doğrudan mesajdan ayrıl]]></phrase>
+  <phrase title="leave_direct_message_and_accept_future_responses" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Doğrudan mesajdan ayrıl ve gelecekteki yanıtları kabul et]]></phrase>
+  <phrase title="leave_direct_message_and_ignore_future_responses" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Doğrudan mesajdan ayrıl ve gelecekteki yanıtları yok say]]></phrase>
+  <phrase title="leave_direct_messages" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Doğrudan mesajlardan ayrıl]]></phrase>
+  <phrase title="leave_permanent_redirect" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Kalıcı yönlendirme bırak]]></phrase>
+  <phrase title="leave_rating" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Değerlendirme bırak]]></phrase>
+  <phrase title="leave_redirect_for_merged_threads" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Birleştirilen konular için yönlendirme bırak]]></phrase>
+  <phrase title="leave_redirect_that_expires_after" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Şu süre sonunda sona erecek bir yönlendirme bırak]]></phrase>
+  <phrase title="leaving_direct_message_will_remove_it_from_your_direct_message_list" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bir doğrudan mesajdan ayrılmak, onu doğrudan mesaj listenizden kaldıracaktır.]]></phrase>
+  <phrase title="left" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sol]]></phrase>
+  <phrase title="left_to_right" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Soldan sağa]]></phrase>
+  <phrase title="legacy_add_on" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Eski eklenti]]></phrase>
+  <phrase title="legacy_add_ons" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Eski eklentiler]]></phrase>
+  <phrase title="legacy_add_ons_desc" version_id="2000037" version_string="2.0.0 Beta 7"><![CDATA[Eski eklentiler yalnızca XenForo'nun eski sürümleriyle uyumludur. Devre dışı durumdadırlar ve yükseltilene kadar yeniden etkinleştirilmeyeceklerdir. Eski bir eklentiyi kaldırmayı seçerseniz, veritabanı değişiklikleri kalacaktır. Tavsiye için eklenti geliştiricisine danışmak isteyebilirsiniz.]]></phrase>
+  <phrase title="length" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Uzunluk]]></phrase>
+  <phrase title="lift" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaldır]]></phrase>
+  <phrase title="lift_ban" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yasağı kaldır]]></phrase>
+  <phrase title="light" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Açık]]></phrase>
+  <phrase title="lightbox_close" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kapat]]></phrase>
+  <phrase title="lightbox_download" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[İndir]]></phrase>
+  <phrase title="lightbox_error" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[İstenen içerik yüklenemiyor. Lütfen daha sonra tekrar deneyin.]]></phrase>
+  <phrase title="lightbox_full_screen" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Tam ekran]]></phrase>
+  <phrase title="lightbox_new_window" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yeni pencere]]></phrase>
+  <phrase title="lightbox_next" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Sonraki]]></phrase>
+  <phrase title="lightbox_previous" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Önceki]]></phrase>
+  <phrase title="lightbox_share" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Paylaş]]></phrase>
+  <phrase title="lightbox_start_slideshow" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Slayt gösterisini başlat]]></phrase>
+  <phrase title="lightbox_stop_slideshow" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Slayt gösterisini durdur]]></phrase>
+  <phrase title="lightbox_thumbnails" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Küçük resimler]]></phrase>
+  <phrase title="lightbox_toggle_sidebar" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kenar çubuğunu aç/kapat]]></phrase>
+  <phrase title="lightbox_zoom" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yakınlaştır]]></phrase>
+  <phrase title="like" version_id="0"><![CDATA[Beğen]]></phrase>
+  <phrase title="like_content" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İçeriği beğen]]></phrase>
+  <phrase title="like_counts" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Beğeni sayıları]]></phrase>
+  <phrase title="likes" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Beğeniler]]></phrase>
+  <phrase title="likes.1_person" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 kişi]]></phrase>
+  <phrase title="likes.deleted_user" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[(silinmiş üye)]]></phrase>
+  <phrase title="likes.user1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{user1}]]></phrase>
+  <phrase title="likes.user1_and_user2" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{user1} ve {user2}]]></phrase>
+  <phrase title="likes.user1_user2_and_user3" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{user1}, {user2} ve {user3}]]></phrase>
+  <phrase title="likes.user1_user2_user3_and_1_other" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{user1}, {user2}, {user3} ve 1 kişi daha]]></phrase>
+  <phrase title="likes.user1_user2_user3_and_x_others" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{user1}, {user2}, {user3} ve {others} kişi daha]]></phrase>
+  <phrase title="likes.x_people" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{likes} kişi]]></phrase>
+  <phrase title="likes.you" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Siz]]></phrase>
+  <phrase title="likes.you_and_user1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Siz ve {user1}]]></phrase>
+  <phrase title="likes.you_user1_and_user2" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Siz, {user1} ve {user2}]]></phrase>
+  <phrase title="likes.you_user1_user2_and_1_other" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Siz, {user1}, {user2} ve 1 kişi daha]]></phrase>
+  <phrase title="likes.you_user1_user2_and_x_others" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Siz, {user1}, {user2} ve {others} kişi daha]]></phrase>
+  <phrase title="likes_counted_status" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Beğeniler sayıldı durumu]]></phrase>
+  <phrase title="liking_own_content_cheating" version_id="0"><![CDATA[Kendi içeriğinizi beğenmek hile sayılır.]]></phrase>
+  <phrase title="limit_to_imported_users_logged_in_this_table" version_id="2000270" version_string="2.0.2"><![CDATA[Bu tabloda kayıtlı içe aktarılmış kullanıcılarla sınırla]]></phrase>
+  <phrase title="limit_to_users_who_have_posted" version_id="2000270" version_string="2.0.2"><![CDATA[Mesaj göndermiş kullanıcılarla sınırla]]></phrase>
+  <phrase title="line_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Satır {line}]]></phrase>
+  <phrase title="link" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Bağlantı]]></phrase>
+  <phrase title="link_bbcode_must_include_url_token" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Bağlantı BB kodu {$url} simgesini içermelidir.]]></phrase>
+  <phrase title="link_building_callback" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bağlantı oluşturma geri çağırması]]></phrase>
+  <phrase title="link_building_callback_explanation_html" version_id="2010270" version_string="2.1.2"><![CDATA[Varsayılan bağlantı oluşturma sürecini, bağlantı oluşturmak için kullanılan bilgileri eklemek veya değiştirmek için kullanılabilen bir geri çağırma ile değiştirmek mümkündür.<br />
+<br />
+Geri çağırma argümanları:
+<ol>
+	<li><code>&amp;$prefix</code><br />Oluşturulan bağlantı için yol öneki.</li>
+	<li><code><strong>array</strong> &amp;$route</code><br />Bu yolun yapılandırmasını içeren bir dizi.</li>
+		<li><code>&amp;$action</code><br />Oluşturulan bağlantının mevcut eylem kısmı.</li>
+		<li><code>&amp;$data</code><br />Oluşturulan bağlantıya iletilen mevcut veriler. Bu büyük olasılıkla bir varlık nesnesidir.</li>
+		<li><code><strong>array</strong> &amp;$params</code><br />Oluşturulan bağlantıya iletilen URL parametrelerinden oluşan bir dizi.</li>
+</ol>]]></phrase>
+  <phrase title="link_copied_to_clipboard" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bağlantı panoya kopyalandı.]]></phrase>
+  <phrase title="link_proxy_details" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bağlantı proxy ayrıntıları]]></phrase>
+  <phrase title="link_proxy_log" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bağlantı proxy günlüğü]]></phrase>
+  <phrase title="link_proxy_logs" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bağlantı proxy günlükleri]]></phrase>
+  <phrase title="link_title" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bağlantı başlığı]]></phrase>
+  <phrase title="link_title_explain" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Bir URL sağlarsanız, uyarınızın ana açılır bağlantısı olarak kullanabilirsiniz. Uyarı gövdesine kendiniz <b>{link}</b> ile ekleyebilir veya otomatik olarak sona eklenecektir.]]></phrase>
+  <phrase title="link_url" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Bağlantı URL'si]]></phrase>
+  <phrase title="linkedin" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[LinkedIn]]></phrase>
+  <phrase title="list" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Liste]]></phrase>
+  <phrase title="list_arguments_that_this_advertising_position_requires" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu reklam konumunun gerektirdiği argümanları listeleyin.]]></phrase>
+  <phrase title="list_child_nodes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alt düğümleri listele]]></phrase>
+  <phrase title="list_contains_advanced_options_hidden" version_id="2020970" version_string="2.2.9"><![CDATA[Bu liste, gizlenebilecek gelişmiş seçenekler içerir.]]></phrase>
+  <phrase title="list_of_uris_that_may_be_used_for_redirecting_users_back_to_your_application" version_id="2030570" version_string="2.3.5"><![CDATA[Kullanıcıları uygulamanıza geri yönlendirmek için kullanılabilecek URI'lerin listesi. OAuth2 ile kimlik doğrularken bu eşleşmelidir. URI şemalarının <code>https</code> veya <code>http</code> olması gerektiğini unutmayın.]]></phrase>
+  <phrase title="list_sibling_nodes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kardeş düğümleri listele]]></phrase>
+  <phrase title="list_usernames_of_users_who_will_be_invited_to_this_direct_message" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu doğrudan mesaja davet edilecek kullanıcıların kullanıcı adlarını listeleyin. İlk kullanıcı doğrudan mesajı başlatan kişi olacaktır. Yeni kullanıcı doğrudan mesaja otomatik olarak eklenecektir.]]></phrase>
+  <phrase title="listed_below_node" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Düğümün altında listelenen]]></phrase>
+  <phrase title="listen_to_event" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Olayı dinle]]></phrase>
+  <phrase title="live_payments_have_been_disabled" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Canlı ödemeler devre dışı bırakıldı, bu nedenle, mevcut olduğu yerlerde, satın alma istekleri sandbox/test uç noktalarına yapılacaktır. Bunu düzeltmek için lütfen config.php dosyasını düzenleyin.]]></phrase>
+  <phrase title="loading" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Yükleniyor]]></phrase>
+  <phrase title="loading_image" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Görsel yükleniyor]]></phrase>
+  <phrase title="locale" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Yerel ayar]]></phrase>
+  <phrase title="locale_of_language_importing_differs_overwriting_is_correct" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[İçe aktardığınız dilin yerel ayarı, üzerine yazdığınız dilden farklı. Bu doğru dil mi?]]></phrase>
+  <phrase title="locally_hosted" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yerel olarak barındırılan]]></phrase>
+  <phrase title="location" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Konum]]></phrase>
+  <phrase title="lock_direct_message" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Doğrudan mesajı kilitle]]></phrase>
+  <phrase title="lock_direct_message_no_responses_will_be_allowed" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Doğrudan mesajı kilitle (yanıtlara izin verilmeyecek)]]></phrase>
+  <phrase title="lock_out" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kilitle]]></phrase>
+  <phrase title="lock_thread" version_id="2010270" version_string="2.1.2"><![CDATA[Konuyu kilitle]]></phrase>
+  <phrase title="lock_threads" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konuları kilitle]]></phrase>
+  <phrase title="locked" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Kilitli]]></phrase>
+  <phrase title="log_and_count_visits_to_this_page" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Bu sayfa ziyaretlerini günlüğe kaydet ve say]]></phrase>
+  <phrase title="log_date_between" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Günlük tarihi arası]]></phrase>
+  <phrase title="log_details" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Günlük ayrıntıları]]></phrase>
+  <phrase title="log_in" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Giriş yap]]></phrase>
+  <phrase title="log_in_or_register_now" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Şimdi giriş yapın veya kayıt olun.]]></phrase>
+  <phrase title="log_in_or_register_to_post" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Burada mesaj göndermek için giriş yapmanız veya kayıt olmanız gerekmektedir.]]></phrase>
+  <phrase title="log_in_or_register_to_reply" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Burada cevap vermek için giriş yapmanız veya kayıt olmanız gerekmektedir.]]></phrase>
+  <phrase title="log_in_using" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Şununla giriş yap]]></phrase>
+  <phrase title="log_out" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Çıkış yap]]></phrase>
+  <phrase title="log_table_is_valid_but_it_must_not_contain_content_enter_different_name" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Günlük tablosu geçerli ancak içerik içermemelidir. Lütfen farklı bir tablo adı girin.]]></phrase>
+  <phrase title="logged_activity" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaydedilen etkinlik]]></phrase>
+  <phrase title="logged_in_as" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Şu olarak giriş yapıldı]]></phrase>
+  <phrase title="logging_in_as" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Şu olarak giriş yapılıyor]]></phrase>
+  <phrase title="login" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Giriş]]></phrase>
+  <phrase title="login_required" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bunu yapmak için giriş yapmış olmalısınız.]]></phrase>
+  <phrase title="lost_password" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kayıp şifre]]></phrase>
+  <phrase title="macro_argument_names_may_only_contain_alphanumeric_underscore" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Makro argüman adları yalnızca A-Z, 0-9 ve alt çizgi içerebilir.]]></phrase>
+  <phrase title="macro_id_x_may_only_contain_alphanumeric_underscore" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Makro ID "{id}" yalnızca A-Z, 0-9 ve alt çizgi içerebilir.]]></phrase>
+  <phrase title="macro_ids_may_only_contain_alphanumeric_underscore" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Makro ID'leri yalnızca A-Z, 0-9 ve alt çizgi içerebilir.]]></phrase>
+  <phrase title="macro_ids_must_be_literal_strings" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Makro ID'leri sabit dizeler olmalıdır.]]></phrase>
+  <phrase title="mail_has_been_disabled_warning" version_id="2000370" version_string="2.0.3"><![CDATA[E-posta config.php aracılığıyla devre dışı bırakıldı. <code>$config['enableMail'] = false;</code> satırı config.php'den kaldırılana kadar herhangi bir kullanıcıya giden e-posta gönderilmeyecektir.]]></phrase>
+  <phrase title="make_this_user_administrator" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Bu kullanıcıyı yönetici yap]]></phrase>
+  <phrase title="make_this_user_moderator" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Bu kullanıcıyı moderatör yap]]></phrase>
+  <phrase title="making_tag_permanent_prevents_it_from_being_removed" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Bir etiketi kalıcı yapmak, artık kullanılmadığında kaldırılmasını engeller.]]></phrase>
+  <phrase title="manage" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Yönet]]></phrase>
+  <phrase title="manage_content_feature" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[İçerik özelliğini yönet]]></phrase>
+  <phrase title="manage_feature" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Özelliği yönet]]></phrase>
+  <phrase title="manage_promoted_users" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Terfi ettirilen kullanıcıları yönet]]></phrase>
+  <phrase title="manage_reply_bans" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cevap yasaklarını yönet]]></phrase>
+  <phrase title="manage_watched_forums" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[İzlenen forumları yönet]]></phrase>
+  <phrase title="manage_watched_threads" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İzlenen konuları yönet]]></phrase>
+  <phrase title="manage_your_account_upgrades" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hesap yükseltmelerinizi yönetin]]></phrase>
+  <phrase title="managing_account_details" version_id="0"><![CDATA[Hesap ayrıntıları yönetiliyor]]></phrase>
+  <phrase title="manually_applied" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manuel olarak uygulandı]]></phrase>
+  <phrase title="manually_approve" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Manuel olarak onayla]]></phrase>
+  <phrase title="manually_promote_user" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcıyı manuel olarak terfi ettir]]></phrase>
+  <phrase title="manually_upgrade_user" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcıyı manuel olarak yükselt]]></phrase>
+  <phrase title="mark_alert_read" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Uyarıyı okundu olarak işaretle]]></phrase>
+  <phrase title="mark_alert_unread" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Uyarıyı okunmadı olarak işaretle]]></phrase>
+  <phrase title="mark_all_alerts_read" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Tüm uyarıları okundu olarak işaretle]]></phrase>
+  <phrase title="mark_as_solution" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Çözüm olarak işaretle]]></phrase>
+  <phrase title="mark_direct_messages_read" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Doğrudan mesajları okundu olarak işaretle]]></phrase>
+  <phrase title="mark_direct_messages_unread" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Doğrudan mesajları okunmadı olarak işaretle]]></phrase>
+  <phrase title="mark_forum_read" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forumu okundu olarak işaretle]]></phrase>
+  <phrase title="mark_forums_read" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forumları okundu olarak işaretle]]></phrase>
+  <phrase title="mark_read" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Okundu olarak işaretle]]></phrase>
+  <phrase title="mark_unread" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Okunmadı olarak işaretle]]></phrase>
+  <phrase title="master_language" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Ana dil]]></phrase>
+  <phrase title="master_style" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Ana stil]]></phrase>
+  <phrase title="master_value" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ana değer]]></phrase>
+  <phrase title="match_url_callback" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[URL eşleşme geri çağırması]]></phrase>
+  <phrase title="match_url_callback_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bazı siteler, gömülü HTML'de kullanılabilecek bir medya ID'sini çıkarmak için sayfa URL'lerinde ek işlem yapılmasını gerektirir. Bu geri çağırma, bu işlemi gerçekleştirmek için kullanılabilir.<br />
+<br />
+Geri çağırmanız, istenen medyanın benzersiz ID'sini döndürmeli ve aşağıdaki imzaya sahip olmalıdır:<br />
+<br />
+<code>public static function matchCallback($url, $matchedId, \XF\Entity\BbCodeMediaSite $site, $siteId)</code>]]></phrase>
+  <phrase title="match_urls" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[URL'leri eşleştir]]></phrase>
+  <phrase title="match_urls_are_regex" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA['URL'leri eşleştir' alanını PCRE düzenli ifadeleri olarak kullan]]></phrase>
+  <phrase title="match_urls_are_regex_explain" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Bu seçeneği seçebilir ve eşleşme URL'leri yerine bir veya daha fazla tam düzenli ifade girebilirsiniz. Medya ID'si, 'id' adında adlandırılmış bir alt desen kullanılarak tanımlanmalıdır.<br />
+<br />
+'id' adlandırılmış alt deseniyle örnek düzenli ifade:<br />
+<code>#https://www\.example\.com/video/(?P&lt;id&gt;\d+/[a-z0-9_]+)/#siU</code>]]></phrase>
+  <phrase title="matched_threads" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Eşleşen konular]]></phrase>
+  <phrase title="matched_users" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Eşleşen kullanıcılar]]></phrase>
+  <phrase title="matched_x_users" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{count} kullanıcı eşleşti.]]></phrase>
+  <phrase title="max_memory" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bellek]]></phrase>
+  <phrase title="maximum" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Maksimum]]></phrase>
+  <phrase title="maximum_days_since_registration" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kayıttan bu yana maksimum gün]]></phrase>
+  <phrase title="maximum_entries" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maksimum giriş]]></phrase>
+  <phrase title="maximum_length" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maksimum uzunluk]]></phrase>
+  <phrase title="maximum_message_count" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Maksimum mesaj sayısı]]></phrase>
+  <phrase title="maximum_reaction_score_received" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Alınan maksimum tepki puanı]]></phrase>
+  <phrase title="maximum_results" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Maksimum sonuç]]></phrase>
+  <phrase title="maximum_selectable_responses" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maksimum seçilebilir yanıt]]></phrase>
+  <phrase title="maximum_selectable_responses_value_may_not_be_reduced" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Maksimum seçilebilir yanıt değeri azaltılamaz.]]></phrase>
+  <phrase title="maximum_usernames" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maksimum kullanıcı adı]]></phrase>
+  <phrase title="maximum_usernames_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yoğun bir forumda 'Çevrimiçi üyeler' parçacığının çok büyük olmasını önlemek için, listenin sonuna '... ve X tane daha' bağlantısı eklenmeden önce ad sayısını sınırlayabilirsiniz. 0 değeri sınırı devre dışı bırakır.]]></phrase>
+  <phrase title="mbstring_support" version_id="2001170" version_string="2.0.11"><![CDATA[<code>mbstring</code> desteği]]></phrase>
+  <phrase title="media" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Medya]]></phrase>
+  <phrase title="media_provider_is" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Medya sağlayıcısı]]></phrase>
+  <phrase title="media_site_id" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Medya sitesi ID]]></phrase>
+  <phrase title="media_site_ids_must_be_unique" version_id="0"><![CDATA[Medya sitesi ID'leri benzersiz olmalıdır. Belirtilen ID zaten kullanılıyor.]]></phrase>
+  <phrase title="medium_toolbar" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Orta araç çubuğu]]></phrase>
+  <phrase title="medium_toolbar_desc" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editör {min}px ile {max}px genişliğinde olduğunda kullanılır.]]></phrase>
+  <phrase title="member" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Üye]]></phrase>
+  <phrase title="member_is_following" version_id="2010870" version_string="2.1.8"><![CDATA[Takip ediyor]]></phrase>
+  <phrase title="member_limits_viewing_profile" version_id="0"><![CDATA[Bu üye, tam profilini kimlerin görüntüleyebileceğini sınırlandırıyor.]]></phrase>
+  <phrase title="member_notification" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Üye bildirimi]]></phrase>
+  <phrase title="member_of_any_of_these_secondary_groups" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Bu ikincil grupların herhangi birinin üyesi]]></phrase>
+  <phrase title="member_of_no_secondary_groups" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Hiçbir ikincil grubun üyesi değil]]></phrase>
+  <phrase title="member_stat.highest_reaction_score" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[En yüksek tepki puanı]]></phrase>
+  <phrase title="member_stat.most_messages" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En çok mesaj]]></phrase>
+  <phrase title="member_stat.most_points" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En çok puan]]></phrase>
+  <phrase title="member_stat.most_solutions" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[En çok çözüm]]></phrase>
+  <phrase title="member_stat.staff_members" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yetkili üyeler]]></phrase>
+  <phrase title="member_stat.todays_birthdays" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bugünün doğum günleri]]></phrase>
+  <phrase title="member_stat_callback_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Finder'ı ek kriterlerle değiştirmek veya mevcut kriterleri geçersiz kılmak için isteğe bağlı olarak burada bir PHP geri çağırması ayarlayabilirsiniz.<br />
+<br />
+Geri çağırma argümanları:
+<ol>
+	<li>
+		<code>\XF\Entity\MemberStat $memberStat</code>
+		<br />
+		Bu üye istatistik varlığı.
+	</li>
+	<li>
+		<code>\XF\Finder\User $finder</code>
+		<br />
+		Yukarıda belirtilen kriter/sıra ayarlarıyla zaten ayarlanmış User finder.
+	</li>
+</ol>
+Geri çağırma ya bir dizi ya da hiçbir şey döndürmemelidir. Hiçbir şey döndürülmezse, sonuçlar otomatik olarak biçimlendirilir. Örnek dizi:<br />
+<br />
+<code>return [$user->user_id => \XF::language()->numberFormat($value)];</code>]]></phrase>
+  <phrase title="member_stat_is_active" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Üye istatistiği aktif]]></phrase>
+  <phrase title="member_stat_key" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Üye istatistik anahtarı]]></phrase>
+  <phrase title="member_stat_keys_must_be_unique" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Üye istatistik anahtarları benzersiz olmalıdır. Belirtilen anahtar zaten kullanılıyor.]]></phrase>
+  <phrase title="member_stat_to_display" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Görüntülenecek üye istatistiği]]></phrase>
+  <phrase title="member_stat_visibility_callback_explain" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bu üye istatistiğinin görüntülenip görüntülenmeyeceğini belirlemek için isteğe bağlı olarak burada bir PHP geri çağırması ayarlayabilirsiniz.<br />
+<br />
+Geri çağırma argümanları:
+<ol>
+	<li>
+		<code>\XF\Entity\MemberStat $memberStat</code>
+		<br />
+		Bu üye istatistik varlığı.
+	</li>
+</ol>
+Geri çağırma <code>true</code> veya <code>false</code> döndürmelidir, <code>false</code> üye istatistiğinin görüntülenmesini engeller.]]></phrase>
+  <phrase title="member_stats" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Üye istatistikleri]]></phrase>
+  <phrase title="member_stats_description" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA['Önemli üyeler' herkese açık sayfasında görüntülenebilecek kullanıcı gruplarını tanımlamak ve düzenlemek için bu sayfayı kullanın]]></phrase>
+  <phrase title="member_x" version_id="1030010" version_string="1.3.0 Alpha" global_cache="1"><![CDATA[Üye '{username}']]></phrase>
+  <phrase title="members" version_id="0" global_cache="1"><![CDATA[Üyeler]]></phrase>
+  <phrase title="members_following_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} takipçileri]]></phrase>
+  <phrase title="members_online" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Çevrimiçi üyeler]]></phrase>
+  <phrase title="members_only" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yalnızca üyeler]]></phrase>
+  <phrase title="members_who_liked_message_by_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{user} tarafından gönderilen mesajı beğenen üyeler]]></phrase>
+  <phrase title="members_who_liked_message_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[#{position} numaralı mesajı beğenen üyeler]]></phrase>
+  <phrase title="members_who_liked_this" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bunu beğenen üyeler]]></phrase>
+  <phrase title="members_who_reacted_to_message_by_x" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{user} tarafından gönderilen mesaja tepki veren üyeler]]></phrase>
+  <phrase title="members_who_reacted_to_message_x" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[#{position} numaralı mesaja tepki veren üyeler]]></phrase>
+  <phrase title="members_who_reacted_to_this" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Buna tepki veren üyeler]]></phrase>
+  <phrase title="members_who_voted_for_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA['{response}' için oy veren üyeler]]></phrase>
+  <phrase title="members_x_is_following" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} kullanıcısının takip ettiği üyeler]]></phrase>
+  <phrase title="members_you_follow" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Takip ettiğiniz üyeler]]></phrase>
+  <phrase title="menu" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Menü]]></phrase>
+  <phrase title="merge" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Birleştir]]></phrase>
+  <phrase title="merge_into_post" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesaja birleştir]]></phrase>
+  <phrase title="merge_posts" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesajları birleştir]]></phrase>
+  <phrase title="merge_tags" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Etiketleri birleştir]]></phrase>
+  <phrase title="merge_template_changes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Şablon değişikliklerini birleştir]]></phrase>
+  <phrase title="merge_threads" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konuları birleştir]]></phrase>
+  <phrase title="merge_users" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcıları birleştir]]></phrase>
+  <phrase title="merge_with_user" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı ile birleştir]]></phrase>
+  <phrase title="merging" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Birleştiriliyor]]></phrase>
+  <phrase title="merging_users" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcılar birleştiriliyor]]></phrase>
+  <phrase title="message" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Mesaj]]></phrase>
+  <phrase title="message_count_between" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Mesaj sayısı arası]]></phrase>
+  <phrase title="message_edit_time_limit_expired" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Bu mesajı düzenleme süresi ({minutes} dakika) doldu.]]></phrase>
+  <phrase title="message_template" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesaj şablonu]]></phrase>
+  <phrase title="message_users" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcılara mesaj gönder]]></phrase>
+  <phrase title="message_users_description" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Aşağıda belirtilen kriterlere uyan kullanıcılara doğrudan mesaj göndermek için bu formu kullanabilirsiniz.]]></phrase>
+  <phrase title="messages" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Mesajlar]]></phrase>
+  <phrase title="messages_have_been_posted_since_you_loaded_this_page" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Bu sayfayı yüklediğinizden bu yana mesajlar gönderildi.]]></phrase>
+  <phrase title="messaging" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Mesajlaşma]]></phrase>
+  <phrase title="method" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Yöntem]]></phrase>
+  <phrase title="microsoft_oauth" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Microsoft OAuth]]></phrase>
+  <phrase title="midnight" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Gece yarısı]]></phrase>
+  <phrase title="minimum" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Minimum]]></phrase>
+  <phrase title="minimum_age" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Minimum yaş]]></phrase>
+  <phrase title="minimum_number_of_bounces" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Minimum geri dönüş sayısı]]></phrase>
+  <phrase title="minimum_number_of_days_between_oldest_and_newest_bounce" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En eski ve en yeni geri dönüş arası min. gün]]></phrase>
+  <phrase title="minimum_number_of_days_with_bounces" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Geri dönüş olan minimum gün sayısı]]></phrase>
+  <phrase title="minimum_number_of_replies" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Minimum cevap sayısı]]></phrase>
+  <phrase title="minimum_required_tags" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Minimum gereken etiketler]]></phrase>
+  <phrase title="minimum_value" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Minimum değer]]></phrase>
+  <phrase title="missing" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Eksik]]></phrase>
+  <phrase title="missing_files" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Eksik dosyalar]]></phrase>
+  <phrase title="mixed" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Karışık]]></phrase>
+  <phrase title="mod_log.post_approve" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesaj onaylandı]]></phrase>
+  <phrase title="mod_log.post_attachment_deleted" version_id="2010870" version_string="2.1.8"><![CDATA[Mesaj eki silindi]]></phrase>
+  <phrase title="mod_log.post_delete_hard" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesaj kalıcı olarak silindi]]></phrase>
+  <phrase title="mod_log.post_delete_soft" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesaj herkese açık görünümden kaldırıldı (sebep: {reason})]]></phrase>
+  <phrase title="mod_log.post_edit" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesaj düzenlendi]]></phrase>
+  <phrase title="mod_log.post_merge_target" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesajlar birleştirilerek değiştirilen mesaj ({ids})]]></phrase>
+  <phrase title="mod_log.post_unapprove" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesaj onayı kaldırıldı]]></phrase>
+  <phrase title="mod_log.post_undelete" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesaj geri yüklendi]]></phrase>
+  <phrase title="mod_log.post_warning_expired" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesaj yazarı uyarısı sona erdi]]></phrase>
+  <phrase title="mod_log.post_warning_given" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesaj yazarına uyarı verildi]]></phrase>
+  <phrase title="mod_log.post_warning_removed" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesaj yazarı uyarısı kaldırıldı]]></phrase>
+  <phrase title="mod_log.profile_post_approve" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profil mesajı onaylandı]]></phrase>
+  <phrase title="mod_log.profile_post_comment_approve" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profil mesajı yorumu onaylandı]]></phrase>
+  <phrase title="mod_log.profile_post_comment_delete" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{username} tarafından yapılan profil mesajı yorumu silindi]]></phrase>
+  <phrase title="mod_log.profile_post_comment_delete_hard" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profil mesajı yorumu kalıcı olarak silindi]]></phrase>
+  <phrase title="mod_log.profile_post_comment_delete_soft" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profil mesajı yorumu herkese açık görünümden kaldırıldı (sebep: {reason})]]></phrase>
+  <phrase title="mod_log.profile_post_comment_edit" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profil mesajı yorumu düzenlendi]]></phrase>
+  <phrase title="mod_log.profile_post_comment_unapprove" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profil mesajı yorumu onayı kaldırıldı]]></phrase>
+  <phrase title="mod_log.profile_post_comment_undelete" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profil mesajı yorumu geri yüklendi]]></phrase>
+  <phrase title="mod_log.profile_post_comment_warning_expired" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profil mesajı yorumu yazarı uyarısı sona erdi]]></phrase>
+  <phrase title="mod_log.profile_post_comment_warning_given" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profil mesajı yorumu yazarına uyarı verildi]]></phrase>
+  <phrase title="mod_log.profile_post_comment_warning_removed" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profil mesajı yorumu yazarı uyarısı kaldırıldı]]></phrase>
+  <phrase title="mod_log.profile_post_delete_hard" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profil mesajı kalıcı olarak silindi]]></phrase>

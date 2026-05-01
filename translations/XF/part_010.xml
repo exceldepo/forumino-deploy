@@ -1,0 +1,600 @@
+  <phrase title="emoji.man_shrugging_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man shrugging: orta ten tonu]]></phrase>
+  <phrase title="emoji.man_shrugging_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man shrugging: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_shrugging_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man shrugging: koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_singer" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man singer]]></phrase>
+  <phrase title="emoji.man_singer_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man singer: açık ten tonu]]></phrase>
+  <phrase title="emoji.man_singer_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man singer: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.man_singer_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man singer: orta ten tonu]]></phrase>
+  <phrase title="emoji.man_singer_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man singer: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_singer_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man singer: koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_standing" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man standing]]></phrase>
+  <phrase title="emoji.man_standing_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man standing: açık ten tonu]]></phrase>
+  <phrase title="emoji.man_standing_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man standing: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.man_standing_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man standing: orta ten tonu]]></phrase>
+  <phrase title="emoji.man_standing_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man standing: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_standing_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man standing: koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_student" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man student]]></phrase>
+  <phrase title="emoji.man_student_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man student: açık ten tonu]]></phrase>
+  <phrase title="emoji.man_student_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man student: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.man_student_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man student: orta ten tonu]]></phrase>
+  <phrase title="emoji.man_student_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man student: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_student_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man student: koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_superhero" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man superhero]]></phrase>
+  <phrase title="emoji.man_superhero_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man superhero: açık ten tonu]]></phrase>
+  <phrase title="emoji.man_superhero_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man superhero: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.man_superhero_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man superhero: orta ten tonu]]></phrase>
+  <phrase title="emoji.man_superhero_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man superhero: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_superhero_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man superhero: koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_supervillain" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man supervillain]]></phrase>
+  <phrase title="emoji.man_supervillain_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man supervillain: açık ten tonu]]></phrase>
+  <phrase title="emoji.man_supervillain_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man supervillain: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.man_supervillain_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man supervillain: orta ten tonu]]></phrase>
+  <phrase title="emoji.man_supervillain_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man supervillain: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_supervillain_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man supervillain: koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_surfing" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man surfing]]></phrase>
+  <phrase title="emoji.man_surfing_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man surfing: açık ten tonu]]></phrase>
+  <phrase title="emoji.man_surfing_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man surfing: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.man_surfing_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man surfing: orta ten tonu]]></phrase>
+  <phrase title="emoji.man_surfing_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man surfing: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_surfing_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man surfing: koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_swimming" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man swimming]]></phrase>
+  <phrase title="emoji.man_swimming_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man swimming: açık ten tonu]]></phrase>
+  <phrase title="emoji.man_swimming_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man swimming: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.man_swimming_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man swimming: orta ten tonu]]></phrase>
+  <phrase title="emoji.man_swimming_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man swimming: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_swimming_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man swimming: koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_teacher" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man teacher]]></phrase>
+  <phrase title="emoji.man_teacher_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man teacher: açık ten tonu]]></phrase>
+  <phrase title="emoji.man_teacher_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man teacher: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.man_teacher_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man teacher: orta ten tonu]]></phrase>
+  <phrase title="emoji.man_teacher_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man teacher: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_teacher_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man teacher: koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_technologist" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man technologist]]></phrase>
+  <phrase title="emoji.man_technologist_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man technologist: açık ten tonu]]></phrase>
+  <phrase title="emoji.man_technologist_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man technologist: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.man_technologist_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man technologist: orta ten tonu]]></phrase>
+  <phrase title="emoji.man_technologist_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man technologist: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_technologist_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man technologist: koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_tipping_hand" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man tipping hand]]></phrase>
+  <phrase title="emoji.man_tipping_hand_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man tipping hand: açık ten tonu]]></phrase>
+  <phrase title="emoji.man_tipping_hand_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man tipping hand: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.man_tipping_hand_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man tipping hand: orta ten tonu]]></phrase>
+  <phrase title="emoji.man_tipping_hand_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man tipping hand: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_tipping_hand_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man tipping hand: koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Adam: açık ten tonu]]></phrase>
+  <phrase title="emoji.man_tone1_beard" version_id="2020770" version_string="2.2.7"><![CDATA[Adam: açık ten tonu, beard]]></phrase>
+  <phrase title="emoji.man_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Adam: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.man_tone2_beard" version_id="2020770" version_string="2.2.7"><![CDATA[Adam: orta-açık ten tonu, beard]]></phrase>
+  <phrase title="emoji.man_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Adam: orta ten tonu]]></phrase>
+  <phrase title="emoji.man_tone3_beard" version_id="2020770" version_string="2.2.7"><![CDATA[Adam: orta ten tonu, beard]]></phrase>
+  <phrase title="emoji.man_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Adam: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_tone4_beard" version_id="2020770" version_string="2.2.7"><![CDATA[Adam: orta-koyu ten tonu, beard]]></phrase>
+  <phrase title="emoji.man_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Adam: koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_tone5_beard" version_id="2020770" version_string="2.2.7"><![CDATA[Adam: koyu ten tonu, beard]]></phrase>
+  <phrase title="emoji.man_vampire" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man vampire]]></phrase>
+  <phrase title="emoji.man_vampire_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man vampire: açık ten tonu]]></phrase>
+  <phrase title="emoji.man_vampire_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man vampire: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.man_vampire_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man vampire: orta ten tonu]]></phrase>
+  <phrase title="emoji.man_vampire_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man vampire: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_vampire_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man vampire: koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_walking" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man walking]]></phrase>
+  <phrase title="emoji.man_walking_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man walking: açık ten tonu]]></phrase>
+  <phrase title="emoji.man_walking_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man walking: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.man_walking_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man walking: orta ten tonu]]></phrase>
+  <phrase title="emoji.man_walking_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man walking: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_walking_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man walking: koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_wearing_turban" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man wearing turban]]></phrase>
+  <phrase title="emoji.man_wearing_turban_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man wearing turban: açık ten tonu]]></phrase>
+  <phrase title="emoji.man_wearing_turban_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man wearing turban: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.man_wearing_turban_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man wearing turban: orta ten tonu]]></phrase>
+  <phrase title="emoji.man_wearing_turban_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man wearing turban: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_wearing_turban_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man wearing turban: koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_white_haired" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Adam: beyaz saçlı]]></phrase>
+  <phrase title="emoji.man_white_haired_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man, beyaz saçlıed: açık ten tonu]]></phrase>
+  <phrase title="emoji.man_white_haired_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man, beyaz saçlıed: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.man_white_haired_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man, beyaz saçlıed: orta ten tonu]]></phrase>
+  <phrase title="emoji.man_white_haired_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man, beyaz saçlıed: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_white_haired_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man, beyaz saçlıed: koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_with_chinese_cap" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man with Chinese cap]]></phrase>
+  <phrase title="emoji.man_with_chinese_cap_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man with Chinese cap: açık ten tonu]]></phrase>
+  <phrase title="emoji.man_with_chinese_cap_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man with Chinese cap: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.man_with_chinese_cap_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man with Chinese cap: orta ten tonu]]></phrase>
+  <phrase title="emoji.man_with_chinese_cap_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man with Chinese cap: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_with_chinese_cap_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man with Chinese cap: koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_with_probing_cane" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man with probing cane]]></phrase>
+  <phrase title="emoji.man_with_probing_cane_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man with probing cane: açık ten tonu]]></phrase>
+  <phrase title="emoji.man_with_probing_cane_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man with probing cane: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.man_with_probing_cane_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man with probing cane: orta ten tonu]]></phrase>
+  <phrase title="emoji.man_with_probing_cane_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man with probing cane: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_with_probing_cane_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man with probing cane: koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_with_veil" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Man with veil]]></phrase>
+  <phrase title="emoji.man_with_veil_tone1" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Man with veil: açık ten tonu]]></phrase>
+  <phrase title="emoji.man_with_veil_tone2" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Man with veil: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.man_with_veil_tone3" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Man with veil: orta ten tonu]]></phrase>
+  <phrase title="emoji.man_with_veil_tone4" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Man with veil: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_with_veil_tone5" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Man with veil: koyu ten tonu]]></phrase>
+  <phrase title="emoji.man_zombie" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man zombie]]></phrase>
+  <phrase title="emoji.mango" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mango]]></phrase>
+  <phrase title="emoji.mans_shoe" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man’s shoe]]></phrase>
+  <phrase title="emoji.manual_wheelchair" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Manual wheelchair]]></phrase>
+  <phrase title="emoji.map" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[World map]]></phrase>
+  <phrase title="emoji.maple_leaf" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Maple leaf]]></phrase>
+  <phrase title="emoji.maracas" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Maracas]]></phrase>
+  <phrase title="emoji.martial_arts_uniform" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Martial arts uniform]]></phrase>
+  <phrase title="emoji.mask" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Face with medical mask]]></phrase>
+  <phrase title="emoji.mate" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mate]]></phrase>
+  <phrase title="emoji.meat_on_bone" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Meat on bone]]></phrase>
+  <phrase title="emoji.mechanic" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mechanic]]></phrase>
+  <phrase title="emoji.mechanic_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mechanic: açık ten tonu]]></phrase>
+  <phrase title="emoji.mechanic_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mechanic: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.mechanic_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mechanic: orta ten tonu]]></phrase>
+  <phrase title="emoji.mechanic_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mechanic: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.mechanic_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mechanic: koyu ten tonu]]></phrase>
+  <phrase title="emoji.mechanical_arm" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mechanical arm]]></phrase>
+  <phrase title="emoji.mechanical_leg" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mechanical leg]]></phrase>
+  <phrase title="emoji.medal" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Sports medal]]></phrase>
+  <phrase title="emoji.medical_symbol" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Medical symbol]]></phrase>
+  <phrase title="emoji.mega" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Megaphone]]></phrase>
+  <phrase title="emoji.melon" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Melon]]></phrase>
+  <phrase title="emoji.melting_face" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Melting face]]></phrase>
+  <phrase title="emoji.men_holding_hands_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men holding hands: açık ten tonu]]></phrase>
+  <phrase title="emoji.men_holding_hands_tone1_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men holding hands: açık ten tonu, orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.men_holding_hands_tone1_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men holding hands: açık ten tonu, orta ten tonu]]></phrase>
+  <phrase title="emoji.men_holding_hands_tone1_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men holding hands: açık ten tonu, orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.men_holding_hands_tone1_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men holding hands: açık ten tonu, koyu ten tonu]]></phrase>
+  <phrase title="emoji.men_holding_hands_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men holding hands: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.men_holding_hands_tone2_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men holding hands: orta-açık ten tonu, açık ten tonu]]></phrase>
+  <phrase title="emoji.men_holding_hands_tone2_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men holding hands: orta-açık ten tonu, orta ten tonu]]></phrase>
+  <phrase title="emoji.men_holding_hands_tone2_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men holding hands: orta-açık ten tonu, orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.men_holding_hands_tone2_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men holding hands: orta-açık ten tonu, koyu ten tonu]]></phrase>
+  <phrase title="emoji.men_holding_hands_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men holding hands: orta ten tonu]]></phrase>
+  <phrase title="emoji.men_holding_hands_tone3_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men holding hands: orta ten tonu, açık ten tonu]]></phrase>
+  <phrase title="emoji.men_holding_hands_tone3_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men holding hands: orta ten tonu, orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.men_holding_hands_tone3_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men holding hands: orta ten tonu, orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.men_holding_hands_tone3_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men holding hands: orta ten tonu, koyu ten tonu]]></phrase>
+  <phrase title="emoji.men_holding_hands_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men holding hands: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.men_holding_hands_tone4_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men holding hands: orta-koyu ten tonu, açık ten tonu]]></phrase>
+  <phrase title="emoji.men_holding_hands_tone4_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men holding hands: medium koyu ten tonu, medium açık ten tonu]]></phrase>
+  <phrase title="emoji.men_holding_hands_tone4_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men holding hands: orta-koyu ten tonu, orta ten tonu]]></phrase>
+  <phrase title="emoji.men_holding_hands_tone4_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men holding hands: orta-koyu ten tonu, koyu ten tonu]]></phrase>
+  <phrase title="emoji.men_holding_hands_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men holding hands: koyu ten tonu]]></phrase>
+  <phrase title="emoji.men_holding_hands_tone5_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men holding hands: koyu ten tonu, açık ten tonu]]></phrase>
+  <phrase title="emoji.men_holding_hands_tone5_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men holding hands: koyu ten tonu, orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.men_holding_hands_tone5_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men holding hands: koyu ten tonu, orta ten tonu]]></phrase>
+  <phrase title="emoji.men_holding_hands_tone5_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men holding hands: koyu ten tonu, orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.men_with_bunny_ears_partying" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men with bunny ears]]></phrase>
+  <phrase title="emoji.men_wrestling" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men wrestling]]></phrase>
+  <phrase title="emoji.mending_heart" version_id="2020770" version_string="2.2.7"><![CDATA[Mending heart]]></phrase>
+  <phrase title="emoji.menorah" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Menorah]]></phrase>
+  <phrase title="emoji.mens" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men’s room]]></phrase>
+  <phrase title="emoji.mermaid" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mermaid]]></phrase>
+  <phrase title="emoji.mermaid_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mermaid: açık ten tonu]]></phrase>
+  <phrase title="emoji.mermaid_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mermaid: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.mermaid_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mermaid: orta ten tonu]]></phrase>
+  <phrase title="emoji.mermaid_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mermaid: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.mermaid_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mermaid: koyu ten tonu]]></phrase>
+  <phrase title="emoji.merman" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Merman]]></phrase>
+  <phrase title="emoji.merman_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Merman: açık ten tonu]]></phrase>
+  <phrase title="emoji.merman_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Merman: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.merman_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Merman: orta ten tonu]]></phrase>
+  <phrase title="emoji.merman_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Merman: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.merman_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Merman: koyu ten tonu]]></phrase>
+  <phrase title="emoji.merperson" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Merperson]]></phrase>
+  <phrase title="emoji.merperson_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Merperson: açık ten tonu]]></phrase>
+  <phrase title="emoji.merperson_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Merperson: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.merperson_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Merperson: orta ten tonu]]></phrase>
+  <phrase title="emoji.merperson_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Merperson: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.merperson_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Merperson: koyu ten tonu]]></phrase>
+  <phrase title="emoji.metal" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Sign of the horns]]></phrase>
+  <phrase title="emoji.metal_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Sign of the horns: açık ten tonu]]></phrase>
+  <phrase title="emoji.metal_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Sign of the horns: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.metal_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Sign of the horns: orta ten tonu]]></phrase>
+  <phrase title="emoji.metal_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Sign of the horns: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.metal_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Sign of the horns: koyu ten tonu]]></phrase>
+  <phrase title="emoji.metro" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Metro]]></phrase>
+  <phrase title="emoji.microbe" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Microbe]]></phrase>
+  <phrase title="emoji.microphone" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Microphone]]></phrase>
+  <phrase title="emoji.microphone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Studio microphone]]></phrase>
+  <phrase title="emoji.microscope" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Microscope]]></phrase>
+  <phrase title="emoji.middle_finger" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Middle finger]]></phrase>
+  <phrase title="emoji.middle_finger_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Middle finger: açık ten tonu]]></phrase>
+  <phrase title="emoji.middle_finger_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Middle finger: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.middle_finger_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Middle finger: orta ten tonu]]></phrase>
+  <phrase title="emoji.middle_finger_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Middle finger: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.middle_finger_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Middle finger: koyu ten tonu]]></phrase>
+  <phrase title="emoji.military_helmet" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Military helmet]]></phrase>
+  <phrase title="emoji.military_medal" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Military medal]]></phrase>
+  <phrase title="emoji.milk" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Glass of milk]]></phrase>
+  <phrase title="emoji.milky_way" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Milky way]]></phrase>
+  <phrase title="emoji.minibus" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Minibus]]></phrase>
+  <phrase title="emoji.minidisc" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Computer disk]]></phrase>
+  <phrase title="emoji.mirror" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Mirror]]></phrase>
+  <phrase title="emoji.mirror_ball" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Mirror ball]]></phrase>
+  <phrase title="emoji.mobile_phone" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mobile phone]]></phrase>
+  <phrase title="emoji.mobile_phone_off" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mobile phone off]]></phrase>
+  <phrase title="emoji.money_mouth" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Money-mouth face]]></phrase>
+  <phrase title="emoji.money_with_wings" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Money with wings]]></phrase>
+  <phrase title="emoji.moneybag" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Money bag]]></phrase>
+  <phrase title="emoji.monkey" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Maymun]]></phrase>
+  <phrase title="emoji.monkey_face" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Monkey face]]></phrase>
+  <phrase title="emoji.monorail" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Monorail]]></phrase>
+  <phrase title="emoji.moon_cake" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Moon cake]]></phrase>
+  <phrase title="emoji.moose" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Moose]]></phrase>
+  <phrase title="emoji.mortar_board" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Graduation cap]]></phrase>
+  <phrase title="emoji.mosque" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mosque]]></phrase>
+  <phrase title="emoji.mosquito" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mosquito]]></phrase>
+  <phrase title="emoji.motor_scooter" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Motor scooter]]></phrase>
+  <phrase title="emoji.motorboat" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Motor boat]]></phrase>
+  <phrase title="emoji.motorcycle" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Motorcycle]]></phrase>
+  <phrase title="emoji.motorized_wheelchair" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Motorized wheelchair]]></phrase>
+  <phrase title="emoji.motorway" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Motorway]]></phrase>
+  <phrase title="emoji.mount_fuji" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mount fuji]]></phrase>
+  <phrase title="emoji.mountain" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mountain]]></phrase>
+  <phrase title="emoji.mountain_cableway" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mountain cableway]]></phrase>
+  <phrase title="emoji.mountain_railway" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mountain railway]]></phrase>
+  <phrase title="emoji.mountain_snow" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Snow-capped mountain]]></phrase>
+  <phrase title="emoji.mouse" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mouse face]]></phrase>
+  <phrase title="emoji.mouse2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Fare]]></phrase>
+  <phrase title="emoji.mouse_three_button" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Computer mouse]]></phrase>
+  <phrase title="emoji.mouse_trap" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Mouse trap]]></phrase>
+  <phrase title="emoji.movie_camera" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Movie camera]]></phrase>
+  <phrase title="emoji.moyai" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Moai]]></phrase>
+  <phrase title="emoji.mrs_claus" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mrs. Claus]]></phrase>
+  <phrase title="emoji.mrs_claus_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mrs. Claus: açık ten tonu]]></phrase>
+  <phrase title="emoji.mrs_claus_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mrs. Claus: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.mrs_claus_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mrs. Claus: orta ten tonu]]></phrase>
+  <phrase title="emoji.mrs_claus_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mrs. Claus: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.mrs_claus_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mrs. Claus: koyu ten tonu]]></phrase>
+  <phrase title="emoji.muscle" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Flexed biceps]]></phrase>
+  <phrase title="emoji.muscle_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Flexed biceps: açık ten tonu]]></phrase>
+  <phrase title="emoji.muscle_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Flexed biceps: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.muscle_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Flexed biceps: orta ten tonu]]></phrase>
+  <phrase title="emoji.muscle_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Flexed biceps: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.muscle_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Flexed biceps: koyu ten tonu]]></phrase>
+  <phrase title="emoji.mushroom" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mantar]]></phrase>
+  <phrase title="emoji.musical_keyboard" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Musical keyboard]]></phrase>
+  <phrase title="emoji.musical_note" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Musical note]]></phrase>
+  <phrase title="emoji.musical_score" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Musical score]]></phrase>
+  <phrase title="emoji.mute" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Muted speaker]]></phrase>
+  <phrase title="emoji.mx_claus" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Mx claus]]></phrase>
+  <phrase title="emoji.mx_claus_tone1" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Mx claus: açık ten tonu]]></phrase>
+  <phrase title="emoji.mx_claus_tone2" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Mx claus: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.mx_claus_tone3" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Mx claus: orta ten tonu]]></phrase>
+  <phrase title="emoji.mx_claus_tone4" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Mx claus: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.mx_claus_tone5" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Mx claus: koyu ten tonu]]></phrase>
+  <phrase title="emoji.nail_care" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Nail polish]]></phrase>
+  <phrase title="emoji.nail_care_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Nail polish: açık ten tonu]]></phrase>
+  <phrase title="emoji.nail_care_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Nail polish: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.nail_care_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Nail polish: orta ten tonu]]></phrase>
+  <phrase title="emoji.nail_care_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Nail polish: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.nail_care_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Nail polish: koyu ten tonu]]></phrase>
+  <phrase title="emoji.name_badge" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Name badge]]></phrase>
+  <phrase title="emoji.nauseated_face" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Nauseated face]]></phrase>
+  <phrase title="emoji.nazar_amulet" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Nazar amulet]]></phrase>
+  <phrase title="emoji.necktie" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Necktie]]></phrase>
+  <phrase title="emoji.negative_squared_cross_mark" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Cross mark düğmesi]]></phrase>
+  <phrase title="emoji.nerd" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Nerd face]]></phrase>
+  <phrase title="emoji.nest_with_eggs" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Nest with eggs]]></phrase>
+  <phrase title="emoji.nesting_dolls" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Nesting dolls]]></phrase>
+  <phrase title="emoji.neutral_face" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Neutral face]]></phrase>
+  <phrase title="emoji.new" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[NEW düğmesi]]></phrase>
+  <phrase title="emoji.new_moon" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[New moon]]></phrase>
+  <phrase title="emoji.new_moon_with_face" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[New moon face]]></phrase>
+  <phrase title="emoji.newspaper" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Newspaper]]></phrase>
+  <phrase title="emoji.newspaper2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Rolled-up newspaper]]></phrase>
+  <phrase title="emoji.ng" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[NG düğmesi]]></phrase>
+  <phrase title="emoji.night_with_stars" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Night with stars]]></phrase>
+  <phrase title="emoji.nine" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Keycap: 9]]></phrase>
+  <phrase title="emoji.ninja" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Ninja]]></phrase>
+  <phrase title="emoji.ninja_tone1" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Ninja: açık ten tonu]]></phrase>
+  <phrase title="emoji.ninja_tone2" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Ninja: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.ninja_tone3" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Ninja: orta ten tonu]]></phrase>
+  <phrase title="emoji.ninja_tone4" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Ninja: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.ninja_tone5" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Ninja: koyu ten tonu]]></phrase>
+  <phrase title="emoji.no_bell" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bell with slash]]></phrase>
+  <phrase title="emoji.no_bicycles" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[No bicycles]]></phrase>
+  <phrase title="emoji.no_entry" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[No entry]]></phrase>
+  <phrase title="emoji.no_entry_sign" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Prohibited]]></phrase>
+  <phrase title="emoji.no_mobile_phones" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[No mobile phones]]></phrase>
+  <phrase title="emoji.no_mouth" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Face without mouth]]></phrase>
+  <phrase title="emoji.no_pedestrians" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[No pedestrians]]></phrase>
+  <phrase title="emoji.no_smoking" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[No smoking]]></phrase>
+  <phrase title="emoji.non_potable_water" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Non-potable water]]></phrase>
+  <phrase title="emoji.nose" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Nose]]></phrase>
+  <phrase title="emoji.nose_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Nose: açık ten tonu]]></phrase>
+  <phrase title="emoji.nose_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Nose: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.nose_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Nose: orta ten tonu]]></phrase>
+  <phrase title="emoji.nose_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Nose: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.nose_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Nose: koyu ten tonu]]></phrase>
+  <phrase title="emoji.notebook" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Notebook]]></phrase>
+  <phrase title="emoji.notebook_with_decorative_cover" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Notebook with decorative cover]]></phrase>
+  <phrase title="emoji.notepad_spiral" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Spiral notepad]]></phrase>
+  <phrase title="emoji.notes" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Musical notes]]></phrase>
+  <phrase title="emoji.nut_and_bolt" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Nut and bolt]]></phrase>
+  <phrase title="emoji.o" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Hollow red circle]]></phrase>
+  <phrase title="emoji.o2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[O button (blood type)]]></phrase>
+  <phrase title="emoji.ocean" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Water wave]]></phrase>
+  <phrase title="emoji.octagonal_sign" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Stop sign]]></phrase>
+  <phrase title="emoji.octopus" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Ahtapot]]></phrase>
+  <phrase title="emoji.oden" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Oden]]></phrase>
+  <phrase title="emoji.office" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Office building]]></phrase>
+  <phrase title="emoji.office_worker" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Office worker]]></phrase>
+  <phrase title="emoji.office_worker_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Office worker: açık ten tonu]]></phrase>
+  <phrase title="emoji.office_worker_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Office worker: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.office_worker_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Office worker: orta ten tonu]]></phrase>
+  <phrase title="emoji.office_worker_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Office worker: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.office_worker_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Office worker: koyu ten tonu]]></phrase>
+  <phrase title="emoji.oil" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Oil drum]]></phrase>
+  <phrase title="emoji.ok" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[OK düğmesi]]></phrase>
+  <phrase title="emoji.ok_hand" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Tamam işareti]]></phrase>
+  <phrase title="emoji.ok_hand_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Tamam işareti: açık ten tonu]]></phrase>
+  <phrase title="emoji.ok_hand_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Tamam işareti: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.ok_hand_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Tamam işareti: orta ten tonu]]></phrase>
+  <phrase title="emoji.ok_hand_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Tamam işareti: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.ok_hand_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Tamam işareti: koyu ten tonu]]></phrase>
+  <phrase title="emoji.older_adult" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yaşlı kişi]]></phrase>
+  <phrase title="emoji.older_adult_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yaşlı kişi: açık ten tonu]]></phrase>
+  <phrase title="emoji.older_adult_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yaşlı kişi: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.older_adult_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yaşlı kişi: orta ten tonu]]></phrase>
+  <phrase title="emoji.older_adult_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yaşlı kişi: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.older_adult_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yaşlı kişi: koyu ten tonu]]></phrase>
+  <phrase title="emoji.older_man" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yaşlı adam]]></phrase>
+  <phrase title="emoji.older_man_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yaşlı adam: açık ten tonu]]></phrase>
+  <phrase title="emoji.older_man_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yaşlı adam: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.older_man_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yaşlı adam: orta ten tonu]]></phrase>
+  <phrase title="emoji.older_man_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yaşlı adam: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.older_man_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yaşlı adam: koyu ten tonu]]></phrase>
+  <phrase title="emoji.older_woman" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yaşlı kadın]]></phrase>
+  <phrase title="emoji.older_woman_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yaşlı kadın: açık ten tonu]]></phrase>
+  <phrase title="emoji.older_woman_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yaşlı kadın: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.older_woman_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yaşlı kadın: orta ten tonu]]></phrase>
+  <phrase title="emoji.older_woman_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yaşlı kadın: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.older_woman_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yaşlı kadın: koyu ten tonu]]></phrase>
+  <phrase title="emoji.olive" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Olive]]></phrase>
+  <phrase title="emoji.om_symbol" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Om]]></phrase>
+  <phrase title="emoji.on" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[ON! arrow]]></phrase>
+  <phrase title="emoji.oncoming_automobile" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Oncoming automobile]]></phrase>
+  <phrase title="emoji.oncoming_bus" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Oncoming bus]]></phrase>
+  <phrase title="emoji.oncoming_police_car" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Oncoming police car]]></phrase>
+  <phrase title="emoji.oncoming_taxi" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Oncoming taxi]]></phrase>
+  <phrase title="emoji.one" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Keycap: 1]]></phrase>
+  <phrase title="emoji.one_piece_swimsuit" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[One-piece swimsuit]]></phrase>
+  <phrase title="emoji.onion" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Soğan]]></phrase>
+  <phrase title="emoji.open_file_folder" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Open file folder]]></phrase>
+  <phrase title="emoji.open_hands" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Açık eller]]></phrase>
+  <phrase title="emoji.open_hands_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Açık eller: açık ten tonu]]></phrase>
+  <phrase title="emoji.open_hands_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Açık eller: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.open_hands_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Açık eller: orta ten tonu]]></phrase>
+  <phrase title="emoji.open_hands_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Açık eller: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.open_hands_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Açık eller: koyu ten tonu]]></phrase>
+  <phrase title="emoji.open_mouth" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Face with open mouth]]></phrase>
+  <phrase title="emoji.ophiuchus" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Ophiuchus]]></phrase>
+  <phrase title="emoji.orange_book" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Orange book]]></phrase>
+  <phrase title="emoji.orange_circle" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Turuncu daire]]></phrase>
+  <phrase title="emoji.orange_heart" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Turuncu kalp]]></phrase>
+  <phrase title="emoji.orange_square" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Turuncu kare]]></phrase>
+  <phrase title="emoji.orangutan" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Orangutan]]></phrase>
+  <phrase title="emoji.orthodox_cross" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Orthodox cross]]></phrase>
+  <phrase title="emoji.otter" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Otter]]></phrase>
+  <phrase title="emoji.outbox_tray" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Outbox tray]]></phrase>
+  <phrase title="emoji.owl" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Baykuş]]></phrase>
+  <phrase title="emoji.ox" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Ox]]></phrase>
+  <phrase title="emoji.oyster" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Oyster]]></phrase>
+  <phrase title="emoji.package" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Package]]></phrase>
+  <phrase title="emoji.page_facing_up" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Page facing up]]></phrase>
+  <phrase title="emoji.page_with_curl" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Page with curl]]></phrase>
+  <phrase title="emoji.pager" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Pager]]></phrase>
+  <phrase title="emoji.paintbrush" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Paintbrush]]></phrase>
+  <phrase title="emoji.palm_down_hand" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Palm down hand]]></phrase>
+  <phrase title="emoji.palm_down_hand_tone1" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Palm down hand: açık ten tonu]]></phrase>
+  <phrase title="emoji.palm_down_hand_tone2" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Palm down hand: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.palm_down_hand_tone3" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Palm down hand: orta ten tonu]]></phrase>
+  <phrase title="emoji.palm_down_hand_tone4" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Palm down hand: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.palm_down_hand_tone5" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Palm down hand: koyu ten tonu]]></phrase>
+  <phrase title="emoji.palm_tree" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Palm tree]]></phrase>
+  <phrase title="emoji.palm_up_hand" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Palm up hand]]></phrase>
+  <phrase title="emoji.palm_up_hand_tone1" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Palm up hand: açık ten tonu]]></phrase>
+  <phrase title="emoji.palm_up_hand_tone2" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Palm up hand: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.palm_up_hand_tone3" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Palm up hand: orta ten tonu]]></phrase>
+  <phrase title="emoji.palm_up_hand_tone4" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Palm up hand: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.palm_up_hand_tone5" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Palm up hand: koyu ten tonu]]></phrase>
+  <phrase title="emoji.palms_up_together" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Palms up together]]></phrase>
+  <phrase title="emoji.palms_up_together_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Palms up together: açık ten tonu]]></phrase>
+  <phrase title="emoji.palms_up_together_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Palms up together: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.palms_up_together_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Palms up together: orta ten tonu]]></phrase>
+  <phrase title="emoji.palms_up_together_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Palms up together: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.palms_up_together_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Palms up together: koyu ten tonu]]></phrase>
+  <phrase title="emoji.pancakes" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Pancakes]]></phrase>
+  <phrase title="emoji.panda_face" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Panda]]></phrase>
+  <phrase title="emoji.paperclip" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Paperclip]]></phrase>
+  <phrase title="emoji.paperclips" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Linked paperclips]]></phrase>
+  <phrase title="emoji.parachute" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Parachute]]></phrase>
+  <phrase title="emoji.park" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[National park]]></phrase>
+  <phrase title="emoji.parking" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[P düğmesi]]></phrase>
+  <phrase title="emoji.parrot" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Parrot]]></phrase>
+  <phrase title="emoji.part_alternation_mark" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Part alternation mark]]></phrase>
+  <phrase title="emoji.partly_sunny" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Sun behind cloud]]></phrase>
+  <phrase title="emoji.partying_face" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Partying face]]></phrase>
+  <phrase title="emoji.passport_control" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Passport control]]></phrase>
+  <phrase title="emoji.pause_button" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Pause düğmesi]]></phrase>
+  <phrase title="emoji.pea_pod" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Pea pod]]></phrase>
+  <phrase title="emoji.peace" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Peace symbol]]></phrase>
+  <phrase title="emoji.peach" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Şeftali]]></phrase>
+  <phrase title="emoji.peacock" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Peacock]]></phrase>
+  <phrase title="emoji.peanuts" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Peanuts]]></phrase>
+  <phrase title="emoji.pear" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Armut]]></phrase>
+  <phrase title="emoji.pen_ballpoint" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Pen]]></phrase>
+  <phrase title="emoji.pen_fountain" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Fountain pen]]></phrase>
+  <phrase title="emoji.pencil" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Memo]]></phrase>
+  <phrase title="emoji.pencil2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Pencil]]></phrase>
+  <phrase title="emoji.penguin" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Penguen]]></phrase>
+  <phrase title="emoji.pensive" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Pensive face]]></phrase>
+  <phrase title="emoji.people_holding_hands" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[People holding hands]]></phrase>
+  <phrase title="emoji.people_holding_hands_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[People holding hands: açık ten tonu]]></phrase>
+  <phrase title="emoji.people_holding_hands_tone1_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[People holding hands: açık ten tonu, orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.people_holding_hands_tone1_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[People holding hands: açık ten tonu, orta ten tonu]]></phrase>
+  <phrase title="emoji.people_holding_hands_tone1_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[People holding hands: açık ten tonu, orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.people_holding_hands_tone1_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[People holding hands: açık ten tonu, koyu ten tonu]]></phrase>
+  <phrase title="emoji.people_holding_hands_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[People holding hands: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.people_holding_hands_tone2_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[People holding hands: orta-açık ten tonu, açık ten tonu]]></phrase>
+  <phrase title="emoji.people_holding_hands_tone2_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[People holding hands: orta-açık ten tonu, orta ten tonu]]></phrase>
+  <phrase title="emoji.people_holding_hands_tone2_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[People holding hands: orta-açık ten tonu, orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.people_holding_hands_tone2_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[People holding hands: orta-açık ten tonu, koyu ten tonu]]></phrase>
+  <phrase title="emoji.people_holding_hands_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[People holding hands: orta ten tonu]]></phrase>
+  <phrase title="emoji.people_holding_hands_tone3_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[People holding hands: orta ten tonu, açık ten tonu]]></phrase>
+  <phrase title="emoji.people_holding_hands_tone3_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[People holding hands: orta ten tonu, orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.people_holding_hands_tone3_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[People holding hands: orta ten tonu, orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.people_holding_hands_tone3_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[People holding hands: orta ten tonu, koyu ten tonu]]></phrase>
+  <phrase title="emoji.people_holding_hands_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[People holding hands: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.people_holding_hands_tone4_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[People holding hands: orta-koyu ten tonu, açık ten tonu]]></phrase>
+  <phrase title="emoji.people_holding_hands_tone4_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[People holding hands: medium koyu ten tonu, medium açık ten tonu]]></phrase>
+  <phrase title="emoji.people_holding_hands_tone4_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[People holding hands: orta-koyu ten tonu, orta ten tonu]]></phrase>
+  <phrase title="emoji.people_holding_hands_tone4_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[People holding hands: orta-koyu ten tonu, koyu ten tonu]]></phrase>
+  <phrase title="emoji.people_holding_hands_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[People holding hands: koyu ten tonu]]></phrase>
+  <phrase title="emoji.people_holding_hands_tone5_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[People holding hands: koyu ten tonu, açık ten tonu]]></phrase>
+  <phrase title="emoji.people_holding_hands_tone5_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[People holding hands: koyu ten tonu, orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.people_holding_hands_tone5_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[People holding hands: koyu ten tonu, orta ten tonu]]></phrase>
+  <phrase title="emoji.people_holding_hands_tone5_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[People holding hands: koyu ten tonu, orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.people_hugging" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[People hugging]]></phrase>
+  <phrase title="emoji.people_with_bunny_ears_partying" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[People with bunny ears]]></phrase>
+  <phrase title="emoji.people_wrestling" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[People wrestling]]></phrase>
+  <phrase title="emoji.performing_arts" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Performing arts]]></phrase>
+  <phrase title="emoji.persevere" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Direnen yüz]]></phrase>
+  <phrase title="emoji.person_bald" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kişi: bald]]></phrase>
+  <phrase title="emoji.person_biking" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person biking]]></phrase>
+  <phrase title="emoji.person_biking_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person biking: açık ten tonu]]></phrase>
+  <phrase title="emoji.person_biking_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person biking: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.person_biking_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person biking: orta ten tonu]]></phrase>
+  <phrase title="emoji.person_biking_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person biking: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_biking_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person biking: koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_bouncing_ball" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person bouncing ball]]></phrase>
+  <phrase title="emoji.person_bouncing_ball_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person bouncing ball: açık ten tonu]]></phrase>
+  <phrase title="emoji.person_bouncing_ball_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person bouncing ball: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.person_bouncing_ball_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person bouncing ball: orta ten tonu]]></phrase>
+  <phrase title="emoji.person_bouncing_ball_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person bouncing ball: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_bouncing_ball_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person bouncing ball: koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_bowing" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person bowing]]></phrase>
+  <phrase title="emoji.person_bowing_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person bowing: açık ten tonu]]></phrase>
+  <phrase title="emoji.person_bowing_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person bowing: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.person_bowing_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person bowing: orta ten tonu]]></phrase>
+  <phrase title="emoji.person_bowing_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person bowing: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_bowing_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person bowing: koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_climbing" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person climbing]]></phrase>
+  <phrase title="emoji.person_climbing_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person climbing: açık ten tonu]]></phrase>
+  <phrase title="emoji.person_climbing_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person climbing: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.person_climbing_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person climbing: orta ten tonu]]></phrase>
+  <phrase title="emoji.person_climbing_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person climbing: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_climbing_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person climbing: koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_curly_hair" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kişi: kıvırcık saçlı]]></phrase>
+  <phrase title="emoji.person_doing_cartwheel" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person cartwheeling]]></phrase>
+  <phrase title="emoji.person_doing_cartwheel_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person cartwheeling: açık ten tonu]]></phrase>
+  <phrase title="emoji.person_doing_cartwheel_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person cartwheeling: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.person_doing_cartwheel_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person cartwheeling: orta ten tonu]]></phrase>
+  <phrase title="emoji.person_doing_cartwheel_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person cartwheeling: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_doing_cartwheel_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person cartwheeling: koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_facepalming" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person facepalming]]></phrase>
+  <phrase title="emoji.person_facepalming_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person facepalming: açık ten tonu]]></phrase>
+  <phrase title="emoji.person_facepalming_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person facepalming: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.person_facepalming_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person facepalming: orta ten tonu]]></phrase>
+  <phrase title="emoji.person_facepalming_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person facepalming: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_facepalming_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person facepalming: koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_feeding_baby" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Person feeding baby]]></phrase>
+  <phrase title="emoji.person_feeding_baby_tone1" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Person feeding baby: açık ten tonu]]></phrase>
+  <phrase title="emoji.person_feeding_baby_tone2" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Person feeding baby: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.person_feeding_baby_tone3" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Person feeding baby: orta ten tonu]]></phrase>
+  <phrase title="emoji.person_feeding_baby_tone4" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Person feeding baby: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_feeding_baby_tone5" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Person feeding baby: koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_fencing" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person fencing]]></phrase>
+  <phrase title="emoji.person_frowning" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person frowning]]></phrase>
+  <phrase title="emoji.person_frowning_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person frowning: açık ten tonu]]></phrase>
+  <phrase title="emoji.person_frowning_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person frowning: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.person_frowning_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person frowning: orta ten tonu]]></phrase>
+  <phrase title="emoji.person_frowning_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person frowning: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_frowning_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person frowning: koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_gesturing_no" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person gesturing NO]]></phrase>
+  <phrase title="emoji.person_gesturing_no_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person gesturing NO: açık ten tonu]]></phrase>
+  <phrase title="emoji.person_gesturing_no_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person gesturing NO: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.person_gesturing_no_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person gesturing NO: orta ten tonu]]></phrase>
+  <phrase title="emoji.person_gesturing_no_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person gesturing NO: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_gesturing_no_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person gesturing NO: koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_gesturing_ok" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person gesturing OK]]></phrase>
+  <phrase title="emoji.person_gesturing_ok_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person gesturing OK: açık ten tonu]]></phrase>
+  <phrase title="emoji.person_gesturing_ok_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person gesturing OK: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.person_gesturing_ok_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person gesturing OK: orta ten tonu]]></phrase>
+  <phrase title="emoji.person_gesturing_ok_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person gesturing OK: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_gesturing_ok_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person gesturing OK: koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_getting_haircut" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person getting haircut]]></phrase>
+  <phrase title="emoji.person_getting_haircut_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person getting haircut: açık ten tonu]]></phrase>
+  <phrase title="emoji.person_getting_haircut_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person getting haircut: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.person_getting_haircut_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person getting haircut: orta ten tonu]]></phrase>
+  <phrase title="emoji.person_getting_haircut_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person getting haircut: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_getting_haircut_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person getting haircut: koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_getting_massage" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person getting massage]]></phrase>
+  <phrase title="emoji.person_getting_massage_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person getting massage: açık ten tonu]]></phrase>
+  <phrase title="emoji.person_getting_massage_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person getting massage: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.person_getting_massage_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person getting massage: orta ten tonu]]></phrase>
+  <phrase title="emoji.person_getting_massage_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person getting massage: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_getting_massage_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person getting massage: koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_golfing" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person golfing]]></phrase>
+  <phrase title="emoji.person_golfing_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person golfing: açık ten tonu]]></phrase>
+  <phrase title="emoji.person_golfing_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person golfing: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.person_golfing_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person golfing: orta ten tonu]]></phrase>
+  <phrase title="emoji.person_golfing_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person golfing: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_golfing_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person golfing: koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_in_bed_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person in bed: açık ten tonu]]></phrase>
+  <phrase title="emoji.person_in_bed_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person in bed: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.person_in_bed_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person in bed: orta ten tonu]]></phrase>
+  <phrase title="emoji.person_in_bed_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person in bed: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_in_bed_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person in bed: koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_in_lotus_position" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person in lotus position]]></phrase>
+  <phrase title="emoji.person_in_lotus_position_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person in lotus position: açık ten tonu]]></phrase>
+  <phrase title="emoji.person_in_lotus_position_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person in lotus position: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.person_in_lotus_position_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person in lotus position: orta ten tonu]]></phrase>
+  <phrase title="emoji.person_in_lotus_position_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person in lotus position: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_in_lotus_position_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person in lotus position: koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_in_manual_wheelchair" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person in manual wheelchair]]></phrase>
+  <phrase title="emoji.person_in_manual_wheelchair_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person in manual wheelchair: açık ten tonu]]></phrase>
+  <phrase title="emoji.person_in_manual_wheelchair_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person in manual wheelchair: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.person_in_manual_wheelchair_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person in manual wheelchair: orta ten tonu]]></phrase>
+  <phrase title="emoji.person_in_manual_wheelchair_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person in manual wheelchair: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_in_manual_wheelchair_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person in manual wheelchair: koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_in_motorized_wheelchair" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person in motorized wheelchair]]></phrase>
+  <phrase title="emoji.person_in_motorized_wheelchair_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person in motorized wheelchair: açık ten tonu]]></phrase>
+  <phrase title="emoji.person_in_motorized_wheelchair_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person in motorized wheelchair: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.person_in_motorized_wheelchair_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person in motorized wheelchair: orta ten tonu]]></phrase>
+  <phrase title="emoji.person_in_motorized_wheelchair_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person in motorized wheelchair: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_in_motorized_wheelchair_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person in motorized wheelchair: koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_in_steamy_room" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person in steamy room]]></phrase>
+  <phrase title="emoji.person_in_steamy_room_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person in steamy room: açık ten tonu]]></phrase>
+  <phrase title="emoji.person_in_steamy_room_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person in steamy room: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.person_in_steamy_room_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person in steamy room: orta ten tonu]]></phrase>
+  <phrase title="emoji.person_in_steamy_room_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person in steamy room: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_in_steamy_room_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person in steamy room: koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_in_tuxedo" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Person in tuxedo]]></phrase>
+  <phrase title="emoji.person_in_tuxedo_tone1" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Person in tuxedo: açık ten tonu]]></phrase>
+  <phrase title="emoji.person_in_tuxedo_tone2" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Person in tuxedo: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.person_in_tuxedo_tone3" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Person in tuxedo: orta ten tonu]]></phrase>
+  <phrase title="emoji.person_in_tuxedo_tone4" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Person in tuxedo: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_in_tuxedo_tone5" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Person in tuxedo: koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_juggling" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person juggling]]></phrase>
+  <phrase title="emoji.person_juggling_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person juggling: açık ten tonu]]></phrase>
+  <phrase title="emoji.person_juggling_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person juggling: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.person_juggling_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person juggling: orta ten tonu]]></phrase>
+  <phrase title="emoji.person_juggling_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person juggling: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_juggling_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person juggling: koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_kneeling" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person kneeling]]></phrase>
+  <phrase title="emoji.person_kneeling_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person kneeling: açık ten tonu]]></phrase>
+  <phrase title="emoji.person_kneeling_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person kneeling: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.person_kneeling_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person kneeling: orta ten tonu]]></phrase>
+  <phrase title="emoji.person_kneeling_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person kneeling: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_kneeling_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person kneeling: koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_lifting_weights" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person lifting weights]]></phrase>
+  <phrase title="emoji.person_lifting_weights_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person lifting weights: açık ten tonu]]></phrase>
+  <phrase title="emoji.person_lifting_weights_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person lifting weights: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.person_lifting_weights_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person lifting weights: orta ten tonu]]></phrase>
+  <phrase title="emoji.person_lifting_weights_tone4" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person lifting weights: orta-koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_lifting_weights_tone5" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person lifting weights: koyu ten tonu]]></phrase>
+  <phrase title="emoji.person_mountain_biking" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person mountain biking]]></phrase>
+  <phrase title="emoji.person_mountain_biking_tone1" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person mountain biking: açık ten tonu]]></phrase>
+  <phrase title="emoji.person_mountain_biking_tone2" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person mountain biking: orta-açık ten tonu]]></phrase>
+  <phrase title="emoji.person_mountain_biking_tone3" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person mountain biking: orta ten tonu]]></phrase>

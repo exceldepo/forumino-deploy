@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<code_event_listeners>
+  <listener event_id="entity_structure" execute_order="10" callback_class="SelamT\XFRMSeoBoost\Listener" callback_method="entityStructure" active="1" description="XFRM ResourceItem -&gt; SeoMeta ilişkisini ekler"/>
+</code_event_listeners>

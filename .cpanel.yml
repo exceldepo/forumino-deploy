@@ -1,0 +1,20 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/forumino/public_html
+    - export PHP=/opt/cpanel/ea-php84/root/usr/bin/php
+    # Eklenti dosyalarını sync et
+    - /bin/mkdir -p $DEPLOYPATH/src/addons/SelamT
+    - /bin/rm -rf $DEPLOYPATH/src/addons/SelamT/XFRMSeoBoost
+    - /bin/cp -R addon/SelamT/XFRMSeoBoost $DEPLOYPATH/src/addons/SelamT/
+    # Çeviri XML'lerini sync et
+    - /bin/rm -rf $DEPLOYPATH/_translations
+    - /bin/cp -R translations $DEPLOYPATH/_translations
+    # Permissions düzelt
+    - /bin/chown -R forumino:forumino $DEPLOYPATH/src/addons/SelamT $DEPLOYPATH/_translations
+    # XF eklenti install/upgrade — yoksa install eder, varsa upgrade
+    - cd $DEPLOYPATH && $PHP cmd.php xf-addon:install SelamT/XFRMSeoBoost --no-interaction || $PHP cmd.php xf-addon:upgrade SelamT/XFRMSeoBoost --no-interaction
+    # TR çevirilerini topluca import (Türkçe yoksa oluşturur)
+    - cd $DEPLOYPATH && $PHP cmd.php selamt:import-translations --language=tr
+    # Phrase + template cache rebuild
+    - cd $DEPLOYPATH && $PHP cmd.php xf:rebuild-master-data --addon=all

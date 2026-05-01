@@ -1,0 +1,200 @@
+  <phrase title="privacy_policy_text" version_id="2000632" version_string="2.0.6 Beta 2"><![CDATA[<p>Biz {board_title} ("biz", "bizim", "bize") olarak, gizliliğinizi korumayı ve ona saygı göstermeyi taahhüt ediyoruz. Kişisel bilgileriniz hakkında sorularınız varsa lütfen <a href="{contactUrl}">bizimle iletişime geçin</a>.</p>
+
+<h2>Sizin hakkınızda hangi bilgileri tutuyoruz</h2>
+<p>Topladığımız ve işlediğimiz veri türleri şunları içerir:</p>
+<ul>
+	<li>Adınız veya kullanıcı adınız.</li>
+	<li>E-posta adresiniz.</li>
+	<li>IP adresiniz.</li>
+</ul>
+<p>Profil alanlarınızı doldurmak gibi paylaşmayı seçerseniz daha fazla veri toplanabilir.</p>
+<p>Bu bilgilerin bir kısmını veya tamamını aşağıdaki durumlarda topluyoruz:</p>
+<ul>
+	<li>Bu sitede üye olarak kayıt yaparsınız.</li>
+	<li>İletişim formumuzu doldurursunuz.</li>
+	<li>Bu siteye göz atarsınız. Aşağıdaki "Çerez politikası"na bakın.</li>
+	<li>Profil alanlarınızı doldurursunuz.</li>
+</ul>
+
+<h2>Kişisel bilgileriniz nasıl kullanılır</h2>
+<p>Kişisel bilgilerinizi aşağıdaki şekillerde kullanabiliriz:</p>
+<ul>
+	<li>Sitemize içerik katkıda bulunabilmeniz için sizi sitemizde kayıtlı bir üye yapma amacıyla.</li>
+	<li>Sitemizdeki etkinlikler hakkında sizi bilgilendirmek için e-posta adresinizi kullanabiliriz.</li>
+	<li>Sitemizde belirli eylemleri gerçekleştirdiğinizde IP adresiniz kaydedilir. IP adresiniz hiçbir zaman herkese açık olarak görüntülenmez.</li>
+</ul>
+
+<h2>Kişisel bilgilerinizi kullanmamızın diğer yolları.</h2>
+<p>Sitemizdeki sizi ilgilendirebilecek etkinlikleri size bildirmenin yanı sıra, zaman zaman tüm üyelerimize e-posta yoluyla bültenler veya duyurular gibi önemli bilgileri iletmek isteyebiliriz. Profilinizden bu tür e-postaları almayı veya almamayı seçebilirsiniz.</p>
+<p>Sitemizle etkileşiminiz sırasında hakkınızda kişisel olarak tanımlanamayan bilgiler toplayabiliriz. Bu bilgiler kullandığınız tarayıcı veya cihaz türü hakkında teknik bilgileri içerebilir. Bu bilgiler yalnızca analiz amaçları ve sitemizdeki ziyaretçi sayısını izleme amacıyla kullanılacaktır.</p>
+
+<h2>Verilerinizi güvende tutmak</h2>
+<p>Bize sağladığınız tüm bilgilerin güvenli olmasını sağlamayı taahhüt ediyoruz. Yetkisiz erişimi veya açıklamayı önlemek için topladığımız bilgileri korumak ve güvenli hale getirmek için uygun önlemler ve prosedürler oluşturduk.</p>
+
+<h2>Çerez politikası</h2>
+<p>Çerezler, sitemizde belirli işlevleri sağlayabilmemiz için, örneğin giriş yapabilmemiz veya belirli tercihleri hatırlayabilmemiz için, bilgisayarınıza bizim tarafımızdan ayarlanan küçük metin dosyalarıdır.</p>
+<p>Ayrıntılı bir çerez politikamız ve <a href="{cookieHelp}">bu sayfada</a> ayarladığımız çerezler hakkında daha fazla bilgimiz vardır.</p>
+
+<h2>Haklar</h2>
+<p>Sizin hakkınızda tuttuğumuz kişisel verilere erişme veya bunların bir kopyasını alma hakkına sahipsiniz. Bunu yapmak için lütfen <a href="{contactUrl}">bizimle iletişime geçin</a>. Sizin için tuttuğumuz bilgilerin eksik veya yanlış olduğuna inanıyorsanız, bu bilgileri tamamlamamızı veya düzeltmemizi istemek için <a href="{contactUrl}">bizimle iletişime geçebilirsiniz</a>.</p>
+<p>Ayrıca kişisel verilerinizin silinmesini talep etme hakkınız da vardır. Kişisel verilerinizi kaldırmamızı isterseniz lütfen <a href="{contactUrl}">bizimle iletişime geçin</a>.</p>
+
+<h2>Bu politikanın kabulü</h2>
+<p>Sitemizi kullanmaya devam etmeniz bu politikayı kabul ettiğiniz anlamına gelir. Politikayı kabul etmiyorsanız lütfen bu siteyi kullanmayın. Kayıt olurken gizlilik politikasını açıkça kabul etmenizi de isteyeceğiz.</p>
+
+<h2>Bu politikadaki değişiklikler</h2>
+<p>Bu politikada herhangi bir zamanda değişiklik yapabiliriz. Gelecekte değişirse, bu politikadaki bilgileri gözden geçirmeniz ve yeniden kabul etmeniz istenebilir.</p>]]></phrase>
+  <phrase title="private" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Özel]]></phrase>
+  <phrase title="private_category" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Özel kategori]]></phrase>
+  <phrase title="private_category_hint" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seçilirse, kullanıcılar bu kategoriyi yalnızca açıkça izinler verildiyse görüntüleyebilirler.]]></phrase>
+  <phrase title="private_key" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Özel anahtar]]></phrase>
+  <phrase title="private_node" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Özel düğüm]]></phrase>
+  <phrase title="privileges_and_status" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ayrıcalıklar ve durum]]></phrase>
+  <phrase title="proceed" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Devam et]]></phrase>
+  <phrase title="processing" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[İşleniyor]]></phrase>
+  <phrase title="processing_approval_queue" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Onay kuyruğu işleniyor]]></phrase>
+  <phrase title="processing_email_bounces" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[E-posta geri dönüşleri işleniyor]]></phrase>
+  <phrase title="processing_email_unsubscribe_requests" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[E-posta abonelikten çıkma istekleri işleniyor]]></phrase>
+  <phrase title="profile_banner" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Profil afişi]]></phrase>
+  <phrase title="profile_banners" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Profil afişleri]]></phrase>
+  <phrase title="profile_info" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profil bilgisi]]></phrase>
+  <phrase title="profile_post" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profil mesajı]]></phrase>
+  <phrase title="profile_post_by_x" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[{name} tarafından profil mesajı]]></phrase>
+  <phrase title="profile_post_comment" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Profil mesajı yorumu]]></phrase>
+  <phrase title="profile_post_comment_by_x" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[{username} tarafından profil mesajı yorumu]]></phrase>
+  <phrase title="profile_post_comment_reactions" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Profil mesajı yorumu tepkileri]]></phrase>
+  <phrase title="profile_post_comments" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profil mesajı yorumları]]></phrase>
+  <phrase title="profile_post_for_x" version_id="0"><![CDATA[{username} için profil mesajı]]></phrase>
+  <phrase title="profile_post_reactions" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Profil mesajı tepkileri]]></phrase>
+  <phrase title="profile_posts" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profil mesajları]]></phrase>
+  <phrase title="project_honey_pot_key" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Project Honey Pot anahtarı:]]></phrase>
+  <phrase title="promote_this_user" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Bu kullanıcıyı terfi ettir]]></phrase>
+  <phrase title="promotion" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Terfi]]></phrase>
+  <phrase title="promotion_disabled" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Terfi devre dışı]]></phrase>
+  <phrase title="promotion_history" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Terfi geçmişi]]></phrase>
+  <phrase title="promotion_is_active" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Terfi aktif]]></phrase>
+  <phrase title="promotion_options" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Terfi seçenekleri]]></phrase>
+  <phrase title="prompt_group" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Komut istemi grubu]]></phrase>
+  <phrase title="prompts_belonging_to_this_group_will_be_disassociated_rather_than_deleted" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Bu gruba ait komut istemleri silinmek yerine bağlantısı kaldırılacaktır.]]></phrase>
+  <phrase title="properly_configured_progressive_web_app_allows_users_to_install_your_site_to_their_device" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Düzgün yapılandırılmış bir <a href="https://web.dev/progressive-web-apps/" target="_blank">progresif web uygulaması</a>, kullanıcıların sitenizi cihazlarına yüklemelerine olanak tanır.]]></phrase>
+  <phrase title="property_created_in_this_style" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu özellik bu stilde oluşturulmuştur ve üst stillerde yoktur]]></phrase>
+  <phrase title="property_customized_in_parent_style" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu özellik için özelleştirilmiş değer üst stilden devralınmıştır]]></phrase>
+  <phrase title="property_customized_in_this_style" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu özellik için değer bu stilde özelleştirilmiştir]]></phrase>
+  <phrase title="property_name" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Özellik adı]]></phrase>
+  <phrase title="provide_short_title_for_this_advertisement" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reklam listesi sayfasında görünecek bu reklam için kısa bir başlık sağlayın.]]></phrase>
+  <phrase title="provide_title_for_key_seen_list_api_keys" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[API anahtarları listesinde görüldüğü gibi bu anahtar için bir başlık sağlayın.]]></phrase>
+  <phrase title="provided_authorization_code_or_refresh_token_is_invalid_expired" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Sağlanan yetkilendirme kodu veya yenileme belirteci geçersiz, sona ermiş, iptal edilmiş, yetkilendirme isteğinde kullanılan yönlendirme URI'si ile eşleşmiyor veya başka bir istemciye verilmiş.]]></phrase>
+  <phrase title="provided_client_credentials_do_not_match_client_credentials_used" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Sağlanan istemci kimlik bilgileri, yetkilendirme isteğinde kullanılan istemci kimlik bilgileriyle eşleşmiyor.]]></phrase>
+  <phrase title="provided_client_credentials_invalid" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Sağlanan istemci kimlik bilgileri geçersiz.]]></phrase>
+  <phrase title="provided_file_is_not_valid_image" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sağlanan dosya geçerli bir görsel değil.]]></phrase>
+  <phrase title="provided_file_is_not_valid_language_xml" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Sağlanan dosya geçerli bir dil XML'i değil.]]></phrase>
+  <phrase title="provided_grant_type_is_not_supported" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Sağlanan yetki türü desteklenmiyor.]]></phrase>
+  <phrase title="provided_limit_ip_does_not_appear_to_be_valid_ip_address" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Sağlanan limit_ip geçerli bir IP adresi gibi görünmüyor.]]></phrase>
+  <phrase title="provided_redirection_uri_does_not_match_redirection_uri_registered" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Sağlanan yönlendirme URI'si, istemci için kayıtlı yönlendirme URI'siyle eşleşmiyor.]]></phrase>
+  <phrase title="provider" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sağlayıcı]]></phrase>
+  <phrase title="provider_class" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Sağlayıcı sınıfı]]></phrase>
+  <phrase title="provider_id" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Sağlayıcı ID]]></phrase>
+  <phrase title="proxy_images" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Görselleri proxy üzerinden geç]]></phrase>
+  <phrase title="proxy_links" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bağlantıları proxy üzerinden geç]]></phrase>
+  <phrase title="public" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Genel]]></phrase>
+  <phrase title="public_navigation" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Genel navigasyon]]></phrase>
+  <phrase title="public_templates" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Genel şablonlar]]></phrase>
+  <phrase title="public_warning_text" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Genel uyarı metni]]></phrase>
+  <phrase title="published" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Yayınlandı]]></phrase>
+  <phrase title="pull_down_to_refresh" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Yenilemek için aşağı çekin]]></phrase>
+  <phrase title="purchasable_details" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Satın alınabilir ayrıntıları]]></phrase>
+  <phrase title="purchasable_item" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Satın alınabilir öğe]]></phrase>
+  <phrase title="purchasable_type" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Satın alınabilir tür]]></phrase>
+  <phrase title="purchase_request_contains_invalid_payment_profile" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Satın alma isteği geçersiz bir ödeme profili içeriyor.]]></phrase>
+  <phrase title="purchase_request_key" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Satın alma isteği anahtarı]]></phrase>
+  <phrase title="purchased_item" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Satın alınan öğe]]></phrase>
+  <phrase title="purchased_upgrades" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Satın alınan yükseltmeler]]></phrase>
+  <phrase title="purpose" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Amaç]]></phrase>
+  <phrase title="push" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Anlık]]></phrase>
+  <phrase title="push_alert_profile_post_insert" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{username} profilinize bir mesaj yazdı.]]></phrase>
+  <phrase title="push_blocked_label" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Anlık bildirimler engellendi]]></phrase>
+  <phrase title="push_checking_device_capabilities" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Cihaz yetenekleri kontrol ediliyor]]></phrase>
+  <phrase title="push_direct_message_create" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{sender} size {title} doğrudan mesajını gönderdi.]]></phrase>
+  <phrase title="push_direct_message_invite" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{sender} sizi {title} doğrudan mesajına ekledi.]]></phrase>
+  <phrase title="push_direct_message_notifications" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Anlık doğrudan mesaj bildirimleri]]></phrase>
+  <phrase title="push_direct_message_reply" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{sender}, {title} doğrudan mesajına cevap verdi.]]></phrase>
+  <phrase title="push_disable_label" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Anlık bildirimleri devre dışı bırak]]></phrase>
+  <phrase title="push_enable_label" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Anlık bildirimleri etkinleştir]]></phrase>
+  <phrase title="push_enable_notification_body" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Anlık bildirimleri etkinleştirdiğiniz için teşekkürler!]]></phrase>
+  <phrase title="push_enable_notification_title" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{boardTitle} adresinde anlık bildirimler başarıyla etkinleştirildi]]></phrase>
+  <phrase title="push_not_supported_label" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Anlık bildirimler desteklenmiyor]]></phrase>
+  <phrase title="push_notifications" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Anlık bildirimler]]></phrase>
+  <phrase title="push_one_account_upgrades_expired_renew_now" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Hesap yükseltmelerinizden biri sona erdi. Şimdi yenileyin!]]></phrase>
+  <phrase title="push_subscription_updated_successfully" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Anlık abonelik başarıyla güncellendi.]]></phrase>
+  <phrase title="push_to_left" version_id="2001070" version_string="2.0.10"><![CDATA[Sola it]]></phrase>
+  <phrase title="push_x_also_commented_on_ys_profile_post" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name} ayrıca {poster} kullanıcısının profil mesajına yorum yaptı.]]></phrase>
+  <phrase title="push_x_also_commented_on_ys_status" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name} ayrıca {poster} kullanıcısının durumuna yorum yaptı.]]></phrase>
+  <phrase title="push_x_commented_on_your_post_on_ys_profile" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}, {profile} kullanıcısının profilindeki gönderinize yorum yaptı.]]></phrase>
+  <phrase title="push_x_commented_on_your_status" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name} durumunuza yorum yaptı.]]></phrase>
+  <phrase title="push_x_commented_on_ys_post_on_your_profile" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}, profilinizdeki {poster} gönderisine yorum yaptı.]]></phrase>
+  <phrase title="push_x_mentioned_you_comment_on_ys_profile" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}, {profile} kullanıcısının profilindeki bir yorumda sizden bahsetti.]]></phrase>
+  <phrase title="push_x_mentioned_you_message_on_ys_profile" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}, {profile} kullanıcısının profilindeki bir mesajda sizden bahsetti.]]></phrase>
+  <phrase title="push_x_reacted_to_your_comment_on_your_profile_post" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name} profil mesajınızdaki yorumunuza {reaction} ile tepki verdi.]]></phrase>
+  <phrase title="push_x_reacted_to_your_comment_on_ys_profile_post" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}, {poster} kullanıcısının profil mesajındaki yorumunuza {reaction} ile tepki verdi.]]></phrase>
+  <phrase title="push_x_reacted_to_your_post_on_ys_profile" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}, {profile} kullanıcısının profilindeki gönderinize {reaction} ile tepki verdi.]]></phrase>
+  <phrase title="push_x_reacted_to_your_status" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name} durumunuza {reaction} ile tepki verdi.]]></phrase>
+  <phrase title="push_your_status_update_was_edited" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Durum güncellemeniz düzenlendi.]]></phrase>
+  <phrase title="pwa_setup" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[PWA kurulumu]]></phrase>
+  <phrase title="question" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Soru]]></phrase>
+  <phrase title="question_and_answer_captchas" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Soru ve cevap CAPTCHA'ları]]></phrase>
+  <phrase title="question_is_active" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Soru aktif]]></phrase>
+  <phrase title="questions_solved_between" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Çözülen sorular arası]]></phrase>
+  <phrase title="quick_set" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hızlı ayarla]]></phrase>
+  <phrase title="quick_set_prefixes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hızlı önek ayarla]]></phrase>
+  <phrase title="quick_set_prompts" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hızlı komut istemleri ayarla]]></phrase>
+  <phrase title="quote" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Alıntıla]]></phrase>
+  <phrase title="quote_messages" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesajları alıntıla]]></phrase>
+  <phrase title="quotes" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Alıntılar]]></phrase>
+  <phrase title="radio_buttons" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Radyo düğmeleri]]></phrase>
+  <phrase title="radius" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yarıçap]]></phrase>
+  <phrase title="rating" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Değerlendirme]]></phrase>
+  <phrase title="raw" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Ham]]></phrase>
+  <phrase title="raw_response" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Ham yanıt]]></phrase>
+  <phrase title="raw_statistics" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ham istatistikler]]></phrase>
+  <phrase title="re_run_check" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kontrolü yeniden çalıştır]]></phrase>
+  <phrase title="reacting_to_your_own_content_is_considered_cheating" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Kendi içeriğinize tepki vermek hile sayılır.]]></phrase>
+  <phrase title="reaction_active_hint" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Devre dışı tepkiler artık kullanılamaz ve içerik özetlerinde görünmeyecektir.]]></phrase>
+  <phrase title="reaction_content" version_id="2010053" version_string="2.1.0 Release Candidate 3"><![CDATA[Tepki içeriği]]></phrase>
+  <phrase title="reaction_definitions" version_id="2010053" version_string="2.1.0 Release Candidate 3"><![CDATA[Tepki tanımları]]></phrase>
+  <phrase title="reaction_is_active" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Tepki aktif]]></phrase>
+  <phrase title="reaction_message_ratio_explanation" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[10 mesajı ve 5 tepki puanı olan bir kullanıcının oranı 0.5 olacaktır.]]></phrase>
+  <phrase title="reaction_score" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Tepki puanı]]></phrase>
+  <phrase title="reaction_score.negative" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Negatif]]></phrase>
+  <phrase title="reaction_score.neutral" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Nötr]]></phrase>
+  <phrase title="reaction_score.positive" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Pozitif]]></phrase>
+  <phrase title="reaction_score_at_least_x" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[En az X tepki puanı]]></phrase>
+  <phrase title="reaction_score_between" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Tepki puanı arası]]></phrase>
+  <phrase title="reaction_sprite_params_explain" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Yukarıdaki değerlere göre küçük ve orta boyutlu sprite'lar için CSS otomatik olarak oluşturulacaktır. 32px x 32px boyutları önerilir.]]></phrase>
+  <phrase title="reaction_text_color_explain" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Bu tepki verildiğinde kullanılacak bir metin rengi seçin. Bu tepkiyi belirli bir renge ilişkilendirmek istemiyorsanız, boş bırakın.<br /><br /><b>Not: Palet renkleri seçilen stile göre farklı görünebilir.</b>]]></phrase>
+  <phrase title="reactions" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Tepkiler]]></phrase>
+  <phrase title="reactions.1_person" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[1 kişi]]></phrase>
+  <phrase title="reactions.deleted_user" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[(silinmiş üye)]]></phrase>
+  <phrase title="reactions.user1" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{user1}]]></phrase>
+  <phrase title="reactions.user1_and_user2" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{user1} ve {user2}]]></phrase>
+  <phrase title="reactions.user1_user2_and_user3" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{user1}, {user2} ve {user3}]]></phrase>
+  <phrase title="reactions.user1_user2_user3_and_1_other" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{user1}, {user2}, {user3} ve 1 kişi daha]]></phrase>
+  <phrase title="reactions.user1_user2_user3_and_x_others" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{user1}, {user2}, {user3} ve {others} kişi daha]]></phrase>
+  <phrase title="reactions.x_people" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{reactions} kişi]]></phrase>
+  <phrase title="reactions.you" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Siz]]></phrase>
+  <phrase title="reactions.you_and_user1" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Siz ve {user1}]]></phrase>
+  <phrase title="reactions.you_user1_and_user2" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Siz, {user1} ve {user2}]]></phrase>
+  <phrase title="reactions.you_user1_user2_and_1_other" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Siz, {user1}, {user2} ve 1 kişi daha]]></phrase>
+  <phrase title="reactions.you_user1_user2_and_x_others" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Siz, {user1}, {user2} ve {others} kişi daha]]></phrase>
+  <phrase title="reactions_counted_status" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Tepkiler sayıldı durumu]]></phrase>
+  <phrase title="reactions_received" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Alınan tepkiler]]></phrase>
+  <phrase title="read_more" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Daha fazla oku]]></phrase>
+  <phrase title="reason" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Sebep]]></phrase>
+  <phrase title="reason_for_ban" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Yasak sebebi]]></phrase>
+  <phrase title="reason_for_banning" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Yasaklama sebebi]]></phrase>
+  <phrase title="reason_for_deletion" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Silme sebebi]]></phrase>
+  <phrase title="reassign" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yeniden ata]]></phrase>
+  <phrase title="rebuild" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yeniden oluştur]]></phrase>
+  <phrase title="rebuild_attachment_thumbnails" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ek küçük resimlerini yeniden oluştur]]></phrase>
+  <phrase title="rebuild_caches" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Önbellekleri yeniden oluştur]]></phrase>
+  <phrase title="rebuild_daily_statistics" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Günlük istatistikleri yeniden oluştur]]></phrase>
+  <phrase title="rebuild_direct_message_embed_metadata" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Doğrudan mesaj gömme meta verilerini yeniden oluştur]]></phrase>

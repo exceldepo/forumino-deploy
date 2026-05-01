@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="activity_summary_def.xfrm_latest_resources" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[XFRM: En son kaynaklar]]></phrase>
+  <phrase title="activity_summary_def.xfrm_latest_reviews" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[XFRM: En son değerlendirmeler]]></phrase>
+  <phrase title="activity_summary_def_desc.xfrm_latest_resources" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Etkinlik özeti e-postasında en son kaynakları görüntüleyen bir bölüm oluşturur. Kaynaklar çeşitli kriterlere göre filtrelenebilir.]]></phrase>
+  <phrase title="activity_summary_def_desc.xfrm_latest_reviews" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Etkinlik özeti e-postasında en son değerlendirmeleri görüntüleyen bir bölüm oluşturur.]]></phrase>
+  <phrase title="admin_navigation.xfrm" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynaklar]]></phrase>
+  <phrase title="admin_navigation.xfrmCategories" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak kategorileri]]></phrase>
+  <phrase title="admin_navigation.xfrmCategoryPermissions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak kategori izinleri]]></phrase>
+  <phrase title="admin_navigation.xfrmFields" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak alanları]]></phrase>
+  <phrase title="admin_navigation.xfrmPrefixes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak önekleri]]></phrase>
+  <phrase title="admin_navigation.xfrmReviewFields" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kaynak değerlendirme alanları]]></phrase>
+  <phrase title="admin_permission.resourceManager" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynakları yönet]]></phrase>
+  <phrase title="alert_opt_out.resource_rating_reply" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak değerlendirmenize verilen cevaplar]]></phrase>
+  <phrase title="alert_opt_out.resource_rating_review" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynağınıza yapılan değerlendirmeler]]></phrase>
+  <phrase title="alert_opt_out.resource_update_insert" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İzlediğiniz bir kaynağa yapılan güncellemeler]]></phrase>
+  <phrase title="alert_opt_out.resource_update_mention" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bir kaynakta sizden bahseder]]></phrase>
+  <phrase title="alert_opt_out.resource_update_reaction" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Kaynağınıza tepki verir]]></phrase>
+  <phrase title="api_scope.resource_category_delete" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Bir kaynak kategorisini silmeyi kapsar.]]></phrase>
+  <phrase title="api_scope.resource_category_read" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Kaynak kategorilerini veya kategori listesini görüntülemeyi kapsar.]]></phrase>
+  <phrase title="api_scope.resource_category_write" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Kaynak kategorisi güncellemeyi veya oluşturmayı kapsar.]]></phrase>
+  <phrase title="api_scope.resource_delete_hard" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Kaynakların kalıcı olarak silinmesini kapsar.]]></phrase>
+  <phrase title="api_scope.resource_rating_delete_hard" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Kaynak puanları/değerlendirmelerinin kalıcı olarak silinmesini kapsar.]]></phrase>
+  <phrase title="api_scope.resource_rating_read" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Kaynak puanları/değerlendirmelerini görüntülemeyi kapsar.]]></phrase>
+  <phrase title="api_scope.resource_rating_write" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Kaynak puanları/değerlendirmelerinin oluşturulmasını, güncellenmesini ve geçici silinmesini kapsar.]]></phrase>
+  <phrase title="api_scope.resource_read" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Kaynakları ve içeriklerini görüntülemeyi kapsar.]]></phrase>
+  <phrase title="api_scope.resource_write" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Kaynakların ve içeriklerinin oluşturulmasını, güncellenmesini ve geçici silinmesini kapsar.]]></phrase>
+  <phrase title="cron_entry.xfrmCacheStats" version_id="2030035" version_string="2.3.0 Beta 5"><![CDATA[XFRM: Kaynak yöneticisi istatistiklerini önbelleğe al]]></phrase>
+  <phrase title="cron_entry.xfrmViews" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[XFRM: Görüntüleme sayaçlarını güncelle]]></phrase>
+  <phrase title="manage_watched_resources" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[İzlenen kaynakları yönet]]></phrase>
+  <phrase title="member_stat.xfrm_most_resources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En çok kaynak]]></phrase>
+  <phrase title="mod_log.resource_approve" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak onaylandı]]></phrase>
+  <phrase title="mod_log.resource_custom_fields_edit" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak özel alanları düzenlendi]]></phrase>
+  <phrase title="mod_log.resource_delete_hard" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak kalıcı olarak silindi]]></phrase>
+  <phrase title="mod_log.resource_delete_soft" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak genel görünümden kaldırıldı (sebep: {reason})]]></phrase>
+  <phrase title="mod_log.resource_edit" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak düzenlendi]]></phrase>
+  <phrase title="mod_log.resource_feature_create" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Kaynak öne çıkarıldı]]></phrase>
+  <phrase title="mod_log.resource_feature_delete" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Kaynak öne çıkarması silindi]]></phrase>
+  <phrase title="mod_log.resource_feature_edit" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Kaynak öne çıkarması düzenlendi]]></phrase>
+  <phrase title="mod_log.resource_move" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak taşındı]]></phrase>
+  <phrase title="mod_log.resource_prefix" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak öneki '{old}' iken düzenlendi]]></phrase>
+  <phrase title="mod_log.resource_rating_delete_hard" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak değerlendirmesi kalıcı olarak silindi]]></phrase>
+  <phrase title="mod_log.resource_rating_delete_response" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak değerlendirme cevabı silindi]]></phrase>
+  <phrase title="mod_log.resource_rating_delete_soft" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak değerlendirmesi genel görünümden kaldırıldı]]></phrase>
+  <phrase title="mod_log.resource_rating_undelete" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak değerlendirmesi geri yüklendi]]></phrase>
+  <phrase title="mod_log.resource_rating_warning_given" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak puanlama uyarısı verildi]]></phrase>
+  <phrase title="mod_log.resource_rating_warning_removed" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak puanlama uyarısı kaldırıldı]]></phrase>
+  <phrase title="mod_log.resource_reassign" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak yeniden atandı ({from} sahibinden)]]></phrase>
+  <phrase title="mod_log.resource_unapprove" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak onayı kaldırıldı]]></phrase>
+  <phrase title="mod_log.resource_undelete" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak geri yüklendi]]></phrase>
+  <phrase title="mod_log.resource_update_approve" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak güncellemesi onaylandı]]></phrase>
+  <phrase title="mod_log.resource_update_attachment_deleted" version_id="2010670" version_string="2.1.6"><![CDATA[Kaynak güncellemesi eki silindi]]></phrase>
+  <phrase title="mod_log.resource_update_delete_hard" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak güncellemesi kalıcı olarak silindi]]></phrase>
+  <phrase title="mod_log.resource_update_delete_soft" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak güncellemesi genel görünümden kaldırıldı (sebep: {reason})]]></phrase>
+  <phrase title="mod_log.resource_update_edit" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak güncellemesi düzenlendi]]></phrase>
+  <phrase title="mod_log.resource_update_unapprove" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak güncellemesi onayı kaldırıldı]]></phrase>
+  <phrase title="mod_log.resource_update_undelete" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak güncellemesi geri yüklendi]]></phrase>
+  <phrase title="mod_log.resource_version_approve" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak sürümü onaylandı]]></phrase>
+  <phrase title="mod_log.resource_version_attachment_deleted" version_id="2010670" version_string="2.1.6"><![CDATA[Kaynak sürümü eki silindi]]></phrase>
+  <phrase title="mod_log.resource_version_delete_hard" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak sürümü kalıcı olarak silindi]]></phrase>
+  <phrase title="mod_log.resource_version_delete_soft" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak sürümü genel görünümden kaldırıldı (sebep: {reason})]]></phrase>
+  <phrase title="mod_log.resource_version_edit" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak sürümü düzenlendi]]></phrase>
+  <phrase title="nav.xfrm" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynaklar]]></phrase>
+  <phrase title="nav.xfrmLatestReviews" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En son değerlendirmeler]]></phrase>
+  <phrase title="nav.xfrmNewResources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yeni kaynaklar]]></phrase>
+  <phrase title="nav.xfrmSearchResources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynaklarda ara]]></phrase>
+  <phrase title="nav.xfrmWatched" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İzlenenler]]></phrase>
+  <phrase title="nav.xfrmWatchedCategories" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İzlenen kategoriler]]></phrase>
+  <phrase title="nav.xfrmWatchedResources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İzlenen kaynaklar]]></phrase>
+  <phrase title="nav.xfrmYourResources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynaklarınız]]></phrase>
+  <phrase title="option.xfrmAllowAnonReview" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Anonim kaynak değerlendirmelerine izin ver]]></phrase>
+  <phrase title="option.xfrmAllowIcons" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak ikonlarına izin ver]]></phrase>
+  <phrase title="option.xfrmAuthorOtherResourcesCount" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yazarın diğer kaynak sayısı]]></phrase>
+  <phrase title="option.xfrmEnableTeams" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kaynak ekiplerini etkinleştir]]></phrase>
+  <phrase title="option.xfrmFilelessViewFull" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İndirme izni olmayan kullanıcılar için dosyasız kaynak görüntülemeyi sınırla]]></phrase>
+  <phrase title="option.xfrmListDefaultOrder" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Varsayılan kaynak listesi sırası]]></phrase>
+  <phrase title="option.xfrmMinimumReviewLength" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Minimum kaynak değerlendirme uzunluğu]]></phrase>
+  <phrase title="option.xfrmPaidResourceThreadTitleTemplate" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ücretli kaynak konu başlığı şablonu]]></phrase>
+  <phrase title="option.xfrmRecentReviewsCount" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Son kaynak değerlendirme sayısı]]></phrase>
+  <phrase title="option.xfrmRecentUpdatesCount" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Son kaynak güncelleme sayısı]]></phrase>
+  <phrase title="option.xfrmRequireDownloadToRate" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynakları puanlamak için indirmeyi zorunlu kıl]]></phrase>
+  <phrase title="option.xfrmResourceCurrencies" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanılabilir kaynak para birimleri]]></phrase>
+  <phrase title="option.xfrmResourceDeleteThreadAction" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak silindiğinde konuya yapılacak işlem]]></phrase>
+  <phrase title="option.xfrmResourceExtensions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İzin verilen kaynak dosya uzantıları]]></phrase>
+  <phrase title="option.xfrmResourceMaxFileSize" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maksimum kaynak dosya boyutu (KB)]]></phrase>
+  <phrase title="option.xfrmResourceMaxFiles" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maksimum kaynak dosya sayısı]]></phrase>
+  <phrase title="option.xfrmResourcesPerPage" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sayfa başına kaynak]]></phrase>
+  <phrase title="option.xfrmReviewRequired" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak puanlamada değerlendirme yazılmasını zorunlu kıl]]></phrase>
+  <phrase title="option.xfrmReviewVoting" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Değerlendirme oylamasına izin ver]]></phrase>
+  <phrase title="option.xfrmReviewsPerPage" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sayfa başına değerlendirme]]></phrase>
+  <phrase title="option.xfrmUpdateMaxLength" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maksimum kaynak güncelleme/açıklama uzunluğu]]></phrase>
+  <phrase title="option.xfrmUpdatesPerPage" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sayfa başına kaynak güncellemesi]]></phrase>
+  <phrase title="option_explain.xfrmAllowAnonReview" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Etkinleştirilirse, kullanıcılar değerlendirmelerini anonim yapmayı seçebilir. Ekip değerlendirmeyi yapan kişiyi yine görebilir, ancak son kullanıcılar göremez.]]></phrase>
+  <phrase title="option_explain.xfrmAllowIcons" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[Etkinleştirilirse, kaynak yazarları küçük (96x96) bir ikon belirleme seçeneğine sahip olur. Bu ikon kaynak listelerinde ve kaynağı görüntülerken gösterilir.]]></phrase>
+  <phrase title="option_explain.xfrmAuthorOtherResourcesCount" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bir kaynağın yazarına ait gösterilecek diğer kaynakların maksimum sayısı. Bu bloğu devre dışı bırakmak için 0 kullanın.]]></phrase>
+  <phrase title="option_explain.xfrmEnableTeams" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Etkinleştirilirse, kaynak sahipleri her kaynak için en fazla 10 başka kullanıcıyı ekip üyesi olarak ekleyebilir. Ekip üyeleri, silme işlemleri hariç olmak üzere kaynak üzerinde sahibinin yapabileceği işlemleri yapabilir.]]></phrase>
+  <phrase title="option_explain.xfrmFilelessViewFull" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seçilirse, kaynakları indiremeyen kullanıcılar dosyasız kaynakların açıklamalarından yalnızca bu kadar karakter görür.]]></phrase>
+  <phrase title="option_explain.xfrmListDefaultOrder" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak indeksini veya kategori genel bakış sayfalarını görüntülerken, kaynakların varsayılan sırası bu olacaktır.]]></phrase>
+  <phrase title="option_explain.xfrmMinimumReviewLength" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bir değerlendirme girilirse, bu uzunlukta olmadıkça kabul edilmez. Değerlendirme zorunlu değilse ve girilmediyse bu ayar göz ardı edilir.]]></phrase>
+  <phrase title="option_explain.xfrmPaidResourceThreadTitleTemplate" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Normalde, kaynaklar için otomatik konu oluşturulduğunda konu başlığı sadece kaynağın adıdır. Bu seçenek ücretli kaynaklar için bir biçim belirlemenize olanak tanır. Kaynak başlığının görüneceği yerde {title} kullanın.]]></phrase>
+  <phrase title="option_explain.xfrmRecentReviewsCount" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ana kaynak görünüm sayfasında gösterilecek son değerlendirme sayısının üst sınırı. Bu bloğu devre dışı bırakmak için 0 kullanın.]]></phrase>
+  <phrase title="option_explain.xfrmRecentUpdatesCount" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ana kaynak görünüm sayfasında gösterilecek son güncelleme sayısının üst sınırı. Bu bloğu devre dışı bırakmak için 0 kullanın.]]></phrase>
+  <phrase title="option_explain.xfrmRequireDownloadToRate" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seçilirse, kullanıcılar bir kaynağı yalnızca indirdikten sonra puanlayabilir.]]></phrase>
+  <phrase title="option_explain.xfrmResourceCurrencies" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcıların kaynaklarına uygulayabileceği para birimlerini kontrol eder. Her satıra bir para birimi ekleyin. Her para birimi yalnızca 3 karakter olabilir (USD, GBP vb.). Mümkünse para birimini göstermek için bir simge kullanılır.]]></phrase>
+  <phrase title="option_explain.xfrmResourceDeleteThreadAction" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bir kaynak silindiğinde, otomatik oluşturulmuş konuya yapılacak işlem.]]></phrase>
+  <phrase title="option_explain.xfrmResourceExtensions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yüklenmesine izin verilen dosya uzantılarını listeleyin. Uzantılar arasında boşluk veya satır sonu kullanın.]]></phrase>
+  <phrase title="option_explain.xfrmResourceMaxFileSize" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maksimum kaynak dosya boyutunu kilobayt (KB) olarak girin. Bu boyutu aşan kaynaklar reddedilir.]]></phrase>
+  <phrase title="option_explain.xfrmResourceMaxFiles" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu, kaynak sürümü başına eklenebilecek maksimum dosya sayısıdır.]]></phrase>
+  <phrase title="option_explain.xfrmResourcesPerPage" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak ve kategori genel bakış sayfaları dahil sayfa başına listelenecek kaynak sayısı.]]></phrase>
+  <phrase title="option_explain.xfrmReviewRequired" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Etkinleştirilirse, kullanıcıların bir kaynağı puanlarken değerlendirme göndermesi gerekir.]]></phrase>
+  <phrase title="option_explain.xfrmReviewVoting" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bir kaynak değerlendirmesinin yardımcı olup olmadığı konusunda ziyaretçilerin oy verip veremeyeceğini kontrol eder. Bu, daha yardımcı değerlendirmelerin daha görünür olmasını sağlayabilir. Etkinleştirilirse, oylamayı yalnızca olumlu yanıtlarla (artı oylar) sınırlayabilirsiniz. Kaynak yazarları, kendi kaynaklarına ait değerlendirmelere oy veremez.]]></phrase>
+  <phrase title="option_explain.xfrmReviewsPerPage" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="option_explain.xfrmUpdateMaxLength" version_id="2020370" version_string="2.2.3"><![CDATA[Bir kaynak güncellemesinde veya açıklamasında bulunabilecek maksimum karakter sayısı. Bu BB kodu içerir. Bu değeri çok yüksek ayarlamak veya tamamen devre dışı bırakmak performans sorunlarına neden olabilir ve önerilmez.]]></phrase>
+  <phrase title="option_explain.xfrmUpdatesPerPage" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="option_group.xfrm" version_id="2000270" version_string="2.0.2"><![CDATA[XenForo Resource Manager]]></phrase>
+  <phrase title="option_group_description.xfrm" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak yöneticisi eklentisini kontrol eden seçenekler.]]></phrase>
+  <phrase title="permission.resource_add" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak oluştur]]></phrase>
+  <phrase title="permission.resource_approveUnapprove" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynakları onayla / onayı kaldır]]></phrase>
+  <phrase title="permission.resource_contentVote" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kaynak değerlendirmelerine oy ver]]></phrase>
+  <phrase title="permission.resource_deleteAny" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir kaynağı sil]]></phrase>
+  <phrase title="permission.resource_deleteAnyReview" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir kaynak değerlendirmesini sil]]></phrase>
+  <phrase title="permission.resource_deleteOwn" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kendi kaynaklarını sil]]></phrase>
+  <phrase title="permission.resource_download" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynakları indir]]></phrase>
+  <phrase title="permission.resource_editAny" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir kaynağı düzenle]]></phrase>
+  <phrase title="permission.resource_featureUnfeature" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynakları öne çıkar / öne çıkarmayı kaldır]]></phrase>
+  <phrase title="permission.resource_hardDeleteAny" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir kaynağı kalıcı olarak sil]]></phrase>
+  <phrase title="permission.resource_inlineMod" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynaklarda satır içi moderasyon kullan]]></phrase>
+  <phrase title="permission.resource_manageAnyTag" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir etiketi yönet]]></phrase>
+  <phrase title="permission.resource_manageOthersTagsOwnRes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kendi kaynağında başkalarının etiketlerini yönet]]></phrase>
+  <phrase title="permission.resource_manageOwnTeam" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kendi kaynakların için ekibi yönet]]></phrase>
+  <phrase title="permission.resource_rate" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynakları puanla]]></phrase>
+  <phrase title="permission.resource_react" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Kaynaklara/güncellemelere tepki ver]]></phrase>
+  <phrase title="permission.resource_reassign" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynakları yeniden ata]]></phrase>
+  <phrase title="permission.resource_reviewReply" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kendi kaynak değerlendirmelerine cevap verebilir]]></phrase>
+  <phrase title="permission.resource_tagAnyResource" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir kaynağı etiketle]]></phrase>
+  <phrase title="permission.resource_tagOwnResource" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kendi kaynağını etiketle]]></phrase>
+  <phrase title="permission.resource_undelete" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynakları geri yükle]]></phrase>
+  <phrase title="permission.resource_updateOwn" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kendi kaynaklarını güncelle/düzenle]]></phrase>
+  <phrase title="permission.resource_uploadUpdateAttach" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Güncelleme/kaynaklara görsel yükle]]></phrase>
+  <phrase title="permission.resource_uploadUpdateVideo" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Güncelleme/kaynaklara video/ses yükle]]></phrase>
+  <phrase title="permission.resource_view" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynakları görüntüle]]></phrase>
+  <phrase title="permission.resource_viewDeleted" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Silinmiş kaynakları görüntüle]]></phrase>
+  <phrase title="permission.resource_viewModerated" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Onaysız kaynakları görüntüle]]></phrase>
+  <phrase title="permission.resource_viewUpdateAttach" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak görsellerini görüntüle]]></phrase>
+  <phrase title="permission.resource_warn" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynaklarda uyarı ver]]></phrase>
+  <phrase title="permission_interface.resourceModeratorPermissions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak moderatör izinleri]]></phrase>
+  <phrase title="permission_interface.resourcePermissions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak izinleri]]></phrase>
+  <phrase title="stop_watching_resources" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Kaynakları izlemeyi bırak]]></phrase>
+  <phrase title="thread_type.resource" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kaynak]]></phrase>
+  <phrase title="thread_type_plural.resource" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kaynaklar]]></phrase>
+  <phrase title="widget_def.xfrm_latest_reviews" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[XFRM: En son değerlendirmeler]]></phrase>
+  <phrase title="widget_def.xfrm_new_resources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[XFRM: Yeni kaynaklar]]></phrase>
+  <phrase title="widget_def.xfrm_resource_statistics" version_id="2030035" version_string="2.3.0 Beta 5"><![CDATA[XFRM: Kaynak istatistikleri]]></phrase>
+  <phrase title="widget_def.xfrm_top_resources" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[XFRM: En iyi kaynaklar]]></phrase>
+  <phrase title="widget_def_desc.xfrm_latest_reviews" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En son kaynak değerlendirmelerini görüntüler.]]></phrase>
+  <phrase title="widget_def_desc.xfrm_new_resources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En son güncellenen kaynakları görüntüler.]]></phrase>
+  <phrase title="widget_def_desc.xfrm_resource_statistics" version_id="2030035" version_string="2.3.0 Beta 5"><![CDATA[Kaynak yöneticisi istatistiklerini görüntüler]]></phrase>
+  <phrase title="widget_def_desc.xfrm_top_resources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En yüksek puanlı kaynakları görüntüler.]]></phrase>
+  <phrase title="widget_pos.xfrm_category_above_resources" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kaynak kategorisi: Kaynakların üstü]]></phrase>
+  <phrase title="widget_pos.xfrm_category_sidenav" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak kategorisi: Yan navigasyon]]></phrase>
+  <phrase title="widget_pos.xfrm_overview_above_resources" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kaynak genel bakış: Kaynakların üstü]]></phrase>
+  <phrase title="widget_pos.xfrm_overview_sidenav" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak genel bakış: Yan navigasyon]]></phrase>
+  <phrase title="widget_pos_desc.xfrm_category_above_resources" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kaynak kategori sayfalarında kaynak listesinin üzerinde görüntülenir. Bu konumda oluşturulan widget şablonları, mevcut kategori entity'sini <code>{$context.category}</code> parametresinde kullanabilir.]]></phrase>
+  <phrase title="widget_pos_desc.xfrm_category_sidenav" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Kaynak kategori sayfalarında yan navigasyon içinde görüntülenir. Bu konumda oluşturulan widget şablonları, mevcut kategori entity'sini <code>{$context.category}</code> parametresinde kullanabilir.]]></phrase>
+  <phrase title="widget_pos_desc.xfrm_overview_above_resources" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kaynak genel bakış sayfasında kaynak listesinin üzerinde görüntülenir.]]></phrase>
+  <phrase title="widget_pos_desc.xfrm_overview_sidenav" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak genel bakış sayfasında yan navigasyon içinde görüntülenir.]]></phrase>
+  <phrase title="xfm_resource_x_version_y" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[<a href="{resourceLink}">{resourceTitle}</a> sürüm {version}]]></phrase>
+  <phrase title="xfrm_above_resource_description" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak açıklamasının üstü]]></phrase>
+  <phrase title="xfrm_above_resource_rating" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Kaynak puanının üstü]]></phrase>
+  <phrase title="xfrm_above_review" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Değerlendirmenin üstü]]></phrase>
+  <phrase title="xfrm_add_members" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Üye ekle]]></phrase>
+  <phrase title="xfrm_add_resource" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak ekle]]></phrase>
+  <phrase title="xfrm_additional_information_url" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ek bilgi URL'si]]></phrase>
+  <phrase title="xfrm_all_categories_or_contextual_category" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tüm kategoriler veya bağlamsal kategori]]></phrase>
+  <phrase title="xfrm_all_categories_or_contextual_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Açıkça hiçbir kategori seçilmezse, bir kaynak kategorisi içinde kullanılmadıkça bu widget tüm kategorilerden çekilir. Bu durumda kaynaklar o kategoriyle ve alt kategorileriyle sınırlandırılır.]]></phrase>
+  <phrase title="xfrm_all_selected_resources_already_in_destination_category_select_another" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seçilen tüm kaynaklar zaten hedef kategoride. Lütfen başka bir kategori seçin.]]></phrase>
+  <phrase title="xfrm_allowed_resource_types" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İzin verilen kaynak tipleri]]></phrase>
+  <phrase title="xfrm_alternative_support_url" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alternatif destek URL'si]]></phrase>
+  <phrase title="xfrm_always_moderate_resource_updates_posted_in_this_category" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu kategoride gönderilen kaynak güncellemelerini her zaman modere et]]></phrase>
+  <phrase title="xfrm_always_moderate_resources_posted_in_this_category" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu kategoride gönderilen kaynakları her zaman modere et]]></phrase>
+  <phrase title="xfrm_applicable_categories" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Geçerli kategoriler]]></phrase>
+  <phrase title="xfrm_apply_category_options" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kategori seçeneklerini uygula]]></phrase>
+  <phrase title="xfrm_apply_prefix_to_selected_resources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Önek seçilen kaynaklara uygula]]></phrase>
+  <phrase title="xfrm_apply_resource_prefix_to_multiple_categories" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seçtiğiniz kaynaklar birden fazla kategoride bulunuyor. Her kaynak yalnızca seçilen önek kendi kategorisinde geçerliyse güncellenir.]]></phrase>
+  <phrase title="xfrm_approve_resource" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynağı onayla]]></phrase>
+  <phrase title="xfrm_approve_resources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynakları onayla]]></phrase>
+  <phrase title="xfrm_automatically_create_thread_in_forum" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forumda otomatik konu oluştur]]></phrase>
+  <phrase title="xfrm_automatically_created_thread_prefix" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Otomatik oluşturulan konu öneki]]></phrase>
+  <phrase title="xfrm_automatically_feature_resources_posted_in_this_category" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Bu kategoride gönderilen kaynakları otomatik olarak öne çıkar]]></phrase>
+  <phrase title="xfrm_automatically_post_in_resource_thread_on_resource_deletion" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak silindiğinde kaynak konusuna otomatik gönderi yap]]></phrase>
+  <phrase title="xfrm_below_resource_description" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak açıklamasının altı]]></phrase>
+  <phrase title="xfrm_below_resource_rating" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Kaynak puanının altı]]></phrase>
+  <phrase title="xfrm_below_review" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Değerlendirmenin altı]]></phrase>
+  <phrase title="xfrm_below_sidebar_buttons" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Yan panel butonlarının altı]]></phrase>
+  <phrase title="xfrm_buy_for_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{price} karşılığında satın al]]></phrase>
+  <phrase title="xfrm_cannot_update_rating_once_author_response" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yazar cevap verdikten sonra puanınızı veya değerlendirmenizi güncelleyemezsiniz.]]></phrase>
+  <phrase title="xfrm_categories" version_id="2030035" version_string="2.3.0 Beta 5"><![CDATA[Kategoriler]]></phrase>
+  <phrase title="xfrm_category_limit" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kategori sınırı]]></phrase>
+  <phrase title="xfrm_category_not_allow_new_resources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu kategori yeni kaynaklara izin vermiyor.]]></phrase>
+  <phrase title="xfrm_category_permissions" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[Kategori izinleri]]></phrase>
+  <phrase title="xfrm_category_watched" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kategori izleniyor]]></phrase>
+  <phrase title="xfrm_change_discussion_thread" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[Tartışma konusunu değiştir]]></phrase>
+  <phrase title="xfrm_change_resource_type" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak tipini değiştir]]></phrase>
+  <phrase title="xfrm_changing_forums_type_additional_important_warning_desc" version_id="2020570" version_string="2.2.5"><![CDATA[Bu forum bir kaynak kategorisine atanmış ve kaynak konuları içerebilir. Tipi "Genel tartışma" dışında bir şeye değiştirmek mevcut kaynak konularının kaynak öğeleriyle olan tip ilişkisini kaybetmesine neden olabilir.]]></phrase>
+  <phrase title="xfrm_choose_file" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dosya seç]]></phrase>
+  <phrase title="xfrm_creation_date" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oluşturulma tarihi]]></phrase>
+  <phrase title="xfrm_creator" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oluşturan]]></phrase>
+  <phrase title="xfrm_delete_current_icon" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mevcut ikonu sil]]></phrase>
+  <phrase title="xfrm_delete_resource" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynağı sil]]></phrase>
+  <phrase title="xfrm_delete_resources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynakları sil]]></phrase>
+  <phrase title="xfrm_delete_review" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Değerlendirmeyi sil]]></phrase>
+  <phrase title="xfrm_delete_review_response" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Değerlendirme cevabını sil]]></phrase>
+  <phrase title="xfrm_delete_update" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Güncellemeyi sil]]></phrase>
+  <phrase title="xfrm_delete_version" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sürümü sil]]></phrase>
+  <phrase title="xfrm_description_will_contain_contents_of_this_resource" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Açıklama bu kaynağın içeriğini barındıracak.]]></phrase>
+  <phrase title="xfrm_destination_category" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hedef kategori]]></phrase>
+  <phrase title="xfrm_disconnect_existing_discussion" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[Mevcut tartışmayı bağlantısını kes]]></phrase>
+  <phrase title="xfrm_discussion" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tartışma]]></phrase>
+  <phrase title="xfrm_discussion_thread_url" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[Tartışma konusu URL'si]]></phrase>
+  <phrase title="xfrm_disk_usage" version_id="2030035" version_string="2.3.0 Beta 5"><![CDATA[Disk kullanımı]]></phrase>
+  <phrase title="xfrm_do_not_have_permission_to_view_full_content_of_this_resource" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu kaynağın tüm içeriğini görüntüleme izniniz yok.]]></phrase>
+  <phrase title="xfrm_does_not_have_file" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dosyası yok]]></phrase>
+  <phrase title="xfrm_download_is_not_available_try_another" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu indirme şu anda kullanılamıyor. Lütfen başka birini deneyin.]]></phrase>
+  <phrase title="xfrm_downloads" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İndirme sayısı]]></phrase>
+  <phrase title="xfrm_edit_resource" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynağı düzenle]]></phrase>
+  <phrase title="xfrm_edit_resource_icon" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak ikonunu düzenle]]></phrase>
+  <phrase title="xfrm_edit_update" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Güncellemeyi düzenle]]></phrase>
+  <phrase title="xfrm_enable_support_url" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[Destek URL'sini etkinleştir]]></phrase>
+  <phrase title="xfrm_enable_versioning" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sürümlendirmeyi etkinleştir]]></phrase>
+  <phrase title="xfrm_explain_why_youre_giving_this_rating" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu puanı neden verdiğinizi açıklayın. Yapıcı olmayan değerlendirmeler haber verilmeksizin kaldırılabilir.]]></phrase>
+  <phrase title="xfrm_external_download" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Harici indirme]]></phrase>
+  <phrase title="xfrm_external_download_url" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Harici indirme URL'si]]></phrase>
+  <phrase title="xfrm_external_purchase" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Harici satın alma]]></phrase>
+  <phrase title="xfrm_external_purchase_url" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Harici satın alma URL'si]]></phrase>
+  <phrase title="xfrm_extra_info" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ek bilgi]]></phrase>
+  <phrase title="xfrm_extra_information_tab" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ek bilgi sekmesi]]></phrase>
+  <phrase title="xfrm_feature_resource" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Kaynağı öne çıkar]]></phrase>
+  <phrase title="xfrm_feature_resources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynakları öne çıkar]]></phrase>
+  <phrase title="xfrm_featured_resources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Öne çıkan kaynaklar]]></phrase>
+  <phrase title="xfrm_fileless" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dosyasız]]></phrase>
+  <phrase title="xfrm_first_release" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İlk yayın]]></phrase>
+  <phrase title="xfrm_for_resource_x_in_category_y" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{category} içindeki {resource} için]]></phrase>
+  <phrase title="xfrm_free" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ücretsiz]]></phrase>
+  <phrase title="xfrm_full_size_view_displaying_as_standard_resource_list" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Standart kaynak listesi olarak görüntülenen tam boyutlu görünüm.]]></phrase>
+  <phrase title="xfrm_get_support" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Destek al]]></phrase>
+  <phrase title="xfrm_go_to_download" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[İndirmeye git]]></phrase>
+  <phrase title="xfrm_if_enabled_this_field_will_not_be_shown_anywhere_by_default_but_it_will" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Etkinleştirilirse, bu alan varsayılan olarak hiçbir yerde gösterilmez ancak düzenlenebilir kalır.]]></phrase>
+  <phrase title="xfrm_if_enabled_users_given_option_enter_support_url" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[Etkinleştirilirse, kullanıcılara kaynaklarının destekleneceği bir URL girme seçeneği sunulur.]]></phrase>
+  <phrase title="xfrm_if_enabled_users_prompted_enter_version_history_displayed" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Etkinleştirilirse, kullanıcılardan bir sürüm numarası girmesi istenir ve önceki sürümlerin geçmişi görüntülenir.]]></phrase>
+  <phrase title="xfrm_if_need_new_version_post_update" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu kaynağın yeni bir sürümünü yayınlamanız gerekiyorsa, <a href="{link}">bir güncelleme yayınlamalısınız</a>.]]></phrase>
+  <phrase title="xfrm_if_no_resource_types_selected_category_maintain_hierarchy" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hiçbir kaynak tipi seçilmezse, bu kategori yalnızca kategori hiyerarşisini korumak için kullanılır.]]></phrase>
+  <phrase title="xfrm_if_selected_only_staff_will_be_able_to_see_who_wrote_this_review" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seçilirse, yalnızca ekip bu değerlendirmeyi kimin yazdığını görebilir.]]></phrase>
+  <phrase title="xfrm_if_selected_post_made_automatically_explaining_resource_unavailable" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seçilirse, kaynağın artık kullanılamadığını açıklayan bir gönderi otomatik olarak oluşturanın adına yapılır.]]></phrase>
+  <phrase title="xfrm_if_selected_resource_in_category_created_thread_posted_forum" version_id="2020170" version_string="2.2.1"><![CDATA[Seçilirse, bu kategoride bir kaynak oluşturulduğunda bu forumda bir konu yayınlanır. Yalnızca "genel tartışma" tipi forumlar seçilebilir.]]></phrase>
+  <phrase title="xfrm_if_selected_users_required_select_prefix_when_creating_editing" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[Seçilirse, kullanıcıların kaynak oluştururken veya düzenlerken bir önek seçmesi zorunlu olur. Bu, moderatörler için zorunlu kılınmaz.]]></phrase>
+  <phrase title="xfrm_if_you_have_specific_location_where_you_will_be_providing_support_or" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Destek sağlayacağınız veya soruları yanıtlayacağınız belirli bir konum varsa, lütfen URL'sini buraya girin.]]></phrase>
+  <phrase title="xfrm_include_resource_updates" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak güncellemelerini dahil et]]></phrase>
+  <phrase title="xfrm_include_resources" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kaynakları dahil et]]></phrase>
+  <phrase title="xfrm_join_discussion" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tartışmaya katıl]]></phrase>
+  <phrase title="xfrm_last_update" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Son güncelleme]]></phrase>
+  <phrase title="xfrm_latest_resources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En son kaynaklar]]></phrase>
+  <phrase title="xfrm_latest_reviews" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En son değerlendirmeler]]></phrase>
+  <phrase title="xfrm_latest_updates" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En son güncellemeler]]></phrase>
+  <phrase title="xfrm_leave_resource_team" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kaynak ekibinden ayrıl]]></phrase>
+  <phrase title="xfrm_manage_resource_team" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kaynak ekibini yönet]]></phrase>
+  <phrase title="xfrm_more_information" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Daha fazla bilgi]]></phrase>
+  <phrase title="xfrm_more_resources_from_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} tarafından daha fazla kaynak]]></phrase>
+  <phrase title="xfrm_most_helpful" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[En yardımcı]]></phrase>
+  <phrase title="xfrm_move_resource" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynağı taşı]]></phrase>
+  <phrase title="xfrm_move_resources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynakları taşı]]></phrase>
+  <phrase title="xfrm_new_content" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yeni içerik]]></phrase>
+  <phrase title="xfrm_new_icon_could_not_be_applied_try_later" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yeni ikon uygulanamadı. Lütfen daha sonra tekrar deneyin.]]></phrase>
+  <phrase title="xfrm_new_owner" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yeni sahip]]></phrase>
+  <phrase title="xfrm_new_resource_discussion_thread_must_be_standard_thread" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[Yeni kaynak tartışma konusu standart bir tartışma konusu olmalıdır.]]></phrase>
+  <phrase title="xfrm_new_resources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yeni kaynaklar]]></phrase>
+  <phrase title="xfrm_new_resources_and_updates" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yeni kaynaklar ve güncellemeler]]></phrase>
+  <phrase title="xfrm_new_resources_only" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yalnızca yeni kaynaklar]]></phrase>
+  <phrase title="xfrm_new_version_number" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yeni sürüm numarası]]></phrase>
+  <phrase title="xfrm_new_version_resource_x" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[<a href="{categoryLink}">{categoryTitle}</a> kaynak kategorisinde <a href="{resourceLink}">{resourceTitle}</a> sürüm {version} yayınlandı]]></phrase>
+  <phrase title="xfrm_no_change" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Değişiklik yok]]></phrase>
+  <phrase title="xfrm_no_permission_to_buy_price_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Satın alma izni yok ({price})]]></phrase>
+  <phrase title="xfrm_no_permission_to_download" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İndirme izni yok]]></phrase>
+  <phrase title="xfrm_no_prefixes_available_for_selected_categories" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seçilen kategoriler için hiçbir önek mevcut değil.]]></phrase>
+  <phrase title="xfrm_no_resources_have_been_created_yet" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Henüz hiç kaynak oluşturulmamış.]]></phrase>
+  <phrase title="xfrm_no_resources_have_been_featured_yet" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Henüz hiç kaynak öne çıkarılmamış.]]></phrase>
+  <phrase title="xfrm_no_resources_to_display" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Görüntülenecek kaynak yok.]]></phrase>
+  <phrase title="xfrm_no_review_provided" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Değerlendirme verilmedi.]]></phrase>
+  <phrase title="xfrm_no_reviews_have_been_left_recently" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Son zamanlarda hiç değerlendirme yapılmamış.]]></phrase>
+  <phrase title="xfrm_no_reviews_yet" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Henüz hiç değerlendirme yapılmamış.]]></phrase>
+  <phrase title="xfrm_non_purchasable_resources_may_not_define_purchasable_components" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Satın alınamayan kaynaklar satın alınabilir bileşen tanımlayamaz.]]></phrase>
+  <phrase title="xfrm_notify_current_and_new_owners_of_this_action" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mevcut ve yeni sahipleri bu işlem hakkında bilgilendir.]]></phrase>
+  <phrase title="xfrm_notify_members_watching_destination_category" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hedef kategoriyi izleyen üyeleri bilgilendir]]></phrase>
+  <phrase title="xfrm_only_include_resources_with" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yalnızca şuna sahip kaynakları dahil et]]></phrase>
+  <phrase title="xfrm_optimize_icons" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[İkonları optimize et]]></phrase>
+  <phrase title="xfrm_own_tab" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kendi sekmesi]]></phrase>
+  <phrase title="xfrm_page_is_within_resource_categories" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[Sayfa kaynak kategorileri içinde]]></phrase>
+  <phrase title="xfrm_paid" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ücretli]]></phrase>
+  <phrase title="xfrm_please_choose_valid_type_for_this_resource" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen bu kaynak için geçerli bir tip seçin.]]></phrase>
+  <phrase title="xfrm_please_complete_all_commercial_resource_related_fields" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen tüm ticari kaynak ile ilgili alanları doldurun.]]></phrase>
+  <phrase title="xfrm_please_enter_valid_tag_line" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen geçerli bir slogan girin.]]></phrase>
+  <phrase title="xfrm_please_enter_valid_version" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen geçerli bir sürüm girin.]]></phrase>
+  <phrase title="xfrm_please_provide_review_with_your_rating" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen puanınızla birlikte bir değerlendirme sağlayın.]]></phrase>
+  <phrase title="xfrm_please_select_star_rating" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen yıldız puanı seçin.]]></phrase>
+  <phrase title="xfrm_please_select_valid_resource_type" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen geçerli bir kaynak tipi seçin.]]></phrase>
+  <phrase title="xfrm_post_resource_in" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Şuraya kaynak gönder]]></phrase>
+  <phrase title="xfrm_post_update" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Güncelleme yayınla]]></phrase>
+  <phrase title="xfrm_provide_very_brief_one_line_description_of_your_resource" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynağınız için çok kısa, tek satırlık bir açıklama girin.]]></phrase>
+  <phrase title="xfrm_public_deletion_reason" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[Genel silme nedeni]]></phrase>
+  <phrase title="xfrm_public_deletion_reason_explain" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[Burada sağlanan neden, kaynağın artık kullanılamadığını açıklamak üzere kaynak tartışma konusuna otomatik olarak gönderilen mesaja eklenir.]]></phrase>
+  <phrase title="xfrm_rate_this_resource" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu kaynağı puanla]]></phrase>
+  <phrase title="xfrm_ratings" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[Puanlar]]></phrase>
+  <phrase title="xfrm_read_more" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Daha fazla oku]]></phrase>
+  <phrase title="xfrm_reassign_resource" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynağı yeniden ata]]></phrase>
+  <phrase title="xfrm_reassign_resources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynakları yeniden ata]]></phrase>
+  <phrase title="xfrm_rebuild_resource_categories" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak kategorilerini yeniden oluştur]]></phrase>
+  <phrase title="xfrm_rebuild_resource_embed_metadata" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak gömülü meta verilerini yeniden oluştur]]></phrase>
+  <phrase title="xfrm_rebuild_resources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynakları yeniden oluştur]]></phrase>
+  <phrase title="xfrm_rebuild_user_resource_counts" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı kaynak sayılarını yeniden oluştur]]></phrase>
+  <phrase title="xfrm_release_date" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yayın tarihi]]></phrase>
+  <phrase title="xfrm_release_new_version" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yeni sürüm yayınla]]></phrase>
+  <phrase title="xfrm_remove_members" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Üyeleri kaldır]]></phrase>
+  <phrase title="xfrm_replace_download" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İndirmeyi değiştir]]></phrase>
+  <phrase title="xfrm_requested_resource_not_found" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İstenen kaynak bulunamadı.]]></phrase>
+  <phrase title="xfrm_requested_review_not_found" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İstenen değerlendirme bulunamadı.]]></phrase>
+  <phrase title="xfrm_requested_update_not_found" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İstenen güncelleme bulunamadı.]]></phrase>
+  <phrase title="xfrm_requested_version_not_found" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İstenen sürüm bulunamadı.]]></phrase>
+  <phrase title="xfrm_resource" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak]]></phrase>
+  <phrase title="xfrm_resource_categories" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak kategorileri]]></phrase>
+  <phrase title="xfrm_resource_category" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak kategorisi]]></phrase>
+  <phrase title="xfrm_resource_category_permissions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak kategori izinleri]]></phrase>
+  <phrase title="xfrm_resource_category_x" version_id="2020032" version_string="2.2.0 Beta 2" global_cache="1"><![CDATA[Kaynak kategorisi '{title}']]></phrase>
+  <phrase title="xfrm_resource_count" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak sayısı]]></phrase>
+  <phrase title="xfrm_resource_counts" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak sayıları]]></phrase>
+  <phrase title="xfrm_resource_features" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[Kaynak öne çıkarmaları]]></phrase>
+  <phrase title="xfrm_resource_fields" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak alanları]]></phrase>
+  <phrase title="xfrm_resource_icon" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Kaynak ikonu]]></phrase>
+  <phrase title="xfrm_resource_icons" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Kaynak ikonları]]></phrase>
+  <phrase title="xfrm_resource_prefixes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak önekleri]]></phrase>
+  <phrase title="xfrm_resource_rating" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak puanı]]></phrase>
+  <phrase title="xfrm_resource_ratings" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak puanları]]></phrase>
+  <phrase title="xfrm_resource_reactions" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Kaynak tepkileri]]></phrase>
+  <phrase title="xfrm_resource_review_fields" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kaynak değerlendirme alanları]]></phrase>
+  <phrase title="xfrm_resource_review_in_x" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA['{title}' içinde kaynak değerlendirmesi]]></phrase>
+  <phrase title="xfrm_resource_review_votes" version_id="2020370" version_string="2.2.3"><![CDATA[Kaynak değerlendirme oyları]]></phrase>
+  <phrase title="xfrm_resource_statistics" version_id="2030035" version_string="2.3.0 Beta 5"><![CDATA[Kaynak istatistikleri]]></phrase>
+  <phrase title="xfrm_resource_team" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kaynak ekibi]]></phrase>
+  <phrase title="xfrm_resource_thread_create" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{username} yeni bir kaynak gönderdi:
+
+[url={resource_link}][plain]{title}[/plain][/url] - [plain]{tag_line}[/plain]
+
+[quote]{snippet}[/quote]
+
+[url={resource_link}]Bu kaynak hakkında daha fazlasını oku...[/url]]]></phrase>
+  <phrase title="xfrm_resource_thread_delete" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[Bu kaynak kaldırıldı ve artık kullanılamıyor.]]></phrase>
+  <phrase title="xfrm_resource_thread_delete_reason_x" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[Bu kaynak kaldırıldı ve artık kullanılamıyor. Şu sebep verildi:
+[quote][plain]{reason}[/plain][/quote]]]></phrase>
+  <phrase title="xfrm_resource_thread_update" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{username} [url={resource_link}][plain]{resource_title}[/plain][/url] kaynağını yeni bir güncelleme girişi ile güncelledi:
+
+[url={update_link}][plain]{title}[/plain][/url]
+
+[quote]{snippet}[/quote]
+
+[url={update_link}]Bu güncelleme girişinin geri kalanını oku...[/url]]]></phrase>
+  <phrase title="xfrm_resource_update" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak güncellemesi]]></phrase>
+  <phrase title="xfrm_resource_update_in_x" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA['{title}' içinde kaynak güncellemesi]]></phrase>
+  <phrase title="xfrm_resource_updates" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak güncellemeleri]]></phrase>
+  <phrase title="xfrm_resource_version" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak sürümü]]></phrase>
+  <phrase title="xfrm_resource_version_in_x" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA['{title}' içinde kaynak sürümü]]></phrase>
+  <phrase title="xfrm_resource_versions" version_id="2020370" version_string="2.2.3"><![CDATA[Kaynak sürümleri]]></phrase>
+  <phrase title="xfrm_resource_watched" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak izleniyor]]></phrase>
+  <phrase title="xfrm_resource_x" version_id="2010010" version_string="2.1.0 Alpha" global_cache="1"><![CDATA[Kaynak '{title}']]></phrase>
+  <phrase title="xfrm_resource_x_new_watched_category" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{resource} - İzlenen kategoride yeni kaynak]]></phrase>
+  <phrase title="xfrm_resource_x_posted_in_category_y" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[<a href="{categoryLink}">{categoryTitle}</a> kaynak kategorisinde <a href="{resourceLink}">{resourceTitle}</a> yayınlandı]]></phrase>
+  <phrase title="xfrm_resource_x_updated_y" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{resource} güncellendi: {update}]]></phrase>
+  <phrase title="xfrm_resource_x_was_reassigned_to_you" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{title} kaynağı size yeniden atandı.]]></phrase>
+  <phrase title="xfrm_resources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynaklar]]></phrase>
+  <phrase title="xfrm_resources_by_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} tarafından kaynaklar]]></phrase>
+  <phrase title="xfrm_response_by" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Cevaplayan]]></phrase>
+  <phrase title="xfrm_review_for_x" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA['{title}' için değerlendirme]]></phrase>
+  <phrase title="xfrm_reviews" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Değerlendirmeler]]></phrase>
+  <phrase title="xfrm_search_child_categories_as_well" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alt kategorilerde de ara]]></phrase>
+  <phrase title="xfrm_search_in_categories" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kategorilerde ara]]></phrase>
+  <phrase title="xfrm_search_resources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynaklarda ara]]></phrase>
+  <phrase title="xfrm_share_this_resource" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu kaynağı paylaş]]></phrase>
+  <phrase title="xfrm_stop_notification_emails_from_all_resources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tüm kaynaklardan bildirim e-postalarını durdur]]></phrase>
+  <phrase title="xfrm_submission_date" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gönderim tarihi]]></phrase>
+  <phrase title="xfrm_submit_review_anonymously" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Değerlendirmeyi anonim gönder]]></phrase>
+  <phrase title="xfrm_superseded" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Yerini aldı]]></phrase>
+  <phrase title="xfrm_tag_line" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Slogan]]></phrase>
+  <phrase title="xfrm_team_member" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Ekip üyesi]]></phrase>
+  <phrase title="xfrm_team_members_not_displayed_publicly" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Ekip üyeleri, moderatörler ve ekip üyelerinin kendileri dışında genel olarak görüntülenmez.]]></phrase>
+  <phrase title="xfrm_team_resources" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Ekip kaynakları]]></phrase>
+  <phrase title="xfrm_team_resources_for_x" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[{name} için ekip kaynakları]]></phrase>
+  <phrase title="xfrm_there_no_resources_matching_your_filters" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Filtrelerinize uyan hiç kaynak yok.]]></phrase>
+  <phrase title="xfrm_there_no_reviews_matching_your_filters" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Filtrelerinize uyan hiç değerlendirme yok.]]></phrase>
+  <phrase title="xfrm_this_category" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu kategori]]></phrase>
+  <phrase title="xfrm_this_resource_is_not_versioned" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[Bu kaynak sürümlendirilmemiş.]]></phrase>
+  <phrase title="xfrm_this_user_has_left_more_recent_review" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu kullanıcı daha güncel bir değerlendirme yapmış]]></phrase>
+  <phrase title="xfrm_top_resources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En iyi kaynaklar]]></phrase>
+  <phrase title="xfrm_unapprove_resources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak onayını kaldır]]></phrase>
+  <phrase title="xfrm_undelete_resources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynakları geri yükle]]></phrase>
+  <phrase title="xfrm_unfeature_resources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak öne çıkarmasını kaldır]]></phrase>
+  <phrase title="xfrm_unwatch_resource" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynağı izlemeyi bırak]]></phrase>
+  <phrase title="xfrm_update_discussion_thread" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[Tartışma konusunu güncelle]]></phrase>
+  <phrase title="xfrm_update_message" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Güncelleme mesajı]]></phrase>
+  <phrase title="xfrm_update_resource" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynağı güncelle]]></phrase>
+  <phrase title="xfrm_update_thread_title_on_resource_deletion" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak silindiğinde konu başlığını güncelle]]></phrase>
+  <phrase title="xfrm_update_title" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Güncelleme başlığı]]></phrase>
+  <phrase title="xfrm_update_to_resource_x" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[<a href="{categoryLink}">{categoryTitle}</a> kaynak kategorisinde <a href="{resourceLink}">{resourceTitle}</a> için güncelleme]]></phrase>
+  <phrase title="xfrm_updates" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Güncellemeler]]></phrase>
+  <phrase title="xfrm_upload_custom_icon" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Özel bir ikon yükle]]></phrase>
+  <phrase title="xfrm_upload_new_icon" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yeni bir ikon yükle]]></phrase>
+  <phrase title="xfrm_uploaded_file" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yüklenen dosya]]></phrase>
+  <phrase title="xfrm_uploaded_files" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yüklenen dosyalar]]></phrase>
+  <phrase title="xfrm_user_has_submitted_at_least_x_resources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı en az X kaynak göndermiş]]></phrase>
+  <phrase title="xfrm_version" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sürüm]]></phrase>
+  <phrase title="xfrm_version_number" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sürüm numarası]]></phrase>
+  <phrase title="xfrm_view_resource" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Kaynağı görüntüle]]></phrase>
+  <phrase title="xfrm_view_this_resource" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu kaynağı görüntüle]]></phrase>
+  <phrase title="xfrm_viewable_on_resource_pages" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Kaynak sayfalarında görüntülenebilir]]></phrase>
+  <phrase title="xfrm_viewing_resource" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Kaynağı görüntülüyor]]></phrase>
+  <phrase title="xfrm_viewing_resource_category" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Kaynak kategorisini görüntülüyor]]></phrase>
+  <phrase title="xfrm_viewing_resources" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Kaynakları görüntülüyor]]></phrase>
+  <phrase title="xfrm_watch_resource" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynağı izle]]></phrase>
+  <phrase title="xfrm_watch_this_resource" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu kaynağı izle]]></phrase>
+  <phrase title="xfrm_watched_category_email_html_footer" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p class="minorText">Lütfen bu mesaja cevap vermeyin. Cevaplamak için forumu ziyaret etmelisiniz.</p>
+
+<p class="minorText">Bu mesaj size, {board} sitesindeki "{category}" kategorisini yeni kaynak veya güncellemelerin e-posta bildirimi ile izlemeyi tercih ettiğiniz için gönderildi.</p>
+
+<p class="minorText">Bu e-postaları artık almak istemiyorsanız, <a href="{disable_this_link}">bu kategoriden e-postaları devre dışı bırakabilir</a> veya <a href="{disable_all_link}">tüm e-postaları devre dışı bırakabilirsiniz</a>.</p>]]></phrase>
+  <phrase title="xfrm_watched_category_resource_email_html" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{author}, {board} sitesinde izlediğiniz bir kategoride bir kaynak oluşturdu.</p>]]></phrase>
+  <phrase title="xfrm_watched_category_update_email_html" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{author}, {board} sitesinde izlediğiniz bir kategoride bir kaynağı güncelledi.</p>]]></phrase>
+  <phrase title="xfrm_watched_resource_email_html_footer" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[<p class="minorText">Lütfen bu mesaja cevap vermeyin. Cevaplamak için forumu ziyaret etmelisiniz.</p>
+
+<p class="minorText">Bu mesaj size, {board} sitesindeki "{resource}" kaynağını güncellemelerin e-posta bildirimi ile izlemeyi tercih ettiğiniz için gönderildi.</p>
+
+<p class="minorText">Bu e-postaları artık almak istemiyorsanız, <a href="{disable_this_link}">bu kaynaktan e-postaları devre dışı bırakabilir</a> veya <a href="{disable_all_link}">tüm e-postaları devre dışı bırakabilirsiniz</a>.</p>]]></phrase>
+  <phrase title="xfrm_watched_resource_update_email_html" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{author}, {board} sitesinde izlediğiniz bir kaynağı güncelledi.</p>]]></phrase>
+  <phrase title="xfrm_watched_resources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İzlenen kaynaklar]]></phrase>
+  <phrase title="xfrm_will_require_users_provide_at_least_tags_when_creating_resource" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu, kullanıcıların kaynak oluştururken en az bu kadar etiket sağlamasını gerektirir.]]></phrase>
+  <phrase title="xfrm_x_added_you_as_team_member_for_resource_y" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[{name}, {title} kaynağı için sizi ekip üyesi olarak ekledi.]]></phrase>
+  <phrase title="xfrm_x_created_resource_y" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name}, {title} kaynağını oluşturdu.]]></phrase>
+  <phrase title="xfrm_x_created_resource_y_in_category_z" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{username}, {category} içinde {title} kaynağını oluşturdu.]]></phrase>
+  <phrase title="xfrm_x_has_not_posted_any_resources_yet" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} henüz hiç kaynak göndermemiş.]]></phrase>
+  <phrase title="xfrm_x_left_resource_team_for_resource_y" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[{name}, {title} kaynağı için ekipten ayrıldı.]]></phrase>
+  <phrase title="xfrm_x_mentioned_you_in_resource_y" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name}, {title} kaynağında sizden bahsetti.]]></phrase>
+  <phrase title="xfrm_x_mentioned_you_in_update_resource_y" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name}, {title} kaynağı için bir güncellemede sizden bahsetti.]]></phrase>
+  <phrase title="xfrm_x_reacted_to_your_resource_y" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}, {title} kaynağınıza {reaction} ile tepki verdi.]]></phrase>
+  <phrase title="xfrm_x_reacted_to_your_update_resource_y" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}, {title} kaynağına yaptığınız güncellemeye {reaction} ile tepki verdi.]]></phrase>
+  <phrase title="xfrm_x_reacted_to_ys_resource_z" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}, {author} adlı kullanıcının {title} kaynağına {reaction} ile tepki verdi.]]></phrase>
+  <phrase title="xfrm_x_reacted_to_ys_update_for_resource_z" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}, {author} adlı kullanıcının {title} kaynağına yaptığı güncellemeye {reaction} ile tepki verdi.]]></phrase>
+  <phrase title="xfrm_x_replied_review_resource_y" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name}, {title} kaynağı için yaptığınız değerlendirmeye cevap verdi.]]></phrase>
+  <phrase title="xfrm_x_reviewed_resource_y" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{username}, {title} kaynağını değerlendirdi.]]></phrase>
+  <phrase title="xfrm_x_updated_resource_y" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name}, {title} kaynağını güncelledi.]]></phrase>
+  <phrase title="xfrm_x_updated_resource_y_with_update_z" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{username}, {title} kaynağını {update} ile güncelledi.]]></phrase>
+  <phrase title="xfrm_you_have_already_rated_this_version_rerating_remove_existing" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu sürümü zaten puanladınız. Yeniden puanlamak mevcut puanınızı veya değerlendirmenizi kaldırır.]]></phrase>
+  <phrase title="xfrm_you_have_not_posted_any_resources_yet" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Henüz hiç kaynak göndermediniz.]]></phrase>
+  <phrase title="xfrm_you_may_have_up_to_x_team_members" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[En fazla {number} ekip üyeniz olabilir.]]></phrase>
+  <phrase title="xfrm_you_may_not_add_following_team_members_to_this_resource_x" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Aşağıdaki ekip üyelerini bu kaynağa ekleyemezsiniz: {names}]]></phrase>
+  <phrase title="xfrm_you_may_not_add_resources_to_this_category" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu kategoriye kaynak ekleyemezsiniz.]]></phrase>
+  <phrase title="xfrm_you_may_only_add_x_team_members_to_this_resource" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bu kaynağa yalnızca {count} ekip üyesi ekleyebilirsiniz.]]></phrase>
+  <phrase title="xfrm_you_may_only_import_from_xenforo_resource_manager_x" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[Yalnızca XenForo Resource Manager {version} sürümünden içe aktarabilirsiniz.]]></phrase>
+  <phrase title="xfrm_you_must_upload_file_or_provide_external_download_url" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bir dosya yüklemeniz veya harici bir indirme URL'si sağlamanız gerekir.]]></phrase>
+  <phrase title="xfrm_you_not_member_of_any_resource_teams" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Hiçbir kaynak ekibinin üyesi değilsiniz.]]></phrase>
+  <phrase title="xfrm_you_not_watching_any_resources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hiçbir kaynağı izlemiyorsunuz.]]></phrase>
+  <phrase title="xfrm_you_only_rate_resource_version_downloaded" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yalnızca indirdiğiniz bir kaynak sürümünü puanlayabilirsiniz.]]></phrase>
+  <phrase title="xfrm_you_sure_you_want_to_apply_prefix_to_x_resources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{total} kaynağa önek uygulamak istediğinizden emin misiniz?]]></phrase>
+  <phrase title="xfrm_you_sure_you_want_to_delete_this_review_response" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu değerlendirme cevabını silmek istediğinizden emin misiniz?]]></phrase>
+  <phrase title="xfrm_you_sure_you_want_to_delete_x_resources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{total} kaynağı silmek istediğinizden emin misiniz?]]></phrase>
+  <phrase title="xfrm_you_sure_you_want_to_leave_resource_team" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kaynak ekibinden ayrılmak istediğinizden emin misiniz?]]></phrase>
+  <phrase title="xfrm_you_sure_you_want_to_move_x_resources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{total} kaynağı taşımak istediğinizden emin misiniz?]]></phrase>
+  <phrase title="xfrm_you_sure_you_want_to_reassign_x_resources" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{total} kaynağı yeniden atamak istediğinizden emin misiniz?]]></phrase>
+  <phrase title="xfrm_you_sure_you_want_to_unwatch_this_resource" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu kaynağı izlemeyi bırakmak istediğinizden emin misiniz?]]></phrase>
+  <phrase title="xfrm_your_reply_will_be_attributed_to_x_publicly" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Cevabınız {user} olarak genel kabul görür.]]></phrase>
+  <phrase title="xfrm_your_resource_x_was_deleted" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{title} kaynağınız silindi.]]></phrase>
+  <phrase title="xfrm_your_resource_x_was_edited" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{title} kaynağınız düzenlendi.]]></phrase>
+  <phrase title="xfrm_your_resource_x_was_moved" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{title} kaynağınız farklı bir kategoriye taşındı.]]></phrase>
+  <phrase title="xfrm_your_resource_x_was_reassigned_to_y" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{title} kaynağınız {to} adlı kullanıcıya yeniden atandı.]]></phrase>
+  <phrase title="xfrm_your_resources" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kaynaklarınız]]></phrase>
+  <phrase title="xfrm_your_review_for_x_was_deleted" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{title} için değerlendirmeniz silindi.]]></phrase>
+  <phrase title="xfrm_your_review_must_be_at_least_x_characters" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Değerlendirmeniz en az {min} karakter olmalıdır.]]></phrase>
+  <phrase title="xfrm_your_review_to_resource_x_was_submitted" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[{title} kaynağına değerlendirmeniz gönderildi.]]></phrase>
+  <phrase title="xfrm_your_statistics" version_id="2030035" version_string="2.3.0 Beta 5"><![CDATA[İstatistikleriniz]]></phrase>
+  <phrase title="xfrm_your_update_x_for_y_was_deleted" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{resource} için {update} güncellemeniz silindi.]]></phrase>
+  <phrase title="xfrm_your_update_x_for_y_was_edited" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{resource} için {update} güncellemeniz düzenlendi.]]></phrase>
+  <phrase title="you_sure_you_want_to_stop_watching_all_resources" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[<b>Tüm</b> kaynakları izlemeyi bırakmak istediğinizden emin misiniz?]]></phrase>
+  <phrase title="you_sure_you_want_to_update_notification_settings_for_all_resources" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[<b>Tüm</b> kaynaklar için e-posta bildirim ayarlarınızı güncellemek istediğinizden emin misiniz?]]></phrase>
+</phrases>

@@ -1,0 +1,300 @@
+  <phrase title="snippet_length_explain" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Parçacıkta görüntülenmesi gereken maksimum karakter sayısı. Tam parçacığı görüntülemek için 0 kullanın.]]></phrase>
+  <phrase title="snuffleupagus_enabled" version_id="2030055" version_string="2.3.0 Release Candidate 5"><![CDATA[Snuffleupagus etkin]]></phrase>
+  <phrase title="soft_bounce_logged" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yumuşak geri dönüş kaydedildi]]></phrase>
+  <phrase title="soft_delete_threads" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konuları yumuşak sil]]></phrase>
+  <phrase title="solution" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Çözüm]]></phrase>
+  <phrase title="solutions" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Çözümler]]></phrase>
+  <phrase title="solved" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Çözüldü]]></phrase>
+  <phrase title="some_data_can_not_be_rebuilt" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Bazı veriler geriye dönük olarak yeniden oluşturulamayabilir. Bu seçeneği yalnızca bunun için belirli bir nedeniniz varsa kullanın. Veri silme işlemi geri alınamaz.]]></phrase>
+  <phrase title="some_fields_contained_unexpected_data_try_again" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Bazı alanlar beklenmeyen veriler içeriyordu. Lütfen tekrar deneyin veya yöneticiyle iletişime geçin.]]></phrase>
+  <phrase title="some_files_or_directories_for_this_add_on_missing_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu eklenti için bazı dosyalar veya dizinler eksik ({missing_files}). Lütfen tüm eklenti dosyalarını yeniden yükleyin.]]></phrase>
+  <phrase title="some_steps_may_require_other_steps_as_prerequisite" version_id="2020470" version_string="2.2.4"><![CDATA[Bazı adımlar, ön koşul olarak başka adımları gerektirebilir. Seçilen bir adım gerektiriyorsa, seçilmemiş adımlar otomatik olarak dahil edilecektir.]]></phrase>
+  <phrase title="some_tags_not_valid_please_change_x" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Bazı etiketler çok kısa, çok uzun veya izin verilmeyen metin içerdiği için geçerli değildi. Lütfen şu etiketleri değiştirin: {tags}]]></phrase>
+  <phrase title="something_went_wrong_please_try_again" version_id="1010470" version_string="1.1.4"><![CDATA[Bir şeyler yanlış gitti. Lütfen tekrar deneyin veya yöneticiyle iletişime geçin.]]></phrase>
+  <phrase title="sorry_dave" version_id="0"><![CDATA[Üzgünüm Dave, korkarım bunu yapamam.]]></phrase>
+  <phrase title="sorry_you_must_wait_longer_to_create_account" version_id="1010470" version_string="1.1.4"><![CDATA[Üzgünüz, hesap oluşturmak için daha uzun süre beklemelisiniz.]]></phrase>
+  <phrase title="sorry_you_too_young_to_create_an_account" version_id="0"><![CDATA[Üzgünüz, hesap oluşturmak için çok küçüksünüz.]]></phrase>
+  <phrase title="sort" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Sırala]]></phrase>
+  <phrase title="sort_activity_summary_sections" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Etkinlik özeti bölümlerini sırala]]></phrase>
+  <phrase title="sort_admin_navigation" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yönetici gezinmesini sırala]]></phrase>
+  <phrase title="sort_by" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sıralama ölçütü]]></phrase>
+  <phrase title="sort_categories" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kategorileri sırala]]></phrase>
+  <phrase title="sort_direction" version_id="2000570" version_string="2.0.5"><![CDATA[Sıralama yönü]]></phrase>
+  <phrase title="sort_navigation" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gezinmeyi sırala]]></phrase>
+  <phrase title="sort_nodes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Düğümleri sırala]]></phrase>
+  <phrase title="sort_order" version_id="2000570" version_string="2.0.5"><![CDATA[Sıralama düzeni]]></phrase>
+  <phrase title="sort_reactions" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Tepkileri sırala]]></phrase>
+  <phrase title="sort_smilies" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İfadeleri sırala]]></phrase>
+  <phrase title="source_database_configuration" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[Kaynak veritabanı yapılandırması]]></phrase>
+  <phrase title="source_database_connection_details_not_correct_x" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Kaynak veritabanı bağlantı bilgileri doğru değil: {message}]]></phrase>
+  <phrase title="source_tag" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaynak etiket]]></phrase>
+  <phrase title="source_user" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Kaynak kullanıcı]]></phrase>
+  <phrase title="spam" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Spam]]></phrase>
+  <phrase title="spam_clean" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Spam temizle]]></phrase>
+  <phrase title="spam_cleaner" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spam temizleyici]]></phrase>
+  <phrase title="spam_cleaner_actions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spam temizleyici eylemleri]]></phrase>
+  <phrase title="spam_cleaner_ban_reason" version_id="1040570" version_string="1.4.5"><![CDATA[Spam. Bu hatalı yapıldıysa lütfen yöneticiyle iletişime geçin.]]></phrase>
+  <phrase title="spam_cleaner_cannot_be_run_at_moment" version_id="2000570" version_string="2.0.5"><![CDATA[Spam temizleyici şu anda çalıştırılamıyor. Spam konuların taşınacağı seçili forum mevcut değil.]]></phrase>
+  <phrase title="spam_cleaner_ip_address_check" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spam temizleyici IP adresi kontrolü]]></phrase>
+  <phrase title="spam_cleaner_log" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spam temizleyici günlüğü]]></phrase>
+  <phrase title="spam_cleaner_logs" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Spam temizleyici günlükleri]]></phrase>
+  <phrase title="spam_cleaner_no_admins_or_mods" version_id="0"><![CDATA[Yöneticilere veya moderatörlere karşı spam temizleyici kullanmak mümkün değildir.]]></phrase>
+  <phrase title="spam_cleaner_reaction_score_too_high" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{reaction_score} değerinden daha yüksek bir tepki puanı almış kullanıcılara karşı spam temizleyici kullanamazsınız.]]></phrase>
+  <phrase title="spam_cleaner_registered_too_long" version_id="0"><![CDATA[{register_days} günden daha uzun süredir kayıtlı olan kullanıcılara karşı spam temizleyici kullanamazsınız.]]></phrase>
+  <phrase title="spam_cleaner_too_many_messages" version_id="0"><![CDATA[{message_count} mesajdan fazla mesaja sahip kullanıcılara karşı spam temizleyici kullanamazsınız.]]></phrase>
+  <phrase title="spam_cleanings" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spam temizlikleri]]></phrase>
+  <phrase title="spam_deleted" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Spam silindi.]]></phrase>
+  <phrase title="spam_log" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spam günlüğü]]></phrase>
+  <phrase title="spam_phrase_matched_x" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Spam ifadesi eşleşti ({phrase})]]></phrase>
+  <phrase title="spam_prevention_registration_rejected" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaydınız spam benzeri veya otomatik davranışa benzediği için reddedildi. Daha fazla bilgi veya yardım için lütfen yöneticiyle iletişime geçin.]]></phrase>
+  <phrase title="spam_trigger_log" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spam tetikleyici günlüğü]]></phrase>
+  <phrase title="spam_trigger_logs" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Spam tetikleyici günlükleri]]></phrase>
+  <phrase title="spam_triggers" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spam tetikleyicileri]]></phrase>
+  <phrase title="specific_users" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Belirli kullanıcılar]]></phrase>
+  <phrase title="specified_ip_address_match_already_exists" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Belirtilen IP adresi eşleşmesi zaten mevcut.]]></phrase>
+  <phrase title="specified_member_cannot_be_found_enter_entire_name" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Belirtilen üye bulunamıyor. Lütfen üyenin tam adını girin.]]></phrase>
+  <phrase title="specified_table_already_exists_choose_another" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Belirtilen tablo zaten mevcut. Lütfen başka bir ad seçin.]]></phrase>
+  <phrase title="specified_thread_does_not_have_poll_attached_to_it" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Belirtilen konuya bir anket eklenmemiş.]]></phrase>
+  <phrase title="specified_url_cannot_be_embedded_as_media" version_id="0"><![CDATA[Belirtilen URL ortam olarak gömülemez.]]></phrase>
+  <phrase title="specified_user_is_already_administrator" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Belirtilen kullanıcı zaten yönetici.]]></phrase>
+  <phrase title="specify_image" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bir görüntü belirt]]></phrase>
+  <phrase title="spoiler" version_id="1030010" version_string="1.3.0 Alpha" global_cache="1"><![CDATA[Spoiler]]></phrase>
+  <phrase title="spoiler_content_hidden" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spoiler içeriği gizlendi.]]></phrase>
+  <phrase title="sprite_dimensions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sprite boyutları]]></phrase>
+  <phrase title="sprite_mode" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sprite modu]]></phrase>
+  <phrase title="sprite_position" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sprite konumu]]></phrase>
+  <phrase title="src_attribute_must_not_be_specified_when_using_dev_or_prod_attributes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA['dev' veya 'prod' özniteliklerini kullanırken 'src' özniteliği belirtilmemelidir.]]></phrase>
+  <phrase title="stack_trace" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yığın izleme]]></phrase>
+  <phrase title="staff_member" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Personel üyesi]]></phrase>
+  <phrase title="staff_members_cannot_be_reply_banned" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Personel üyeleri cevap yasaklı yapılamaz.]]></phrase>
+  <phrase title="staff_members_may_not_be_ignored" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Personel üyeleri yok sayılamaz.]]></phrase>
+  <phrase title="staff_online" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Çevrimiçi personel]]></phrase>
+  <phrase title="staff_state" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Personel durumu]]></phrase>
+  <phrase title="standard" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Standart]]></phrase>
+  <phrase title="standard_cookies_we_set" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Ayarladığımız standart çerezler]]></phrase>
+  <phrase title="standard_search" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Standart arama]]></phrase>
+  <phrase title="star" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yıldız]]></phrase>
+  <phrase title="star_direct_messages" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Doğrudan mesajları yıldızla]]></phrase>
+  <phrase title="star_rating" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yıldız derecelendirmesi]]></phrase>
+  <phrase title="starred" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Yıldızlı]]></phrase>
+  <phrase title="starred_direct_messages" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Yıldızlı doğrudan mesajlar]]></phrase>
+  <phrase title="start_date" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Başlangıç tarihi]]></phrase>
+  <phrase title="start_import" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[İçe aktarmaya başla]]></phrase>
+  <phrase title="start_sending_summary_email_when_user_inactive_for" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı şu süre kadar etkin olmadığında özet e-posta göndermeye başla]]></phrase>
+  <phrase title="started_by" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Başlatan]]></phrase>
+  <phrase title="started_by_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} tarafından başlatıldı]]></phrase>
+  <phrase title="starting_upgrade" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Yükseltme başlatılıyor]]></phrase>
+  <phrase title="state" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Durum]]></phrase>
+  <phrase title="statistics" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İstatistikler]]></phrase>
+  <phrase title="status" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Durum]]></phrase>
+  <phrase title="status_changed" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Durum değişti]]></phrase>
+  <phrase title="status_update_by_x" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{username} tarafından durum güncellemesi]]></phrase>
+  <phrase title="stay_logged_in" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oturumum açık kalsın]]></phrase>
+  <phrase title="step_x_of_y" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[{total} adımdan {current}. adım]]></phrase>
+  <phrase title="stick_thread" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konuyu sabitle]]></phrase>
+  <phrase title="stick_threads" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konuları sabitle]]></phrase>
+  <phrase title="sticky" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Sabit]]></phrase>
+  <phrase title="sticky_threads_appear_at_top_of_first_page_of_list_of_threads" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Sabit konular, üst forumdaki konu listesinin ilk sayfasının başında görünür]]></phrase>
+  <phrase title="stop" version_id="2001070" version_string="2.0.10"><![CDATA[Durdur]]></phrase>
+  <phrase title="stop_all_emails_from_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{title} sitesinden gelen tüm e-postaları durdur]]></phrase>
+  <phrase title="stop_email_notifications" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[E-posta bildirimlerini durdur]]></phrase>
+  <phrase title="stop_emails" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[E-postaları durdur]]></phrase>
+  <phrase title="stop_following" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Takibi bırak]]></phrase>
+  <phrase title="stop_following_x" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{name} kullanıcısını takip etmeyi bırak]]></phrase>
+  <phrase title="stop_ignoring" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yok saymayı bırak]]></phrase>
+  <phrase title="stop_ignoring_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} kullanıcısını yok saymayı bırak]]></phrase>
+  <phrase title="stop_notification_emails_from_all_categories" version_id="2000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Tüm kategorilerden bildirim e-postalarını durdur]]></phrase>
+  <phrase title="stop_notification_emails_from_all_threads" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tüm konulardan bildirim e-postalarını durdur]]></phrase>
+  <phrase title="stop_notification_emails_from_direct_messages" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Doğrudan mesajlardan bildirim e-postalarını durdur]]></phrase>
+  <phrase title="stop_notification_emails_from_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA['{title}' kaynağından bildirim e-postalarını durdur]]></phrase>
+  <phrase title="stop_parsing_bb_code" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[BB kodu ayrıştırmayı durdur]]></phrase>
+  <phrase title="stop_receiving_activity_summary_emails" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Etkinlik özeti e-postalarını almayı durdur.]]></phrase>
+  <phrase title="stop_sending_summary_email_when_user_inactive_for" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı şu süre kadar etkin olmadığında özet e-posta göndermeyi durdur]]></phrase>
+  <phrase title="stop_trusting_other_devices" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Diğer cihazlara güvenmeyi bırak]]></phrase>
+  <phrase title="stop_trusting_this_device" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Bu cihaza güvenmeyi bırak]]></phrase>
+  <phrase title="stop_watching" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İzlemeyi bırak]]></phrase>
+  <phrase title="stop_watching_forums" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Forumları izlemeyi bırak]]></phrase>
+  <phrase title="stop_watching_threads" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konuları izlemeyi bırak]]></phrase>
+  <phrase title="stopforumspam_enable_registration_check" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Yeni kayıtları StopForumSpam veritabanına karşı kontrol et.]]></phrase>
+  <phrase title="stopforumspam_enable_registration_check_explain" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[StopForumSpam, kayıt olan kullanıcılardan toplanan verileri test edecek ve bilinen bir spam göndericisi olup olmadıklarını belirlemeye çalışacaktır. Kullanıcının oluşturduğu her uyarı bayrağı sayılacaktır. Bayraklar arasında kullanıcı adı, e-posta ve IP adresi bulunur.]]></phrase>
+  <phrase title="stopforumspam_frequencycutoff_explain" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Yalnızca daha önce belirli sayıda bildirilen spam veritabanına karşı isabetleri saymayı seçebilirsiniz.]]></phrase>
+  <phrase title="stopforumspam_frequencycutoff_label" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Yalnızca en az şu kadar sayıda kaydedilmiş bayrakları say]]></phrase>
+  <phrase title="stopforumspam_hashemail_explain" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[Seçilirse, kullanıcının e-posta adresi gönderilmeden önce MD5 hash'ine dönüştürülür. Bu, kara liste kontrolleri dahil olmak üzere mümkün olan kontrol sayısını azaltır.<br>
+<strong>Not:</strong> Bu seçenekten bağımsız olarak, <em>yeni</em> spam göndericileri raporlarken hash'lenmemiş e-posta gönderilecektir.]]></phrase>
+  <phrase title="stopforumspam_hashemail_label" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[Göndermeden önce e-postaları hash'le]]></phrase>
+  <phrase title="stopforumspam_lastseencutoff_explain" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Yanlış pozitifleri önlemek için, yalnızca sınırlı bir zaman dilimi içinde daha önce kaydedilmiş spam veritabanına karşı isabetleri saymayı tercih edebilirsiniz.]]></phrase>
+  <phrase title="stopforumspam_lastseencutoff_label" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yalnızca son şu süre içinde kaydedilen bayrakları say]]></phrase>
+  <phrase title="stopforumspam_moderate_registration_threshold" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Şu kadar uyarı bayrağı algılandığında kayıtları moderasyona al]]></phrase>
+  <phrase title="stopforumspam_moderate_registration_threshold_explain" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Bir kaydın otomatik olarak kabul edilmek yerine moderasyon sırasına yerleştirilmesi için gereken uyarı bayrağı sayısını (1-3) belirtin.]]></phrase>
+  <phrase title="stopforumspam_reject_registration_threshold" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Şu kadar uyarı bayrağı algılandığında kayıtları reddet]]></phrase>
+  <phrase title="stopforumspam_reject_registration_threshold_explain" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Bir kaydın otomatik olarak reddedilmesi için gereken uyarı bayrağı sayısını (1-3) belirtin. Bu sayı, yukarıdaki moderasyon eşik değerinden eşit veya daha büyük olmalıdır.]]></phrase>
+  <phrase title="stopforumspam_submit_information" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[API anahtarı kullanarak StopForumSpam'e spam gönderici bilgisi gönder]]></phrase>
+  <phrase title="stopforumspam_submit_information_explain" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[StopForumSpam'den bir API anahtarınız varsa, diğer kullanıcılar için veritabanını iyileştirmek amacıyla sitenizdeki spam gönderici etkinliklerini otomatik olarak StopForumSpam'e geri bildirebilirsiniz. Bu seçenek, spam temizleyici aracılığıyla yasaklanan kullanıcıların raporlanmasına neden olur.<br>
+<strong>Not:</strong> <em>Yeni</em> spam göndericileri raporlarken hash'lenmemiş e-posta gönderilecektir.]]></phrase>
+  <phrase title="store_drafts_for_x_hours" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Taslakları X saat boyunca sakla]]></phrase>
+  <phrase title="stored_account_provider_does_not_match_this_request" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Saklanan hesap sağlayıcısı bu istekle eşleşmiyor. Lütfen tekrar deneyin.]]></phrase>
+  <phrase title="straight_rows_of_keys_easy_to_guess" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Düz tuş satırlarının tahmin edilmesi kolaydır.]]></phrase>
+  <phrase title="strike_through" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Üstü çizili]]></phrase>
+  <phrase title="string" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Dize]]></phrase>
+  <phrase title="stripe_custom_statement_descriptor_required" version_id="2020570" version_string="2.2.5"><![CDATA[Özel bir Stripe ekstre tanımlayıcısı gereklidir. Forum başlığınızdan geçerli bir tanımlayıcı türetilemez.]]></phrase>
+  <phrase title="stripe_live_publishable_key" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Canlı yayınlanabilir anahtar]]></phrase>
+  <phrase title="stripe_live_secret_key" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Canlı gizli anahtar]]></phrase>
+  <phrase title="stripe_live_secret_key_explain" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[Stripe panonuzun <a href="https://dashboard.stripe.com/account/apikeys" target="_blank">Developers > API keys</a> sayfasından canlı gizli ve yayınlanabilir anahtarları girin. Ayrıca <a href="https://dashboard.stripe.com/account/webhooks">Developers > Webhooks</a> sayfasında bir webhook kurmanız gerekir.]]></phrase>
+  <phrase title="stripe_pay_faster_explain" version_id="2010270" version_string="2.1.2"><![CDATA[Kayıtlı ödeme bilgilerinizi kullanarak daha hızlı ödeme yapmak için yukarıdaki düğmeye tıklayın.]]></phrase>
+  <phrase title="stripe_statement_descriptor" version_id="2020370" version_string="2.2.3"><![CDATA[Ekstre tanımlayıcısı]]></phrase>
+  <phrase title="stripe_statement_descriptors_explain_charges_or_payments_on_bank_statements" version_id="2020370" version_string="2.2.3"><![CDATA[Ekstre tanımlayıcıları, banka ekstrelerindeki ücretleri veya ödemeleri açıklar. Bu alanı boş bırakırsanız forum başlığı kullanılır. Özel bir tanımlayıcı ayarlamak isterseniz, <a href="https://stripe.com/docs/statement-descriptors#requirements" target="_blank">Stripe'ın belgelerinde belirtilen biçimi</a> izlemelidir.]]></phrase>
+  <phrase title="stripe_subscription_cancelled_successfully" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stripe aboneliği başarıyla iptal edildi]]></phrase>
+  <phrase title="stripe_test_publishable_key" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Test yayınlanabilir anahtar]]></phrase>
+  <phrase title="stripe_test_secret_key" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Test gizli anahtar]]></phrase>
+  <phrase title="stripe_test_secret_key_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Test anahtarları yalnızca <code>config.php</code> dosyasında <code>enableLivePayments</code> false olarak ayarlanmışsa kullanılacaktır.<br />
+<br /><b>Not:</b> Canlı ödemeleri kabul etmeden önce, Stripe Dashboard'dan Stripe hesabınızı etkinleştirmeniz gerekir.]]></phrase>
+  <phrase title="stripe_verify_webhook_with_signing_secret" version_id="2000051" version_string="2.0.0 Release Candidate 1"><![CDATA[İmzalama gizli anahtarı ile webhook doğrula]]></phrase>
+  <phrase title="stripe_verify_webhook_with_signing_secret_explain" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[Gelen webhook imzalarını doğrulamak ve yeniden oynatma saldırılarını önlemek için &quot;İmzalama gizli anahtarı&quot;nı sağlamanız gerekir. Bunu, webhook uç noktasını kurduktan sonra <a href="https://dashboard.stripe.com/account/webhooks">Developers > Webhooks</a> sayfasındaki panonuzdaki uç noktaya tıklayarak alabilirsiniz.]]></phrase>
+  <phrase title="stripe_webhook_explain" version_id="2020970" version_string="2.2.9"><![CDATA[<strong>Not:</strong> Stripe'ın ödemeleri doğrulamak ve işlemek için mesaj gönderebilmesi için bir webhook uç noktası kurmanız gerekir. Bunu kontrol panelinizde <a href="https://dashboard.stripe.com/account/webhooks">Developers > Webhooks</a> sayfasında aşağıdaki URL ile yapabilirsiniz:
+		<pre><code>{boardUrl}/payment_callback.php?_xfProvider=stripe</code></pre>
+		Webhook uç noktanızı ayrıca aşağıdaki olayları dinleyecek şekilde yapılandırmalısınız:]]></phrase>
+  <phrase title="strongly_recommended_backup_database_and_files" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Devam etmeden önce veritabanınızın ve dosyalarınızın yedeğini almanız şiddetle tavsiye edilir. Bu otomatik olarak yapılmaz.]]></phrase>
+  <phrase title="style" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Stil]]></phrase>
+  <phrase title="style_archives_only_contain_files_extensions_x" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Stil arşivleri yalnızca aşağıdaki uzantılara sahip dosyaları içerebilir: {extensions}.]]></phrase>
+  <phrase title="style_assets" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Stil varlıkları]]></phrase>
+  <phrase title="style_chooser" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stil seçici]]></phrase>
+  <phrase title="style_contains_no_customized_templates_or_style_properties" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[Bu stil özelleştirilmiş şablon veya stil özelliği içermiyor.]]></phrase>
+  <phrase title="style_designer_mode_ids_must_be_unique" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stil tasarımcı modu kimlikleri benzersiz olmalıdır. Belirtilen kimlik zaten kullanılıyor.]]></phrase>
+  <phrase title="style_prop.animationSpeed" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Temel animasyon hızı]]></phrase>
+  <phrase title="style_prop.avatarBg" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avatar arka plan rengi]]></phrase>
+  <phrase title="style_prop.avatarBorderRadius" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avatar kenarlık yarıçapı]]></phrase>
+  <phrase title="style_prop.avatarDefaultImage" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Varsayılan avatar görüntü URL'si]]></phrase>
+  <phrase title="style_prop.avatarDefaultTextContent" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Varsayılan avatar metni]]></phrase>
+  <phrase title="style_prop.avatarDefaultType" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Varsayılan avatar türü]]></phrase>
+  <phrase title="style_prop.avatarDynamicFont" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dinamik avatar yazı tipi]]></phrase>
+  <phrase title="style_prop.avatarDynamicLineHeight" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dinamik avatar temel satır yüksekliği]]></phrase>
+  <phrase title="style_prop.avatarDynamicTextPercent" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dinamik avatar metin boyutu (%)]]></phrase>
+  <phrase title="style_prop.badge" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rozet]]></phrase>
+  <phrase title="style_prop.badgeHighlighted" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rozet - vurgulanmış]]></phrase>
+  <phrase title="style_prop.bbCodeBlock" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[BB kodu blokları]]></phrase>
+  <phrase title="style_prop.bbCodeBlockExpandHeight" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maksimum genişletilebilir BB kodu blok yüksekliği]]></phrase>
+  <phrase title="style_prop.bbCodeBlockTitle" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[BB kodu blokları - başlık]]></phrase>
+  <phrase title="style_prop.bbCodeImgFloatMargin" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Yüzen görüntü üst kenar boşluğu]]></phrase>
+  <phrase title="style_prop.bbCodeImgFloatMarginAfter" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Yüzen görüntü yan ve alt kenar boşluğu]]></phrase>
+  <phrase title="style_prop.bbCodeImgLarge" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[BB Kodu Görüntüsü - Büyük Maks Genişlik]]></phrase>
+  <phrase title="style_prop.bbCodeImgMedium" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[BB Kodu Görüntüsü - Orta Maks Genişlik]]></phrase>
+  <phrase title="style_prop.bbCodeImgSmall" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[BB Kodu Görüntüsü - Küçük Maks Genişlik]]></phrase>
+  <phrase title="style_prop.bbCodeInlineCode" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[BB kodu bloğu - satır içi kod]]></phrase>
+  <phrase title="style_prop.blockBorder" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blok kenarlık çerçevesi]]></phrase>
+  <phrase title="style_prop.blockBorderRadius" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blok kenarlık yarıçapı]]></phrase>
+  <phrase title="style_prop.blockFilterBar" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blok filtre çubuğu]]></phrase>
+  <phrase title="style_prop.blockFooter" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blok alt bilgisi]]></phrase>
+  <phrase title="style_prop.blockFooterBg" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Blok alt bilgisi arka plan rengi]]></phrase>
+  <phrase title="style_prop.blockFooterTextColor" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Blok alt bilgisi metin rengi]]></phrase>
+  <phrase title="style_prop.blockHeader" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blok başlığı]]></phrase>
+  <phrase title="style_prop.blockLink" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blok bağlantısı]]></phrase>
+  <phrase title="style_prop.blockLinkSelected" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blok bağlantısı - seçili]]></phrase>
+  <phrase title="style_prop.blockMinorHeader" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blok küçük başlık]]></phrase>
+  <phrase title="style_prop.blockMinorTabHeader" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blok küçük sekme başlığı]]></phrase>
+  <phrase title="style_prop.blockMinorTabHeaderSelected" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blok küçük sekme başlığı - seçili sekme]]></phrase>
+  <phrase title="style_prop.blockPaddingH" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blok yatay iç kenar boşluğu]]></phrase>
+  <phrase title="style_prop.blockPaddingV" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blok dikey iç kenar boşluğu]]></phrase>
+  <phrase title="style_prop.blockTabHeader" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blok sekme başlığı]]></phrase>
+  <phrase title="style_prop.blockTabHeaderBg" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Blok sekme başlığı arka plan rengi]]></phrase>
+  <phrase title="style_prop.blockTabHeaderSelected" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blok sekme başlığı - seçili sekme]]></phrase>
+  <phrase title="style_prop.blockTabHeaderTextColor" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Blok sekme başlığı metin rengi]]></phrase>
+  <phrase title="style_prop.blockTextHeader" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blok metin başlığı]]></phrase>
+  <phrase title="style_prop.borderColor" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kenarlık rengi]]></phrase>
+  <phrase title="style_prop.borderColorAccentContent" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vurgu içerik kenarlık rengi]]></phrase>
+  <phrase title="style_prop.borderColorAttention" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dikkat çekici kenarlık rengi]]></phrase>
+  <phrase title="style_prop.borderColorFaint" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Soluk kenarlık rengi]]></phrase>
+  <phrase title="style_prop.borderColorFeature" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Özellik kenarlık rengi]]></phrase>
+  <phrase title="style_prop.borderColorHeavy" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kalın kenarlık rengi]]></phrase>
+  <phrase title="style_prop.borderColorHighlight" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vurgu kenarlık rengi]]></phrase>
+  <phrase title="style_prop.borderColorLight" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Açık kenarlık rengi]]></phrase>
+  <phrase title="style_prop.borderRadiusLarge" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Büyük kenarlık yarıçapı]]></phrase>
+  <phrase title="style_prop.borderRadiusMedium" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Orta kenarlık yarıçapı]]></phrase>
+  <phrase title="style_prop.borderRadiusSmall" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Küçük kenarlık yarıçapı]]></phrase>
+  <phrase title="style_prop.borderSize" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kenarlık boyutu]]></phrase>
+  <phrase title="style_prop.borderSizeFeature" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Özellik kenarlık boyutu]]></phrase>
+  <phrase title="style_prop.borderSizeMinorFeature" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Küçük özellik kenarlık boyutu]]></phrase>
+  <phrase title="style_prop.buttonBase" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Düğme tabanı]]></phrase>
+  <phrase title="style_prop.buttonBg" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Varsayılan düğme arka plan rengi]]></phrase>
+  <phrase title="style_prop.buttonCta" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Düğme - eyleme çağrı]]></phrase>
+  <phrase title="style_prop.buttonCtaBg" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Eyleme çağrı düğmesi arka planı]]></phrase>
+  <phrase title="style_prop.buttonDefault" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Düğme - varsayılan]]></phrase>
+  <phrase title="style_prop.buttonDisabled" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Düğme - devre dışı]]></phrase>
+  <phrase title="style_prop.buttonPrimary" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Düğme - birincil]]></phrase>
+  <phrase title="style_prop.buttonPrimaryBg" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Birincil düğme arka plan rengi]]></phrase>
+  <phrase title="style_prop.buttonTextColor" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Varsayılan düğme metin rengi]]></phrase>
+  <phrase title="style_prop.chip" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Çipler]]></phrase>
+  <phrase title="style_prop.chipHover" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Çipler - üzerine gelindi]]></phrase>
+  <phrase title="style_prop.chromeBg" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Sayfa kromu arka plan rengi]]></phrase>
+  <phrase title="style_prop.chromeTextColor" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Sayfa kromu metin rengi]]></phrase>
+  <phrase title="style_prop.contentAccentBase" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vurgulanmış içerik alanı tabanı]]></phrase>
+  <phrase title="style_prop.contentAccentBg" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vurgulanmış içerik arka plan rengi]]></phrase>
+  <phrase title="style_prop.contentAccentLink" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vurgulanmış içerik alanı bağlantıları]]></phrase>
+  <phrase title="style_prop.contentAltBase" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alternatif içerik alanı tabanı]]></phrase>
+  <phrase title="style_prop.contentAltBg" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alternatif içerik arka plan rengi]]></phrase>
+  <phrase title="style_prop.contentBase" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İçerik alanı tabanı]]></phrase>
+  <phrase title="style_prop.contentBg" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İçerik arka plan rengi]]></phrase>
+  <phrase title="style_prop.contentHighlightBase" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vurgulanmış içerik alanı tabanı]]></phrase>
+  <phrase title="style_prop.contentHighlightBg" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vurgulanmış içerik arka plan rengi]]></phrase>
+  <phrase title="style_prop.dataListFooter" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Veri listesi alt bilgisi]]></phrase>
+  <phrase title="style_prop.dataListHeader" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Veri listesi başlığı]]></phrase>
+  <phrase title="style_prop.dataListPaddingH" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Veri listesi yatay iç kenar boşluğu]]></phrase>
+  <phrase title="style_prop.dataListPaddingV" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Veri listesi dikey iç kenar boşluğu]]></phrase>
+  <phrase title="style_prop.dataListSection" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Veri listesi bölüm başlığı]]></phrase>
+  <phrase title="style_prop.editorBg" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editör arka planı]]></phrase>
+  <phrase title="style_prop.editorButtonActiveColor" version_id="2030370" version_string="2.3.3"><![CDATA[Editör düğme simgesi etkin rengi]]></phrase>
+  <phrase title="style_prop.editorButtonColor" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editör düğme simgesi rengi]]></phrase>
+  <phrase title="style_prop.editorButtonDisabledColor" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editör düğme simgesi devre dışı rengi]]></phrase>
+  <phrase title="style_prop.editorButtonHoverBg" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editör düğme üzerine gelme arka planı]]></phrase>
+  <phrase title="style_prop.editorButtonHoverColor" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editör düğme simgesi üzerine gelme rengi]]></phrase>
+  <phrase title="style_prop.editorButtonSelectedBg" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editör düğmesi seçili arka planı]]></phrase>
+  <phrase title="style_prop.editorButtonSize" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editör düğme boyutu]]></phrase>
+  <phrase title="style_prop.editorColor" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editör metin rengi]]></phrase>
+  <phrase title="style_prop.editorFocusBg" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editör odaklandığında arka plan]]></phrase>
+  <phrase title="style_prop.editorFocusColor" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editör odaklandığında metin]]></phrase>
+  <phrase title="style_prop.editorImageHandles" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editör görüntü kenarlığı ve tutamaçları]]></phrase>
+  <phrase title="style_prop.editorSelectionBg" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editör seçim arka planı]]></phrase>
+  <phrase title="style_prop.editorSelectionColor" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editör seçim metin rengi]]></phrase>
+  <phrase title="style_prop.editorToolsBg" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editör araç çubuğu arka planı]]></phrase>
+  <phrase title="style_prop.editorToolsFocusBg" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editör araç çubuğu odaklandığında arka plan]]></phrase>
+  <phrase title="style_prop.editorToolsOverflowBg" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editör araç çubuğu taşma arka planı]]></phrase>
+  <phrase title="style_prop.elementSpacer" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Eleman aralayıcı]]></phrase>
+  <phrase title="style_prop.emailBg" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[E-posta arka plan rengi]]></phrase>
+  <phrase title="style_prop.emailBorderColor" version_id="2001270" version_string="2.0.12"><![CDATA[E-posta kenarlık rengi]]></phrase>
+  <phrase title="style_prop.emailContentAltBg" version_id="2001270" version_string="2.0.12"><![CDATA[E-posta alternatif içerik arka plan rengi]]></phrase>
+  <phrase title="style_prop.emailContentBg" version_id="2001270" version_string="2.0.12"><![CDATA[E-posta içerik arka plan rengi]]></phrase>
+  <phrase title="style_prop.emailFont" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[E-posta yazı tipi]]></phrase>
+  <phrase title="style_prop.emailHeaderColor" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[E-posta başlık metin rengi]]></phrase>
+  <phrase title="style_prop.emailLinkColor" version_id="2001270" version_string="2.0.12"><![CDATA[E-posta bağlantı rengi]]></phrase>
+  <phrase title="style_prop.emailPublicLogoUrl" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[E-posta logo URL'si]]></phrase>
+  <phrase title="style_prop.emailTextColor" version_id="2001270" version_string="2.0.12"><![CDATA[E-posta metin rengi]]></phrase>
+  <phrase title="style_prop.emailTextColorMuted" version_id="2001270" version_string="2.0.12"><![CDATA[E-posta sessiz metin rengi]]></phrase>
+  <phrase title="style_prop.errorBg" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Hata mesajı arka planı]]></phrase>
+  <phrase title="style_prop.errorColor" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Hata mesajı metin rengi]]></phrase>
+  <phrase title="style_prop.errorFeatureColor" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Hata mesajı özellik rengi]]></phrase>
+  <phrase title="style_prop.findThreadsNavStyle" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konu bulma gezinme stili]]></phrase>
+  <phrase title="style_prop.fixedMessage" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Sabit sistem mesaj çubuğu]]></phrase>
+  <phrase title="style_prop.flashMessage" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Flaş mesaj çubuğu]]></phrase>
+  <phrase title="style_prop.fontAwesomeWeight" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Font Awesome ağırlığı]]></phrase>
+  <phrase title="style_prop.fontFamilyBody" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gövde Metni Yazı Tipi]]></phrase>
+  <phrase title="style_prop.fontFamilyCode" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kod Yazı Tipi]]></phrase>
+  <phrase title="style_prop.fontFamilyUi" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı Arayüzü Yazı Tipi]]></phrase>
+  <phrase title="style_prop.fontSizeLarge" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Büyük yazı tipi boyutu]]></phrase>
+  <phrase title="style_prop.fontSizeLarger" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Daha büyük yazı tipi boyutu]]></phrase>
+  <phrase title="style_prop.fontSizeLargest" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En büyük yazı tipi boyutu]]></phrase>
+  <phrase title="style_prop.fontSizeNormal" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Normal yazı tipi boyutu]]></phrase>
+  <phrase title="style_prop.fontSizeSmall" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Küçük yazı tipi boyutu]]></phrase>
+  <phrase title="style_prop.fontSizeSmaller" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Daha küçük yazı tipi boyutu]]></phrase>
+  <phrase title="style_prop.fontSizeSmallest" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En küçük yazı tipi boyutu]]></phrase>
+  <phrase title="style_prop.fontWeightHeavy" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kalın yazı tipi ağırlığı]]></phrase>
+  <phrase title="style_prop.fontWeightLight" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hafif yazı tipi ağırlığı]]></phrase>
+  <phrase title="style_prop.fontWeightNormal" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Normal yazı tipi ağırlığı]]></phrase>
+  <phrase title="style_prop.formExplain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Form öğesi açıklama metni]]></phrase>
+  <phrase title="style_prop.formHint" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Form öğesi ipucu metni]]></phrase>
+  <phrase title="style_prop.formLabel" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Form etiket sütunu]]></phrase>
+  <phrase title="style_prop.formLabelWidth" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Form etiket sütun genişliği]]></phrase>
+  <phrase title="style_prop.formResponsive" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Form satırı duyarlı kesme noktası]]></phrase>
+  <phrase title="style_prop.formRowPaddingHInner" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Form satırı yatay iç kenar boşluğu (iç)]]></phrase>
+  <phrase title="style_prop.formRowPaddingHOuter" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Form satırı yatay iç kenar boşluğu (dış)]]></phrase>
+  <phrase title="style_prop.formRowPaddingV" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Form satırı dikey iç kenar boşluğu]]></phrase>
+  <phrase title="style_prop.formSectionHeader" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Form bölümü başlığı]]></phrase>
+  <phrase title="style_prop.formSubmitRow" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Form gönderme satırı]]></phrase>

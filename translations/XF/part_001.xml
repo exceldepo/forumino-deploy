@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="10_character_id_that_is_associated_with_your_apple_developer_membership" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Apple Developer üyeliğinizle ilişkili 10 karakterlik ID.]]></phrase>
+  <phrase title="1_day_ago" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Bir gün önce]]></phrase>
+  <phrase title="1_month_ago" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Bir ay önce]]></phrase>
+  <phrase title="1_time" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 kez]]></phrase>
+  <phrase title="1_week_ago" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Bir hafta önce]]></phrase>
+  <phrase title="1_year" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 yıl]]></phrase>
+  <phrase title="1_year_ago" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Bir yıl önce]]></phrase>
+  <phrase title="2_weeks_ago" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[İki hafta önce]]></phrase>
+  <phrase title="2_years_ago" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[İki yıl önce]]></phrase>
+  <phrase title="2x_image_replacement_url" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[2x görsel yedek URL'si]]></phrase>
+  <phrase title="2x_image_replacement_url_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sağlandığında, daha yüksek piksel çözünürlüğü gösterebilen cihazlarda yukarıdaki görsel URL'si yerine 2x görsel otomatik olarak gösterilir.<br />
+<br />
+<strong>Not: Sprite modu etkinleştirilmişse bu seçeneğin etkisi yoktur.</strong>]]></phrase>
+  <phrase title="3_months_ago" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Üç ay önce]]></phrase>
+  <phrase title="6_months_ago" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Altı ay önce]]></phrase>
+  <phrase title="9_months_ago" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Dokuz ay önce]]></phrase>
+  <phrase title="a_moment_ago" version_id="0" global_cache="1"><![CDATA[Az önce]]></phrase>
+  <phrase title="a_z_0_9_and_only" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Yalnızca A-Z, 0-9 ve _]]></phrase>
+  <phrase title="a_z_0_9_and_underscore_only" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Yalnızca A-Z, a-z, 0-9 ve _]]></phrase>
+  <phrase title="about" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Hakkında]]></phrase>
+  <phrase title="about_you" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hakkınızda]]></phrase>
+  <phrase title="accent" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vurgu]]></phrase>
+  <phrase title="accept" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Kabul et]]></phrase>
+  <phrase title="accept_all_cookies" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Tüm çerezleri kabul et]]></phrase>
+  <phrase title="accept_future_messages" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Gelecekteki mesajları kabul et]]></phrase>
+  <phrase title="accept_third_party_cookies" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Üçüncü taraf çerezleri kabul et]]></phrase>
+  <phrase title="accepted_privacy_policy" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Gizlilik politikası kabul edildi]]></phrase>
+  <phrase title="accepted_terms_rules" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Şartlar ve kurallar kabul edildi]]></phrase>
+  <phrase title="account_associated" version_id="2001270" version_string="2.0.12"><![CDATA[Hesap ilişkilendirildi]]></phrase>
+  <phrase title="account_details" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hesap detayları]]></phrase>
+  <phrase title="account_upgrade" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hesap yükseltme]]></phrase>
+  <phrase title="account_upgrade_payment_change" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Ödemenizi değiştirme isteğiniz alındı ve kısa süre içinde işleme alınacak. Tamamlandığında bir e-posta alacaksınız.]]></phrase>
+  <phrase title="account_upgrades" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hesap yükseltmeleri]]></phrase>
+  <phrase title="account_upgrades_cannot_be_purchased_account_unconfirmed" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Hesabınız onaylanmamışken hesap yükseltmeleri satın alınamaz.]]></phrase>
+  <phrase title="action" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Eylem]]></phrase>
+  <phrase title="action_available_via_post_only" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Bu eylem yalnızca POST ile kullanılabilir. Lütfen geri tuşuna basın ve tekrar deneyin.]]></phrase>
+  <phrase title="action_completed_successfully" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Eylem başarıyla tamamlandı]]></phrase>
+  <phrase title="action_not_completed_because_no_longer_logged_in" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Artık giriş yapmadığınız için bu eylem tamamlanamadı. Lütfen sayfayı yeniden yükleyin.]]></phrase>
+  <phrase title="action_pending" version_id="2001070" version_string="2.0.10"><![CDATA[Eylem beklemede]]></phrase>
+  <phrase title="action_prefix" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Eylem öneki]]></phrase>
+  <phrase title="action_to_take" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yapılacak eylem]]></phrase>
+  <phrase title="actions" version_id="1020010" version_string="1.2.0 Alpha" global_cache="1"><![CDATA[Eylemler]]></phrase>
+  <phrase title="active_providers" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Etkin sağlayıcılar]]></phrase>
+  <phrase title="active_reports" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Etkin raporlar]]></phrase>
+  <phrase title="active_user_changed_reload_page" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Etkin kullanıcı değişti. En son sürüm için sayfayı yeniden yükleyin.]]></phrase>
+  <phrase title="active_user_upgrades" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Etkin kullanıcı yükseltmeleri]]></phrase>
+  <phrase title="activity_based_trigger" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Etkinlik tabanlı tetikleyici]]></phrase>
+  <phrase title="activity_log_metric.reaction_count" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Tepki sayısı]]></phrase>
+  <phrase title="activity_log_metric.reaction_score" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Tepki puanı]]></phrase>
+  <phrase title="activity_log_metric.reply_count" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Cevap sayısı]]></phrase>
+  <phrase title="activity_log_metric.view_count" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Görüntüleme sayısı]]></phrase>
+  <phrase title="activity_log_metric.vote_count" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Oy sayısı]]></phrase>
+  <phrase title="activity_log_metric.vote_score" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Oy puanı]]></phrase>
+  <phrase title="activity_summary" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Etkinlik özeti]]></phrase>
+  <phrase title="activity_summary_def.latest_posts" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[En son mesajlar]]></phrase>
+  <phrase title="activity_summary_def.latest_threads" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[En son konular]]></phrase>
+  <phrase title="activity_summary_def_desc.latest_posts" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Etkinlik özeti e-postasında en son mesajları gösteren bir bölüm oluşturur.]]></phrase>
+  <phrase title="activity_summary_def_desc.latest_threads" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Etkinlik özeti e-postasında en son konuları gösteren bir bölüm oluşturur. Konular çeşitli kriterlere göre filtrelenebilir.]]></phrase>
+  <phrase title="activity_summary_definition" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Etkinlik özeti tanımı]]></phrase>
+  <phrase title="activity_summary_definitions" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Etkinlik özeti tanımları]]></phrase>
+  <phrase title="activity_summary_email" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Etkinlik özeti e-postası]]></phrase>
+  <phrase title="activity_summary_email_disabled" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Etkinlik özeti e-postası devre dışı]]></phrase>
+  <phrase title="activity_summary_email_enabled" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Etkinlik özeti e-postası etkinleştirildi]]></phrase>
+  <phrase title="activity_summary_email_unsubscribe" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bu e-postaları artık almak istemiyorsanız, <a href="{disable_this_link}">etkinlik özeti e-postalarını devre dışı bırakabilir</a> veya <a href="{disable_all_link}">tüm e-postaları devre dışı bırakabilirsiniz</a>.]]></phrase>
+  <phrase title="ad_pos.container_breadcrumb_bottom_above" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konteyner içerik haritası (alt): Üstünde]]></phrase>
+  <phrase title="ad_pos.container_breadcrumb_bottom_below" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konteyner içerik haritası (alt): Altında]]></phrase>
+  <phrase title="ad_pos.container_breadcrumb_top_above" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konteyner içerik haritası (üst): Üstünde]]></phrase>
+  <phrase title="ad_pos.container_breadcrumb_top_below" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konteyner içerik haritası (üst): Altında]]></phrase>
+  <phrase title="ad_pos.container_content_above" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konteyner içeriği: Üstünde]]></phrase>
+  <phrase title="ad_pos.container_content_below" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konteyner içeriği: Altında]]></phrase>
+  <phrase title="ad_pos.container_header" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konteyner başlığı]]></phrase>
+  <phrase title="ad_pos.container_sidebar_above" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konteyner kenar çubuğu: Üstünde]]></phrase>
+  <phrase title="ad_pos.container_sidebar_below" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konteyner kenar çubuğu: Altında]]></phrase>
+  <phrase title="ad_pos.container_sidenav_above" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konteyner yan menüsü: Üstünde]]></phrase>
+  <phrase title="ad_pos.container_sidenav_below" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konteyner yan menüsü: Altında]]></phrase>
+  <phrase title="ad_pos.forum_overview_bottom" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum genel bakış: Alt]]></phrase>
+  <phrase title="ad_pos.forum_overview_top" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum genel bakış: Üst]]></phrase>
+  <phrase title="ad_pos.forum_view_above_node_list" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum görünümü: Düğüm listesinin üstünde]]></phrase>
+  <phrase title="ad_pos.forum_view_above_thread_list" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum görünümü: Konu listesinin üstünde]]></phrase>
+  <phrase title="ad_pos.forum_view_below_node_list" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum görünümü: Düğüm listesinin altında]]></phrase>
+  <phrase title="ad_pos.forum_view_below_stickies" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum görünümü: Sabitlenenlerin altında]]></phrase>
+  <phrase title="ad_pos.forum_view_below_thread_list" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum görünümü: Konu listesinin altında]]></phrase>
+  <phrase title="ad_pos.member_view_below_tabs" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Üye görünümü: Sekmelerin altında]]></phrase>
+  <phrase title="ad_pos.post_above_content" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesaj: Mesaj içeriğinin üstünde]]></phrase>
+  <phrase title="ad_pos.post_below_container" version_id="2000370" version_string="2.0.3"><![CDATA[Mesaj: Mesaj konteynerinin altında]]></phrase>
+  <phrase title="ad_pos.post_below_content" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesaj: Mesaj içeriğinin altında]]></phrase>
+  <phrase title="ad_pos.thread_view_above_messages" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konu görünümü: Mesaj listesinin üstünde]]></phrase>
+  <phrase title="ad_pos.thread_view_below_messages" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konu görünümü: Mesaj listesinin altında]]></phrase>
+  <phrase title="ad_pos_desc.container_breadcrumb_bottom_above" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sayfa konteyneri içinde, her sayfada alt içerik haritasının hemen üstünde.]]></phrase>
+  <phrase title="ad_pos_desc.container_breadcrumb_bottom_below" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sayfa konteyneri içinde, her sayfada alt içerik haritasının hemen altında.]]></phrase>
+  <phrase title="ad_pos_desc.container_breadcrumb_top_above" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sayfa konteyneri içinde, her sayfada üst içerik haritasının hemen üstünde.]]></phrase>
+  <phrase title="ad_pos_desc.container_breadcrumb_top_below" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sayfa konteyneri içinde, her sayfada üst içerik haritasının hemen altında.]]></phrase>
+  <phrase title="ad_pos_desc.container_content_above" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sayfa konteyneri içinde, her sayfada içeriğin hemen üstünde konum.]]></phrase>
+  <phrase title="ad_pos_desc.container_content_below" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sayfa konteyneri içinde, her sayfada içeriğin hemen altında konum.]]></phrase>
+  <phrase title="ad_pos_desc.container_header" version_id="2000070" version_string="2.0.0"><![CDATA[Logo bloğunun karşısında, başlıkta konumlanır.]]></phrase>
+  <phrase title="ad_pos_desc.container_sidebar_above" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Eğer içerik gösteriliyorsa, her sayfada (sağ) kenar çubuğunun üstünde görünür.]]></phrase>
+  <phrase title="ad_pos_desc.container_sidebar_below" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Eğer içerik gösteriliyorsa, her sayfada (sağ) kenar çubuğunun altında görünür.]]></phrase>
+  <phrase title="ad_pos_desc.container_sidenav_above" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Eğer içerik gösteriliyorsa, her sayfada yan menünün (sol kenar çubuğu) üstünde görünür. Bu sütunun küçük pencerelerde gizlenebileceğini unutmayın.]]></phrase>
+  <phrase title="ad_pos_desc.container_sidenav_below" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Eğer içerik gösteriliyorsa, her sayfada yan menünün (sol kenar çubuğu) altında görünür. Bu sütunun küçük pencerelerde gizlenebileceğini unutmayın.]]></phrase>
+  <phrase title="ad_pos_desc.forum_overview_bottom" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum genel bakış sayfalarının altında görünen bir konum.]]></phrase>
+  <phrase title="ad_pos_desc.forum_overview_top" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum genel bakış sayfalarının üstünde görünen bir konum.]]></phrase>
+  <phrase title="ad_pos_desc.forum_view_above_node_list" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bir foruma bakarken düğüm listesinin hemen üstünde görünen bir konum. Bu yalnızca alt düğümler varsa görünür.]]></phrase>
+  <phrase title="ad_pos_desc.forum_view_above_thread_list" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bir foruma bakarken konu listesinin üstünde mevcuttur.]]></phrase>
+  <phrase title="ad_pos_desc.forum_view_below_node_list" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bir foruma bakarken düğüm listesinin hemen altında görünen bir konum. Bu yalnızca alt düğümler varsa görünür.]]></phrase>
+  <phrase title="ad_pos_desc.forum_view_below_stickies" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bir foruma bakarken sabitlenmiş konuların listesinin altında görünen konum. Bu yalnızca sabitlenmiş konular varsa görünür.]]></phrase>
+  <phrase title="ad_pos_desc.forum_view_below_thread_list" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bir foruma bakarken konu listesinin altında mevcuttur.]]></phrase>
+  <phrase title="ad_pos_desc.member_view_below_tabs" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Her üyenin profilinde, sekmelerin (ve sekme bölmelerinin üstünde) hemen altında.]]></phrase>
+  <phrase title="ad_pos_desc.post_above_content" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu konum, her mesajda mesaj içeriğinin üstündedir.]]></phrase>
+  <phrase title="ad_pos_desc.post_below_container" version_id="2000370" version_string="2.0.3"><![CDATA[Bu konum, her mesajdaki mesaj konteynerinin altındadır.]]></phrase>
+  <phrase title="ad_pos_desc.post_below_content" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu konum, her mesajda mesaj içeriğinin altındadır.]]></phrase>
+  <phrase title="ad_pos_desc.thread_view_above_messages" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bir konuya bakarken mesajların listesi üstündeki reklam konumu.]]></phrase>
+  <phrase title="ad_pos_desc.thread_view_below_messages" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bir konuya bakarken mesajların listesi altındaki reklam konumu.]]></phrase>
+  <phrase title="add" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ekle]]></phrase>
+  <phrase title="add_activity_summary" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Etkinlik özeti ekle]]></phrase>
+  <phrase title="add_activity_summary_definition" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Etkinlik özeti tanımı ekle]]></phrase>
+  <phrase title="add_activity_summary_section" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Etkinlik özeti bölümü ekle]]></phrase>
+  <phrase title="add_admin_permission" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yönetici izni ekle]]></phrase>
+  <phrase title="add_administrator" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yönetici ekle]]></phrase>
+  <phrase title="add_advertisement" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reklam ekle]]></phrase>
+  <phrase title="add_advertising_position" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reklam konumu ekle]]></phrase>
+  <phrase title="add_api_key" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[API anahtarı ekle]]></phrase>
+  <phrase title="add_api_scope" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[API kapsamı ekle]]></phrase>
+  <phrase title="add_bb_code" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[BB kodu ekle]]></phrase>
+  <phrase title="add_bb_code_media_site" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[BB kodu medya sitesi ekle]]></phrase>
+  <phrase title="add_bookmark" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Yer imi ekle]]></phrase>
+  <phrase title="add_category" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kategori ekle]]></phrase>
+  <phrase title="add_class_extension" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sınıf uzantısı ekle]]></phrase>
+  <phrase title="add_code_event" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kod olayı ekle]]></phrase>
+  <phrase title="add_code_event_listener" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kod olay dinleyicisi ekle]]></phrase>
+  <phrase title="add_content_type_field" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İçerik türü alanı ekle]]></phrase>
+  <phrase title="add_cron_entry" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cron girdisi ekle]]></phrase>
+  <phrase title="add_discouraged_ip" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Caydırılan IP ekle]]></phrase>
+  <phrase title="add_dropdown" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Açılır menü ekle]]></phrase>
+  <phrase title="add_email_ban" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[E-posta yasağı ekle]]></phrase>
+  <phrase title="add_extension" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uzantı ekle]]></phrase>
+  <phrase title="add_feed" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Akış ekle]]></phrase>
+  <phrase title="add_field" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alan ekle]]></phrase>
+  <phrase title="add_forum" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum ekle]]></phrase>
+  <phrase title="add_help_page" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yardım sayfası ekle]]></phrase>
+  <phrase title="add_interface_group" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Arayüz grubu ekle]]></phrase>
+  <phrase title="add_ip_ban" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[IP yasağı ekle]]></phrase>
+  <phrase title="add_language" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dil ekle]]></phrase>
+  <phrase title="add_link_forum" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bağlantı forumu ekle]]></phrase>
+  <phrase title="add_member_stat" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Üye istatistiği ekle]]></phrase>
+  <phrase title="add_moderator" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Moderatör ekle]]></phrase>
+  <phrase title="add_moderator_to_user_groups" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı gruplarına moderatör ekle]]></phrase>
+  <phrase title="add_navigation" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gezinme ekle]]></phrase>
+  <phrase title="add_node" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Düğüm ekle]]></phrase>
+  <phrase title="add_notice" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bildiri ekle]]></phrase>
+  <phrase title="add_oauth2_client" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[OAuth2 istemcisi ekle]]></phrase>
+  <phrase title="add_on" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Eklenti]]></phrase>
+  <phrase title="add_on_archives" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Eklenti arşivleri]]></phrase>
+  <phrase title="add_on_batch_result" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Eklenti toplu işlem sonucu]]></phrase>
+  <phrase title="add_on_directory_x_is_not_writable" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Eklenti dizini ({dir}) yazılabilir değil.]]></phrase>
+  <phrase title="add_on_files_do_not_appear_to_be_from_correct_version" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Eklenti dosyaları doğru sürümden gelmiyor gibi görünüyor. Lütfen doğru dosyaları yeniden yükleyin.]]></phrase>
+  <phrase title="add_on_ids_must_be_unique" version_id="0"><![CDATA[Eklenti ID'leri benzersiz olmalıdır. Belirtilen ID zaten kullanımda.]]></phrase>
+  <phrase title="add_ons" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Eklentiler]]></phrase>
+  <phrase title="add_option" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seçenek ekle]]></phrase>
+  <phrase title="add_option_group" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seçenek grubu ekle]]></phrase>
+  <phrase title="add_page" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sayfa ekle]]></phrase>
+  <phrase title="add_passkey" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Geçiş anahtarı ekle]]></phrase>
+  <phrase title="add_payment_profile" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ödeme profili ekle]]></phrase>
+  <phrase title="add_permission" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İzin ekle]]></phrase>
+  <phrase title="add_phrase" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İfade ekle]]></phrase>
+  <phrase title="add_prefix" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ön ek ekle]]></phrase>
+  <phrase title="add_prefix_group" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ön ek grubu ekle]]></phrase>
+  <phrase title="add_promotion" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Terfi ekle]]></phrase>
+  <phrase title="add_prompt" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İstem ekle]]></phrase>
+  <phrase title="add_prompt_group" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İstem grubu ekle]]></phrase>
+  <phrase title="add_property" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Özellik ekle]]></phrase>
+  <phrase title="add_property_group" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Özellik grubu ekle]]></phrase>
+  <phrase title="add_question" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Soru ekle]]></phrase>
+  <phrase title="add_reaction" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Tepki ekle]]></phrase>
+  <phrase title="add_route" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yol ekle]]></phrase>
+  <phrase title="add_route_filter" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yol filtresi ekle]]></phrase>
+  <phrase title="add_search_forum" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Arama forumu ekle]]></phrase>
+  <phrase title="add_secondary_user_group" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İkincil kullanıcı grubu ekle]]></phrase>
+  <phrase title="add_section" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bölüm ekle]]></phrase>
+  <phrase title="add_smilie" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İfade ekle]]></phrase>
+  <phrase title="add_smilie_category" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İfade kategorisi ekle]]></phrase>
+  <phrase title="add_style" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stil ekle]]></phrase>
+  <phrase title="add_tag" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Etiket ekle]]></phrase>
+  <phrase title="add_template" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Şablon ekle]]></phrase>
+  <phrase title="add_template_modification" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Şablon değişikliği ekle]]></phrase>
+  <phrase title="add_to_selected_groups" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Seçili gruplara ekle]]></phrase>
+  <phrase title="add_trophy" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kupa ekle]]></phrase>
+  <phrase title="add_user" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı ekle]]></phrase>
+  <phrase title="add_user_group" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı grubu ekle]]></phrase>
+  <phrase title="add_user_to_user_groups" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı gruplarına kullanıcı ekle]]></phrase>
+  <phrase title="add_user_upgrade" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı yükseltmesi ekle]]></phrase>
+  <phrase title="add_warning" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uyarı ekle]]></phrase>
+  <phrase title="add_warning_action" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uyarı eylemi ekle]]></phrase>
+  <phrase title="add_webhook" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Webhook ekle]]></phrase>
+  <phrase title="add_widget" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widget ekle]]></phrase>
+  <phrase title="add_widget_definition" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widget tanımı ekle]]></phrase>
+  <phrase title="add_widget_position" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widget konumu ekle]]></phrase>
+  <phrase title="add_x_content_type_field" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{type} içerik türü alanı ekle]]></phrase>
+  <phrase title="additional_contact" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ek iletişim]]></phrase>
+  <phrase title="additional_user_groups" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ek kullanıcı grupları]]></phrase>
+  <phrase title="additional_user_groups_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yükseltme etkin olduğunda kullanıcıyı seçili gruplara koyar.]]></phrase>
+  <phrase title="addon_action_pending_warning" version_id="2001070" version_string="2.0.10"><![CDATA[Bir veya daha fazla eklentinin şu anda bekleyen eylemleri var ve tutarsız bir durumda olabilirler. Bu nedenle, bazı hatalar gizlenebilir ve beklenmeyen davranışlar oluşabilir. Bu durum kısa süre içinde değişmezse, lütfen rehberlik için eklenti yazarına başvurun.]]></phrase>
+  <phrase title="addon_force_overwrite" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Eklenti yeniden derlemeleri / yükseltmeleri için mevcut dosyaların üzerine yaz]]></phrase>
+  <phrase title="addon_force_overwrite_hint" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Varsayılan olarak yalnızca değişen dosyalar eklenti arşivinden kopyalanır. Tüm mevcut dosyaların üzerine yazmak için bu seçeneği işaretleyin.]]></phrase>
+  <phrase title="admin" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yönetici]]></phrase>
+  <phrase title="admin_add_passwordless_warning" version_id="2021170" version_string="2.2.11"><![CDATA[Bu kullanıcı şifresiz bir giriş yöntemi kullanıyor. Yönetim paneline erişebilmesi için kendisine bir şifre sıfırlama e-postası gönderilecek.]]></phrase>
+  <phrase title="admin_add_passwordless_warning_no_email" version_id="2021170" version_string="2.2.11"><![CDATA[Bu kullanıcı şifresiz bir giriş yöntemi kullanıyor ancak ilişkilendirilmiş bir e-posta adresi yok. Ya kendisi için bir şifre oluşturun ya da hesabına bir e-posta adresi ilişkilendirin.]]></phrase>
+  <phrase title="admin_control_panel" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yönetim kontrol paneli]]></phrase>
+  <phrase title="admin_log" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yönetici günlüğü]]></phrase>
+  <phrase title="admin_log_entry" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yönetici günlüğü girdisi]]></phrase>
+  <phrase title="admin_login" version_id="2010431" version_string="2.1.4 Beta 1"><![CDATA[Yönetici girişi]]></phrase>
+  <phrase title="admin_logs" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Yönetici günlükleri]]></phrase>
+  <phrase title="admin_navigation" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yönetici gezinmesi]]></phrase>
+  <phrase title="admin_navigation.activitySummary" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Etkinlik özeti]]></phrase>
+  <phrase title="admin_navigation.activitySummaryDefinitions" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Etkinlik özeti tanımları]]></phrase>
+  <phrase title="admin_navigation.addOns" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Eklentiler]]></phrase>
+  <phrase title="admin_navigation.adminLog" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yönetici günlüğü]]></phrase>
+  <phrase title="admin_navigation.adminNavigation" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yönetici gezinmesi]]></phrase>
+  <phrase title="admin_navigation.adminPermissions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yönetici izinleri]]></phrase>
+  <phrase title="admin_navigation.admins" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yöneticiler]]></phrase>
+  <phrase title="admin_navigation.advertising" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reklam]]></phrase>
+  <phrase title="admin_navigation.advertisingPositions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reklam konumları]]></phrase>
+  <phrase title="admin_navigation.alertUsers" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcıları uyar]]></phrase>
+  <phrase title="admin_navigation.analyzePermissions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İzinleri analiz et]]></phrase>
+  <phrase title="admin_navigation.apiKeys" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[API anahtarları]]></phrase>
+  <phrase title="admin_navigation.apiScopes" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[API kapsamları]]></phrase>
+  <phrase title="admin_navigation.appearance" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Görünüm]]></phrase>
+  <phrase title="admin_navigation.attachments" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ekler]]></phrase>
+  <phrase title="admin_navigation.bannedEmails" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yasaklı e-postalar]]></phrase>
+  <phrase title="admin_navigation.bannedIps" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yasaklı IP adresleri]]></phrase>
+  <phrase title="admin_navigation.bannedUsers" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yasaklı kullanıcılar]]></phrase>
+  <phrase title="admin_navigation.batchUpdateThreads" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konuları toplu güncelle]]></phrase>
+  <phrase title="admin_navigation.batchUpdateUsers" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcıları toplu güncelle]]></phrase>
+  <phrase title="admin_navigation.bbCode" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[BB kodu]]></phrase>
+  <phrase title="admin_navigation.bbCodeButtonManager" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[BB kodu düğme yöneticisi]]></phrase>
+  <phrase title="admin_navigation.bbCodeMediaSites" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[BB kodu medya siteleri]]></phrase>
+  <phrase title="admin_navigation.checksAndTests" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kontroller ve testler]]></phrase>
+  <phrase title="admin_navigation.classExtensions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sınıf uzantıları]]></phrase>
+  <phrase title="admin_navigation.codeEventListeners" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kod olay dinleyicileri]]></phrase>
+  <phrase title="admin_navigation.codeEvents" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kod olayları]]></phrase>
+  <phrase title="admin_navigation.communication" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İletişim]]></phrase>
+  <phrase title="admin_navigation.connectedAccountProviders" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bağlı hesaplar]]></phrase>
+  <phrase title="admin_navigation.contactUsers" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcılarla iletişim]]></phrase>
+  <phrase title="admin_navigation.content" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İçerik]]></phrase>
+  <phrase title="admin_navigation.contentTypes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İçerik türleri]]></phrase>
+  <phrase title="admin_navigation.cookieConsentLog" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Çerez izin günlüğü]]></phrase>
+  <phrase title="admin_navigation.createNewUser" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yeni kullanıcı oluştur]]></phrase>
+  <phrase title="admin_navigation.cronEntries" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cron girdileri]]></phrase>
+  <phrase title="admin_navigation.customBbCodes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Özel BB kodları]]></phrase>
+  <phrase title="admin_navigation.dataMaintenance" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Veri bakımı]]></phrase>
+  <phrase title="admin_navigation.dataPortability" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Veri taşınabilirliği]]></phrase>
+  <phrase title="admin_navigation.dataPortabilityExport" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Bir kullanıcı dışa aktar]]></phrase>
+  <phrase title="admin_navigation.dataPortabilityImport" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Bir kullanıcı içe aktar]]></phrase>
+  <phrase title="admin_navigation.devNavigation" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gezinme]]></phrase>
+  <phrase title="admin_navigation.devPermissions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İzinler]]></phrase>
+  <phrase title="admin_navigation.development" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Geliştirme]]></phrase>
+  <phrase title="admin_navigation.discouragedIps" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Caydırılan IP adresleri]]></phrase>
+  <phrase title="admin_navigation.emailBounceLog" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[E-posta dönüş günlüğü]]></phrase>
+  <phrase title="admin_navigation.emailUsers" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcılara e-posta gönder]]></phrase>
+  <phrase title="admin_navigation.executionManipulation" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yürütme manipülasyonu]]></phrase>
+  <phrase title="admin_navigation.fileCheck" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dosya sağlık kontrolü]]></phrase>
+  <phrase title="admin_navigation.forceAgreementPrivacy" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Gizlilik politikası onayını zorunlu kıl]]></phrase>
+  <phrase title="admin_navigation.forceAgreementTerms" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Şartlar ve kurallar onayını zorunlu kıl]]></phrase>
+  <phrase title="admin_navigation.forumNodePermissions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Düğüm izinleri]]></phrase>
+  <phrase title="admin_navigation.forums" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forumlar]]></phrase>
+  <phrase title="admin_navigation.groupsAndPermissions" version_id="2000170" version_string="2.0.1"><![CDATA[Gruplar &amp; izinler]]></phrase>
+  <phrase title="admin_navigation.help" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yardım]]></phrase>
+  <phrase title="admin_navigation.helpPages" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yardım sayfaları]]></phrase>
+  <phrase title="admin_navigation.imageProxyLog" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Görsel proxy günlüğü]]></phrase>
+  <phrase title="admin_navigation.importData" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Veri içe aktar]]></phrase>
+  <phrase title="admin_navigation.languages" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Diller]]></phrase>
+  <phrase title="admin_navigation.languagesAndPhrases" version_id="2000170" version_string="2.0.1"><![CDATA[Diller &amp; ifadeler]]></phrase>
+  <phrase title="admin_navigation.linkProxyLog" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bağlantı proxy günlüğü]]></phrase>
+  <phrase title="admin_navigation.listAddOns" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Eklentiler]]></phrase>
+  <phrase title="admin_navigation.listAllUsers" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tüm kullanıcıları listele]]></phrase>
+  <phrase title="admin_navigation.listReactions" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Tepkiler]]></phrase>
+  <phrase title="admin_navigation.logSearch" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Arama günlükleri]]></phrase>
+  <phrase title="admin_navigation.logs" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Günlükler]]></phrase>
+  <phrase title="admin_navigation.logsContent" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İçerik]]></phrase>
+  <phrase title="admin_navigation.logsError" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hatalar]]></phrase>
+  <phrase title="admin_navigation.logsMisc" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Çeşitli]]></phrase>
+  <phrase title="admin_navigation.logsSpam" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spam]]></phrase>
+  <phrase title="admin_navigation.logsUser" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcılar]]></phrase>
+  <phrase title="admin_navigation.memberStats" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Üye istatistikleri]]></phrase>
+  <phrase title="admin_navigation.messageUsers" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcılara mesaj gönder]]></phrase>
+  <phrase title="admin_navigation.moderatorLog" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Moderatör günlüğü]]></phrase>
+  <phrase title="admin_navigation.moderators" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Moderatörler]]></phrase>
+  <phrase title="admin_navigation.navigation" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Genel gezinme]]></phrase>
+  <phrase title="admin_navigation.nodePermissions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Düğüm izinleri]]></phrase>
+  <phrase title="admin_navigation.nodes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Düğümler]]></phrase>
+  <phrase title="admin_navigation.notices" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bildiriler]]></phrase>
+  <phrase title="admin_navigation.oAuthClients" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[OAuth2 istemcileri]]></phrase>
+  <phrase title="admin_navigation.oEmbedLog" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[oEmbed günlüğü]]></phrase>
+  <phrase title="admin_navigation.options" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seçenekler]]></phrase>
+  <phrase title="admin_navigation.outdatedPhrases" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Güncel olmayan ifadeler]]></phrase>
+  <phrase title="admin_navigation.outdatedTemplates" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Güncel olmayan şablonlar]]></phrase>
+  <phrase title="admin_navigation.paymentProfiles" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ödeme profilleri]]></phrase>
+  <phrase title="admin_navigation.paymentProviderLog" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ödeme sağlayıcı günlüğü]]></phrase>
+  <phrase title="admin_navigation.permissionDefinitions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İzin tanımları]]></phrase>
+  <phrase title="admin_navigation.permissions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İzinler]]></phrase>
+  <phrase title="admin_navigation.phrases" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İfadeler]]></phrase>
+  <phrase title="admin_navigation.pwa" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[PWA kurulumu]]></phrase>
+  <phrase title="admin_navigation.qAndACaptcha" version_id="2000170" version_string="2.0.1"><![CDATA[S&amp;C CAPTCHA]]></phrase>
+  <phrase title="admin_navigation.reactions" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Tepkiler]]></phrase>
+  <phrase title="admin_navigation.rebuildCaches" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Önbellekleri yeniden oluştur]]></phrase>
+  <phrase title="admin_navigation.rejectedUserLog" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reddedilen kullanıcı günlüğü]]></phrase>
+  <phrase title="admin_navigation.routeFilters" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yol filtreleri]]></phrase>
+  <phrase title="admin_navigation.routes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yollar]]></phrase>
+  <phrase title="admin_navigation.rssFeedImporter" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[RSS akışı içe aktarıcısı]]></phrase>
+  <phrase title="admin_navigation.searchForUsers" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı ara]]></phrase>
+  <phrase title="admin_navigation.searchPhrases" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İfadeleri ara]]></phrase>
+  <phrase title="admin_navigation.searchTemplates" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Şablonları ara]]></phrase>
+  <phrase title="admin_navigation.serverErrorLog" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sunucu hata günlüğü]]></phrase>
+  <phrase title="admin_navigation.serviceProviders" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Servis sağlayıcılar]]></phrase>
+  <phrase title="admin_navigation.setup" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kurulum]]></phrase>
+  <phrase title="admin_navigation.setupNavigation" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gezinme]]></phrase>
+  <phrase title="admin_navigation.sitemapLog" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Site haritası günlüğü]]></phrase>
+  <phrase title="admin_navigation.smilies" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İfadeler]]></phrase>
+  <phrase title="admin_navigation.spamCleanerLog" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spam temizleyici günlüğü]]></phrase>
+  <phrase title="admin_navigation.spamTriggerLog" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spam tetikleyici günlüğü]]></phrase>
+  <phrase title="admin_navigation.stats" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İstatistikler]]></phrase>
+  <phrase title="admin_navigation.styleProperties" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stil özellikleri]]></phrase>
+  <phrase title="admin_navigation.styles" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stiller]]></phrase>
+  <phrase title="admin_navigation.stylesAndTemplates" version_id="2000170" version_string="2.0.1"><![CDATA[Stiller &amp; şablonlar]]></phrase>
+  <phrase title="admin_navigation.tags" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Etiketler]]></phrase>
+  <phrase title="admin_navigation.templateModifications" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Şablon değişiklikleri]]></phrase>
+  <phrase title="admin_navigation.templates" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Şablonlar]]></phrase>
+  <phrase title="admin_navigation.testImageProxy" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Görsel proxy testi]]></phrase>
+  <phrase title="admin_navigation.testOutboundEmail" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[Giden e-posta testi]]></phrase>
+  <phrase title="admin_navigation.testUrlUnfurling" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[URL açma testi]]></phrase>
+  <phrase title="admin_navigation.threadContent" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konu içeriği]]></phrase>
+  <phrase title="admin_navigation.threadFields" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Özel konu alanları]]></phrase>
+  <phrase title="admin_navigation.threadPrefixes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konu ön ekleri]]></phrase>
+  <phrase title="admin_navigation.threadPrompts" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konu istemleri]]></phrase>
+  <phrase title="admin_navigation.threadProperties" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konu özellikleri]]></phrase>
+  <phrase title="admin_navigation.threadReplyBans" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konu cevap yasakları]]></phrase>
+  <phrase title="admin_navigation.tools" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Araçlar]]></phrase>
+  <phrase title="admin_navigation.trophies" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kupalar]]></phrase>
+  <phrase title="admin_navigation.twoStepProviders" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[İki adımlı doğrulama]]></phrase>
+  <phrase title="admin_navigation.upgradeCheck" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Yükseltmeleri kontrol et]]></phrase>
+  <phrase title="admin_navigation.userChangeLog" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı değişiklik günlüğü]]></phrase>
+  <phrase title="admin_navigation.userCustomization" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı özelleştirme]]></phrase>
+  <phrase title="admin_navigation.userDiscipline" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı disiplini]]></phrase>
+  <phrase title="admin_navigation.userFields" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Özel kullanıcı alanları]]></phrase>
+  <phrase title="admin_navigation.userGroupPermissions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı grubu izinleri]]></phrase>
+  <phrase title="admin_navigation.userGroupPromotions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı grubu terfileri]]></phrase>
+  <phrase title="admin_navigation.userGroups" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı grupları]]></phrase>
+  <phrase title="admin_navigation.userPermissions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı izinleri]]></phrase>
+  <phrase title="admin_navigation.userTitleLadder" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı başlığı merdiveni]]></phrase>
+  <phrase title="admin_navigation.userUpgrades" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı yükseltmeleri]]></phrase>
+  <phrase title="admin_navigation.userWarnings" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uyarılar]]></phrase>
+  <phrase title="admin_navigation.usernameChangeLog" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı adı değişiklik günlüğü]]></phrase>
+  <phrase title="admin_navigation.users" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcılar]]></phrase>
+  <phrase title="admin_navigation.usersStaff" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Personel]]></phrase>
+  <phrase title="admin_navigation.webhooks" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Webhook'lar]]></phrase>
+  <phrase title="admin_navigation.widgetDefinitions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widget tanımları]]></phrase>
+  <phrase title="admin_navigation.widgetPositions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widget konumları]]></phrase>
+  <phrase title="admin_navigation.widgets" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widget'lar]]></phrase>
+  <phrase title="admin_navigation_icon_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İsteğe bağlı Font Awesome ikon adı]]></phrase>
+  <phrase title="admin_navigation_id" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yönetici gezinme ID'si]]></phrase>
+  <phrase title="admin_navigation_ids_must_be_unique" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yönetici gezinme ID'leri benzersiz olmalıdır. Belirtilen ID zaten kullanımda.]]></phrase>
+  <phrase title="admin_permission.activitySummary" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Etkinlik özetini yönet]]></phrase>
+  <phrase title="admin_permission.addOn" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Eklentileri yönet]]></phrase>
+  <phrase title="admin_permission.advertising" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reklamı yönet]]></phrase>
+  <phrase title="admin_permission.attachment" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ek dosyaları yönet]]></phrase>
+  <phrase title="admin_permission.ban" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yasakları yönet]]></phrase>
+  <phrase title="admin_permission.bbCodeSmilie" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[BB kodlarını ve ifadeleri yönet]]></phrase>
+  <phrase title="admin_permission.checksAndTests" version_id="2030470" version_string="2.3.4"><![CDATA[Kontrol ve testleri gerçekleştir]]></phrase>
+  <phrase title="admin_permission.cron" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cron girdilerini yönet]]></phrase>
+  <phrase title="admin_permission.help" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yardımı yönet]]></phrase>
+  <phrase title="admin_permission.import" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Veri içe aktar]]></phrase>
+  <phrase title="admin_permission.language" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dilleri ve ifadeleri yönet]]></phrase>
+  <phrase title="admin_permission.navigation" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gezinmeyi yönet]]></phrase>
+  <phrase title="admin_permission.node" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Düğümleri yönet]]></phrase>
+  <phrase title="admin_permission.notice" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bildirileri yönet]]></phrase>
+  <phrase title="admin_permission.oauth2" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[OAuth2 istemcilerini yönet]]></phrase>
+  <phrase title="admin_permission.option" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seçenekleri yönet]]></phrase>
+  <phrase title="admin_permission.payment" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ödeme sağlayıcılarını yönet]]></phrase>
+  <phrase title="admin_permission.reaction" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Tepkileri yönet]]></phrase>
+  <phrase title="admin_permission.rebuildCache" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Önbellekleri yeniden oluştur]]></phrase>
+  <phrase title="admin_permission.serverInfo" version_id="2030470" version_string="2.3.4"><![CDATA[Sunucu bilgilerini görüntüle]]></phrase>
+  <phrase title="admin_permission.style" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stilleri, stil özelliklerini ve şablonları yönet]]></phrase>
+  <phrase title="admin_permission.tags" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Etiketleri yönet]]></phrase>
+  <phrase title="admin_permission.thread" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konuları ve mesajları yönet]]></phrase>
+  <phrase title="admin_permission.trophy" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kupaları yönet]]></phrase>
+  <phrase title="admin_permission.upgradeXenForo" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[XenForo'yu yükselt]]></phrase>
+  <phrase title="admin_permission.user" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcıları ve moderatörleri yönet]]></phrase>
+  <phrase title="admin_permission.userField" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Özel kullanıcı alanlarını yönet]]></phrase>
+  <phrase title="admin_permission.userGroup" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı gruplarını yönet]]></phrase>
+  <phrase title="admin_permission.userUpgrade" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı yükseltmelerini yönet]]></phrase>
+  <phrase title="admin_permission.viewLogs" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Günlükleri görüntüle]]></phrase>
+  <phrase title="admin_permission.viewOnlineStaff" version_id="2030470" version_string="2.3.4"><![CDATA[Çevrimiçi personeli görüntüle]]></phrase>
+  <phrase title="admin_permission.viewStatistics" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İstatistikleri görüntüle]]></phrase>
+  <phrase title="admin_permission.warning" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uyarıları yönet]]></phrase>
+  <phrase title="admin_permission.widget" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widget'ları yönet]]></phrase>
+  <phrase title="admin_permission_ids_must_be_unique" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yönetici izin ID'leri benzersiz olmalıdır. Belirtilen ID zaten kullanımda.]]></phrase>
+  <phrase title="admin_permissions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yönetici izinleri]]></phrase>
+  <phrase title="admin_templates" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yönetici şablonları]]></phrase>
+  <phrase title="admin_templates_may_only_be_created_in_master_style" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yönetici şablonları yalnızca ana stilde oluşturulabilir.]]></phrase>
+  <phrase title="administrator" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Yönetici]]></phrase>
+  <phrase title="administrator_type" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yönetici türü]]></phrase>
+  <phrase title="administrators" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Yöneticiler]]></phrase>
+  <phrase title="administrators_and_moderators_will_not_be_deleted" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yöneticiler ve moderatörler silinmeyecek.]]></phrase>
+  <phrase title="administrators_will_not_be_security_locked" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yöneticilerin güvenlik kilidi devreye sokulmayacak.]]></phrase>
+  <phrase title="advanced" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Gelişmiş]]></phrase>
+  <phrase title="advanced_mode" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gelişmiş mod]]></phrase>
+  <phrase title="advanced_options" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gelişmiş seçenekler]]></phrase>
+  <phrase title="advanced_search" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gelişmiş arama]]></phrase>
+  <phrase title="advertisement_is_active" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reklam etkin]]></phrase>
+  <phrase title="advertising" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reklam]]></phrase>
+  <phrase title="advertising_position_is_active" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reklam konumu etkin]]></phrase>
+  <phrase title="advertising_position_keys_must_be_unique" version_id="2011070" version_string="2.1.10"><![CDATA[Reklam konumu anahtarları benzersiz olmalıdır. Belirtilen anahtar zaten kullanımda.]]></phrase>
+  <phrase title="advertising_positions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reklam konumları]]></phrase>
+  <phrase title="after_checking_x_files_we_found_y_inconsistent" version_id="2000570" version_string="2.0.5"><![CDATA[{checked} dosyayı kontrol ettikten sonra beklenmeyen içerikler içeren {inconsistent} dosya bulduk. Bu dosyaları kendiniz düzenlediyseniz bu uyarıyı yok sayabilirsiniz, aksi takdirde bu, dosya bozulmasının veya potansiyel olarak kötü niyetli değişikliğin kanıtı olabileceğinden daha fazla araştırmanız gerekir.]]></phrase>
+  <phrase title="after_checking_x_files_we_found_y_missing" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{checked} dosyayı kontrol ettikten sonra eksik olan {missing} dosya bulduk.]]></phrase>
+  <phrase title="after_checking_x_files_we_found_y_missing_z_inconsistent" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{checked} dosyayı kontrol ettikten sonra eksik olan {missing} dosya ve beklenmeyen içerikler içeren {inconsistent} dosya bulduk.]]></phrase>
+  <phrase title="after_message" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesajdan sonra]]></phrase>
+  <phrase title="after_time" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Zamandan sonra]]></phrase>
+  <phrase title="age" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yaş]]></phrase>
+  <phrase title="akismet_matched" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Akismet eşleşti]]></phrase>
+  <phrase title="alert" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Uyarı]]></phrase>
+  <phrase title="alert_body" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uyarı gövdesi]]></phrase>
+  <phrase title="alert_marked_as_read" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Uyarı okundu olarak işaretlendi.]]></phrase>
+  <phrase title="alert_marked_as_unread" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Uyarı okunmadı olarak işaretlendi.]]></phrase>
+  <phrase title="alert_opt_out.conversation_message_reaction" version_id="2030037" version_string="2.3.0 Beta 7"><![CDATA[Doğrudan mesajdaki mesajınıza tepki verir]]></phrase>
+  <phrase title="alert_opt_out.post_forumwatch_insert" version_id="2010431" version_string="2.1.4 Beta 1"><![CDATA[İzlenen bir forumda yazar]]></phrase>
+  <phrase title="alert_opt_out.post_insert" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İzlenen bir konuya cevap verir]]></phrase>
+  <phrase title="alert_opt_out.post_mention" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bir mesajda sizden bahseder]]></phrase>
+  <phrase title="alert_opt_out.post_quote" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesajınızdan alıntı yapar]]></phrase>
+  <phrase title="alert_opt_out.post_reaction" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Mesajınıza tepki verir]]></phrase>
+  <phrase title="alert_opt_out.profile_post_comment_other_commenter" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bir profil mesajına da yorum yapar]]></phrase>
+  <phrase title="alert_opt_out.profile_post_comment_reaction" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Profil mesajı yorumunuza tepki verir]]></phrase>
+  <phrase title="alert_opt_out.profile_post_comment_your_post" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Diğer üyeler için yaptığınız profil mesajlarına yorum yapar]]></phrase>
+  <phrase title="alert_opt_out.profile_post_comment_your_profile" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profilinize veya durumunuza yorum yapar]]></phrase>
+  <phrase title="alert_opt_out.profile_post_insert" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profilinize yazar]]></phrase>
+  <phrase title="alert_opt_out.profile_post_mention" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profil mesajında veya yorumunda sizden bahseder]]></phrase>
+  <phrase title="alert_opt_out.profile_post_reaction" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Profil mesajınıza tepki verir]]></phrase>
+  <phrase title="alert_opt_out.trophy_award" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Size yeni bir kupa verir]]></phrase>
+  <phrase title="alert_opt_out.user_following" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sizi takip etmeye başlar]]></phrase>
+  <phrase title="alert_profile_post_insert" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{username}, <a {profilePageLinkAttributes}>profilinize</a> bir mesaj yazdı.]]></phrase>
+  <phrase title="alert_user_following" version_id="0"><![CDATA[{username} artık sizi takip ediyor.]]></phrase>
+  <phrase title="alert_users" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcıları uyar]]></phrase>
+  <phrase title="alert_users_description" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Aşağıda belirtilen kriterlere uyan kullanıcılara uyarı göndermek için bu formu kullanabilirsiniz.]]></phrase>
+  <phrase title="alerting" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Uyarı]]></phrase>
+  <phrase title="alerts" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Uyarılar]]></phrase>
+  <phrase title="align_center" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ortala]]></phrase>
+  <phrase title="align_left" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sola hizala]]></phrase>
+  <phrase title="align_right" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sağa hizala]]></phrase>
+  <phrase title="alignment" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Hizalama]]></phrase>
+  <phrase title="all" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Tümü]]></phrase>
+  <phrase title="all_add_ons_in_this_batch_installed_upgraded_successfully" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Bu toplu işlemdeki tüm eklentiler başarıyla yüklendi/yükseltildi.]]></phrase>
+  <phrase title="all_alerts_marked_as_read" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Tüm uyarılar okundu olarak işaretlendi.]]></phrase>
+  <phrase title="all_asset_files_directly_associated_with_style_will_be_deleted" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bu stille doğrudan ilişkili tüm varlık dosyaları da silinecek.]]></phrase>
+  <phrase title="all_automatically_mergeable_templates_have_been_processed" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Otomatik olarak birleştirilebilen tüm şablonlar işlendi. Kalan şablonların manuel olarak işlenmesi gerekecek.]]></phrase>
+  <phrase title="all_categories" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tüm kategoriler]]></phrase>
+  <phrase title="all_content_tagged_with_x_will_now_be_tagged_with_this_tag" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[{tag} ile etiketlenmiş tüm içerikler artık bu etiketle etiketlenecek.]]></phrase>
+  <phrase title="all_content_types" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tüm içerik türleri]]></phrase>
+  <phrase title="all_data_has_now_been_imported_last_step_is_to_finalize_import" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Tüm veriler artık içe aktarıldı. Son adım, içe aktarmayı sonlandırmaktır. Bu, içe aktarılan verilerin beklendiği gibi yapılandırılmasını sağlamak için gerekli tüm eylemleri tetikleyecek. Bu yapılana kadar, içe aktarılan veriler tüm durumlarda düzgün bir şekilde görüntülenemeyebilir.]]></phrase>
+  <phrase title="all_directories_under_x_must_be_writable" version_id="2001070" version_string="2.0.10"><![CDATA[{directory} altındaki tüm dizinlerin yazılabilir olması gerekir. Lütfen bu dizinler üzerindeki izinleri herkes tarafından yazılabilir olacak şekilde değiştirin (chmod 0777).]]></phrase>
+  <phrase title="all_files_known_to_be_associated_with_this_add_on_will_be_deleted" version_id="2020770" version_string="2.2.7"><![CDATA[Bu eklenti ile ilişkili olduğu bilinen tüm dosyalar silinecek (aksi belirtilmedikçe), ancak bazı dizinleri silmek mümkün olmayabilir.]]></phrase>
+  <phrase title="all_forums" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tüm forumlar]]></phrase>
+  <phrase title="all_forums_marked_as_read" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[Tüm forumlar okundu olarak işaretlendi.]]></phrase>
+  <phrase title="all_posts_from_other_threads_will_be_merged_into_this_thread" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Diğer konulardaki tüm mesajlar bu konuya birleştirilecek.]]></phrase>
+  <phrase title="all_scopes" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Tüm kapsamlar]]></phrase>
+  <phrase title="all_threads_in_destination_forum" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Seçilen tüm konular zaten hedef forumda. Lütfen başka bir forum seçin.]]></phrase>
+  <phrase title="all_time" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tüm zamanlar]]></phrase>
+  <phrase title="all_user_groups" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tüm kullanıcı grupları]]></phrase>
+  <phrase title="all_valid_users" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tüm geçerli kullanıcılar]]></phrase>
+  <phrase title="all_visitors" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tüm ziyaretçiler]]></phrase>
+  <phrase title="all_x_values_must_be_unique" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tüm {key} değerleri benzersiz olmalıdır.]]></phrase>
+  <phrase title="allow_answer_voting_in_question_threads" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Soru konularında yanıt oylamasına izin ver]]></phrase>
+  <phrase title="allow_answers_given_to_votable_questions_to_be_downvoted" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Oylanabilir sorulara verilen yanıtların aşağı oylanmasına izin ver]]></phrase>
+  <phrase title="allow_anyone_in_direct_message_to_invite_others" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Doğrudan mesajdaki herkesin başkalarını davet etmesine izin ver]]></phrase>
+  <phrase title="allow_banner_stacking" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Banner istiflemesine izin ver]]></phrase>
+  <phrase title="allow_cron_entry_to_run_automatically_when_scheduled" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Cron girdisinin zamanlandığında otomatik olarak çalışmasına izin ver]]></phrase>
+  <phrase title="allow_new_messages_to_be_posted_in_this_forum" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Bu forumda yeni mesajların gönderilmesine izin ver]]></phrase>
+  <phrase title="allow_question_actions" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Soru eylemlerine izin ver]]></phrase>
+  <phrase title="allow_results_to_be_viewed_without_voting" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oylama olmadan sonuçların görüntülenmesine izin ver]]></phrase>
+  <phrase title="allow_search_engine_indexing" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Arama motoru indekslemesine izin ver]]></phrase>
+  <phrase title="allow_suggestion_voting" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Öneri oylamasına izin ver]]></phrase>
+  <phrase title="allow_suggestions_to_be_downvoted" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Önerilerin aşağı oylanmasına izin ver]]></phrase>
+  <phrase title="allow_this_bb_code_in_signatures" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Bu BB koduna imzalarda izin ver]]></phrase>
+  <phrase title="allow_this_scope_to_be_used_with_oauth2_clients" version_id="2030037" version_string="2.3.0 Beta 7"><![CDATA[Bu kapsamın OAuth2 istemcileriyle kullanılmasına izin ver]]></phrase>
+  <phrase title="allow_user_selection" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Kullanıcı seçimine izin ver]]></phrase>
+  <phrase title="allow_users_to" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcılara izin ver]]></phrase>
+  <phrase title="allow_voters_to_change_their_votes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oy verenlerin oylarını değiştirmesine izin ver]]></phrase>
+  <phrase title="allow_x_to_invite_others_to_this_direct_message" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{user} kullanıcısının bu doğrudan mesaja başkalarını davet etmesine izin ver]]></phrase>
+  <phrase title="allowed_scopes" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[İzin verilen kapsamlar]]></phrase>
+  <phrase title="allowed_thread_types" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[İzin verilen konu türleri]]></phrase>
+  <phrase title="allows_search_engines_to_index_this_thread_based_on_settings_of" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Arama motorlarının ait olduğu forumun ayarlarına göre bu konuyu indekslemesine izin verir.]]></phrase>
+  <phrase title="already_have_account" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Zaten bir hesabınız var mı?]]></phrase>
+  <phrase title="alt" version_id="2001070" version_string="2.0.10"><![CDATA[Alt]]></phrase>
+  <phrase title="alt_text" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Alt metin]]></phrase>
+  <phrase title="alternative_upgrade_xenforo_x" version_id="2020670" version_string="2.2.6"><![CDATA[Alternatif yükseltme: XenForo {version}]]></phrase>
+  <phrase title="alternatively_use_ip_discouragement" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Alternatif olarak, IP tabanlı caydırma kullanabilirsiniz.]]></phrase>
+  <phrase title="alternatively_you_may_cancel_this_import_to_start_new_one" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Alternatif olarak, yeni bir tane başlatmak için bu içe aktarmayı iptal edebilirsiniz.]]></phrase>
+  <phrase title="always_allow_search_engines_to_index_this_thread" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Arama motorlarının bu konuyu indekslemesine her zaman izin ver]]></phrase>
+  <phrase title="always_visible" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Her zaman görünür]]></phrase>

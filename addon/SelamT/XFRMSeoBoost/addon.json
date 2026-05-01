@@ -1,0 +1,23 @@
+{
+    "legacy_addon_id": "",
+    "title": "XFRM SEO Boost",
+    "description": "Adds featured image, manual SEO meta overrides, extended JSON-LD (Product/SoftwareApplication, offers, aggregateRating), and og:image / twitter:image support to XenForo Resource Manager.",
+    "version_id": 1010070,
+    "version_string": "1.1.0",
+    "dev": "SelamT",
+    "dev_url": "https://xenforo.com/community/members/selamT.1/",
+    "faq_url": "",
+    "support_url": "https://xenforo.com/community/members/selamT.1/",
+    "extra_urls": [],
+    "require": {
+        "XF": [
+            2030600,
+            "XenForo 2.3.6+"
+        ],
+        "XFRM": [
+            2030500,
+            "XenForo Resource Manager 2.3.5+"
+        ]
+    },
+    "icon": "fa-rocket"
+}

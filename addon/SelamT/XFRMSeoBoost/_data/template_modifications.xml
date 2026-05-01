@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<template_modifications>
+  <modification type="admin" template="xfrm_category_edit" modification_key="selamt_xfrmseo_admin_category_default_og_type" description="Kategori admin formuna 'Default Open Graph type' alanı ekler" execution_order="0" enabled="1" action="str_replace">
+    <find><![CDATA[<xf:submitrow icon="save" sticky="true" />]]></find>
+    <replace><![CDATA[<hr class="formRowSep" />
+
+<xf:formrow rowtype="fullWidth" label="{{ phrase('selamt_xfrmseo_seo_settings') }}">&nbsp;</xf:formrow>
+
+<xf:selectrow name="selamt_xfrmseo_category[default_og_type]"
+	value="{{ $seoSettings ? $seoSettings.default_og_type : '' }}"
+	label="{{ phrase('selamt_xfrmseo_category_default_og_type') }}"
+	explain="{{ phrase('selamt_xfrmseo_category_default_og_type_explain') }}">
+	<xf:option value="">{{ phrase('selamt_xfrmseo_og_type_default') }}</xf:option>
+	<xf:option value="website">{{ phrase('selamt_xfrmseo_og_type_website') }}</xf:option>
+	<xf:option value="article">{{ phrase('selamt_xfrmseo_og_type_article') }}</xf:option>
+	<xf:option value="product">{{ phrase('selamt_xfrmseo_og_type_product') }}</xf:option>
+</xf:selectrow>
+
+<xf:submitrow icon="save" sticky="true" />]]></replace>
+  </modification>
+  <modification type="public" template="xfrm_resource_edit" modification_key="selamt_xfrmseo_edit_form" description="XFRM resource edit form'una SEO alanları + featured image + display_image toggle ekler" execution_order="0" enabled="1" action="str_replace">
+    <find><![CDATA[<xf:submitrow icon="save" sticky="true" />]]></find>
+    <replace><![CDATA[<hr class="formRowSep" />
+
+<xf:formrow rowtype="fullWidth" label="{{ phrase('selamt_xfrmseo_seo_settings') }}">&nbsp;</xf:formrow>
+
+<xf:textboxrow name="selamt_xfrmseo[meta_title]"
+	value="{{ $seoMeta ? $seoMeta.meta_title : '' }}"
+	maxlength="200"
+	label="{{ phrase('selamt_xfrmseo_meta_title') }}"
+	explain="{{ phrase('selamt_xfrmseo_meta_title_explain') }}" />
+
+<xf:textarearow name="selamt_xfrmseo[meta_description]"
+	value="{{ $seoMeta ? $seoMeta.meta_description : '' }}"
+	maxlength="500"
+	rows="3"
+	label="{{ phrase('selamt_xfrmseo_meta_description') }}"
+	explain="{{ phrase('selamt_xfrmseo_meta_description_explain') }}" />
+
+<xf:textboxrow name="selamt_xfrmseo[focus_keyword]"
+	value="{{ $seoMeta ? $seoMeta.focus_keyword : '' }}"
+	maxlength="100"
+	label="{{ phrase('selamt_xfrmseo_focus_keyword') }}"
+	explain="{{ phrase('selamt_xfrmseo_focus_keyword_explain') }}" />
+
+<xf:selectrow name="selamt_xfrmseo[og_type]"
+	value="{{ $seoMeta ? $seoMeta.og_type : '' }}"
+	label="{{ phrase('selamt_xfrmseo_og_type') }}"
+	explain="{{ phrase('selamt_xfrmseo_og_type_explain') }}">
+	<xf:option value="">{{ phrase('selamt_xfrmseo_og_type_inherit_category') }}</xf:option>
+	<xf:option value="website">{{ phrase('selamt_xfrmseo_og_type_website') }}</xf:option>
+	<xf:option value="article">{{ phrase('selamt_xfrmseo_og_type_article') }}</xf:option>
+	<xf:option value="product">{{ phrase('selamt_xfrmseo_og_type_product') }}</xf:option>
+</xf:selectrow>
+
+<xf:formrow rowclass="noColon"
+	label="{{ phrase('selamt_xfrmseo_featured_image') }}"
+	explain="{{ phrase('selamt_xfrmseo_featured_image_explain') }} {{ phrase('selamt_xfrmseo_featured_image_size_hint') }}">
+	<div class="contentRow">
+		<div class="contentRow-figure">
+			<xf:if is="$seoMeta && $seoMeta.FeaturedImage">
+				<a href="{{ $seoMeta.FeaturedImage.getDataUrl() }}" target="_blank" rel="noopener" class="avatar avatar--m">
+					<img src="{{ $seoMeta.FeaturedImage.getDataUrl() }}" alt="" />
+				</a>
+			<xf:else />
+				<span class="avatar avatar--m avatar--default">
+					<i class="fa--xf far fa-image"></i>
+				</span>
+			</xf:if>
+		</div>
+		<div class="contentRow-main">
+			<xf:if is="$seoMeta && $seoMeta.FeaturedImage">
+				<xf:radio name="selamt_xfrmseo[image_action]" value="keep">
+					<xf:option value="keep">{{ phrase('selamt_xfrmseo_featured_image_keep') }}</xf:option>
+					<xf:option value="custom" label="{{ phrase('selamt_xfrmseo_featured_image_replace:') }}">
+						<xf:upload name="selamt_xfrmseo_featured_image" accept=".jpg,.jpeg,.png,.webp" />
+					</xf:option>
+					<xf:option value="delete">{{ phrase('selamt_xfrmseo_featured_image_remove') }}</xf:option>
+				</xf:radio>
+			<xf:else />
+				<xf:set var="$uploadId" value="{{ unique_id() }}" />
+				<label for="{$uploadId}">{{ phrase('selamt_xfrmseo_featured_image_upload:') }}</label>
+				<xf:upload name="selamt_xfrmseo_featured_image" accept=".jpg,.jpeg,.png,.webp" id="{$uploadId}" />
+				<xf:hiddenval name="selamt_xfrmseo[image_action]">custom</xf:hiddenval>
+			</xf:if>
+		</div>
+	</div>
+</xf:formrow>
+
+<xf:checkboxrow name="selamt_xfrmseo[display_image]" value="{{ $seoMeta ? ($seoMeta.display_image ? 1 : 0) : 1 }}"
+	label="{{ phrase('selamt_xfrmseo_display_image') }}"
+	explain="{{ phrase('selamt_xfrmseo_display_image_explain') }}">
+	<xf:option value="1" />
+</xf:checkboxrow>
+
+<xf:submitrow icon="save" sticky="true" />]]></replace>
+  </modification>
+  <modification type="public" template="xfrm_resource_list_macros" modification_key="selamt_xfrmseo_list_card_thumbnail" description="Resource listings card icon'unu featured image ile override (varsa, display_image=1)" execution_order="10" enabled="1" action="str_replace">
+    <find><![CDATA[{{ resource_icon($resource, 's', link('resources', $resource)) }}]]></find>
+    <replace><![CDATA[<xf:if is="$resource.SeoMeta && $resource.SeoMeta.display_image && $resource.SeoMeta.FeaturedImage">
+	<a href="{{ link('resources', $resource) }}" class="avatar avatar--s">
+		<img src="{{ $resource.SeoMeta.FeaturedImage.getDataUrl() }}" alt="" loading="lazy" />
+	</a>
+<xf:else />
+	{{ resource_icon($resource, 's', link('resources', $resource)) }}
+</xf:if>]]></replace>
+  </modification>
+  <modification type="public" template="xfrm_resource_view" modification_key="selamt_xfrmseo_view_hero_image" description="Resource view'da featured image hero banner olarak göster (display_image=1 ve görsel varsa)" execution_order="10" enabled="1" action="str_replace">
+    <find><![CDATA[<article class="resourceBody-main js-lbContainer">]]></find>
+    <replace><![CDATA[<xf:css src="public_selamt_xfrmseo.less" />
+<article class="resourceBody-main js-lbContainer">
+<xf:if is="$resource.SeoMeta && $resource.SeoMeta.display_image && $resource.SeoMeta.FeaturedImage">
+	<div class="block-row block-row--separated selamt_xfrmseo-heroImage">
+		<img src="{{ $resource.SeoMeta.FeaturedImage.getDataUrl() }}"
+			alt="{$resource.title|for_attr}"
+			loading="lazy" />
+	</div>
+</xf:if>]]></replace>
+  </modification>
+  <modification type="public" template="xfrm_resource_view" modification_key="selamt_xfrmseo_view_meta_description" description="Resource view'da meta_description override (varsa kullanılan, yoksa default snippet)" execution_order="0" enabled="1" action="str_replace">
+    <find><![CDATA[<xf:set var="$descSnippet" value="{{ snippet($description.message, 250, {'stripBbCode': true}) }}" />]]></find>
+    <replace><![CDATA[<xf:set var="$descSnippet" value="{{ $resource.SeoMeta.meta_description ?: snippet($description.message, 250, {'stripBbCode': true}) }}" />]]></replace>
+  </modification>
+  <modification type="public" template="xfrm_resource_view" modification_key="selamt_xfrmseo_view_meta_macro_args" description="metadata_macros çağrısı: og:image inject + og:type fallback chain (resource → category → 'website')" execution_order="0" enabled="1" action="str_replace">
+    <find><![CDATA[<xf:macro id="metadata_macros::metadata"
+	arg-description="{$descSnippet}"
+	arg-shareUrl="{{ link('canonical:resources', $resource) }}"
+	arg-canonicalUrl="{{ link('canonical:resources', $resource) }}" />]]></find>
+    <replace><![CDATA[<xf:macro id="metadata_macros::metadata"
+	arg-description="{$descSnippet}"
+	arg-shareUrl="{{ link('canonical:resources', $resource) }}"
+	arg-canonicalUrl="{{ link('canonical:resources', $resource) }}"
+	arg-imageUrl="{{ $resource.SeoMeta.FeaturedImage ? $resource.SeoMeta.FeaturedImage.getDataUrl() : '' }}"
+	arg-type="{{ $resource.SeoMeta.og_type ?: ($resource.Category.SeoSettings.default_og_type ?: 'website') }}" />]]></replace>
+  </modification>
+  <modification type="public" template="xfrm_resource_view" modification_key="selamt_xfrmseo_view_title_override" description="HTML title ve og:title override (meta_title varsa)" execution_order="0" enabled="1" action="str_replace">
+    <find><![CDATA[<xf:title>{{ prefix('resource', $resource, 'escaped') }}{$resource.title}</xf:title>]]></find>
+    <replace><![CDATA[<xf:title>{{ prefix('resource', $resource, 'escaped') }}{{ $resource.SeoMeta.meta_title ?: $resource.title }}</xf:title>]]></replace>
+  </modification>
+</template_modifications>

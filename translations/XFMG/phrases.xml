@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="activity_summary_def.xfmg_latest_albums" version_id="902020010" version_string="2.2.0 Alpha"><![CDATA[XFMG: En son albümler]]></phrase>
+  <phrase title="activity_summary_def.xfmg_latest_comments" version_id="902020010" version_string="2.2.0 Alpha"><![CDATA[XFMG: En son yorumlar]]></phrase>
+  <phrase title="activity_summary_def.xfmg_latest_media" version_id="902020010" version_string="2.2.0 Alpha"><![CDATA[XFMG: En son medya]]></phrase>
+  <phrase title="activity_summary_def_desc.xfmg_latest_albums" version_id="902020010" version_string="2.2.0 Alpha"><![CDATA[Etkinlik özeti e-postasında en son medya galerisi albümlerini görüntüleyen bir bölüm oluşturur.]]></phrase>
+  <phrase title="activity_summary_def_desc.xfmg_latest_comments" version_id="902020010" version_string="2.2.0 Alpha"><![CDATA[Etkinlik özeti e-postasında en son medya galerisi yorumlarını görüntüleyen bir bölüm oluşturur.]]></phrase>
+  <phrase title="activity_summary_def_desc.xfmg_latest_media" version_id="902020010" version_string="2.2.0 Alpha"><![CDATA[Etkinlik özeti e-postasında en son medya galerisi öğelerini görüntüleyen bir bölüm oluşturur.]]></phrase>
+  <phrase title="admin_navigation.xfmg" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya]]></phrase>
+  <phrase title="admin_navigation.xfmgBatchUpdate" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Toplu güncelleme]]></phrase>
+  <phrase title="admin_navigation.xfmgBatchUpdateAlbums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albümler]]></phrase>
+  <phrase title="admin_navigation.xfmgBatchUpdateMedia" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya]]></phrase>
+  <phrase title="admin_navigation.xfmgCategories" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya kategorileri]]></phrase>
+  <phrase title="admin_navigation.xfmgCategoryPermissions" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya kategori izinleri]]></phrase>
+  <phrase title="admin_navigation.xfmgFields" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya alanları]]></phrase>
+  <phrase title="admin_permission.mediaGallery" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya galerisini yönet]]></phrase>
+  <phrase title="alert_opt_out.xfmg_album_mention" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Albüm açıklamasında sizden bahseder]]></phrase>
+  <phrase title="alert_opt_out.xfmg_album_reaction" version_id="902010010" version_string="2.1.0 Alpha"><![CDATA[Albümünüze tepki verir]]></phrase>
+  <phrase title="alert_opt_out.xfmg_album_share_add" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Kişisel albüme medya ekleme izni verir]]></phrase>
+  <phrase title="alert_opt_out.xfmg_album_share_view" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Kişisel albümü görüntüleme izni verir]]></phrase>
+  <phrase title="alert_opt_out.xfmg_comment_insert" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[İzlenen bir medya öğesine veya albüme yorum yapar]]></phrase>
+  <phrase title="alert_opt_out.xfmg_comment_mention" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Bir medya veya albüm yorumunda sizden bahseder]]></phrase>
+  <phrase title="alert_opt_out.xfmg_comment_quote" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Medya veya albüm yorumunuzdan alıntı yapar]]></phrase>
+  <phrase title="alert_opt_out.xfmg_comment_reaction" version_id="902010010" version_string="2.1.0 Alpha"><![CDATA[Medya veya albüm yorumunuza tepki verir]]></phrase>
+  <phrase title="alert_opt_out.xfmg_media_insert" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[İzlenen bir albüme veya kategoriye yeni medya öğesi ekler]]></phrase>
+  <phrase title="alert_opt_out.xfmg_media_mention" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Bir medya öğesi açıklamasında sizden bahseder]]></phrase>
+  <phrase title="alert_opt_out.xfmg_media_reaction" version_id="902010010" version_string="2.1.0 Alpha"><![CDATA[Medya öğenize tepki verir]]></phrase>
+  <phrase title="alert_opt_out.xfmg_rating_insert" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Medya öğenizi veya albümünüzü puanlar]]></phrase>
+  <phrase title="api_scope.media_category_delete" version_id="902010013" version_string="2.1.0 Preview 3"><![CDATA[Bir medya kategorisini silmeyi kapsar.]]></phrase>
+  <phrase title="api_scope.media_category_read" version_id="902010013" version_string="2.1.0 Preview 3"><![CDATA[Medya kategorilerini veya kategori listesini görüntülemeyi kapsar.]]></phrase>
+  <phrase title="api_scope.media_category_write" version_id="902010013" version_string="2.1.0 Preview 3"><![CDATA[Bir medya kategorisini güncelleme veya oluşturmayı kapsar.]]></phrase>
+  <phrase title="api_scope.media_delete_hard" version_id="902010013" version_string="2.1.0 Preview 3"><![CDATA[Medya, albüm ve yorumlarının kalıcı olarak silinmesini kapsar.]]></phrase>
+  <phrase title="api_scope.media_read" version_id="902010013" version_string="2.1.0 Preview 3"><![CDATA[Medya, albüm ve yorumlarını görüntülemeyi kapsar.]]></phrase>
+  <phrase title="api_scope.media_write" version_id="902010013" version_string="2.1.0 Preview 3"><![CDATA[Medya, albüm ve yorumlarının oluşturulması, güncellenmesi ve geçici silinmesini kapsar.]]></phrase>
+  <phrase title="cron_entry.xfmgCacheStats" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[XFMG: Galeri istatistiklerini önbelleğe al]]></phrase>
+  <phrase title="cron_entry.xfmgCleanUpDaily" version_id="902000470" version_string="2.0.4"><![CDATA[XFMG: Günlük temizlik]]></phrase>
+  <phrase title="cron_entry.xfmgCleanUpHourly" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[XFMG: Saatlik temizlik]]></phrase>
+  <phrase title="cron_entry.xfmgGenerateRandomAlbum" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[XFMG: Rastgele albüm önbelleği oluştur]]></phrase>
+  <phrase title="cron_entry.xfmgGenerateRandomMedia" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[XFMG: Rastgele medya önbelleği oluştur]]></phrase>
+  <phrase title="cron_entry.xfmgViews" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[XFMG: Görüntüleme sayaçlarını güncelle]]></phrase>
+  <phrase title="custom_bb_code_desc.gallery" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Galeri medya öğelerini ve albümlerini görüntülemek için BB kodu.]]></phrase>
+  <phrase title="custom_bb_code_example.gallery" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[[GALLERY=media, X]Galeri BB Kodu[/GALLERY]]]></phrase>
+  <phrase title="custom_bb_code_output.gallery" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="custom_bb_code_title.gallery" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Galeri gömme]]></phrase>
+  <phrase title="member_stat.xfmg_most_albums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[En çok albüm]]></phrase>
+  <phrase title="member_stat.xfmg_most_media_items" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[En çok medya öğesi]]></phrase>
+  <phrase title="mod_log.xfmg_album_approve" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüm onaylandı]]></phrase>
+  <phrase title="mod_log.xfmg_album_delete_hard" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüm kalıcı olarak silindi]]></phrase>
+  <phrase title="mod_log.xfmg_album_delete_soft" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüm genel görünümden kaldırıldı (sebep: {reason})]]></phrase>
+  <phrase title="mod_log.xfmg_album_edit_description" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüm açıklaması düzenlendi]]></phrase>
+  <phrase title="mod_log.xfmg_album_edit_title" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüm başlığı düzenlendi]]></phrase>
+  <phrase title="mod_log.xfmg_album_media_move_source" version_id="902010370" version_string="2.1.3"><![CDATA[Medya öğeleri {title} albümüne taşındı]]></phrase>
+  <phrase title="mod_log.xfmg_album_media_move_target" version_id="902010370" version_string="2.1.3"><![CDATA[Medya öğeleri ({ids}) albüme taşındı]]></phrase>
+  <phrase title="mod_log.xfmg_album_unapprove" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüm onayı kaldırıldı]]></phrase>
+  <phrase title="mod_log.xfmg_album_undelete" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüm geri yüklendi]]></phrase>
+  <phrase title="mod_log.xfmg_album_warning_expired" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüm yazarı uyarısının süresi doldu]]></phrase>
+  <phrase title="mod_log.xfmg_album_warning_given" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüm yazarına uyarı verildi]]></phrase>
+  <phrase title="mod_log.xfmg_album_warning_removed" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüm yazarı uyarısı kaldırıldı]]></phrase>
+  <phrase title="mod_log.xfmg_comment_approve" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Galeri yorumu onaylandı]]></phrase>
+  <phrase title="mod_log.xfmg_comment_delete_hard" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Galeri yorumu kalıcı olarak silindi]]></phrase>
+  <phrase title="mod_log.xfmg_comment_delete_soft" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Galeri yorumu genel görünümden kaldırıldı (sebep: {reason})]]></phrase>
+  <phrase title="mod_log.xfmg_comment_edit" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Galeri yorumu düzenlendi]]></phrase>
+  <phrase title="mod_log.xfmg_comment_unapprove" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Galeri yorumu onayı kaldırıldı]]></phrase>
+  <phrase title="mod_log.xfmg_comment_undelete" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Galeri yorumu geri yüklendi]]></phrase>
+  <phrase title="mod_log.xfmg_comment_warning_expired" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Galeri yorum yazarı uyarısının süresi doldu]]></phrase>
+  <phrase title="mod_log.xfmg_comment_warning_given" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Galeri yorum yazarına uyarı verildi]]></phrase>
+  <phrase title="mod_log.xfmg_comment_warning_removed" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Galeri yorum yazarı uyarısı kaldırıldı]]></phrase>
+  <phrase title="mod_log.xfmg_media_approve" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya öğesi onaylandı]]></phrase>
+  <phrase title="mod_log.xfmg_media_delete_hard" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya öğesi kalıcı olarak silindi]]></phrase>
+  <phrase title="mod_log.xfmg_media_delete_soft" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya öğesi genel görünümden kaldırıldı (sebep: {reason})]]></phrase>
+  <phrase title="mod_log.xfmg_media_edit_description" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya öğesi açıklaması düzenlendi]]></phrase>
+  <phrase title="mod_log.xfmg_media_edit_title" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya öğesi başlığı düzenlendi]]></phrase>
+  <phrase title="mod_log.xfmg_media_feature_create" version_id="902030010" version_string="2.3.0 Alpha"><![CDATA[Medya öğesi öne çıkarıldı]]></phrase>
+  <phrase title="mod_log.xfmg_media_feature_delete" version_id="902030010" version_string="2.3.0 Alpha"><![CDATA[Medya öğesi öne çıkarması silindi]]></phrase>
+  <phrase title="mod_log.xfmg_media_feature_edit" version_id="902030010" version_string="2.3.0 Alpha"><![CDATA[Medya öğesi öne çıkarması düzenlendi]]></phrase>
+  <phrase title="mod_log.xfmg_media_move" version_id="902010370" version_string="2.1.3"><![CDATA[Medya öğesi {from} kategorisinden taşındı]]></phrase>
+  <phrase title="mod_log.xfmg_media_unapprove" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya öğesi onayı kaldırıldı]]></phrase>
+  <phrase title="mod_log.xfmg_media_undelete" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya öğesi geri yüklendi]]></phrase>
+  <phrase title="mod_log.xfmg_media_warning_expired" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya öğesi yazarı uyarısının süresi doldu]]></phrase>
+  <phrase title="mod_log.xfmg_media_warning_given" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya öğesi yazarına uyarı verildi]]></phrase>
+  <phrase title="mod_log.xfmg_media_warning_removed" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya öğesi yazarı uyarısı kaldırıldı]]></phrase>
+  <phrase title="nav.newMedia" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yeni medya]]></phrase>
+  <phrase title="nav.xfmg" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya]]></phrase>
+  <phrase title="nav.xfmgAddMedia" version_id="902000470" version_string="2.0.4"><![CDATA[Medya ekle]]></phrase>
+  <phrase title="nav.xfmgMarkViewed" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Görüntülendi olarak işaretle]]></phrase>
+  <phrase title="nav.xfmgNewComments" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yeni yorumlar]]></phrase>
+  <phrase title="nav.xfmgNewMedia" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yeni medya]]></phrase>
+  <phrase title="nav.xfmgSearchMedia" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medyada ara]]></phrase>
+  <phrase title="nav.xfmgWatchedAlbums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[İzlenen albümler]]></phrase>
+  <phrase title="nav.xfmgWatchedCategories" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[İzlenen kategoriler]]></phrase>
+  <phrase title="nav.xfmgWatchedContent" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[İzlenenler]]></phrase>
+  <phrase title="nav.xfmgWatchedMedia" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[İzlenen medya]]></phrase>
+  <phrase title="nav.xfmgWhatsNewMediaComments" version_id="902000033" version_string="2.0.0 Beta 3"><![CDATA[Yeni medya yorumları]]></phrase>
+  <phrase title="nav.xfmgWhatsNewNewMedia" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yeni medya]]></phrase>
+  <phrase title="nav.xfmgYourAlbums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albümleriniz]]></phrase>
+  <phrase title="nav.xfmgYourContent" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[İçerikleriniz]]></phrase>
+  <phrase title="nav.xfmgYourMedia" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medyanız]]></phrase>
+  <phrase title="option.xfmgAlbumsPerPage" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Sayfa başına albüm]]></phrase>
+  <phrase title="option.xfmgAllowPersonalAlbums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kişisel albümlere izin ver]]></phrase>
+  <phrase title="option.xfmgAudioExtensions" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[İzin verilen ses dosyası uzantıları]]></phrase>
+  <phrase title="option.xfmgCommentsPerPage" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Sayfa başına yorum]]></phrase>
+  <phrase title="option.xfmgDefaultViewPrivacy" version_id="902010013" version_string="2.1.0 Preview 3"><![CDATA[Varsayılan kişisel albüm görüntüleme gizliliği]]></phrase>
+  <phrase title="option.xfmgFfmpeg" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[FFmpeg özelliklerini etkinleştir]]></phrase>
+  <phrase title="option.xfmgImageExtensions" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[İzin verilen görsel uzantıları]]></phrase>
+  <phrase title="option.xfmgLightboxNavigation" version_id="902020010" version_string="2.2.0 Alpha"><![CDATA[Medya listesi lightbox navigasyonunu etkinleştir]]></phrase>
+  <phrase title="option.xfmgMaxDescriptionLength" version_id="902010013" version_string="2.1.0 Preview 3"><![CDATA[Maksimum medya/albüm açıklama uzunluğu]]></phrase>
+  <phrase title="option.xfmgMaxTitleLength" version_id="902010013" version_string="2.1.0 Preview 3"><![CDATA[Maksimum medya/albüm başlık uzunluğu]]></phrase>
+  <phrase title="option.xfmgMediaIndexLimit" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yalnızca son X gün içinde eklenen medyayı göster]]></phrase>
+  <phrase title="option.xfmgMediaPerPage" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Sayfa başına medya öğesi]]></phrase>
+  <phrase title="option.xfmgMinTagsPersonalAlbums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kişisel albümlerde minimum etiket]]></phrase>
+  <phrase title="option.xfmgOverrideStyle" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Varsayılan temayı geçersiz kıl]]></phrase>
+  <phrase title="option.xfmgRequireComment" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüm veya medya öğelerini puanlarken yorum yazılmasını zorunlu kıl]]></phrase>
+  <phrase title="option.xfmgThumbnailDimensions" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Maksimum küçük resim boyutları]]></phrase>
+  <phrase title="option.xfmgUnviewedCounter" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Görüntülenmemiş medya sayacını göster]]></phrase>
+  <phrase title="option.xfmgVideoExtensions" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[İzin verilen video uzantıları]]></phrase>
+  <phrase title="option.xfmgWatermarking" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Görsel filigranlarını etkinleştir]]></phrase>
+  <phrase title="option_explain.xfmgAlbumsPerPage" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Sayfa başına gösterilecek maksimum albüm sayısı.]]></phrase>
+  <phrase title="option_explain.xfmgAllowPersonalAlbums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kişisel albümler devre dışı bırakılırsa, albümler yine de albüm kategorileri içinde oluşturulabilir (eğer oluşturursanız). Kişisel albümler, albüm sahibinin gizlilik ayarları üzerinde ayrıntılı kontrole sahip olmasına olanak tanır.]]></phrase>
+  <phrase title="option_explain.xfmgAudioExtensions" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Ses için yüklenmesine izin verilen dosya uzantılarını listeleyin. Uzantılar arasında boşluk veya satır sonu kullanın.]]></phrase>
+  <phrase title="option_explain.xfmgCommentsPerPage" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Sayfa başına gösterilecek maksimum medya veya albüm yorumu sayısı.]]></phrase>
+  <phrase title="option_explain.xfmgDefaultViewPrivacy" version_id="902010013" version_string="2.1.0 Preview 3"><![CDATA[Bu değer, oluşturulan tüm yeni kişisel albümler için varsayılan görüntüleme gizliliği değeri olarak kullanılır.]]></phrase>
+  <phrase title="option_explain.xfmgFfmpeg" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="option_explain.xfmgImageExtensions" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Görseller için yüklenmesine izin verilen dosya uzantılarını listeleyin. Uzantılar arasında boşluk veya satır sonu kullanın.]]></phrase>
+  <phrase title="option_explain.xfmgLightboxNavigation" version_id="902020010" version_string="2.2.0 Alpha"><![CDATA[Etkinleştirilirse, medya listesindeki bir medya öğesine tıklamak onu lightbox'ta açar; orada listede hızlı gezinebilir, medya hakkında bilgileri görüntüleyebilir ve yorum yapabilirsiniz.]]></phrase>
+  <phrase title="option_explain.xfmgMaxDescriptionLength" version_id="902010013" version_string="2.1.0 Preview 3"><![CDATA[]]></phrase>
+  <phrase title="option_explain.xfmgMaxTitleLength" version_id="902010013" version_string="2.1.0 Preview 3"><![CDATA[]]></phrase>
+  <phrase title="option_explain.xfmgMediaIndexLimit" version_id="902020035" version_string="2.2.0 Beta 5"><![CDATA[Büyük bir galeriniz varsa, medya indeksi veya kategori görünüm sayfalarınız yavaş yüklenebilir. Bu seçenek bunu hafifletmek için yalnızca son X günün medyasını gösterir. Sınırsız için 0 olarak ayarlayın. Ayrıca kategori bazında da kontrol edebilirsiniz.]]></phrase>
+  <phrase title="option_explain.xfmgMediaPerPage" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Sayfa başına gösterilecek maksimum medya öğesi sayısı.]]></phrase>
+  <phrase title="option_explain.xfmgMinTagsPersonalAlbums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kişisel albümlerdeki medya öğelerinin minimum etiket sayısına sahip olmasını istiyorsanız, bunu burada ayarlayın. Minimum yok için 0 olarak ayarlayın.]]></phrase>
+  <phrase title="option_explain.xfmgOverrideStyle" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Burada seçilen tema, varsayılan tema yerine tüm Galeri sayfalarında görüntülenir.]]></phrase>
+  <phrase title="option_explain.xfmgRequireComment" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[İşaretlenirse, bir albümü veya medya öğesini puanlamak isteyen tüm kullanıcıların ayrıca yorum yazması gerekir.]]></phrase>
+  <phrase title="option_explain.xfmgThumbnailDimensions" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Galeriye medya eklerken bu boyutlara göre bir küçük resim oluşturulur. Albüm küçük resimleri aynı boyutlarda oluşturulur. Bu değeri değiştirirseniz <a href="admin.php?tools/rebuild">küçük resimleri yeniden oluşturmanız</a> gerekir.]]></phrase>
+  <phrase title="option_explain.xfmgUnviewedCounter" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Etkinleştirilirse, görüntülenmemiş medya sayısı "Medya" navigasyon sekmesinin üzerinde görüntülenir.]]></phrase>
+  <phrase title="option_explain.xfmgVideoExtensions" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Videolar için yüklenmesine izin verilen dosya uzantılarını listeleyin. Uzantılar arasında boşluk veya satır sonu kullanın.]]></phrase>
+  <phrase title="option_explain.xfmgWatermarking" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yüklenen tüm görsellere otomatik olarak filigran eklemek için filigranı etkinleştirin ve şeffaf arka plana sahip uygun bir görsel yükleyin. Sonuçlar seçilen görsele bağlı olarak değişir.]]></phrase>
+  <phrase title="option_group.xfmg" version_id="902000270" version_string="2.0.2"><![CDATA[XenForo Media Gallery]]></phrase>
+  <phrase title="option_group_description.xfmg" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya galerisi eklentisini kontrol eden seçenekler.]]></phrase>
+  <phrase title="permission.xfmgStorage_maxAllowedStorage" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Maksimum izin verilen depolama (MB)]]></phrase>
+  <phrase title="permission.xfmg_add" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Medya öğeleri ekle]]></phrase>
+  <phrase title="permission.xfmg_addAudio" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüme ses yükle]]></phrase>
+  <phrase title="permission.xfmg_addComment" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yorum ekle]]></phrase>
+  <phrase title="permission.xfmg_addEmbed" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüme medya göm]]></phrase>
+  <phrase title="permission.xfmg_addImage" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüme görsel yükle]]></phrase>
+  <phrase title="permission.xfmg_addNoteAny" version_id="902000034" version_string="2.0.0 Beta 4"><![CDATA[Herhangi bir görsele not ekle]]></phrase>
+  <phrase title="permission.xfmg_addNoteOwn" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kendi görseline not ekle / düzenle]]></phrase>
+  <phrase title="permission.xfmg_addVideo" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüme video yükle]]></phrase>
+  <phrase title="permission.xfmg_addWithoutApproval" version_id="902000470" version_string="2.0.4"><![CDATA[Onaysız medya öğeleri ekle]]></phrase>
+  <phrase title="permission.xfmg_addWithoutWatermark" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Filigransız medya öğeleri ekle]]></phrase>
+  <phrase title="permission.xfmg_approveUnapprove" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya öğelerini onayla / onayı kaldır]]></phrase>
+  <phrase title="permission.xfmg_approveUnapproveAlbum" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albümleri onayla / onayı kaldır]]></phrase>
+  <phrase title="permission.xfmg_approveUnapproveComment" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yorumları onayla / onayı kaldır]]></phrase>
+  <phrase title="permission.xfmg_bypassPrivacy" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüm gizliliğini atla (tüm albümleri ve içerikleri görüntüle)]]></phrase>
+  <phrase title="permission.xfmg_changePrivacyAnyAlbum" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir albümün gizliliğini değiştir]]></phrase>
+  <phrase title="permission.xfmg_changePrivacyOwnAlbum" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kendi albümünün gizliliğini değiştir]]></phrase>
+  <phrase title="permission.xfmg_createAlbum" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yeni albüm oluştur]]></phrase>
+  <phrase title="permission.xfmg_deleteAny" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir medya öğesini sil]]></phrase>
+  <phrase title="permission.xfmg_deleteAnyAlbum" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir albümü sil]]></phrase>
+  <phrase title="permission.xfmg_deleteAnyComment" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir yorumu sil]]></phrase>
+  <phrase title="permission.xfmg_deleteAnyNote" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir görselden not sil]]></phrase>
+  <phrase title="permission.xfmg_deleteComment" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kendi yorumunu sil]]></phrase>
+  <phrase title="permission.xfmg_deleteOwn" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Kendi medya öğelerini sil]]></phrase>
+  <phrase title="permission.xfmg_deleteOwnAlbum" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kendi albümünü sil]]></phrase>
+  <phrase title="permission.xfmg_deleteOwnNote" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kendi görselinden not sil]]></phrase>
+  <phrase title="permission.xfmg_deleteTagSelf" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir görselde kendi etiketini sil]]></phrase>
+  <phrase title="permission.xfmg_editAny" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir medya öğesini düzenle]]></phrase>
+  <phrase title="permission.xfmg_editAnyAlbum" version_id="902000053" version_string="2.0.0 Release Candidate 3"><![CDATA[Herhangi bir albümü düzenle]]></phrase>
+  <phrase title="permission.xfmg_editAnyComment" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir yorumu düzenle]]></phrase>
+  <phrase title="permission.xfmg_editComment" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kendi yorumunu düzenle]]></phrase>
+  <phrase title="permission.xfmg_editNoteAny" version_id="902000034" version_string="2.0.0 Beta 4"><![CDATA[Herhangi bir görseldeki notu düzenle]]></phrase>
+  <phrase title="permission.xfmg_editOwn" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Kendi medya öğelerini düzenle]]></phrase>
+  <phrase title="permission.xfmg_editOwnAlbum" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kendi albümünü düzenle]]></phrase>
+  <phrase title="permission.xfmg_editOwnAlbumTimeLimit" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kendi albümlerini düzenleme/silme zaman sınırı (dakika)]]></phrase>
+  <phrase title="permission.xfmg_editOwnCommentTimeLimit" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kendi yorumlarını düzenleme/silme zaman sınırı (dakika)]]></phrase>
+  <phrase title="permission.xfmg_editOwnMediaTimeLimit" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Kendi medya öğelerini düzenleme/silme zaman sınırı (dakika)]]></phrase>
+  <phrase title="permission.xfmg_featureUnfeature" version_id="902030010" version_string="2.3.0 Alpha"><![CDATA[Medya öğelerini öne çıkar / öne çıkarmayı kaldır]]></phrase>
+  <phrase title="permission.xfmg_hardDeleteAny" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir medya öğesini kalıcı sil]]></phrase>
+  <phrase title="permission.xfmg_hardDeleteAnyAlbum" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir albümü kalıcı sil]]></phrase>
+  <phrase title="permission.xfmg_hardDeleteAnyComment" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir yorumu kalıcı sil]]></phrase>
+  <phrase title="permission.xfmg_inlineMod" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya öğelerinde satır içi moderasyon kullan]]></phrase>
+  <phrase title="permission.xfmg_inlineModAlbum" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albümlerde satır içi moderasyon kullan]]></phrase>
+  <phrase title="permission.xfmg_inlineModComment" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yorumlarda satır içi moderasyon kullan]]></phrase>
+  <phrase title="permission.xfmg_manageAnyTag" version_id="902010370" version_string="2.1.3"><![CDATA[Herhangi bir etiketi yönet]]></phrase>
+  <phrase title="permission.xfmg_manageOthersTagsOwnMedia" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Kendi medya öğelerinde başkalarının etiketlerini yönet]]></phrase>
+  <phrase title="permission.xfmg_maxFileSize" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Maksimum dosya boyutu (MB)]]></phrase>
+  <phrase title="permission.xfmg_maxImageHeight" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Maksimum görsel yüksekliği]]></phrase>
+  <phrase title="permission.xfmg_maxImageWidth" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Maksimum görsel genişliği]]></phrase>
+  <phrase title="permission.xfmg_moveAny" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir medya öğesini taşı]]></phrase>
+  <phrase title="permission.xfmg_moveAnyAlbum" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir albümü taşı]]></phrase>
+  <phrase title="permission.xfmg_moveOwn" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Kendi medya öğelerini taşı]]></phrase>
+  <phrase title="permission.xfmg_moveOwnAlbum" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kendi albümünü taşı]]></phrase>
+  <phrase title="permission.xfmg_rate" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Medya öğelerini puanla]]></phrase>
+  <phrase title="permission.xfmg_rateAlbum" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albümü puanla]]></phrase>
+  <phrase title="permission.xfmg_react" version_id="902010010" version_string="2.1.0 Alpha"><![CDATA[Medya öğelerine tepki ver]]></phrase>
+  <phrase title="permission.xfmg_reactAlbum" version_id="902010010" version_string="2.1.0 Alpha"><![CDATA[Albümlere tepki ver]]></phrase>
+  <phrase title="permission.xfmg_reactComment" version_id="902010010" version_string="2.1.0 Alpha"><![CDATA[Yorumlara tepki ver]]></phrase>
+  <phrase title="permission.xfmg_tagAnyMedia" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Herhangi bir medya öğesini etiketle]]></phrase>
+  <phrase title="permission.xfmg_tagOwnMedia" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Kendi medya öğelerini etiketle]]></phrase>
+  <phrase title="permission.xfmg_tagSelf" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir görselde kendi etiketini ekle / düzenle]]></phrase>
+  <phrase title="permission.xfmg_tagWithoutApproval" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Onaysız başkalarının etiketini ekle]]></phrase>
+  <phrase title="permission.xfmg_undelete" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya öğelerini geri yükle]]></phrase>
+  <phrase title="permission.xfmg_undeleteAlbum" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albümleri geri yükle]]></phrase>
+  <phrase title="permission.xfmg_undeleteComment" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yorumları geri yükle]]></phrase>
+  <phrase title="permission.xfmg_view" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Medya galerisini görüntüle]]></phrase>
+  <phrase title="permission.xfmg_viewComments" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yorumları görüntüle]]></phrase>
+  <phrase title="permission.xfmg_viewDeleted" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Silinmiş medya öğelerini görüntüle]]></phrase>
+  <phrase title="permission.xfmg_viewDeletedAlbums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Silinmiş albümleri görüntüle]]></phrase>
+  <phrase title="permission.xfmg_viewDeletedComments" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Silinmiş yorumları görüntüle]]></phrase>
+  <phrase title="permission.xfmg_viewModerated" version_id="902000035" version_string="2.0.0 Beta 5"><![CDATA[Onaysız medya öğelerini görüntüle]]></phrase>
+  <phrase title="permission.xfmg_viewModeratedAlbums" version_id="902000035" version_string="2.0.0 Beta 5"><![CDATA[Onaysız albümleri görüntüle]]></phrase>
+  <phrase title="permission.xfmg_viewModeratedComments" version_id="902000035" version_string="2.0.0 Beta 5"><![CDATA[Onaysız yorumları görüntüle]]></phrase>
+  <phrase title="permission.xfmg_viewNote" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Görsel notlarını görüntüle]]></phrase>
+  <phrase title="permission.xfmg_viewPendingNote" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir bekleyen görsel notunu görüntüle]]></phrase>
+  <phrase title="permission.xfmg_warn" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya öğelerinde uyarı ver]]></phrase>
+  <phrase title="permission.xfmg_warnAlbum" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albümlerde uyarı ver]]></phrase>
+  <phrase title="permission.xfmg_warnComment" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yorumlarda uyarı ver]]></phrase>
+  <phrase title="permission.xfmg_watermarkAny" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Herhangi bir medya öğesinde filigran ekle/kaldır]]></phrase>
+  <phrase title="permission.xfmg_watermarkOwn" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Kendi medya öğelerinde filigran ekle/kaldır]]></phrase>
+  <phrase title="permission_interface.xfmgAlbum" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[XFMG: Albüm izinleri]]></phrase>
+  <phrase title="permission_interface.xfmgAlbumModerator" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[XFMG: Albüm moderatör izinleri]]></phrase>
+  <phrase title="permission_interface.xfmgComment" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[XFMG: Yorum izinleri]]></phrase>
+  <phrase title="permission_interface.xfmgCommentModerator" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[XFMG: Yorum moderatör izinleri]]></phrase>
+  <phrase title="permission_interface.xfmgMedia" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[XFMG: Medya izinleri]]></phrase>
+  <phrase title="permission_interface.xfmgMediaModerator" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[XFMG: Medya moderatör izinleri]]></phrase>
+  <phrase title="permission_interface.xfmgNote" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[XFMG: Not izinleri]]></phrase>
+  <phrase title="permission_interface.xfmgNoteModerator" version_id="902000034" version_string="2.0.0 Beta 4"><![CDATA[XFMG: Not moderatör izinleri]]></phrase>
+  <phrase title="permission_interface.xfmgUploadQuotas" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[XFMG: Yükleme kotaları]]></phrase>
+  <phrase title="style_prop.xfmgCategoryList" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kategori listesini göster]]></phrase>
+  <phrase title="style_prop_desc.xfmgCategoryList" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Galeride gezinirken bir node tarzı kategori listesi gösterilebilir.]]></phrase>
+  <phrase title="style_prop_group.xfmgAppearance" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[XFMG: Görünüm]]></phrase>
+  <phrase title="style_prop_group_desc.xfmgAppearance" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[XenForo Media Gallery'nin görünümünü kontrol eden çeşitli özellikler]]></phrase>
+  <phrase title="widget_def.xfmg_albums_slider" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[XFMG: Albümler kaydırıcısı]]></phrase>
+  <phrase title="widget_def.xfmg_gallery_statistics" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[XFMG: Galeri istatistikleri]]></phrase>
+  <phrase title="widget_def.xfmg_latest_comments" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[XFMG: En son yorumlar]]></phrase>
+  <phrase title="widget_def.xfmg_media_slider" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[XFMG: Medya kaydırıcısı]]></phrase>
+  <phrase title="widget_def_desc.xfmg_albums_slider" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[En son veya rastgele bir albüm seçimini gösteren bir kaydırıcı görüntüler.]]></phrase>
+  <phrase title="widget_def_desc.xfmg_gallery_statistics" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Galeri istatistiklerini görüntüler]]></phrase>
+  <phrase title="widget_def_desc.xfmg_latest_comments" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[En son galeri yorumlarını görüntüler]]></phrase>
+  <phrase title="widget_def_desc.xfmg_media_slider" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[En son veya rastgele bir medya öğesi seçimini gösteren bir kaydırıcı görüntüler.]]></phrase>
+  <phrase title="widget_pos.xfmg_gallery_wrapper_sidenav" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[XFMG Galeri sarmalayıcı: Yan navigasyon]]></phrase>
+  <phrase title="widget_pos_desc.xfmg_gallery_wrapper_sidenav" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Galeri sarmalayıcı şablonu içindeki "Galeri navigasyonu"nun altında.]]></phrase>
+  <phrase title="xfmg_aac_or_libvo_aacenc_encoder_is_required_for_transcoding_audio" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Ses kodlaması için 'aac' veya 'libvo_aacenc' kodlayıcısı gereklidir.]]></phrase>
+  <phrase title="xfmg_add_media" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya ekle]]></phrase>
+  <phrase title="xfmg_add_media_to" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Şuraya medya ekle]]></phrase>
+  <phrase title="xfmg_add_media_to_existing_album" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Mevcut albüme medya ekle]]></phrase>
+  <phrase title="xfmg_add_note_tag" version_id="902000035" version_string="2.0.0 Beta 5"><![CDATA[Not/etiket ekle]]></phrase>
+  <phrase title="xfmg_add_users_explain" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yukarıya medya öğesi eklemesine izin verilen üyelerin adlarını girin. Albüm sahibine her zaman otomatik olarak izin verilir.]]></phrase>
+  <phrase title="xfmg_added_by" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Ekleyen]]></phrase>
+  <phrase title="xfmg_album" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüm]]></phrase>
+  <phrase title="xfmg_album_comments" version_id="902000036" version_string="2.0.0 Beta 6"><![CDATA[Albüm yorumları]]></phrase>
+  <phrase title="xfmg_album_contents" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüm içerikleri]]></phrase>
+  <phrase title="xfmg_album_count" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüm sayısı]]></phrase>
+  <phrase title="xfmg_album_description" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüm açıklaması]]></phrase>
+  <phrase title="xfmg_album_information" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüm bilgileri]]></phrase>
+  <phrase title="xfmg_album_is_being_created_inside_x_category" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüm "{title}" kategorisi içinde oluşturuluyor. Bu kategoriyi görüntüleyebilen tüm üyeler için görünür olacaktır.]]></phrase>
+  <phrase title="xfmg_album_owner" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüm sahibi]]></phrase>
+  <phrase title="xfmg_album_privacy" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüm gizliliği]]></phrase>
+  <phrase title="xfmg_album_privacy.inherit" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kategoriden devralındı]]></phrase>
+  <phrase title="xfmg_album_privacy.members" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kayıtlı üyeler]]></phrase>
+  <phrase title="xfmg_album_privacy.private" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yalnızca albüm sahibi]]></phrase>
+  <phrase title="xfmg_album_privacy.public" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Herkes]]></phrase>
+  <phrase title="xfmg_album_privacy.shared" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Belirli üyeler]]></phrase>
+  <phrase title="xfmg_album_ratings" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüm puanları]]></phrase>
+  <phrase title="xfmg_album_reactions" version_id="902010010" version_string="2.1.0 Alpha"><![CDATA[Albüm tepkileri]]></phrase>
+  <phrase title="xfmg_album_thumbnails" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüm küçük resimleri]]></phrase>
+  <phrase title="xfmg_album_title" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüm başlığı]]></phrase>
+  <phrase title="xfmg_album_x" version_id="902000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Albüm '{album}']]></phrase>
+  <phrase title="xfmg_album_x_marked_as_viewed" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[{title} albümü görüntülendi olarak işaretlendi.]]></phrase>
+  <phrase title="xfmg_albums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albümler]]></phrase>
+  <phrase title="xfmg_albums_created_by_x" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[{name} tarafından oluşturulan albümler]]></phrase>
+  <phrase title="xfmg_alert_transcode_failed" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Maalesef, {title} adlı yüklediğiniz medya öğesi işlenemedi. Lütfen farklı bir dosya yükleyip tekrar deneyin.]]></phrase>
+  <phrase title="xfmg_alert_transcode_success" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[{title} medya öğeniz işlemeyi tamamladı ve şimdi galeriye eklendi.]]></phrase>
+  <phrase title="xfmg_all_categories" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Tüm kategoriler]]></phrase>
+  <phrase title="xfmg_all_media_items_marked_as_viewed" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Tüm medya öğeleri görüntülendi olarak işaretlendi.]]></phrase>
+  <phrase title="xfmg_all_selected_albums_already_in_destination_category" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Seçilen tüm albümler zaten hedef kategoride. Lütfen başka bir kategori seçin.]]></phrase>
+  <phrase title="xfmg_all_selected_media_items_already_in_destination_album" version_id="902000037" version_string="2.0.0 Beta 7"><![CDATA[Seçilen tüm medya öğeleri zaten hedef albümde. Lütfen başka bir albüm seçin.]]></phrase>
+  <phrase title="xfmg_all_selected_media_items_already_in_destination_category" version_id="902000037" version_string="2.0.0 Beta 7"><![CDATA[Seçilen tüm medya öğeleri zaten hedef kategoride. Lütfen başka bir kategori seçin.]]></phrase>
+  <phrase title="xfmg_allowed_extensions" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[İzin verilen uzantılar]]></phrase>
+  <phrase title="xfmg_allowed_media_types" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[İzin verilen medya tipleri]]></phrase>
+  <phrase title="xfmg_allowed_media_types_explain" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yukarıda seçilen tipler yalnızca albüm ve medya kategorileri için geçerlidir.]]></phrase>
+  <phrase title="xfmg_allowed_types" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[İzin verilen tipler]]></phrase>
+  <phrase title="xfmg_always" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Her zaman]]></phrase>
+  <phrase title="xfmg_applicable_categories" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Geçerli kategoriler]]></phrase>
+  <phrase title="xfmg_approve_album" version_id="902000035" version_string="2.0.0 Beta 5"><![CDATA[Albümü onayla]]></phrase>
+  <phrase title="xfmg_approve_albums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albümleri onayla]]></phrase>
+  <phrase title="xfmg_approve_comments" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yorumları onayla]]></phrase>
+  <phrase title="xfmg_approve_media_item" version_id="902000035" version_string="2.0.0 Beta 5"><![CDATA[Medya öğesini onayla]]></phrase>
+  <phrase title="xfmg_approve_media_items" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya öğelerini onayla]]></phrase>
+  <phrase title="xfmg_at_least_x_comments" version_id="902020010" version_string="2.2.0 Alpha"><![CDATA[En az X yorum]]></phrase>
+  <phrase title="xfmg_audio" version_id="902000038" version_string="2.0.0 Beta 8"><![CDATA[Ses]]></phrase>
+  <phrase title="xfmg_auto_play" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Otomatik oynat]]></phrase>
+  <phrase title="xfmg_auto_play_hint" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kaydırıcı slaytları otomatik oynatır.]]></phrase>
+  <phrase title="xfmg_automatically_feature_media_items" version_id="902030036" version_string="2.3.0 Beta 6"><![CDATA[Medya öğelerini otomatik öne çıkar]]></phrase>
+  <phrase title="xfmg_automatically_feature_media_items_explain" version_id="902030036" version_string="2.3.0 Beta 6"><![CDATA[Etkinleştirilirse, bu kategoride yayınlanan medya öğeleri otomatik olarak öne çıkarılır.]]></phrase>
+  <phrase title="xfmg_batch_update_albums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albümleri toplu güncelle]]></phrase>
+  <phrase title="xfmg_batch_update_media" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medyayı toplu güncelle]]></phrase>
+  <phrase title="xfmg_below_media_item" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya öğesinin altı]]></phrase>
+  <phrase title="xfmg_bottom_of_media_info_block" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya bilgi bloğunun altı]]></phrase>
+  <phrase title="xfmg_browse_albums" version_id="902000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Albümlere gözat]]></phrase>
+  <phrase title="xfmg_can_add_media_items" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya öğesi ekleyebilir]]></phrase>
+  <phrase title="xfmg_can_view_media_items" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya öğelerini görüntüleyebilir]]></phrase>
+  <phrase title="xfmg_cannot_ascertain_correct_album_or_category_to_save_media_to" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medyayı kaydetmek için doğru albüm veya kategori belirlenemiyor.]]></phrase>
+  <phrase title="xfmg_cannot_create_media_note_without_tagged_username_or_note_text" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Etiketlenmiş kullanıcı adı veya not metni olmadan medya notu oluşturulamıyor.]]></phrase>
+  <phrase title="xfmg_cannot_delete_contents_without_album_id" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[album_id olmadan içerikler silinemiyor.]]></phrase>
+  <phrase title="xfmg_cannot_delete_contents_without_category_id" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[category_id olmadan içerikler silinemiyor.]]></phrase>
+  <phrase title="xfmg_cannot_find_watermark_image_at_provided_path" version_id="902000370" version_string="2.0.3"><![CDATA[Verilen yolda filigran görseli bulunamıyor.]]></phrase>
+  <phrase title="xfmg_cannot_move_album_into_non_album_category" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüm, albüm olmayan bir kategoriye taşınamaz.]]></phrase>
+  <phrase title="xfmg_canvas_drag_mode_crop" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Tuval sürükleme modu: Kırp]]></phrase>
+  <phrase title="xfmg_canvas_drag_mode_move" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Tuval sürükleme modu: Taşı]]></phrase>
+  <phrase title="xfmg_cat_type.album" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yalnızca albümler]]></phrase>
+  <phrase title="xfmg_cat_type.container" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yalnızca konteyner]]></phrase>
+  <phrase title="xfmg_cat_type.media" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yalnızca medya öğeleri]]></phrase>
+  <phrase title="xfmg_categories" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kategoriler]]></phrase>
+  <phrase title="xfmg_category" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kategori]]></phrase>
+  <phrase title="xfmg_category_contents" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kategori içerikleri]]></phrase>
+  <phrase title="xfmg_category_index_limit_explain" version_id="902020035" version_string="2.2.0 Beta 5"><![CDATA[Büyük bir kategoriniz varsa, kategori görünüm sayfanız yavaş yüklenebilir. Bu seçenek bunu hafifletmek için yalnızca son X günün medyasını gösterir. Seçenek işaretliyse ve burada bir değer ayarlandıysa, bu her zaman global seçenek değerini geçersiz kılar. Sınırsız için 0 olarak ayarlayın.]]></phrase>
+  <phrase title="xfmg_category_of_type_album_or_media_must_support_at_least_one_media_type" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA["albüm" veya "medya" tipindeki bir kategori en az bir medya tipini desteklemelidir.]]></phrase>
+  <phrase title="xfmg_category_permissions" version_id="902010131" version_string="2.1.1 Beta 1"><![CDATA[Kategori izinleri]]></phrase>
+  <phrase title="xfmg_category_type" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kategori tipi]]></phrase>
+  <phrase title="xfmg_category_type_change_explain" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kategori tipi yalnızca kategori boş olduğunda değiştirilebilir.]]></phrase>
+  <phrase title="xfmg_category_x_marked_as_viewed" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[{title} kategorisi görüntülendi olarak işaretlendi.]]></phrase>
+  <phrase title="xfmg_change_privacy" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Gizliliği değiştir]]></phrase>
+  <phrase title="xfmg_change_thumbnail" version_id="902000038" version_string="2.0.0 Beta 8"><![CDATA[Küçük resmi değiştir]]></phrase>
+  <phrase title="xfmg_change_watermark_explain" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Mevcut görsellerdeki filigranı değiştirmek için <a href="{link}">XFMG: Medya filigranlarını güncelle</a> işini çalıştırmanız gerekir.]]></phrase>
+  <phrase title="xfmg_change_who_can_add_media_items" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya öğesi ekleyebilenleri değiştir:]]></phrase>
+  <phrase title="xfmg_change_who_can_view_media_items" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya öğelerini görüntüleyebilenleri değiştir:]]></phrase>
+  <phrase title="xfmg_changing_privacy_in_this_way_will_overwrite_existing_privacy" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Gizlilik ayarlarını bu şekilde değiştirmek, seçilen albümlerdeki tüm mevcut gizlilik ayarlarının üzerine yazar.]]></phrase>
+  <phrase title="xfmg_choose_category" version_id="902000037" version_string="2.0.0 Beta 7"><![CDATA[Kategori seç]]></phrase>
+  <phrase title="xfmg_clear_selection" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Seçimi temizle]]></phrase>
+  <phrase title="xfmg_comment" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yorum]]></phrase>
+  <phrase title="xfmg_comment_by_x" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA['{user}' tarafından yorum]]></phrase>
+  <phrase title="xfmg_comment_by_x_in_album_y" version_id="902000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA['{title}' albümünde '{user}' tarafından yorum]]></phrase>
+  <phrase title="xfmg_comment_by_x_in_media_y" version_id="902000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA['{title}' medyasında '{user}' tarafından yorum]]></phrase>
+  <phrase title="xfmg_comment_count" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yorum sayısı]]></phrase>
+  <phrase title="xfmg_comment_count_between" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yorum sayısı aralığı]]></phrase>
+  <phrase title="xfmg_comment_on_album_x" version_id="902020032" version_string="2.2.0 Beta 2"><![CDATA['{title}' medya albümüne yorum]]></phrase>
+  <phrase title="xfmg_comment_on_album_x_by_y" version_id="902010010" version_string="2.1.0 Alpha"><![CDATA[<a href="{userLink}">{userName}</a> tarafından <a href="{albumLink}">{albumTitle}</a> medya albümüne yorum]]></phrase>
+  <phrase title="xfmg_comment_on_media_x" version_id="902020032" version_string="2.2.0 Beta 2"><![CDATA['{title}' medyasına yorum]]></phrase>
+  <phrase title="xfmg_comment_on_media_x_by_y" version_id="902010010" version_string="2.1.0 Alpha"><![CDATA[<a href="{userLink}">{userName}</a> tarafından <a href="{mediaLink}">{mediaTitle}</a> medyasına yorum]]></phrase>
+  <phrase title="xfmg_comment_reactions" version_id="902010010" version_string="2.1.0 Alpha"><![CDATA[Yorum tepkileri]]></phrase>
+  <phrase title="xfmg_comments" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yorumlar]]></phrase>
+  <phrase title="xfmg_comments_posted_on" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yorumların yayınlandığı yer]]></phrase>
+  <phrase title="xfmg_comments_this_album" version_id="902000370" version_string="2.0.3"><![CDATA[Yorumlar (bu albüm)]]></phrase>
+  <phrase title="xfmg_comments_this_media" version_id="902000370" version_string="2.0.3"><![CDATA[Yorumlar (bu medya öğesi)]]></phrase>
+  <phrase title="xfmg_confirm_deletion_of_x_items" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[{total} öğenin silinmesini onayla]]></phrase>
+  <phrase title="xfmg_container_categories_explain" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Konteyner kategoriler doğrudan albüm veya medya öğesi içeremeyen ancak alt kategorilerinden öğeleri görüntüleyen özel kategorilerdir.]]></phrase>
+  <phrase title="xfmg_container_list_only" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yalnızca konteyner listesi]]></phrase>
+  <phrase title="xfmg_copy_gallery_bb_code" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[GALLERY BB kodunu kopyala]]></phrase>
+  <phrase title="xfmg_copy_image_bb_code" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Görsel BB kodunu kopyala]]></phrase>
+  <phrase title="xfmg_copy_image_link" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Görsel bağlantısını kopyala]]></phrase>
+  <phrase title="xfmg_copy_media_bb_code" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[MEDIA BB kodunu kopyala]]></phrase>
+  <phrase title="xfmg_copy_url_bb_code_with_thumbnail" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Küçük resimli URL BB kodunu kopyala]]></phrase>
+  <phrase title="xfmg_could_not_execute_ffmpeg_at_path_specified" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Belirtilen yolda FFmpeg çalıştırılamadı.]]></phrase>
+  <phrase title="xfmg_could_not_find_ffmpeg_at_path_specified" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Belirtilen yolda FFmpeg bulunamadı.]]></phrase>
+  <phrase title="xfmg_create_album" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüm oluştur]]></phrase>
+  <phrase title="xfmg_create_date" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Oluşturma tarihi]]></phrase>
+  <phrase title="xfmg_create_personal_album" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kişisel albüm oluştur]]></phrase>
+  <phrase title="xfmg_crop_data_provided_indicates_there_no_valid_manipulations_to_apply" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Sağlanan kırpma verisi uygulanacak geçerli işlem olmadığını gösteriyor.]]></phrase>
+  <phrase title="xfmg_current_watermark" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Mevcut filigran:]]></phrase>
+  <phrase title="xfmg_date_added" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Eklenme tarihi]]></phrase>
+  <phrase title="xfmg_date_created" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Oluşturulma tarihi]]></phrase>
+  <phrase title="xfmg_delete_album" version_id="902000035" version_string="2.0.0 Beta 5"><![CDATA[Albümü sil]]></phrase>
+  <phrase title="xfmg_delete_albums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albümleri sil]]></phrase>
+  <phrase title="xfmg_delete_comment" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yorumu sil]]></phrase>
+  <phrase title="xfmg_delete_comments" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yorumları sil]]></phrase>
+  <phrase title="xfmg_delete_items" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Öğeleri sil]]></phrase>
+  <phrase title="xfmg_delete_media" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medyayı sil]]></phrase>
+  <phrase title="xfmg_delete_media_item" version_id="902000035" version_string="2.0.0 Beta 5"><![CDATA[Medya öğesini sil]]></phrase>
+  <phrase title="xfmg_delete_media_items" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya öğelerini sil]]></phrase>
+  <phrase title="xfmg_destination_category" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Hedef kategori]]></phrase>
+  <phrase title="xfmg_disk_usage" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Disk kullanımı]]></phrase>
+  <phrase title="xfmg_display_from_categories" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kategorilerden göster]]></phrase>
+  <phrase title="xfmg_display_from_personal_albums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kişisel albümlerden göster]]></phrase>
+  <phrase title="xfmg_display_from_personal_albums_hint" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yalnızca görüntülenebilir albümlerden medya gösterilir.]]></phrase>
+  <phrase title="xfmg_display_pager" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Sayfalayıcıyı göster]]></phrase>
+  <phrase title="xfmg_display_pager_hint" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kaydırıcının altında sayfalayıcı butonlarını göster.]]></phrase>
+  <phrase title="xfmg_display_personal_albums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kişisel albümleri göster]]></phrase>
+  <phrase title="xfmg_edit_album" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albümü düzenle]]></phrase>
+  <phrase title="xfmg_edit_comment" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yorumu düzenle]]></phrase>
+  <phrase title="xfmg_edit_image" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Görseli düzenle]]></phrase>
+  <phrase title="xfmg_edit_image_preview" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Görseli düzenle - Önizleme]]></phrase>
+  <phrase title="xfmg_edit_media_item" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya öğesini düzenle]]></phrase>
+  <phrase title="xfmg_embed_media" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medyayı göm]]></phrase>
+  <phrase title="xfmg_embeds" version_id="902000038" version_string="2.0.0 Beta 8"><![CDATA[Gömülenler]]></phrase>
+  <phrase title="xfmg_enable_responsive_slides" version_id="902000470" version_string="2.0.4"><![CDATA[Duyarlı slaytları etkinleştir]]></phrase>
+  <phrase title="xfmg_enable_responsive_slides_explain" version_id="902000470" version_string="2.0.4"><![CDATA[Aynı anda görüntülenen maksimum slayt sayısı görünüm boyutuna göre esnek olabilir. İşaretlenirse, belirli bir kırılma noktası için değeri değiştirmemek üzere alanları boş bırakın veya 0 olarak ayarlayın.]]></phrase>
+  <phrase title="xfmg_ensure_you_have_added_at_least_one_media_item_before_continuing" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Devam etmeden önce en az bir medya öğesi eklediğinizden emin olun.]]></phrase>
+  <phrase title="xfmg_enter_existing_album_url" version_id="902000037" version_string="2.0.0 Beta 7"><![CDATA[Mevcut albüm URL'sini girin:]]></phrase>
+  <phrase title="xfmg_enter_full_path_to_folder_containing_your_photopost_files" version_id="902010131" version_string="2.1.1 Beta 1"><![CDATA[Photopost dosyalarınızı içeren klasörün tam yolunu girin. Bu yol, medya öğelerini içe aktarmak için okunabilir olmalıdır.]]></phrase>
+  <phrase title="xfmg_enter_full_path_to_folder_containing_your_vbulletin_attachments" version_id="902010131" version_string="2.1.1 Beta 1"><![CDATA[vBulletin eklerinizi içeren klasörün tam yolunu girin. Bu yol, medya öğelerini içe aktarmak için okunabilir olmalıdır.]]></phrase>
+  <phrase title="xfmg_enter_path_to_ffmpeg_binary_on_this_server" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bu sunucudaki FFmpeg ikili yolunu girin. Bunu bazen <code>which ffmpeg</code> komutuyla bulabilirsiniz.]]></phrase>
+  <phrase title="xfmg_error_while_uploading_watermark_image" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Filigran görseli yüklenirken hata.]]></phrase>
+  <phrase title="xfmg_exif.aperture" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Diyafram]]></phrase>
+  <phrase title="xfmg_exif.date_taken" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Çekim tarihi]]></phrase>
+  <phrase title="xfmg_exif.device" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Cihaz]]></phrase>
+  <phrase title="xfmg_exif.dimensions" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Boyutlar]]></phrase>
+  <phrase title="xfmg_exif.exposure" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Pozlama süresi]]></phrase>
+  <phrase title="xfmg_exif.file_size" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Dosya boyutu]]></phrase>
+  <phrase title="xfmg_exif.filename" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Dosya adı]]></phrase>
+  <phrase title="xfmg_exif.flash" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Flaş]]></phrase>
+  <phrase title="xfmg_exif.flash_16" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kapalı, çakmadı]]></phrase>
+  <phrase title="xfmg_exif.flash_24" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Otomatik, çakmadı]]></phrase>
+  <phrase title="xfmg_exif.flash_25" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Otomatik, çaktı]]></phrase>
+  <phrase title="xfmg_exif.flash_8" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Açık, çakmadı]]></phrase>
+  <phrase title="xfmg_exif.flash_9" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Açık, çaktı]]></phrase>
+  <phrase title="xfmg_exif.focal" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Odak uzaklığı]]></phrase>
+  <phrase title="xfmg_exif.iso" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[ISO]]></phrase>
+  <phrase title="xfmg_existing_album" version_id="902000037" version_string="2.0.0 Beta 7"><![CDATA[Mevcut albüm]]></phrase>
+  <phrase title="xfmg_extra_info_block" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Ek bilgi bloğu]]></phrase>
+  <phrase title="xfmg_extra_information" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Ek bilgi]]></phrase>
+  <phrase title="xfmg_feature_media_item" version_id="902030031" version_string="2.3.0 Beta 1"><![CDATA[Medya öğesini öne çıkar]]></phrase>
+  <phrase title="xfmg_feature_media_items" version_id="902030036" version_string="2.3.0 Beta 6"><![CDATA[Medya öğelerini öne çıkar]]></phrase>
+  <phrase title="xfmg_featured_media" version_id="902030031" version_string="2.3.0 Beta 1"><![CDATA[Öne çıkan medya]]></phrase>
+  <phrase title="xfmg_ffmpeg_binary_path" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[FFmpeg ikili yolu]]></phrase>
+  <phrase title="xfmg_ffmpeg_generate_thumbnail_explain" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Etkinleştirilirse, mümkün olduğunda küçük resimler otomatik oluşturulur.]]></phrase>
+  <phrase title="xfmg_ffmpeg_has_access_to_neither_libvo_aacenc_codec_or_aac_codec" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[FFmpeg'in libvo_aacenc kodek veya aac kodek erişimi yok.]]></phrase>
+  <phrase title="xfmg_ffmpeg_transcode_limit_explain" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bu, aynı anda çalışmasına izin verilen maksimum kodlama işlemi sayısıdır. Sınıra ulaşıldığında sonraki kodlama işlemleri kuyruğa alınır.]]></phrase>
+  <phrase title="xfmg_ffmpeg_version_requirement" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[FFmpeg sürüm 1.1.0 veya üzeri gereklidir.]]></phrase>
+  <phrase title="xfmg_field_can_be_edited_while_adding_media" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya eklerken alan düzenlenebilir]]></phrase>
+  <phrase title="xfmg_field_can_be_used_in_personal_albums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Alan kişisel albümlerde kullanılabilir]]></phrase>
+  <phrase title="xfmg_file_you_have_uploaded_is_x_which_exceeds_your_storage_quota" version_id="902000036" version_string="2.0.0 Beta 6"><![CDATA[Yüklediğiniz dosya {size} ve depolama kotanızı aşıyor, yüklenemez. {remaining} kalan alanınız var.]]></phrase>
+  <phrase title="xfmg_files_path" version_id="902010131" version_string="2.1.1 Beta 1"><![CDATA[Dosya yolu]]></phrase>
+  <phrase title="xfmg_filter_own" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kendi]]></phrase>
+  <phrase title="xfmg_filter_unviewed" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Görüntülenmemiş]]></phrase>
+  <phrase title="xfmg_flip_horizontally" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yatay çevir]]></phrase>
+  <phrase title="xfmg_flip_vertically" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Dikey çevir]]></phrase>
+  <phrase title="xfmg_force_transcoding_of_all_videos" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Tüm videoların kodlanmasını zorla]]></phrase>
+  <phrase title="xfmg_force_transcoding_of_all_videos_hint" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bir videoyu kodlamak ayrıca elde edilen dosyayı akış için sıkıştırır ve optimize eder. Bu, yükleme sürelerini ve dosya boyutunu azaltır. Bu seçenek işaretlendiğinde, yüklenen tüm videolar kodlanır.]]></phrase>
+  <phrase title="xfmg_gallery_comment" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Galeri yorumu]]></phrase>
+  <phrase title="xfmg_gallery_statistics" version_id="902020370" version_string="2.2.3"><![CDATA[Galeri istatistikleri]]></phrase>
+  <phrase title="xfmg_generate_posters" version_id="902020010" version_string="2.2.0 Alpha"><![CDATA[Posterler oluştur]]></phrase>
+  <phrase title="xfmg_generate_posters_explain" version_id="902020032" version_string="2.2.0 Beta 2"><![CDATA[Etkinleştirilirse, mümkün olduğunda daha yüksek çözünürlüklü bir küçük resim otomatik oluşturulur. Bu, ses veya video oynatılmaya başlamadan önce gösterilir.]]></phrase>
+  <phrase title="xfmg_generate_thumbnails" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Küçük resimler oluştur]]></phrase>
+  <phrase title="xfmg_if_you_wish_to_leave_comment_with_this_rating_enter_message_above" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bu puanla birlikte yorum bırakmak istiyorsanız yukarıya bir mesaj girin. Puan ve yorum genel olarak görüntülenir.]]></phrase>
+  <phrase title="xfmg_image_metadata" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Görsel meta verisi]]></phrase>
+  <phrase title="xfmg_images" version_id="902000038" version_string="2.0.0 Beta 8"><![CDATA[Görseller]]></phrase>
+  <phrase title="xfmg_inline_moderation_delete_albums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Satır içi moderasyon - Albümleri sil]]></phrase>
+  <phrase title="xfmg_inline_moderation_delete_comments" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Satır içi moderasyon - Yorumları sil]]></phrase>
+  <phrase title="xfmg_inline_moderation_delete_media_items" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Satır içi moderasyon - Medya öğelerini sil]]></phrase>
+  <phrase title="xfmg_inline_moderation_move_albums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Satır içi moderasyon - Albümleri taşı]]></phrase>
+  <phrase title="xfmg_inline_moderation_move_media_items" version_id="902000037" version_string="2.0.0 Beta 7"><![CDATA[Satır içi moderasyon - Medya öğelerini taşı]]></phrase>
+  <phrase title="xfmg_inline_moderation_unwatermark_media_items" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Satır içi moderasyon - Medya öğelerinden filigranı kaldır]]></phrase>
+  <phrase title="xfmg_inline_moderation_watermark_media_items" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Satır içi moderasyon - Medya öğelerine filigran ekle]]></phrase>
+  <phrase title="xfmg_item_count" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Öğe sayısı]]></phrase>
+  <phrase title="xfmg_items" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Öğeler]]></phrase>
+  <phrase title="xfmg_items_displayed_on_page_displayed_from_child_categories" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bu sayfada görüntülenen öğeler alt kategorilerden gösteriliyor.]]></phrase>
+  <phrase title="xfmg_latest_albums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[En son albümler]]></phrase>
+  <phrase title="xfmg_latest_comments" version_id="902020010" version_string="2.2.0 Alpha"><![CDATA[En son yorumlar]]></phrase>
+  <phrase title="xfmg_latest_comments_limit" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[En son yorumlar sınırı]]></phrase>
+  <phrase title="xfmg_latest_comments_limit_explain" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bu widget'ta gösterilmesi gereken maksimum galeri yorumu sayısını belirtin.]]></phrase>
+  <phrase title="xfmg_latest_media" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[En son medya]]></phrase>
+  <phrase title="xfmg_latest_media_comments" version_id="902000038" version_string="2.0.0 Beta 8"><![CDATA[En son medya yorumları]]></phrase>
+  <phrase title="xfmg_leave_comment" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yorum bırak]]></phrase>
+  <phrase title="xfmg_libx264_encoder_is_required_for_transcoding_video" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Video kodlaması için 'libx264' kodlayıcısı gereklidir.]]></phrase>
+  <phrase title="xfmg_loop_slides" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Slaytları döngüde oynat]]></phrase>
+  <phrase title="xfmg_loop_slides_hint" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Sonuna ulaşıldığında kaydırıcının başa dönmesine izin ver.]]></phrase>
+  <phrase title="xfmg_manage_watched_albums" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[İzlenen albümleri yönet]]></phrase>
+  <phrase title="xfmg_manage_watched_media" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[İzlenen medyayı yönet]]></phrase>
+  <phrase title="xfmg_mark_media_viewed" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medyayı görüntülendi olarak işaretle]]></phrase>
+  <phrase title="xfmg_mark_viewed" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Görüntülendi olarak işaretle]]></phrase>
+  <phrase title="xfmg_matched" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Eşleşti]]></phrase>
+  <phrase title="xfmg_max_dimensions" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Maks. boyutlar]]></phrase>
+  <phrase title="xfmg_max_file_size" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Maks. dosya boyutu]]></phrase>
+  <phrase title="xfmg_max_height" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Maks. yükseklik]]></phrase>
+  <phrase title="xfmg_max_width" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Maks. genişlik]]></phrase>
+  <phrase title="xfmg_maximum_slides" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Maksimum slayt]]></phrase>
+  <phrase title="xfmg_maximum_slides_explain" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bu, aynı anda gösterilecek maksimum slayt sayısıdır.]]></phrase>
+  <phrase title="xfmg_media" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya]]></phrase>
+  <phrase title="xfmg_media_added_by_x" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[{name} tarafından eklenen medya]]></phrase>
+  <phrase title="xfmg_media_categories" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya kategorileri]]></phrase>
+  <phrase title="xfmg_media_category" version_id="902000037" version_string="2.0.0 Beta 7"><![CDATA[Medya kategorisi]]></phrase>
+  <phrase title="xfmg_media_category_permissions" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya kategori izinleri]]></phrase>
+  <phrase title="xfmg_media_category_x" version_id="902020032" version_string="2.2.0 Beta 2" global_cache="1"><![CDATA[Medya kategorisi '{title}']]></phrase>
+  <phrase title="xfmg_media_comment" version_id="902010010" version_string="2.1.0 Alpha"><![CDATA[Medya yorumu]]></phrase>
+  <phrase title="xfmg_media_comments" version_id="902000036" version_string="2.0.0 Beta 6"><![CDATA[Medya yorumları]]></phrase>
+  <phrase title="xfmg_media_count" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya sayısı]]></phrase>
+  <phrase title="xfmg_media_disk_usage_mb" version_id="902000036" version_string="2.0.0 Beta 6"><![CDATA[Medya disk kullanımı (MB)]]></phrase>
+  <phrase title="xfmg_media_fields" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya alanları]]></phrase>
+  <phrase title="xfmg_media_information" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya bilgileri]]></phrase>
+  <phrase title="xfmg_media_item" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya öğesi]]></phrase>
+  <phrase title="xfmg_media_item_is_contained_within_deleted_album" version_id="902000035" version_string="2.0.0 Beta 5"><![CDATA[Medya öğesi silinmiş bir albüm içinde bulunuyor.]]></phrase>
+  <phrase title="xfmg_media_item_is_deleted" version_id="902000035" version_string="2.0.0 Beta 5"><![CDATA[Medya öğesi silinmiş.]]></phrase>
+  <phrase title="xfmg_media_items" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya öğeleri]]></phrase>
+  <phrase title="xfmg_media_mirror_category_id" version_id="902020010" version_string="2.2.0 Alpha"><![CDATA[Ekleri medya kategorisine yansıt]]></phrase>
+  <phrase title="xfmg_media_mirror_category_id_explain" version_id="902020010" version_string="2.2.0 Alpha"><![CDATA[Bu forumda yayınlanan eklerden seçilen kategoride otomatik medya öğeleri oluşturulur. Medya, orijinal eki görüntüleyip görüntüleyemediklerine bakılmaksızın bu kategoriyi görüntüleyebilen herkes için erişilebilir olur.]]></phrase>
+  <phrase title="xfmg_media_note" version_id="902010170" version_string="2.1.1"><![CDATA[Medya notu]]></phrase>
+  <phrase title="xfmg_media_notes" version_id="902010131" version_string="2.1.1 Beta 1"><![CDATA[Medya notları]]></phrase>
+  <phrase title="xfmg_media_owner" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya sahibi]]></phrase>
+  <phrase title="xfmg_media_posters" version_id="902020010" version_string="2.2.0 Alpha"><![CDATA[Medya posterleri]]></phrase>
+  <phrase title="xfmg_media_ratings" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya puanları]]></phrase>
+  <phrase title="xfmg_media_reactions" version_id="902010010" version_string="2.1.0 Alpha"><![CDATA[Medya tepkileri]]></phrase>
+  <phrase title="xfmg_media_this_album" version_id="902000370" version_string="2.0.3"><![CDATA[Medya (bu albüm)]]></phrase>
+  <phrase title="xfmg_media_this_category" version_id="902000370" version_string="2.0.3"><![CDATA[Medya (bu kategori)]]></phrase>
+  <phrase title="xfmg_media_thumbnails" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya küçük resimleri]]></phrase>
+  <phrase title="xfmg_media_type" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Medya tipi]]></phrase>
+  <phrase title="xfmg_media_type.audio" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Ses dosyaları]]></phrase>
+  <phrase title="xfmg_media_type.embed" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Gömülenler]]></phrase>
+  <phrase title="xfmg_media_type.image" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Görseller]]></phrase>
+  <phrase title="xfmg_media_type.video" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Videolar]]></phrase>
+  <phrase title="xfmg_media_watermarks" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya filigranları]]></phrase>
+  <phrase title="xfmg_media_x" version_id="902000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Medya '{media}']]></phrase>
+  <phrase title="xfmg_media_x_in_album_y" version_id="902010010" version_string="2.1.0 Alpha" global_cache="1"><![CDATA['{album}' albümünde '{title}' medyası]]></phrase>
+  <phrase title="xfmg_media_x_in_category_y" version_id="902000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA['{category}' kategorisinde '{title}' medyası]]></phrase>
+  <phrase title="xfmg_media_x_new_watched_album" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[{media} - İzlenen albümde yeni medya öğesi]]></phrase>
+  <phrase title="xfmg_media_x_new_watched_category" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[{media} - İzlenen kategoride yeni medya öğesi]]></phrase>
+  <phrase title="xfmg_media_x_posted_in_album_y" version_id="902010010" version_string="2.1.0 Alpha"><![CDATA[<a href="{albumLink}">{albumTitle}</a> albümünde <a href="{mediaLink}">{mediaTitle}</a> yayınlandı]]></phrase>
+  <phrase title="xfmg_media_x_posted_in_category_y" version_id="902010170" version_string="2.1.1"><![CDATA[<a href="{catLink}">{catTitle}</a> kategorisinde <a href="{mediaLink}">{mediaTitle}</a> yayınlandı]]></phrase>
+  <phrase title="xfmg_medium" version_id="902000470" version_string="2.0.4"><![CDATA[Orta]]></phrase>
+  <phrase title="xfmg_members_who_have_reacted_to_comment_by_x" version_id="902010010" version_string="2.1.0 Alpha"><![CDATA[{user} tarafından yapılan yoruma tepki veren üyeler]]></phrase>
+  <phrase title="xfmg_members_who_rated_this" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bunu puanlayan üyeler]]></phrase>
+  <phrase title="xfmg_members_who_reacted_to_album" version_id="902030036" version_string="2.3.0 Beta 6"><![CDATA['{title}' albümüne tepki veren üyeler]]></phrase>
+  <phrase title="xfmg_members_who_reacted_to_media" version_id="902010010" version_string="2.1.0 Alpha"><![CDATA['{title}' medyasına tepki veren üyeler]]></phrase>
+  <phrase title="xfmg_minimum_required_tags_explain" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bu, kullanıcıların medya eklerken veya mevcut medyada etiket düzenlerken en az bu kadar etiket girmesini gerektirir.]]></phrase>
+  <phrase title="xfmg_mirror_node_ids" version_id="902020010" version_string="2.2.0 Alpha"><![CDATA[Forumlardan ekleri yansıt]]></phrase>
+  <phrase title="xfmg_mirror_node_ids_explain" version_id="902020010" version_string="2.2.0 Alpha"><![CDATA[Seçilen forumlarda yayınlanan ekler için otomatik medya öğeleri oluşturulur. Medya bu kategoriyi görüntüleyebilen herkes için erişilebilir olacak, dolayısıyla özel forumları seçmeyin!]]></phrase>
+  <phrase title="xfmg_move" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Taşı]]></phrase>
+  <phrase title="xfmg_move_album" version_id="902000035" version_string="2.0.0 Beta 5"><![CDATA[Albümü taşı]]></phrase>
+  <phrase title="xfmg_move_albums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albümleri taşı]]></phrase>
+  <phrase title="xfmg_move_media_item" version_id="902000035" version_string="2.0.0 Beta 5"><![CDATA[Medya öğesini taşı]]></phrase>
+  <phrase title="xfmg_move_media_item_to" version_id="902000037" version_string="2.0.0 Beta 7"><![CDATA[Medya öğesini şuraya taşı]]></phrase>
+  <phrase title="xfmg_move_media_items" version_id="902000037" version_string="2.0.0 Beta 7"><![CDATA[Medya öğelerini taşı]]></phrase>
+  <phrase title="xfmg_must_be_album_category_or_select_no_category_to_make_albums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüm kategorisi olmalı veya albüm(ler)i kategorisiz (kişisel albümler) yapmak için 'Kategori yok' seçin.]]></phrase>
+  <phrase title="xfmg_narrow" version_id="902000470" version_string="2.0.4"><![CDATA[Dar]]></phrase>
+  <phrase title="xfmg_new_comment" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Yeni yorum]]></phrase>
+  <phrase title="xfmg_new_comment_on_watched_album" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[İzlenen albüme yeni yorum]]></phrase>
+  <phrase title="xfmg_new_comment_on_watched_media_item" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[İzlenen medya öğesine yeni yorum]]></phrase>
+  <phrase title="xfmg_new_comments" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Yeni yorumlar]]></phrase>
+  <phrase title="xfmg_new_comments_only" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Yalnızca yeni yorumlar]]></phrase>
+  <phrase title="xfmg_new_media" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yeni medya]]></phrase>
+  <phrase title="xfmg_new_media_comments" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yeni medya yorumları]]></phrase>
+  <phrase title="xfmg_new_media_item" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Yeni medya öğesi]]></phrase>
+  <phrase title="xfmg_new_media_items" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yeni medya öğeleri]]></phrase>
+  <phrase title="xfmg_new_media_items_and_comments" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Yeni medya öğeleri ve yorumlar]]></phrase>
+  <phrase title="xfmg_new_media_items_only" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Yalnızca yeni medya öğeleri]]></phrase>
+  <phrase title="xfmg_new_sidebar_block" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yeni yan panel bloğu]]></phrase>
+  <phrase title="xfmg_new_thumbnail_could_not_be_processed" version_id="902000038" version_string="2.0.0 Beta 8"><![CDATA[Yeni küçük resim işlenemedi. Lütfen başka bir görsel deneyin.]]></phrase>
+  <phrase title="xfmg_no_album_could_be_found_with_id_x" version_id="902000037" version_string="2.0.0 Beta 7"><![CDATA[{album_id} ID'sine sahip hiçbir albüm bulunamadı.]]></phrase>
+  <phrase title="xfmg_no_album_id_could_be_found_from_that_url" version_id="902000037" version_string="2.0.0 Beta 7"><![CDATA[Bu URL'den hiçbir albüm ID'si bulunamadı.]]></phrase>
+  <phrase title="xfmg_no_albums_have_been_added_yet" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Henüz hiç albüm eklenmemiş.]]></phrase>
+  <phrase title="xfmg_no_albums_have_been_added_yet_which_you_can_add_media_to" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Henüz medya ekleyebileceğiniz hiçbir albüm eklenmemiş.]]></phrase>
+  <phrase title="xfmg_no_category" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kategori yok]]></phrase>
+  <phrase title="xfmg_no_items_have_been_added_yet" version_id="902000036" version_string="2.0.0 Beta 6"><![CDATA[Henüz hiç öğe eklenmemiş.]]></phrase>
+  <phrase title="xfmg_no_media_has_been_added_to_this_album_which_matches_your_filters" version_id="902000038" version_string="2.0.0 Beta 8"><![CDATA[Bu albüme filtrelerinize uyan hiç medya eklenmemiş.]]></phrase>
+  <phrase title="xfmg_no_media_has_been_added_to_this_album_yet" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bu albüme henüz hiç medya eklenmemiş.]]></phrase>
+  <phrase title="xfmg_no_media_has_been_added_yet" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Henüz hiç medya eklenmemiş.]]></phrase>
+  <phrase title="xfmg_no_media_or_albums_have_been_added_to_this_category_yet" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bu kategoriye henüz hiç medya veya albüm eklenmemiş.]]></phrase>
+  <phrase title="xfmg_no_one_has_rated_this_content_yet" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bu içeriği henüz hiç kimse puanlamamış.]]></phrase>
+  <phrase title="xfmg_not_watermarked" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Filigransız]]></phrase>
+  <phrase title="xfmg_note_by" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Not yazan]]></phrase>
+  <phrase title="xfmg_note_has_been_saved_successfully" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Not başarıyla kaydedildi.]]></phrase>
+  <phrase title="xfmg_note_tag_mode_activated" version_id="902000053" version_string="2.0.0 Release Candidate 3"><![CDATA[Not/etiket modu etkin]]></phrase>
+  <phrase title="xfmg_note_tag_mode_deactivated" version_id="902000053" version_string="2.0.0 Release Candidate 3"><![CDATA[Not/etiket modu devre dışı]]></phrase>
+  <phrase title="xfmg_notify_members_watching_destination_category" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Hedef kategoriyi izleyen üyeleri bilgilendir]]></phrase>
+  <phrase title="xfmg_number_of_albums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüm sayısı]]></phrase>
+  <phrase title="xfmg_number_of_media_items" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya öğesi sayısı]]></phrase>
+  <phrase title="xfmg_number_of_media_items_explain" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bu, kaydırıcıya yüklenecek toplam medya öğesi sayısıdır.]]></phrase>
+  <phrase title="xfmg_one_or_more_of_your_videos_needs_to_be_processed" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yüklenen öğelerinizden bir veya daha fazlasının galeriye eklenebilmesi için işlenmesi gerekiyor. Her öğenin işlenmesi bittiğinde bir uyarı alacaksınız.]]></phrase>
+  <phrase title="xfmg_only_categories_which_contain_media_items_only_available" version_id="902000037" version_string="2.0.0 Beta 7"><![CDATA[Yalnızca "Yalnızca medya öğeleri" içeren kategoriler kullanılabilir. Medya öğesini bir albüme taşımak için aşağıdaki seçeneği kullanın.]]></phrase>
+  <phrase title="xfmg_only_images_can_be_manipulated" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yalnızca görseller işlenebilir.]]></phrase>
+  <phrase title="xfmg_only_include_albums_with" version_id="902020010" version_string="2.2.0 Alpha"><![CDATA[Yalnızca şuna sahip albümleri dahil et]]></phrase>
+  <phrase title="xfmg_only_include_comments_with" version_id="902020010" version_string="2.2.0 Alpha"><![CDATA[Yalnızca şuna sahip yorumları dahil et]]></phrase>
+  <phrase title="xfmg_only_include_media_items_with" version_id="902020010" version_string="2.2.0 Alpha"><![CDATA[Yalnızca şuna sahip medya öğelerini dahil et]]></phrase>
+  <phrase title="xfmg_only_non_animated_images_can_be_watermarked" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Yalnızca animasyonsuz görsellere filigran eklenebilir.]]></phrase>
+  <phrase title="xfmg_only_show_media_added_within_last_x_days" version_id="902020035" version_string="2.2.0 Beta 5"><![CDATA[Yalnızca son X gün içinde eklenen medyayı göster]]></phrase>
+  <phrase title="xfmg_originally_posted_in_x" version_id="902020010" version_string="2.2.0 Alpha"><![CDATA[Orijinal olarak şurada yayınlandı: <a href="{link}">{title}</a>]]></phrase>
+  <phrase title="xfmg_others_albums" version_id="902000036" version_string="2.0.0 Beta 6"><![CDATA[Başkalarının albümleri]]></phrase>
+  <phrase title="xfmg_others_media" version_id="902000036" version_string="2.0.0 Beta 6"><![CDATA[Başkalarının medyası]]></phrase>
+  <phrase title="xfmg_owned_by" version_id="902000038" version_string="2.0.0 Beta 8"><![CDATA[Sahibi:]]></phrase>
+  <phrase title="xfmg_page_is_within_categories" version_id="902010013" version_string="2.1.0 Preview 3"><![CDATA[Sayfa medya kategorileri içinde]]></phrase>
+  <phrase title="xfmg_pasted_text_does_not_appear_to_be_valid_url" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yapıştırılan metin geçerli bir URL gibi görünmüyor.]]></phrase>
+  <phrase title="xfmg_path_provided_was_not_valid" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Verilen yol geçerli değil.]]></phrase>
+  <phrase title="xfmg_path_to_files_directory" version_id="902010131" version_string="2.1.1 Beta 1"><![CDATA[Dosyalar dizini yolu]]></phrase>
+  <phrase title="xfmg_pause_on_hover" version_id="902020370" version_string="2.2.3"><![CDATA[Üzerine gelince duraklat]]></phrase>
+  <phrase title="xfmg_pause_on_hover_hint" version_id="902020370" version_string="2.2.3"><![CDATA[Otomatik oynatma etkinse, kaydırıcının üzerine gelindiğinde duraklat.]]></phrase>
+  <phrase title="xfmg_personal_album_can_use_advanced_privacy_settings" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kişisel albüm gelişmiş gizlilik ayarlarını kullanabilir ve hiçbir kategoride görünmez.]]></phrase>
+  <phrase title="xfmg_photopost_attempt_match_explain" version_id="902010131" version_string="2.1.1 Beta 1"><![CDATA[Photopost kullanıcı adını ve e-posta adresini bu forumdaki mevcut bir kullanıcıyla eşleştirmeye çalış.]]></phrase>
+  <phrase title="xfmg_photopost_forum" version_id="902010131" version_string="2.1.1 Beta 1"><![CDATA[Forum]]></phrase>
+  <phrase title="xfmg_photopost_forum_explain" version_id="902010131" version_string="2.1.1 Beta 1"><![CDATA[Photopost daha sonra bu foruma içe aktarılan başka bir forum yazılımıyla (XenForo değil) entegre edildi. Forum içe aktarma günlüğü gerekli.]]></phrase>
+  <phrase title="xfmg_photopost_forum_integration" version_id="902010131" version_string="2.1.1 Beta 1"><![CDATA[Forum entegrasyonu]]></phrase>
+  <phrase title="xfmg_photopost_integration_source" version_id="902010131" version_string="2.1.1 Beta 1"><![CDATA[Photopost entegrasyon kaynağı]]></phrase>
+  <phrase title="xfmg_photopost_integration_source_must_be_configured" version_id="902010131" version_string="2.1.1 Beta 1"><![CDATA[Photopost entegrasyon kaynağı yapılandırılmalıdır.]]></phrase>
+  <phrase title="xfmg_photopost_internal" version_id="902010131" version_string="2.1.1 Beta 1"><![CDATA[Dahili]]></phrase>
+  <phrase title="xfmg_photopost_internal_explain" version_id="902010131" version_string="2.1.1 Beta 1"><![CDATA[Photopost entegre edilmedi ve kullanıcı detayları Photopost'un içinde saklandı. Mevcut bir kullanıcıyla eşleşme denemesi yoksa veya kullanıcı bulunamazsa, içerik bir misafir kullanıcıya atfedilir.]]></phrase>
+  <phrase title="xfmg_photopost_xenforo_explain" version_id="902010131" version_string="2.1.1 Beta 1"><![CDATA[Photopost bir XenForo kurulumuyla entegre edildi. Forum içe aktarma günlüğü sağlanmazsa, Photopost'taki kullanıcı ID'lerinin bu forumdakilerle eşleştiği varsayılır.]]></phrase>
+  <phrase title="xfmg_photopost_xenforo_integration" version_id="902010131" version_string="2.1.1 Beta 1"><![CDATA[XenForo entegrasyonu]]></phrase>
+  <phrase title="xfmg_php_binary_path" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[PHP ikili yolu]]></phrase>
+  <phrase title="xfmg_php_binary_path_could_not_be_verified" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[PHP ikili yolu doğrulanamadı.]]></phrase>
+  <phrase title="xfmg_please_confirm_that_you_want_to_set_your_avatar_to_following" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen avatarınızı şu şekilde ayarlamak istediğinizi onaylayın]]></phrase>
+  <phrase title="xfmg_please_select_star_rating" version_id="902000670" version_string="2.0.6"><![CDATA[Lütfen yıldız puanı seçin.]]></phrase>
+  <phrase title="xfmg_png_encoder_is_required_for_generating_thumbnails" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Küçük resim oluşturma için 'png' kodlayıcısı gereklidir.]]></phrase>
+  <phrase title="xfmg_problem_occurred_while_creating_temp_media" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Geçici medya oluşturulurken bir sorun oluştu. Lütfen başka bir URL deneyin.]]></phrase>
+  <phrase title="xfmg_push_alert_x_tagged_you_in_media_y_approval" version_id="902010010" version_string="2.1.0 Alpha"><![CDATA[{user}, {item} medyasında sizi etiketledi. Bunu onaylamak için hesabınızı ziyaret edin.]]></phrase>
+  <phrase title="xfmg_random_albums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Rastgele albümler]]></phrase>
+  <phrase title="xfmg_random_media" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Rastgele medya]]></phrase>
+  <phrase title="xfmg_rate" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Puanla]]></phrase>
+  <phrase title="xfmg_rating" version_id="902010170" version_string="2.1.1"><![CDATA[Puan]]></phrase>
+  <phrase title="xfmg_rating_your_own_content_is_considered_cheating" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kendi içeriğinizi puanlamak hile sayılır.]]></phrase>
+  <phrase title="xfmg_ratings" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Puanlar]]></phrase>
+  <phrase title="xfmg_rebuild_album_thumbnails" version_id="902000036" version_string="2.0.0 Beta 6"><![CDATA[Albüm küçük resimlerini yeniden oluştur]]></phrase>
+  <phrase title="xfmg_rebuild_albums" version_id="902000036" version_string="2.0.0 Beta 6"><![CDATA[Albümleri yeniden oluştur]]></phrase>
+  <phrase title="xfmg_rebuild_categories" version_id="902000036" version_string="2.0.0 Beta 6"><![CDATA[Kategorileri yeniden oluştur]]></phrase>
+  <phrase title="xfmg_rebuild_media_items" version_id="902000036" version_string="2.0.0 Beta 6"><![CDATA[Medya öğelerini yeniden oluştur]]></phrase>
+  <phrase title="xfmg_rebuild_media_posters" version_id="902020010" version_string="2.2.0 Alpha"><![CDATA[Medya posterlerini yeniden oluştur]]></phrase>
+  <phrase title="xfmg_rebuild_media_thumbnails" version_id="902000036" version_string="2.0.0 Beta 6"><![CDATA[Medya küçük resimlerini yeniden oluştur]]></phrase>
+  <phrase title="xfmg_rebuild_user_counts" version_id="902000036" version_string="2.0.0 Beta 6"><![CDATA[Kullanıcı sayılarını yeniden oluştur]]></phrase>
+  <phrase title="xfmg_rebuild_user_media_quotas" version_id="902000036" version_string="2.0.0 Beta 6"><![CDATA[Kullanıcı medya kotalarını yeniden oluştur]]></phrase>
+  <phrase title="xfmg_remaining_storage" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kalan depolama]]></phrase>
+  <phrase title="xfmg_remove_watermark" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Filigranı kaldır]]></phrase>
+  <phrase title="xfmg_requested_album_not_found" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[İstenen albüm bulunamadı.]]></phrase>
+  <phrase title="xfmg_requested_category_not_found" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[İstenen kategori bulunamadı.]]></phrase>
+  <phrase title="xfmg_requested_comment_not_found" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[İstenen yorum bulunamadı.]]></phrase>
+  <phrase title="xfmg_requested_media_item_not_found" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[İstenen medya öğesi bulunamadı.]]></phrase>
+  <phrase title="xfmg_rotate_left" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Sola döndür]]></phrase>
+  <phrase title="xfmg_rotate_right" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Sağa döndür]]></phrase>
+  <phrase title="xfmg_rss_feed_for_all_media_from_x" version_id="902010370" version_string="2.1.3"><![CDATA[{board} sitesinden tüm medya için RSS akışı]]></phrase>
+  <phrase title="xfmg_rss_feed_for_all_media_in_album_x" version_id="902010370" version_string="2.1.3"><![CDATA[{album} albümündeki tüm medya için RSS akışı]]></phrase>
+  <phrase title="xfmg_rss_feed_for_all_media_in_category_x" version_id="902010370" version_string="2.1.3"><![CDATA[{category} kategorisindeki tüm medya için RSS akışı]]></phrase>
+  <phrase title="xfmg_search_albums" version_id="902010013" version_string="2.1.0 Preview 3"><![CDATA[Albümlerde ara]]></phrase>
+  <phrase title="xfmg_search_child_categories_as_well" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Alt kategorilerde de ara]]></phrase>
+  <phrase title="xfmg_search_in_categories" version_id="902010013" version_string="2.1.0 Preview 3"><![CDATA[Kategorilerde ara]]></phrase>
+  <phrase title="xfmg_search_media" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medyada ara]]></phrase>
+  <phrase title="xfmg_search_media_comments" version_id="902000031" version_string="2.0.0 Beta 1"><![CDATA[Medya yorumlarında ara]]></phrase>
+  <phrase title="xfmg_selected_container_does_not_support_this_media_type" version_id="902000038" version_string="2.0.0 Beta 8"><![CDATA[Seçilen albüm/kategori bu medya tipini desteklemiyor.]]></phrase>
+  <phrase title="xfmg_set_as_avatar" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Avatar olarak ayarla]]></phrase>
+  <phrase title="xfmg_share_this_album" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bu albümü paylaş]]></phrase>
+  <phrase title="xfmg_share_this_media" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bu medyayı paylaş]]></phrase>
+  <phrase title="xfmg_soft_delete_items" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Öğeleri geçici sil]]></phrase>
+  <phrase title="xfmg_specific_category" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Belirli kategori]]></phrase>
+  <phrase title="xfmg_stop_adding_note_tag" version_id="902000053" version_string="2.0.0 Release Candidate 3"><![CDATA[Not/etiket eklemeyi durdur]]></phrase>
+  <phrase title="xfmg_stop_notification_emails_from_all_albums" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Tüm albümlerden bildirim e-postalarını durdur]]></phrase>
+  <phrase title="xfmg_stop_notification_emails_from_all_media" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Tüm medyadan bildirim e-postalarını durdur]]></phrase>
+  <phrase title="xfmg_stop_watching_albums" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Albümleri izlemeyi bırak]]></phrase>
+  <phrase title="xfmg_stop_watching_media" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Medyayı izlemeyi bırak]]></phrase>
+  <phrase title="xfmg_sync_attachment_media_mirroring" version_id="902020010" version_string="2.2.0 Alpha"><![CDATA[Ek medya yansıtmayı senkronize et]]></phrase>
+  <phrase title="xfmg_sync_attachment_media_mirroring_explain" version_id="902020010" version_string="2.2.0 Alpha"><![CDATA[Bunu çalıştırmak ek medya yansıtmalarını mevcut ayarlarla eşleştirmek için günceller. Bu, ek medya öğeleri oluşturabilir, artık geçerli olmayanları kaldırabilir veya mevcut olanları farklı bir kategoriye taşıyabilir.]]></phrase>
+  <phrase title="xfmg_tag_user" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bir kullanıcıyı etiketle]]></phrase>
+  <phrase title="xfmg_tagged_in_this_image" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bu görselde etiketli]]></phrase>
+  <phrase title="xfmg_there_is_no_media_matching_your_filters" version_id="902000038" version_string="2.0.0 Beta 8"><![CDATA[Filtrelerinize uyan medya yok.]]></phrase>
+  <phrase title="xfmg_there_is_no_media_or_albums_matching_your_filters" version_id="902000038" version_string="2.0.0 Beta 8"><![CDATA[Filtrelerinize uyan medya veya albüm yok.]]></phrase>
+  <phrase title="xfmg_there_more_comments_to_display" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Görüntülenecek daha fazla yorum var.]]></phrase>
+  <phrase title="xfmg_there_no_albums_matching_your_filters" version_id="902000038" version_string="2.0.0 Beta 8"><![CDATA[Filtrelerinize uyan albüm yok.]]></phrase>
+  <phrase title="xfmg_there_no_comments_to_display" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Görüntülenecek yorum yok.]]></phrase>
+  <phrase title="xfmg_there_no_media_items_to_display" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Görüntülenecek medya öğesi yok.]]></phrase>
+  <phrase title="xfmg_this_file_is_not_encoded_in_supported_format_and_cannot_be_transcoded" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bu dosya desteklenen bir formatta kodlanmamış ve kodlama yapılamıyor. Lütfen başka bir dosya yükleyin.]]></phrase>
+  <phrase title="xfmg_this_is_total_number_of_albums_that_will_be_loaded_in_slider" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bu, kaydırıcıya yüklenecek toplam albüm sayısıdır.]]></phrase>
+  <phrase title="xfmg_this_media_needs_to_be_processed_before_it_can_be_added_to_gallery" version_id="902000270" version_string="2.0.2"><![CDATA[Bu medyanın galeriye eklenebilmesi için işlenmesi gerekiyor. İşleme bitince bir uyarı alacaksınız.]]></phrase>
+  <phrase title="xfmg_this_rating_will_replace_your_previous_rating" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bu puan önceki puanınızın yerini alacak.]]></phrase>
+  <phrase title="xfmg_this_will_also_update_poster_image_for_this_media_item" version_id="902020010" version_string="2.2.0 Alpha"><![CDATA[<strong>Not:</strong> Bu, bu medya öğesinin poster görselini de günceller.]]></phrase>
+  <phrase title="xfmg_thumbnail_type_default_hint" version_id="902000038" version_string="2.0.0 Beta 8"><![CDATA[Seçilirse, bu seçenek mevcut küçük resmi yeniden oluşturur. Özel bir küçük resim yüklendiyse silinir.]]></phrase>
+  <phrase title="xfmg_time_limit_to_delete_this_album_x_minutes_has_expired" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bu albümü silme zaman sınırı ({editLimit} dakika) doldu.]]></phrase>
+  <phrase title="xfmg_time_limit_to_delete_this_comment_x_minutes_has_expired" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bu yorumu silme zaman sınırı ({editLimit} dakika) doldu.]]></phrase>
+  <phrase title="xfmg_time_limit_to_delete_this_media_x_minutes_has_expired" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bu medyayı silme zaman sınırı ({editLimit} dakika) doldu.]]></phrase>
+  <phrase title="xfmg_time_limit_to_edit_this_album_x_minutes_has_expired" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bu albümü düzenleme zaman sınırı ({editLimit} dakika) doldu.]]></phrase>
+  <phrase title="xfmg_time_limit_to_edit_this_comment_x_minutes_has_expired" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bu yorumu düzenleme zaman sınırı ({editLimit} dakika) doldu.]]></phrase>
+  <phrase title="xfmg_time_limit_to_edit_this_media_x_minutes_has_expired" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bu medyayı düzenleme zaman sınırı ({editLimit} dakika) doldu.]]></phrase>
+  <phrase title="xfmg_to_transcode_media_we_need_to_defer_processing_to_command_line" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medyayı kodlamak için işlemeyi belirtilen PHP ikili tarafından yürütülecek bir komut satırı betiğine ertelememiz gerekir. Bunu bazen <code>which php</code> komutuyla bulabilirsiniz.]]></phrase>
+  <phrase title="xfmg_total_comments" version_id="902000036" version_string="2.0.0 Beta 6"><![CDATA[Toplam yorum]]></phrase>
+  <phrase title="xfmg_transcode_limit" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kodlama sınırı]]></phrase>
+  <phrase title="xfmg_transcode_media" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medyayı kodla]]></phrase>
+  <phrase title="xfmg_transcode_media_explain" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Etkinleştirilirse, bu, gerektiğinde medyayı H.264 / AAC / MP3'e kodlayarak daha fazla format desteklemenize olanak tanır.]]></phrase>
+  <phrase title="xfmg_transcoded_item_by_x_named_y_failed_creation" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[{username} tarafından yüklenen {title} adlı kodlanmış medya öğesi oluşturulamadı.]]></phrase>
+  <phrase title="xfmg_transcoded_item_by_x_named_y_failed_transcoding" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[{username} tarafından yüklenen {title} adlı medya öğesi kodlanamadı.]]></phrase>
+  <phrase title="xfmg_unable_to_edit_selected_image" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Seçilen görsel düzenlenemiyor. Lütfen tekrar deneyin.]]></phrase>
+  <phrase title="xfmg_unapprove_albums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albüm onayını kaldır]]></phrase>
+  <phrase title="xfmg_unapprove_comments" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yorum onayını kaldır]]></phrase>
+  <phrase title="xfmg_unapprove_media_items" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya öğesi onayını kaldır]]></phrase>
+  <phrase title="xfmg_undelete_albums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albümleri geri yükle]]></phrase>
+  <phrase title="xfmg_undelete_comments" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yorumları geri yükle]]></phrase>
+  <phrase title="xfmg_undelete_media_items" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya öğelerini geri yükle]]></phrase>
+  <phrase title="xfmg_unfeature_media_items" version_id="902030036" version_string="2.3.0 Beta 6"><![CDATA[Medya öğesi öne çıkarmasını kaldır]]></phrase>
+  <phrase title="xfmg_unread_comments" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Okunmamış yorumlar]]></phrase>
+  <phrase title="xfmg_unviewed_media" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Görüntülenmemiş medya]]></phrase>
+  <phrase title="xfmg_unwatch_album" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Albümü izlemeyi bırak]]></phrase>
+  <phrase title="xfmg_unwatch_media_item" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Medya öğesini izlemeyi bırak]]></phrase>
+  <phrase title="xfmg_unwatermark_items" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Öğelerden filigranı kaldır]]></phrase>
+  <phrase title="xfmg_unwatermark_media_items" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Medya öğelerinden filigranı kaldır]]></phrase>
+  <phrase title="xfmg_update_items" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Öğeleri güncelle]]></phrase>
+  <phrase title="xfmg_update_media_watermarks" version_id="902000036" version_string="2.0.0 Beta 6"><![CDATA[Medya filigranlarını güncelle]]></phrase>
+  <phrase title="xfmg_upload_file" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Dosya yükle]]></phrase>
+  <phrase title="xfmg_upload_new_custom_thumbnail" version_id="902000038" version_string="2.0.0 Beta 8"><![CDATA[Yeni özel küçük resim yükle:]]></phrase>
+  <phrase title="xfmg_uploaded_media" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yüklenen medya]]></phrase>
+  <phrase title="xfmg_use_custom_thumbnail" version_id="902000038" version_string="2.0.0 Beta 8"><![CDATA[Özel küçük resim kullan]]></phrase>
+  <phrase title="xfmg_use_default_thumbnail" version_id="902000038" version_string="2.0.0 Beta 8"><![CDATA[Varsayılan küçük resim kullan]]></phrase>
+  <phrase title="xfmg_user_album_index" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı albüm dizini]]></phrase>
+  <phrase title="xfmg_user_album_indexes" version_id="902010170" version_string="2.1.1"><![CDATA[Kullanıcı albüm dizinleri]]></phrase>
+  <phrase title="xfmg_user_has_added_at_least_x_media_items" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı en az X medya öğesi eklemiş]]></phrase>
+  <phrase title="xfmg_user_has_created_at_least_x_albums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı en az X albüm oluşturmuş]]></phrase>
+  <phrase title="xfmg_user_media_index" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı medya dizini]]></phrase>
+  <phrase title="xfmg_user_media_indexes" version_id="902010170" version_string="2.1.1"><![CDATA[Kullanıcı medya dizinleri]]></phrase>
+  <phrase title="xfmg_user_media_quotas" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı medya kotaları]]></phrase>
+  <phrase title="xfmg_using_x_of_your_y_quota" version_id="902000037" version_string="2.0.0 Beta 7"><![CDATA[Kotanızın {total} kadarından {quota} kullanıyorsunuz.]]></phrase>
+  <phrase title="xfmg_videos" version_id="902000038" version_string="2.0.0 Beta 8"><![CDATA[Videolar]]></phrase>
+  <phrase title="xfmg_view_album" version_id="902020010" version_string="2.2.0 Alpha"><![CDATA[Albümü görüntüle]]></phrase>
+  <phrase title="xfmg_view_album_x" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[{id} albümünü görüntüle]]></phrase>
+  <phrase title="xfmg_view_count" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Görüntüleme sayısı]]></phrase>
+  <phrase title="xfmg_view_media" version_id="902020010" version_string="2.2.0 Alpha"><![CDATA[Medyayı görüntüle]]></phrase>
+  <phrase title="xfmg_view_media_item" version_id="902020010" version_string="2.2.0 Alpha"><![CDATA[Medya öğesini görüntüle]]></phrase>
+  <phrase title="xfmg_view_media_item_x" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[{id} medya öğesini görüntüle]]></phrase>
+  <phrase title="xfmg_view_this_album" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Bu albümü görüntüle]]></phrase>
+  <phrase title="xfmg_view_this_media_item" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bu medya öğesini görüntüle]]></phrase>
+  <phrase title="xfmg_view_users_explain" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yukarıya medya öğelerini görüntülemesine izin verilen üyelerin adlarını girin. Albüm sahibine her zaman otomatik olarak izin verilir.]]></phrase>
+  <phrase title="xfmg_viewing_album" version_id="902000036" version_string="2.0.0 Beta 6"><![CDATA[Albümü görüntülüyor]]></phrase>
+  <phrase title="xfmg_viewing_albums" version_id="902000036" version_string="2.0.0 Beta 6"><![CDATA[Albümleri görüntülüyor]]></phrase>
+  <phrase title="xfmg_viewing_media_category" version_id="902000036" version_string="2.0.0 Beta 6"><![CDATA[Medya kategorisini görüntülüyor]]></phrase>
+  <phrase title="xfmg_viewing_media_item" version_id="902000036" version_string="2.0.0 Beta 6"><![CDATA[Medya öğesini görüntülüyor]]></phrase>
+  <phrase title="xfmg_viewing_media_items" version_id="902000036" version_string="2.0.0 Beta 6"><![CDATA[Medya öğelerini görüntülüyor]]></phrase>
+  <phrase title="xfmg_watch_album" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Albümü izle]]></phrase>
+  <phrase title="xfmg_watch_media_item" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Medya öğesini izle]]></phrase>
+  <phrase title="xfmg_watched_album_comment_email_html" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[<p>{author}, {board_title} sitesinde izlediğiniz bir albüme yorum yaptı.</p>]]></phrase>
+  <phrase title="xfmg_watched_album_email_html_footer" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[<p class="minorText">Lütfen bu mesaja cevap vermeyin. Cevaplamak için forumu ziyaret etmelisiniz.</p>
+
+<p class="minorText">Bu mesaj size, {board} sitesindeki "{album}" medya öğesini yeni medya öğeleri veya yeni yorumların e-posta bildirimi ile izlemeyi tercih ettiğiniz için gönderildi.</p>
+
+<p class="minorText">Bu e-postaları artık almak istemiyorsanız, <a href="{disable_this_link}">bu albümden e-postaları devre dışı bırakabilir</a> veya <a href="{disable_all_link}">tüm e-postaları devre dışı bırakabilirsiniz</a>.</p>]]></phrase>
+  <phrase title="xfmg_watched_album_media_email_html" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[<p>{author}, {board} sitesinde izlediğiniz bir albüme medya öğesi ekledi.</p>]]></phrase>
+  <phrase title="xfmg_watched_albums" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[İzlenen albümler]]></phrase>
+  <phrase title="xfmg_watched_category_email_html_footer" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[<p class="minorText">Lütfen bu mesaja cevap vermeyin. Cevaplamak için forumu ziyaret etmelisiniz.</p>
+
+<p class="minorText">Bu mesaj size, {board} sitesindeki "{category}" kategorisini yeni medya öğelerinin e-posta bildirimi ile izlemeyi tercih ettiğiniz için gönderildi.</p>
+
+<p class="minorText">Bu e-postaları artık almak istemiyorsanız, <a href="{disable_this_link}">bu kategoriden e-postaları devre dışı bırakabilir</a> veya <a href="{disable_all_link}">tüm e-postaları devre dışı bırakabilirsiniz</a>.</p>]]></phrase>
+  <phrase title="xfmg_watched_category_media_email_html" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[<p>{author}, {board} sitesinde izlediğiniz bir kategoriye medya öğesi ekledi.</p>]]></phrase>
+  <phrase title="xfmg_watched_media" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[İzlenen medya]]></phrase>
+  <phrase title="xfmg_watched_media_comment_email_html" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[<p>{author}, {board_title} sitesinde izlediğiniz bir medya öğesine yorum yaptı.</p>]]></phrase>
+  <phrase title="xfmg_watched_media_email_html_footer" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[<p class="minorText">Lütfen bu mesaja cevap vermeyin. Cevaplamak için forumu ziyaret etmelisiniz.</p>
+
+<p class="minorText">Bu mesaj size, {board} sitesindeki "{media}" medya öğesini yeni yorumların e-posta bildirimi ile izlemeyi tercih ettiğiniz için gönderildi.</p>
+
+<p class="minorText">Bu e-postaları artık almak istemiyorsanız, <a href="{disable_this_link}">bu medya öğesinden e-postaları devre dışı bırakabilir</a> veya <a href="{disable_all_link}">tüm e-postaları devre dışı bırakabilirsiniz</a>.</p>]]></phrase>
+  <phrase title="xfmg_watermark" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Filigran]]></phrase>
+  <phrase title="xfmg_watermark_items" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Öğelere filigran ekle]]></phrase>
+  <phrase title="xfmg_watermark_media_items" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Medya öğelerine filigran ekle]]></phrase>
+  <phrase title="xfmg_watermark_state" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Filigran durumu]]></phrase>
+  <phrase title="xfmg_watermarked" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Filigranlı]]></phrase>
+  <phrase title="xfmg_watermarking_is_not_enabled" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Filigran uygulama etkin değil.]]></phrase>
+  <phrase title="xfmg_wide" version_id="902000470" version_string="2.0.4"><![CDATA[Geniş]]></phrase>
+  <phrase title="xfmg_write_note" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bir not yaz]]></phrase>
+  <phrase title="xfmg_x_added_media_item_y" version_id="902000032" version_string="2.0.0 Beta 2"><![CDATA[{name}, {title} medya öğesini ekledi.]]></phrase>
+  <phrase title="xfmg_x_added_media_item_y_to_album_z" version_id="902000036" version_string="2.0.0 Beta 6"><![CDATA[{username}, {title} medya öğesini {album} albümüne ekledi.]]></phrase>
+  <phrase title="xfmg_x_added_media_item_y_to_category_z" version_id="902000036" version_string="2.0.0 Beta 6"><![CDATA[{username}, {title} medya öğesini {category} kategorisine ekledi.]]></phrase>
+  <phrase title="xfmg_x_commented_on_album_y" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[{user}, {album} albümüne yorum yaptı.]]></phrase>
+  <phrase title="xfmg_x_commented_on_media_y" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[{user}, {media} medya öğesine yorum yaptı.]]></phrase>
+  <phrase title="xfmg_x_created_album_y" version_id="902000036" version_string="2.0.0 Beta 6"><![CDATA[{username}, {title} albümünü oluşturdu.]]></phrase>
+  <phrase title="xfmg_x_created_album_y_in_category_z" version_id="902000036" version_string="2.0.0 Beta 6"><![CDATA[{username}, {category} içinde {title} albümünü oluşturdu.]]></phrase>
+  <phrase title="xfmg_x_has_not_added_any_albums_which_match_your_filters" version_id="902000038" version_string="2.0.0 Beta 8"><![CDATA[{name} filtrelerinize uyan hiç albüm eklememiş.]]></phrase>
+  <phrase title="xfmg_x_has_not_added_any_albums_yet" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[{name} henüz hiç albüm eklememiş.]]></phrase>
+  <phrase title="xfmg_x_has_not_added_any_media_which_matches_your_filters" version_id="902000038" version_string="2.0.0 Beta 8"><![CDATA[{name} filtrelerinize uyan hiç medya eklememiş.]]></phrase>
+  <phrase title="xfmg_x_has_not_added_any_media_yet" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[{name} henüz hiç medya eklememiş.]]></phrase>
+  <phrase title="xfmg_x_mentioned_you_in_comment_on_album_y" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[{user}, {album} albümüne yapılan yorumda sizden bahsetti.]]></phrase>
+  <phrase title="xfmg_x_mentioned_you_in_comment_on_media_y" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[{user}, {media} medya öğesine yapılan yorumda sizden bahsetti.]]></phrase>
+  <phrase title="xfmg_x_mentioned_you_on_album_y" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[{user}, {album} albümünde sizden bahsetti.]]></phrase>
+  <phrase title="xfmg_x_mentioned_you_on_media_y" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[{user}, {media} medya öğesinde sizden bahsetti.]]></phrase>
+  <phrase title="xfmg_x_posted_comment_on_album_y" version_id="902000036" version_string="2.0.0 Beta 6"><![CDATA[{username}, {title} albümüne yorum yaptı.]]></phrase>
+  <phrase title="xfmg_x_posted_comment_on_media_item_y" version_id="902000036" version_string="2.0.0 Beta 6"><![CDATA[{username}, {title} medya öğesine yorum yaptı.]]></phrase>
+  <phrase title="xfmg_x_quoted_your_comment_on_album_y" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[{user}, {album} albümündeki yorumunuzdan alıntı yaptı.]]></phrase>
+  <phrase title="xfmg_x_quoted_your_comment_on_media_y" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[{user}, {media} medya öğesindeki yorumunuzdan alıntı yaptı.]]></phrase>
+  <phrase title="xfmg_x_rated_album_y" version_id="902000036" version_string="2.0.0 Beta 6"><![CDATA[{username}, {title} albümünü puanladı.]]></phrase>
+  <phrase title="xfmg_x_rated_media_item_y" version_id="902000036" version_string="2.0.0 Beta 6"><![CDATA[{username}, {title} medya öğesini puanladı.]]></phrase>
+  <phrase title="xfmg_x_reacted_to_your_album_y" version_id="902010010" version_string="2.1.0 Alpha"><![CDATA[{user}, {item} albümünüze {reaction} ile tepki verdi.]]></phrase>
+  <phrase title="xfmg_x_reacted_to_your_comment_on_album_y" version_id="902010010" version_string="2.1.0 Alpha"><![CDATA[{user}, {album} albümündeki yorumunuza {reaction} ile tepki verdi.]]></phrase>
+  <phrase title="xfmg_x_reacted_to_your_comment_on_media_y" version_id="902010010" version_string="2.1.0 Alpha"><![CDATA[{user}, {media} medya öğesindeki yorumunuza {reaction} ile tepki verdi.]]></phrase>
+  <phrase title="xfmg_x_reacted_to_your_media_y" version_id="902010010" version_string="2.1.0 Alpha"><![CDATA[{user}, {item} medyanıza {reaction} ile tepki verdi.]]></phrase>
+  <phrase title="xfmg_x_reacted_to_ys_album_z" version_id="902010010" version_string="2.1.0 Alpha"><![CDATA[{user}, {author} adlı kullanıcının {item} albümüne {reaction} ile tepki verdi.]]></phrase>
+  <phrase title="xfmg_x_reacted_to_ys_comment_on_album_z" version_id="902010010" version_string="2.1.0 Alpha"><![CDATA[{user}, {author} adlı kullanıcının {album} albümündeki yorumuna {reaction} ile tepki verdi.]]></phrase>
+  <phrase title="xfmg_x_reacted_to_ys_comment_on_media_z" version_id="902010010" version_string="2.1.0 Alpha"><![CDATA[{user}, {author} adlı kullanıcının {media} medya öğesindeki yorumuna {reaction} ile tepki verdi.]]></phrase>
+  <phrase title="xfmg_x_reacted_to_ys_media_z" version_id="902010010" version_string="2.1.0 Alpha"><![CDATA[{user}, {author} adlı kullanıcının {item} medyasına {reaction} ile tepki verdi.]]></phrase>
+  <phrase title="xfmg_x_reviewed_album_y" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[{username}, {title} albümünü değerlendirdi.]]></phrase>
+  <phrase title="xfmg_x_reviewed_media_item_y" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[{username}, {title} medya öğesini değerlendirdi.]]></phrase>
+  <phrase title="xfmg_x_seconds" version_id="902010570" version_string="2.1.5" global_cache="1"><![CDATA[{count} saniye]]></phrase>
+  <phrase title="xfmg_x_shared_their_album_y_add" version_id="902000033" version_string="2.0.0 Beta 3"><![CDATA[{user}, {item} albümünü sizinle paylaştı ve şimdi ona medya ekleyebilirsiniz.]]></phrase>
+  <phrase title="xfmg_x_shared_their_album_y_view" version_id="902000033" version_string="2.0.0 Beta 3"><![CDATA[{user}, {item} albümünü sizinle paylaştı.]]></phrase>
+  <phrase title="xfmg_x_tagged_you_in_media_y" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[{user}, {item} medyasında sizi etiketledi.]]></phrase>
+  <phrase title="xfmg_x_tagged_you_in_media_y_approval" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[{user}, {item} medyasında sizi etiketledi. Bu etiketi {approve} veya {reject} edebilirsiniz.]]></phrase>
+  <phrase title="xfmg_you_can_embed_media_from_various_bb_code_media_sites" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Çeşitli BB kodu medya sitelerinden medya gömebilirsiniz]]></phrase>
+  <phrase title="xfmg_you_can_not_add_media_to_container_categories" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Konteyner kategorilere medya ekleyemezsiniz.]]></phrase>
+  <phrase title="xfmg_you_do_not_have_permission_to_add_media_to_this_album" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Bu albüme medya ekleme izniniz yok.]]></phrase>
+  <phrase title="xfmg_you_do_not_have_permission_to_add_media_to_this_category" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bu kategoriye medya ekleme izniniz yok.]]></phrase>
+  <phrase title="xfmg_you_have_no_unread_comments" version_id="902000033" version_string="2.0.0 Beta 3"><![CDATA[Okunmamış yorumunuz yok. Bunun yerine <a href="{link}" rel="nofollow">tüm en son yorumları okuyabilirsiniz</a>.]]></phrase>
+  <phrase title="xfmg_you_have_no_unviewed_media" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Görüntülenmemiş medyanız yok. Bunun yerine <a href="{link}" rel="nofollow">tüm en son medyayı görüntüleyebilirsiniz</a>.]]></phrase>
+  <phrase title="xfmg_you_may_only_import_from_xenforo_media_gallery_x" version_id="902010131" version_string="2.1.1 Beta 1"><![CDATA[Yalnızca XenForo Media Gallery {version} sürümünden içe aktarabilirsiniz.]]></phrase>
+  <phrase title="xfmg_you_must_specify_title_to_create_new_album_for_these_media_items" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bu medya öğeleri için yeni bir albüm oluşturmak üzere devam etmeden önce bir başlık belirtmelisiniz.]]></phrase>
+  <phrase title="xfmg_you_not_watching_any_albums" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Hiçbir albümü izlemiyorsunuz.]]></phrase>
+  <phrase title="xfmg_you_not_watching_any_media_items" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Hiçbir medya öğesini izlemiyorsunuz.]]></phrase>
+  <phrase title="xfmg_you_only_permitted_to_tag_yourself_in_this_media_item" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bu medya öğesinde yalnızca kendinizi etiketlemenize izin verilir.]]></phrase>
+  <phrase title="xfmg_you_required_to_leave_comment_when_rating" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Puanlarken yorum bırakmanız gerekiyor.]]></phrase>
+  <phrase title="xfmg_you_sure_you_want_to_add_watermark_to_x_media_items" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[{total} medya öğesine filigran eklemek istediğinizden emin misiniz?]]></phrase>
+  <phrase title="xfmg_you_sure_you_want_to_change_privacy_of_x_albums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[{total} albümün gizliliğini değiştirmek istediğinizden emin misiniz?]]></phrase>
+  <phrase title="xfmg_you_sure_you_want_to_delete_x_albums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[{total} albümü silmek istediğinizden emin misiniz?]]></phrase>
+  <phrase title="xfmg_you_sure_you_want_to_delete_x_comments" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[{total} yorumu silmek istediğinizden emin misiniz?]]></phrase>
+  <phrase title="xfmg_you_sure_you_want_to_delete_x_media_items" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[{total} medya öğesini silmek istediğinizden emin misiniz?]]></phrase>
+  <phrase title="xfmg_you_sure_you_want_to_mark_all_media_viewed" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Tüm medyayı görüntülendi olarak işaretlemek istediğinizden emin misiniz?]]></phrase>
+  <phrase title="xfmg_you_sure_you_want_to_mark_this_album_viewed" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bu albümü görüntülendi olarak işaretlemek istediğinizden emin misiniz?]]></phrase>
+  <phrase title="xfmg_you_sure_you_want_to_mark_this_category_viewed" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Bu kategoriyi görüntülendi olarak işaretlemek istediğinizden emin misiniz?]]></phrase>
+  <phrase title="xfmg_you_sure_you_want_to_move_x_albums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[{total} albümü taşımak istediğinizden emin misiniz?]]></phrase>
+  <phrase title="xfmg_you_sure_you_want_to_move_x_media_items" version_id="902000037" version_string="2.0.0 Beta 7"><![CDATA[{total} medya öğesini taşımak istediğinizden emin misiniz?]]></phrase>
+  <phrase title="xfmg_you_sure_you_want_to_remove_watermark_from_x_media_items" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[{total} medya öğesinden filigranı kaldırmak istediğinizden emin misiniz?]]></phrase>
+  <phrase title="xfmg_you_sure_you_want_to_stop_watching_all_albums" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[<b>Tüm</b> albümleri izlemeyi bırakmak istediğinizden emin misiniz?]]></phrase>
+  <phrase title="xfmg_you_sure_you_want_to_stop_watching_all_media" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[<b>Tüm</b> medyayı izlemeyi bırakmak istediğinizden emin misiniz?]]></phrase>
+  <phrase title="xfmg_you_sure_you_want_to_unwatch_this_album" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Bu albümü izlemeyi bırakmak istediğinizden emin misiniz?]]></phrase>
+  <phrase title="xfmg_you_sure_you_want_to_unwatch_this_media_item" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Bu medya öğesini izlemeyi bırakmak istediğinizden emin misiniz?]]></phrase>
+  <phrase title="xfmg_you_sure_you_want_to_update_your_alert_settings_all_albums" version_id="902010970" version_string="2.1.9"><![CDATA[<b>Tüm</b> albümler için uyarı ayarlarınızı güncellemek istediğinizden emin misiniz?]]></phrase>
+  <phrase title="xfmg_you_sure_you_want_to_update_your_alert_settings_all_media" version_id="902010970" version_string="2.1.9"><![CDATA[<b>Tüm</b> medya için uyarı ayarlarınızı güncellemek istediğinizden emin misiniz?]]></phrase>
+  <phrase title="xfmg_you_sure_you_want_to_update_your_email_notification_settings_all_albums" version_id="902010970" version_string="2.1.9"><![CDATA[<b>Tüm</b> albümler için e-posta bildirim ayarlarınızı güncellemek istediğinizden emin misiniz?]]></phrase>
+  <phrase title="xfmg_you_sure_you_want_to_update_your_email_notification_settings_all_media" version_id="902010970" version_string="2.1.9"><![CDATA[<b>Tüm</b> medya için e-posta bildirim ayarlarınızı güncellemek istediğinizden emin misiniz?]]></phrase>
+  <phrase title="xfmg_you_will_be_shown_list_of_all_albums_that_you_can_add_media_to" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medya ekleyebileceğiniz tüm albümlerin bir listesi gösterilir.]]></phrase>
+  <phrase title="xfmg_your_album_x_was_deleted" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[{title} albümünüz silindi.]]></phrase>
+  <phrase title="xfmg_your_album_x_was_edited" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[{title} albümünüz düzenlendi.]]></phrase>
+  <phrase title="xfmg_your_album_x_was_moved" version_id="902000470" version_string="2.0.4"><![CDATA[{title} albümünüz taşındı.]]></phrase>
+  <phrase title="xfmg_your_albums" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Albümleriniz]]></phrase>
+  <phrase title="xfmg_your_comment_has_been_added" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yorumunuz eklendi.]]></phrase>
+  <phrase title="xfmg_your_comment_on_album_x_was_deleted" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[{title} albümündeki yorumunuz silindi.]]></phrase>
+  <phrase title="xfmg_your_comment_on_album_x_was_edited" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[{title} albümündeki yorumunuz düzenlendi.]]></phrase>
+  <phrase title="xfmg_your_comment_on_media_x_was_deleted" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[{title} medya öğesindeki yorumunuz silindi.]]></phrase>
+  <phrase title="xfmg_your_comment_on_media_x_was_edited" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[{title} medya öğesindeki yorumunuz düzenlendi.]]></phrase>
+  <phrase title="xfmg_your_media" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Medyanız]]></phrase>
+  <phrase title="xfmg_your_media_item_x_was_moved" version_id="902000051" version_string="2.0.0 Release Candidate 1"><![CDATA[{title} medya öğeniz taşındı.]]></phrase>
+  <phrase title="xfmg_your_media_x_was_deleted" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[{title} medyanız silindi.]]></phrase>
+  <phrase title="xfmg_your_media_x_was_edited" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[{title} medyanız düzenlendi.]]></phrase>
+  <phrase title="xfmg_your_rating_has_been_added" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Puanınız eklendi.]]></phrase>
+  <phrase title="xfmg_your_reply_to_album_x_was_submitted" version_id="902020010" version_string="2.2.0 Alpha"><![CDATA[{title} albümüne cevabınız gönderildi.]]></phrase>
+  <phrase title="xfmg_your_reply_to_media_item_x_was_submitted" version_id="902020010" version_string="2.2.0 Alpha"><![CDATA[{title} medya öğesine cevabınız gönderildi.]]></phrase>
+  <phrase title="xfmg_your_statistics" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[İstatistikleriniz]]></phrase>
+  <phrase title="xfmg_your_usage" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Kullanımınız]]></phrase>
+  <phrase title="xfmg_zoom_in" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Yakınlaştır]]></phrase>
+  <phrase title="xfmg_zoom_out" version_id="902000010" version_string="2.0.0 Alpha"><![CDATA[Uzaklaştır]]></phrase>
+</phrases>

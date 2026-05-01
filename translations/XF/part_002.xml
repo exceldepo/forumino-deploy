@@ -1,0 +1,300 @@
+  <phrase title="analyze" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Analiz et]]></phrase>
+  <phrase title="analyze_permissions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İzinleri analiz et]]></phrase>
+  <phrase title="analyze_permissions_description" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Bu araç, bir kullanıcı için bir izin kümesini oluşturan bireysel bileşenleri analiz etmenizi sağlar. Özellikle bir iznin neden beklediğiniz gibi uygulanmadığını belirlemek için kullanışlıdır.]]></phrase>
+  <phrase title="analyzing_icon_usage" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[İkon kullanımı analiz ediliyor]]></phrase>
+  <phrase title="and_receive_email_notifications" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[ve e-posta bildirimleri alın]]></phrase>
+  <phrase title="anonymous" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Anonim]]></phrase>
+  <phrase title="another_username_change_superseded_this_request" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Başka bir kullanıcı adı değişikliği bu isteğin yerini aldı.]]></phrase>
+  <phrase title="answer" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Yanıt]]></phrase>
+  <phrase title="answers" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yanıtlar]]></phrase>
+  <phrase title="any" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Herhangi]]></phrase>
+  <phrase title="any_applications_using_old_client_secret_value_will_not_function" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Eski istemci sırrı değerini kullanan uygulamalar, yeni istemci sırrı ile güncellenene kadar düzgün çalışmayacak.]]></phrase>
+  <phrase title="any_resolution_rejection_alert_text_will_be_appended_to_comment" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir çözüm/red uyarı metni, mevcut yoruma otomatik olarak eklenecek.]]></phrase>
+  <phrase title="any_time" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir zaman]]></phrase>
+  <phrase title="api" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[API]]></phrase>
+  <phrase title="api_error.api_disabled" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[API bir yönetici tarafından devre dışı bırakıldı.]]></phrase>
+  <phrase title="api_error.api_key_inactive" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[İstekte sağlanan API anahtarı artık etkin değil.]]></phrase>
+  <phrase title="api_error.api_key_not_found" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[İstekte sağlanan API anahtarı bulunamadı.]]></phrase>
+  <phrase title="api_error.attachment_key_context_wrong" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Sağlanan ek anahtarı beklenen bağlama sahip değil.]]></phrase>
+  <phrase title="api_error.attachment_key_type_wrong" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Sağlanan ek anahtarı beklenen içerik türüne sahip değil.]]></phrase>
+  <phrase title="api_error.attachment_key_unknown" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Sağlanan ek anahtarı bulunamadı.]]></phrase>
+  <phrase title="api_error.attachment_key_user_wrong" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Sağlanan ek anahtarı beklenen kullanıcıya sahip değil.]]></phrase>
+  <phrase title="api_error.endpoint_not_found" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[İstenen uç nokta bulunamadı.]]></phrase>
+  <phrase title="api_error.missing_scope" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Bu istek aşağıdaki kapsama erişim gerektiriyor: {scope}]]></phrase>
+  <phrase title="api_error.no_api_key_in_request" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[İstekte API anahtarı yer almıyor.]]></phrase>
+  <phrase title="api_error.server_error_occurred" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[API isteği sırasında bir sunucu hatası oluştu. Lütfen daha sonra tekrar deneyin.]]></phrase>
+  <phrase title="api_error.user_id_not_allowed" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Kullanıcı ID'sinin bu API anahtarını kullanmasına izin verilmiyor.]]></phrase>
+  <phrase title="api_error.user_id_not_valid" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Sağlanan kullanıcı ID'si geçerli değil.]]></phrase>
+  <phrase title="api_key" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[API anahtarı]]></phrase>
+  <phrase title="api_key_change_body_html" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[<p>{username},</p>
+
+<p>{changer} az önce "{key}" API anahtarını güncelledi veya oluşturdu. API anahtarları, sitenize programlı olarak erişmek ve değişiklik yapmak için kullanılabilir. Yalnızca süper yöneticiler API anahtarlarını yönetebilir.</p>
+
+<p>Bu değişiklik meşru değilse, API anahtarı derhal silinmeli ve tüm yönetici hesaplarının güvenli olduğundan emin olmak için adımlar atılmalıdır. Mevcut API anahtarları <a href="{link}">yönetim kontrol panelinizde</a> yönetilebilir.</p>
+
+<p>Tüm süper yöneticiler bu değişiklik hakkında otomatik olarak bilgilendirildi.</p>]]></phrase>
+  <phrase title="api_key_change_subject" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{board} - API anahtarı değişti]]></phrase>
+  <phrase title="api_key_copied_to_clipboard" version_id="2010053" version_string="2.1.0 Release Candidate 3"><![CDATA[API anahtarı panoya kopyalandı.]]></phrase>
+  <phrase title="api_key_details" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[API anahtarı detayları]]></phrase>
+  <phrase title="api_key_is_active" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[API anahtarı etkin]]></phrase>
+  <phrase title="api_key_x_created_or_updated_key_use_follows" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA["{title}" API anahtarı oluşturuldu veya güncellendi. API ile kullanılacak anahtar aşağıdadır:]]></phrase>
+  <phrase title="api_keys" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[API anahtarları]]></phrase>
+  <phrase title="api_scope.alert_read" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Etkin kullanıcının uyarılarını görüntülemeyi kapsar. Ayrıca bu uyarıların okundu/okunmadı olarak işaretlenmesini içerir.]]></phrase>
+  <phrase title="api_scope.alert_write" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Özel kullanıcı uyarıları oluşturmayı kapsar. Yalnızca süper kullanıcı anahtarları için geçerlidir.]]></phrase>
+  <phrase title="api_scope.attachment_delete" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Ekleri silmeyi kapsar.]]></phrase>
+  <phrase title="api_scope.attachment_read" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Ek verilerini görüntülemeyi kapsar.]]></phrase>
+  <phrase title="api_scope.attachment_write" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Yeni ekler yüklemeyi kapsar.]]></phrase>
+  <phrase title="api_scope.auth" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı adı/şifre kimlik doğrulamasını test etmeyi kapsar. Yalnızca süper kullanıcı anahtarları için geçerlidir.]]></phrase>
+  <phrase title="api_scope.auth_login_token" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Herhangi bir kullanıcı olarak giriş yapabilen giriş tokeni URL'lerinin oluşturulmasına izin verir. Yalnızca süper kullanıcı anahtarları için geçerlidir.]]></phrase>
+  <phrase title="api_scope.conversation_read" version_id="2030037" version_string="2.3.0 Beta 7"><![CDATA[Doğrudan mesajları görüntülemeyi kapsar.]]></phrase>
+  <phrase title="api_scope.conversation_write" version_id="2030037" version_string="2.3.0 Beta 7"><![CDATA[Doğrudan mesajların oluşturulmasını veya güncellenmesini kapsar.]]></phrase>
+  <phrase title="api_scope.node_delete" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Bir düğümü silmeyi kapsar.]]></phrase>
+  <phrase title="api_scope.node_read" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Düğüm listesini veya bireysel bir düğümü okumayı kapsar.]]></phrase>
+  <phrase title="api_scope.node_write" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Bir düğümün oluşturulmasını veya güncellenmesini kapsar. Düğüm silme dahil değildir.]]></phrase>
+  <phrase title="api_scope.profile_post_delete_hard" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Profil mesajlarını ve profil mesajı yorumlarını kalıcı olarak silmeyi kapsar.]]></phrase>
+  <phrase title="api_scope.profile_post_read" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Profil mesajlarını ve profil mesajı yorumlarını görüntülemeyi kapsar.]]></phrase>
+  <phrase title="api_scope.profile_post_write" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Profil mesajlarını ve profil mesajı yorumlarını oluşturma, güncelleme ve geçici olarak silmeyi kapsar.]]></phrase>
+  <phrase title="api_scope.thread_delete_hard" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Konuları ve mesajları kalıcı olarak silmeyi kapsar.]]></phrase>
+  <phrase title="api_scope.thread_read" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Konu ve mesaj bilgilerini okumayı kapsar.]]></phrase>
+  <phrase title="api_scope.thread_write" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Konuları ve mesajları oluşturma, güncelleme ve geçici olarak silmeyi kapsar.]]></phrase>
+  <phrase title="api_scope.user_delete" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Bir kullanıcıyı silmeyi kapsar.]]></phrase>
+  <phrase title="api_scope.user_read" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Kullanıcı profili bilgilerini okumayı kapsar. Bazı profil ayrıntılarının diğer verilerle birlikte döndürülebileceğini unutmayın.]]></phrase>
+  <phrase title="api_scope.user_write" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Kullanıcı profili bilgilerini güncellemeyi kapsar.]]></phrase>
+  <phrase title="api_scope_ids_must_be_unique" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[API kapsam ID'leri benzersiz olmalıdır. Belirtilen ID zaten kullanımda.]]></phrase>
+  <phrase title="api_scopes" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[API kapsamları]]></phrase>
+  <phrase title="api_scopes_explain" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Kapsamlar, bir API anahtarının yalnızca API'nin belirli kısımlarına erişmesine izin verir. Güvenlik için, özellikle süper kullanıcı veya yüksek ayrıcalıklı kullanıcı anahtarları için yalnızca ihtiyacınız olan kapsamlara erişim izni vermeniz önerilir.]]></phrase>
+  <phrase title="app_id" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uygulama ID]]></phrase>
+  <phrase title="app_secret" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uygulama sırrı]]></phrase>
+  <phrase title="applicable_forums" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Geçerli forumlar]]></phrase>
+  <phrase title="application_date" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uygulama tarihi]]></phrase>
+  <phrase title="application_json" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[application/json]]></phrase>
+  <phrase title="applications" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Uygulamalar]]></phrase>
+  <phrase title="applications_using_old_key_not_function_until_update" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Eski anahtar değerini kullanan uygulamalar, yeni anahtar ile güncellenene kadar düzgün çalışmayacak.]]></phrase>
+  <phrase title="applied_by" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uygulayan]]></phrase>
+  <phrase title="apply_count" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uygulama sayısı]]></phrase>
+  <phrase title="apply_display_styling_options" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Görüntü stil seçeneklerini uygula]]></phrase>
+  <phrase title="apply_forum_options" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Forum seçeneklerini uygula]]></phrase>
+  <phrase title="apply_options_to_these_prefixes" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Seçenekleri bu ön eklere uygula]]></phrase>
+  <phrase title="apply_options_to_these_prompts" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seçenekleri bu istemlere uygula]]></phrase>
+  <phrase title="apply_prefix" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ön ek uygula]]></phrase>
+  <phrase title="apply_prefix_group_options" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ön ek grubu seçeneklerini uygula]]></phrase>
+  <phrase title="apply_prefix_to_selected_threads" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[Seçilen konulara ön ek uygula]]></phrase>
+  <phrase title="apply_prompt_group_options" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İstem grubu seçeneklerini uygula]]></phrase>
+  <phrase title="apply_this_promotion_while" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu terfiyi şu durumda uygula...]]></phrase>
+  <phrase title="apply_thread_prefix_to_multiple_forums" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seçtiğiniz konular birden fazla forumda bulunuyor. Konular yalnızca seçilen ön ek kendi forumunda geçerliyse güncellenecek.]]></phrase>
+  <phrase title="apply_user_group_options" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Kullanıcı grubu seçeneklerini uygula]]></phrase>
+  <phrase title="apply_warning_points" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Uyarı puanlarını uygula]]></phrase>
+  <phrase title="approval_item_create_body_html" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[<p>{board} sitesinde onay bekleyen içerik var.</p>]]></phrase>
+  <phrase title="approval_queue" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Onay kuyruğu]]></phrase>
+  <phrase title="approve" version_id="1000015" version_string="1.0.0 Alpha 5" global_cache="1"><![CDATA[Onayla]]></phrase>
+  <phrase title="approve_login_request_for_x_at_y" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{boardTitle} adresinde {username} için giriş isteğini onayla.]]></phrase>
+  <phrase title="approve_posts" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesajları onayla]]></phrase>
+  <phrase title="approve_thread" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konuyu onayla]]></phrase>
+  <phrase title="approve_threads" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konuları onayla]]></phrase>
+  <phrase title="approved" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Onaylandı]]></phrase>
+  <phrase title="approved_by" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Onaylayan]]></phrase>
+  <phrase title="approved_sites" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Onaylı siteler]]></phrase>
+  <phrase title="are_you_sure_you_want_to_stop_emails_for_all_forums" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tüm forumlar için e-posta bildirimlerini durdurmak istediğinizden emin misiniz?]]></phrase>
+  <phrase title="are_you_sure_you_want_to_stop_emails_for_all_threads" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tüm konular için e-posta bildirimlerini durdurmak istediğinizden emin misiniz?]]></phrase>
+  <phrase title="are_you_sure_you_want_to_stop_emails_for_one_forum" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bir forum için e-posta bildirimlerini durdurmak istediğinizden emin misiniz?]]></phrase>
+  <phrase title="are_you_sure_you_want_to_stop_emails_for_one_thread" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bir konu için e-posta bildirimlerini durdurmak istediğinizden emin misiniz?]]></phrase>
+  <phrase title="area_temporarily_unavailable_addon_upgrade_try_again" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Bu alan, yükseltilmekteyken geçici olarak kullanılamaz. Lütfen kısa süre içinde tekrar deneyin.]]></phrase>
+  <phrase title="arguments" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Argümanlar]]></phrase>
+  <phrase title="array" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Dizi]]></phrase>
+  <phrase title="array_sub_options" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dizi alt seçenekleri]]></phrase>
+  <phrase title="article_cover_note_explain" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Not: Makalenizdeki ilk görsel, doğrudan bağlantılı veya ekli olsun, kapak görseli olarak kullanılacak.]]></phrase>
+  <phrase title="article_cover_note_label" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Makale görselleri hakkında]]></phrase>
+  <phrase title="article_snippet_length" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Makale parçası uzunluğu]]></phrase>
+  <phrase title="article_snippet_length_explain" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Bu forumu görüntülerken gösterilecek maksimum karakter sayısı. Tüm içeriği göstermek için 0 kullanın.]]></phrase>
+  <phrase title="article_threads_display_style_expanded_explain" version_id="2020470" version_string="2.2.4"><![CDATA[Genişletilmiş bir görünüm, oluşturulmuş ilk mesajların listesi olarak görüntülenir, ya tam içeriği ile ya da bunun bir parçası ile.]]></phrase>
+  <phrase title="article_written_by" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yazan]]></phrase>
+  <phrase title="as_downloadable_csv" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[İndirilebilir CSV olarak]]></phrase>
+  <phrase title="as_follows" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aşağıdaki gibi]]></phrase>
+  <phrase title="as_super_user_key_include_user_header" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Bu bir süper kullanıcı anahtarı olduğundan, isteğin yapılacağı kullanıcı ID'si <code>XF-Api-User</code> başlığında yer almalıdır.]]></phrase>
+  <phrase title="ascending" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Artan]]></phrase>
+  <phrase title="ask_me_another_time" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Bana başka bir zaman sor]]></phrase>
+  <phrase title="asset_key" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Varlık anahtarı]]></phrase>
+  <phrase title="asset_locations" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Varlık konumları]]></phrase>
+  <phrase title="asset_locations_explain" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Varlık konumları, bu stille ekli olan dosyaların XenForo kurulum dizinine göre konumunu açıklar. Varlık konumlarına stil özelliklerinde <code>%ASSET:key%</code> aracılığıyla veya şablonlarda <code>asset()</code> şablon işlevi kullanılarak erişilebilir.]]></phrase>
+  <phrase title="asset_path" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Varlık yolu]]></phrase>
+  <phrase title="asset_type_names_may_only_contain_alphanumeric_dash_underscore" version_id="2020052" version_string="2.2.0 Release Candidate 2"><![CDATA[Varlık türü adları yalnızca A-Z, 0-9, - ve _ karakterlerini içerebilir.]]></phrase>
+  <phrase title="asset_uploaded_successfully" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Varlık başarıyla yüklendi]]></phrase>
+  <phrase title="associate" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İlişkilendir]]></phrase>
+  <phrase title="associate_existing_account" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mevcut hesabı ilişkilendir]]></phrase>
+  <phrase title="associate_with" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Şununla ilişkilendir]]></phrase>
+  <phrase title="asterisk_fields_required_explain" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[* Yıldızlı alanlar seçildiğinde yeni içerik için zorunludur. Diğer alanlar isteğe bağlıdır.]]></phrase>
+  <phrase title="at_least_one_attribute_of_src_dev_or_prod_must_be_provided" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA['src', 'dev' veya 'prod' özelliklerinden en az biri sağlanmalıdır.]]></phrase>
+  <phrase title="at_least_x_replies" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[En az X cevap]]></phrase>
+  <phrase title="attach_date" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Ek tarihi]]></phrase>
+  <phrase title="attach_file" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dosya ekle]]></phrase>
+  <phrase title="attach_this_nodes_children_to_its_parent" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu düğümün çocuklarını ana düğüme ekle]]></phrase>
+  <phrase title="attached_between" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Şu tarihler arasında ekli]]></phrase>
+  <phrase title="attachment" version_id="2000037" version_string="2.0.0 Beta 7"><![CDATA[Ek]]></phrase>
+  <phrase title="attachment_browser" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ek tarayıcısı]]></phrase>
+  <phrase title="attachment_cannot_be_shown_at_this_time" version_id="0"><![CDATA[Bu ek şu anda gösterilemiyor. Lütfen daha sonra tekrar deneyin.]]></phrase>
+  <phrase title="attachment_disk_usage" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ek disk kullanımı (MB)]]></phrase>
+  <phrase title="attachment_thumbnails" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ek küçük resimleri]]></phrase>
+  <phrase title="attachment_upload" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ek yükleme]]></phrase>
+  <phrase title="attachments" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ekler]]></phrase>
+  <phrase title="attempting_to_verify_your_dns_record_but_it_may_take_up_to_24_hours_for" version_id="2020970" version_string="2.2.9"><![CDATA[DNS kaydınız doğrulanmaya çalışılıyor ancak DNS değişikliklerinin yayılması 24 saate kadar sürebilir. Daha uzun sürdüyse, girdilerinizi doğrulamanız gerekebilir.]]></phrase>
+  <phrase title="attempts_to_email_x_have_failed_please_update" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[{email} adresine e-posta gönderme girişimleri başarısız oldu. Lütfen e-postanızı güncelleyin.]]></phrase>
+  <phrase title="authentication" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Kimlik doğrulama]]></phrase>
+  <phrase title="author" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Yazar]]></phrase>
+  <phrase title="authorization_endpoint" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Yetkilendirme uç noktası]]></phrase>
+  <phrase title="authorize" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Yetkilendir]]></phrase>
+  <phrase title="authorize_access_to_your_account" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Hesabınıza erişimi yetkilendir]]></phrase>
+  <phrase title="authorize_client_x" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{title} öğesini yetkilendir]]></phrase>
+  <phrase title="authy_api_key" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Authy API anahtarı]]></phrase>
+  <phrase title="authy_api_key_explain" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Authy'yi kullanmak için <a href="https://www.twilio.com/console" target="_blank">Twilio konsol panosunda</a> bir Authy API anahtarı oluşturmanız gerekir.]]></phrase>
+  <phrase title="authy_denied" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Onay isteği reddedildi, bu nedenle şu anda sizi giriş yapamayız.]]></phrase>
+  <phrase title="authy_no_approval_request" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Bu UUID ile onay isteği bulunamadı. Lütfen daha sonra tekrar deneyin.]]></phrase>
+  <phrase title="authy_no_uuid" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Onay isteği UUID'si yok. Lütfen daha sonra tekrar deneyin.]]></phrase>
+  <phrase title="authy_success" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Onay isteği başarılı oldu ve başarıyla giriş yaptınız.]]></phrase>
+  <phrase title="auto_embed_media_and_add_link_in_this_bb_code" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Medyayı otomatik göm ve bu BB kodu içindeki içeriğe bir bağlantı ekle]]></phrase>
+  <phrase title="auto_embed_media_links" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Medya bağlantılarını otomatik göm]]></phrase>
+  <phrase title="auto_reply" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Otomatik cevap]]></phrase>
+  <phrase title="automatic_file_health_check_was_started_on_x_at_y_problems" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{check_date} tarihinde {board_title} üzerinde otomatik bir dosya sağlık kontrolü başlatıldı ve mümkün olan en kısa sürede çözülmesi gereken bazı sorunlar bulundu.]]></phrase>
+  <phrase title="automatically_apply_template_modification" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Şablon değişikliğini otomatik olarak uygula]]></phrase>
+  <phrase title="automatically_dismiss_notice" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Bildiri solduğunda otomatik olarak kapat]]></phrase>
+  <phrase title="automatically_dismiss_notice_explain" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Bu seçenek yalnızca yüzen bildiriler için ve yukarıda bir görüntüleme süresi belirtilmişse geçerlidir.]]></phrase>
+  <phrase title="automatically_feature_threads" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Konuları otomatik olarak öne çıkar]]></phrase>
+  <phrase title="automatically_include_unsubscribe_link" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Otomatik olarak abonelik iptali bağlantısı ekle]]></phrase>
+  <phrase title="automatically_include_unsubscribe_link_desc" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Seçilirse, bu e-postaya alta otomatik olarak bir abonelik iptali satırı eklenir. Gövdede 'unsub' tokeni kullanırsanız, bu seçenek yok sayılır.]]></phrase>
+  <phrase title="automatically_merge" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Otomatik olarak birleştir]]></phrase>
+  <phrase title="automatically_merge_users_with_same_email" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Aynı e-postaya sahip kullanıcıları otomatik olarak birleştir]]></phrase>
+  <phrase title="automatically_merge_users_with_same_user_name" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Aynı kullanıcı adına sahip kullanıcıları otomatik olarak birleştir]]></phrase>
+  <phrase title="automatically_promoted" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Otomatik olarak terfi ettirildi]]></phrase>
+  <phrase title="automatically_watch_content_you_create" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oluşturduğunuz içeriği otomatik olarak izle]]></phrase>
+  <phrase title="automatically_watch_content_you_interact_with" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Etkileşimde bulunduğunuz içeriği otomatik olarak izle]]></phrase>
+  <phrase title="available_add_on_upgrades" version_id="2010270" version_string="2.1.2"><![CDATA[Mevcut eklenti yükseltmeleri]]></phrase>
+  <phrase title="available_buttons" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Kullanılabilir düğmeler]]></phrase>
+  <phrase title="available_buttons_and_dropdown_menus" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Kullanılabilir düğmeler ve açılır menüler]]></phrase>
+  <phrase title="available_buttons_and_dropdown_menus_desc" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Bu, düzenleyiciye eklenebilecek tüm düzenleyici düğmelerinin listesidir. Alt satır mevcut özel açılır menüleri içerir. Düğmeleri buradan aşağıdaki araç çubuğuna taşıyın.]]></phrase>
+  <phrase title="available_fields" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanılabilir alanlar]]></phrase>
+  <phrase title="available_prefixes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanılabilir ön ekler]]></phrase>
+  <phrase title="available_prefixes_forum_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu forumda kullanıma sunulması gereken tüm ön ekleri seçin]]></phrase>
+  <phrase title="available_prompts" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanılabilir istemler]]></phrase>
+  <phrase title="available_thread_prompts_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcılar bu forumda burada seçilen istemlerden birini kullanarak yeni bir konu göndermeye yönlendirilecek. İstem, başlık girilmeden önce konu başlığı giriş kutusunda görünür. Hiçbir istem seçilmezse, varsayılan istem ifadesi (<a href="{link}"><code>thread_prompt.default</code></a>) kullanılır.]]></phrase>
+  <phrase title="available_upgrades" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanılabilir yükseltmeler]]></phrase>
+  <phrase title="available_versions_changed_since_last_upgrade_check_back_refresh" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Son yükseltme kontrolünden bu yana mevcut sürümler değişti. Lütfen geri dönün ve sayfayı yenileyin.]]></phrase>
+  <phrase title="avatar" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Avatar]]></phrase>
+  <phrase title="avatar_date" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avatar tarihi]]></phrase>
+  <phrase title="avatars" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Avatarlar]]></phrase>
+  <phrase title="average" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ortalama]]></phrase>
+  <phrase title="avoid_repeated_words_and_characters" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Tekrarlanan kelime ve karakterlerden kaçının.]]></phrase>
+  <phrase title="awaiting_approval" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Onay bekliyor]]></phrase>
+  <phrase title="awaiting_approval_before_being_displayed_publicly" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Herkese açık görüntülenmeden önce onay bekliyor.]]></phrase>
+  <phrase title="awaiting_email_confirmation" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[E-posta onayı bekleniyor]]></phrase>
+  <phrase title="awaiting_email_confirmation_from_edit" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[E-posta onayı bekleniyor (düzenlemeden)]]></phrase>
+  <phrase title="award_this_trophy_if" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu kupayı şu durumda ver...]]></phrase>
+  <phrase title="back" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Geri]]></phrase>
+  <phrase title="background" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Arka plan]]></phrase>
+  <phrase title="background_position_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Arka plan konumu x]]></phrase>
+  <phrase title="background_position_y" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Arka plan konumu y]]></phrase>
+  <phrase title="background_size" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Arka plan boyutu]]></phrase>
+  <phrase title="background_size_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gerekirse, bu sprite için <code>background-size</code> CSS özelliği için bir değer girin.]]></phrase>
+  <phrase title="backup_code" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yedek kod]]></phrase>
+  <phrase title="backup_codes_used_once_secure_location" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Bu kodların her biri, diğer doğrulama yöntemlerine erişiminiz olmaması durumunda bir kez kullanılabilir. Bu kodlar güvenli bir yerde saklanmalıdır.]]></phrase>
+  <phrase title="ban" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Yasakla]]></phrase>
+  <phrase title="ban_ends" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yasak biter]]></phrase>
+  <phrase title="ban_length" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yasak süresi]]></phrase>
+  <phrase title="ban_member" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Üyeyi yasakla]]></phrase>
+  <phrase title="ban_spammer" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Spam göndereni yasakla]]></phrase>
+  <phrase title="ban_started" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yasak başladı]]></phrase>
+  <phrase title="ban_user" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcıyı yasakla]]></phrase>
+  <phrase title="ban_users_permanently" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcıları yasakla (kalıcı olarak)]]></phrase>
+  <phrase title="banned" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Yasaklı]]></phrase>
+  <phrase title="banned_by" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yasaklayan]]></phrase>
+  <phrase title="banned_emails" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yasaklı e-postalar]]></phrase>
+  <phrase title="banned_emails_must_be_unique" version_id="2010270" version_string="2.1.2"><![CDATA[Yasaklı e-postalar benzersiz olmalıdır. Belirtilen yasaklı e-posta zaten kullanımda.]]></phrase>
+  <phrase title="banned_ip_addresses" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yasaklı IP adresleri]]></phrase>
+  <phrase title="banned_state" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yasak durumu]]></phrase>
+  <phrase title="banned_users" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yasaklı kullanıcılar]]></phrase>
+  <phrase title="banner" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Banner]]></phrase>
+  <phrase title="banner_date" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Banner tarihi]]></phrase>
+  <phrase title="banner_displayed_under_name_of_members_of_this_group" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Bu, mesajlar gibi belirli durumlarda bu grubun üyelerinin adlarının altında görüntülenecek.]]></phrase>
+  <phrase title="base_class_name" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Temel sınıf adı]]></phrase>
+  <phrase title="basic" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Temel]]></phrase>
+  <phrase title="batch_update" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Toplu güncelleme]]></phrase>
+  <phrase title="batch_update_threads" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konuları toplu güncelle]]></phrase>
+  <phrase title="batch_update_users" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcıları toplu güncelle]]></phrase>
+  <phrase title="batch_update_was_completed_successfully" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Toplu güncelleme başarıyla tamamlandı.]]></phrase>
+  <phrase title="bb_code_button_manager" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[BB kodu düğme yöneticisi]]></phrase>
+  <phrase title="bb_code_help_align_desc" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Sarılı metnin hizalamasını değiştirir.]]></phrase>
+  <phrase title="bb_code_help_align_example" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[LEFT]Sola hizalı[/LEFT]
+[CENTER]Ortaya hizalı[/CENTER]
+[RIGHT]Sağa hizalı[/RIGHT]]]></phrase>
+  <phrase title="bb_code_help_align_title" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[[LEFT], [CENTER], [RIGHT] - Metin hizalama]]></phrase>
+  <phrase title="bb_code_help_attach_desc" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Belirtilen noktaya bir ek yerleştirir. Ek bir görsel ise, küçük bir resim veya tam boyutlu sürüm yerleştirilir. Bu genellikle uygun düğmeye tıklayarak yerleştirilir.]]></phrase>
+  <phrase title="bb_code_help_attach_title" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[[ATTACH] - Ek yerleştirme]]></phrase>
+  <phrase title="bb_code_help_b_i_u_s_desc" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Sarılı metni kalın, italik, altı çizili veya üstü çizili yapar.]]></phrase>
+  <phrase title="bb_code_help_b_i_u_s_example" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Bu [B]kalın[/B] metindir.
+Bu [I]italik[/I] metindir.
+Bu [U]altı çizili[/U] metindir.
+Bu [S]üstü çizili[/S] metindir.]]></phrase>
+  <phrase title="bb_code_help_b_i_u_s_title" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[[B], [I], [U], [S] - Kalın, italik, altı çizili ve üstü çizili]]></phrase>
+  <phrase title="bb_code_help_code_desc" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Metni çeşitli programlama dillerinden birinde görüntüler, mümkün olan yerlerde söz dizimini vurgular.]]></phrase>
+  <phrase title="bb_code_help_code_example" version_id="2000570" version_string="2.0.5"><![CDATA[Genel kod:
+[CODE]Genel
+kod[/CODE]
+
+Zengin kod:
+[CODE=rich][COLOR=red]Zengin[/COLOR]
+kod[/CODE]
+
+PHP kodu:
+[CODE=php]echo $hello . ' world';[/CODE]
+
+JS kodu:
+[CODE=javascript]var hello = 'world';[/CODE]]]></phrase>
+  <phrase title="bb_code_help_code_title" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[[CODE] - Programlama kodu görüntüleme]]></phrase>
+  <phrase title="bb_code_help_color_font_size_desc" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Sarılı metnin rengini, fontunu veya boyutunu değiştirir.]]></phrase>
+  <phrase title="bb_code_help_color_font_size_example" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Bu [COLOR=red]kırmızı[/COLOR] ve [COLOR=#0000cc]mavi[/COLOR] metindir.
+Bu [FONT=Courier New]Courier New[/FONT] metnidir.
+Bu [SIZE=1]küçük[/SIZE] ve [SIZE=7]büyük[/SIZE] metindir.]]></phrase>
+  <phrase title="bb_code_help_color_font_size_title" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[[COLOR=<span class="block-textHeader-highlight">renk</span>], [FONT=<span class="block-textHeader-highlight">ad</span>], [SIZE=<span class="block-textHeader-highlight">boyut</span>] - Metin Rengi, Fontu ve Boyutu]]></phrase>
+  <phrase title="bb_code_help_heading_desc" version_id="2020270" version_string="2.2.2"><![CDATA[Makine okunabilirliğini kolaylaştırmak için metni yapısal başlık olarak işaretler.]]></phrase>
+  <phrase title="bb_code_help_heading_example" version_id="2020270" version_string="2.2.2"><![CDATA[[HEADING=1]Ana başlık[/HEADING]
+Bu metin, bir makalenin birincil bölümlerini ayırmak için kullanılan bir ana başlık altındadır.
+
+[HEADING=2]Alt başlık[/HEADING]
+Bir makalenin birincil bölümlerini alt bölümlere ayırmanız gerektiğinde, seviye 2 alt başlık kullanın.
+
+[HEADING=3]Alt alt başlık[/HEADING]
+Ek alt bölüm gerekiyorsa, seviye 3'e düşebilirsiniz.]]></phrase>
+  <phrase title="bb_code_help_heading_title" version_id="2020270" version_string="2.2.2"><![CDATA[[HEADING=<span class="block-textHeader-highlight">seviye</span>] - Seviye 1'den 3'e başlıklar]]></phrase>
+  <phrase title="bb_code_help_icode_desc" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Normal mesaj içeriği arasında satır içi kod görüntülemenizi sağlar. Söz dizimi vurgulanmaz.]]></phrase>
+  <phrase title="bb_code_help_icode_example" version_id="2020670" version_string="2.2.6"><![CDATA[Satır içi kod bölümleri [ICODE]kodu satır içi göstermenin uygun bir yoludur[/ICODE].
+
+Satır içi kod bölümlerinde zengin biçimlendirme [ICODE=rich][COLOR=red]da[/COLOR] [U]desteklenir[/U][/ICODE].]]></phrase>
+  <phrase title="bb_code_help_icode_title" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[[ICODE] - Satır içi programlama kodu görüntüleme]]></phrase>
+  <phrase title="bb_code_help_img_desc" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Sarılı metni URL olarak kullanarak bir görsel görüntüler.]]></phrase>
+  <phrase title="bb_code_help_img_example" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[[IMG]{url}[/IMG]]]></phrase>
+  <phrase title="bb_code_help_img_title" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[IMG] - Görsel]]></phrase>
+  <phrase title="bb_code_help_indent_desc" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Sarılı metni girintiler. Daha büyük girintiler için iç içe yerleştirilebilir.]]></phrase>
+  <phrase title="bb_code_help_indent_example" version_id="2000270" version_string="2.0.2"><![CDATA[Normal metin
+[INDENT]Girintili metin[/INDENT]
+[INDENT=2]Daha fazla girintili[/INDENT]]]></phrase>
+  <phrase title="bb_code_help_indent_title" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[[INDENT] - Metin girintisi]]></phrase>
+  <phrase title="bb_code_help_ispoiler_desc" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Normal içerik arasında satır içi metin görüntülemenizi sağlar; spoiler içerebilen metni gizler ve görüntüleyenin görmek için tıklaması gerekir.]]></phrase>
+  <phrase title="bb_code_help_ispoiler_example" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[İçeriği görmek için aşağıdaki [ISPOILER]kelimeye[/ISPOILER] tıklamanız gerekir.]]></phrase>
+  <phrase title="bb_code_help_ispoiler_title" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[[ISPOILER] - Spoiler içeren satır içi metin]]></phrase>
+  <phrase title="bb_code_help_list_desc" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Madde işaretli veya numaralı bir liste görüntüler.]]></phrase>
+  <phrase title="bb_code_help_list_example" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[[LIST]
+[*]Madde 1
+[*]Madde 2
+[/LIST]
+[LIST=1]
+[*]Girdi 1
+[*]Girdi 2
+[/LIST]]]></phrase>
+  <phrase title="bb_code_help_list_title" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[LIST] - Listeler]]></phrase>
+  <phrase title="bb_code_help_media_desc" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Onaylı sitelerden medyayı mesajınıza gömer. Düzenleyici araç çubuğundaki medya düğmesini kullanmanız önerilir.]]></phrase>
+  <phrase title="bb_code_help_media_title" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[[MEDIA=<span class="block-textHeader-highlight">site</span>] - Gömülü Medya]]></phrase>
+  <phrase title="bb_code_help_plain_desc" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Sarılı metinde BB kod çevirisini devre dışı bırakır.]]></phrase>
+  <phrase title="bb_code_help_plain_example" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[PLAIN]Bu [B]kalın[/B] metin değildir.[/PLAIN]]]></phrase>
+  <phrase title="bb_code_help_plain_title" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[[PLAIN] - Düz metin]]></phrase>
+  <phrase title="bb_code_help_quote_desc" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Başka bir kaynaktan alıntılanan metni görüntüler. Ayrıca kaynağın adını da belirtebilirsiniz.]]></phrase>
+  <phrase title="bb_code_help_quote_example" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[QUOTE]Alıntılanan metin[/QUOTE]
+[QUOTE=Bir kişi]Söyledikleri[/QUOTE]]]></phrase>
+  <phrase title="bb_code_help_quote_title" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[[QUOTE] - Alıntılanan metin]]></phrase>

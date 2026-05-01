@@ -1,0 +1,200 @@
+  <phrase title="permission.profilePost_deleteOwn" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kendi profil mesajlarını sil]]></phrase>
+  <phrase title="permission.profilePost_editAny" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir profil mesajını düzenle]]></phrase>
+  <phrase title="permission.profilePost_editOwn" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kendi profil mesajlarını düzenle]]></phrase>
+  <phrase title="permission.profilePost_hardDeleteAny" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Herhangi bir profil mesajını kalıcı olarak sil]]></phrase>
+  <phrase title="permission.profilePost_inlineMod" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profil mesajlarında satır içi moderasyon kullanabilir]]></phrase>
+  <phrase title="permission.profilePost_manageOwn" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kendi profilindeki profil mesajlarını yönet]]></phrase>
+  <phrase title="permission.profilePost_post" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yeni profil mesajları gönder]]></phrase>
+  <phrase title="permission.profilePost_react" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Profil mesajlarına tepki ver]]></phrase>
+  <phrase title="permission.profilePost_undelete" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profil mesajlarını geri yükle]]></phrase>
+  <phrase title="permission.profilePost_uploadAttachment" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Profil mesajlarına ve yorumlarına ek yükle]]></phrase>
+  <phrase title="permission.profilePost_uploadVideo" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Profil mesajlarına ve yorumlarına video/ses yükle]]></phrase>
+  <phrase title="permission.profilePost_view" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profil mesajlarını görüntüle]]></phrase>
+  <phrase title="permission.profilePost_viewAttachment" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Profil mesajlarındaki ve yorumlardaki ekleri görüntüle]]></phrase>
+  <phrase title="permission.profilePost_viewDeleted" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Silinen profil mesajlarını görüntüle]]></phrase>
+  <phrase title="permission.profilePost_viewModerated" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Onaylanmamış profil mesajlarını görüntüle]]></phrase>
+  <phrase title="permission.profilePost_warn" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profil mesajlarına uyarı ver]]></phrase>
+  <phrase title="permission.signature_align" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hizalama değişikliklerine izin ver]]></phrase>
+  <phrase title="permission.signature_basicText" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Temel metin biçimlendirmesine izin ver (kalın, italik vb.)]]></phrase>
+  <phrase title="permission.signature_block" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blok etiketlerine izin ver (kod, alıntı vb.)]]></phrase>
+  <phrase title="permission.signature_extendedText" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Genişletilmiş metin biçimlendirmesine izin ver (renk, yazı tipi, boyut)]]></phrase>
+  <phrase title="permission.signature_image" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Görsellere izin ver]]></phrase>
+  <phrase title="permission.signature_link" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bağlantılara izin ver]]></phrase>
+  <phrase title="permission.signature_list" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Listelere izin ver]]></phrase>
+  <phrase title="permission.signature_maxImages" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maksimum görsel]]></phrase>
+  <phrase title="permission.signature_maxLines" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maksimum satır]]></phrase>
+  <phrase title="permission.signature_maxLinks" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maksimum bağlantı]]></phrase>
+  <phrase title="permission.signature_maxPrintable" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maksimum yazdırılabilir karakter]]></phrase>
+  <phrase title="permission.signature_maxSmilies" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maksimum gülen yüz]]></phrase>
+  <phrase title="permission.signature_maxTextSize" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maksimum metin boyutu (1 - 7)]]></phrase>
+  <phrase title="permission.signature_media" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gömülü medyaya izin ver]]></phrase>
+  <phrase title="permission_group" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İzin grubu]]></phrase>
+  <phrase title="permission_id" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[İzin ID]]></phrase>
+  <phrase title="permission_ids_must_be_unique_within_groups" version_id="0"><![CDATA[İzin ID'leri gruplar içinde benzersiz olmalıdır. Belirtilen ID zaten kullanılıyor.]]></phrase>
+  <phrase title="permission_interface.bookmarkPermissions" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Yer imi izinleri]]></phrase>
+  <phrase title="permission_interface.conversationModeratorPermissions" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Doğrudan mesaj moderatör izinleri]]></phrase>
+  <phrase title="permission_interface.conversationPermissions" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Doğrudan mesaj izinleri]]></phrase>
+  <phrase title="permission_interface.forumModeratorPermissions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum moderatör izinleri]]></phrase>
+  <phrase title="permission_interface.forumPermissions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum izinleri]]></phrase>
+  <phrase title="permission_interface.generalModeratorPermissions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Genel moderatör izinleri]]></phrase>
+  <phrase title="permission_interface.generalPermissions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Genel izinler]]></phrase>
+  <phrase title="permission_interface.postAttachmentPermissions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesaj eki izinleri]]></phrase>
+  <phrase title="permission_interface.profilePostModeratorPermissions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profil mesajı moderatör izinleri]]></phrase>
+  <phrase title="permission_interface.profilePostPermissions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profil mesajı izinleri]]></phrase>
+  <phrase title="permission_interface.signaturePermissions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İmza izinleri]]></phrase>
+  <phrase title="permission_interface_group_ids_must_be_unique" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İzin arayüz grubu ID'leri benzersiz olmalıdır. Belirtilen ID zaten kullanılıyor.]]></phrase>
+  <phrase title="permission_limit" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İzin sınırı]]></phrase>
+  <phrase title="permission_limit_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Burada bir izin belirtilirse, bu istatistik yalnızca o izne sahip kullanıcılar tarafından görülebilir.]]></phrase>
+  <phrase title="permission_type" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İzin türü]]></phrase>
+  <phrase title="permissions" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[İzinler]]></phrase>
+  <phrase title="personal_details" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kişisel ayrıntılar]]></phrase>
+  <phrase title="php_built_in_gd" version_id="1000270" version_string="1.0.2"><![CDATA[PHP yerleşik GD görsel kitaplığı]]></phrase>
+  <phrase title="php_built_in_mail_system" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[PHP yerleşik posta sistemi]]></phrase>
+  <phrase title="php_callback" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[PHP geri çağırması]]></phrase>
+  <phrase title="php_function_x_disabled_fundamental" version_id="2001070" version_string="2.0.10"><![CDATA[Sunucunuz <code>disable_functions</code> direktifi aracılığıyla php.ini'de temel bir çekirdek PHP fonksiyonu <code><b>{function}</b></code> devre dışı bırakmıştır. Bu, XenForo'da beklenmeyen sorunlara neden olacaktır.]]></phrase>
+  <phrase title="php_functions_disabled_impossible_check" version_id="2001070" version_string="2.0.10"><![CDATA[Sunucunuz, sunucu bilgilerini algılamayı imkansız hale getiren fonksiyonları devre dışı bırakmıştır. Diğer hatalar oluşabilir.]]></phrase>
+  <phrase title="php_version" version_id="2001070" version_string="2.0.10"><![CDATA[PHP sürümü]]></phrase>
+  <phrase title="php_version_not_newest" version_id="2030170" version_string="2.3.1"><![CDATA[Mevcut PHP sürümünüz güncelliğini yitirmiş. Şu anda PHP {recommended} öneriyoruz.]]></phrase>
+  <phrase title="php_version_recommended" version_id="2010037" version_string="2.1.0 Beta 7"><![CDATA[Önerilen PHP sürümüne sahipsiniz. ]]></phrase>
+  <phrase title="phrase_group_titles_must_be_no_more_than_50_characters" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İfade grubu başlıkları 50 karakterden fazla olamaz.]]></phrase>
+  <phrase title="phrase_name_must_be_literal" version_id="0"><![CDATA[İfade adı sabit olmalıdır]]></phrase>
+  <phrase title="phrase_parameters_must_be_provided_with_literal_names_inside_hash" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İfade parametreleri bir hash içinde sabit adlarla sağlanmalıdır.]]></phrase>
+  <phrase title="phrase_search_results" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İfade arama sonuçları]]></phrase>
+  <phrase title="phrase_status" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İfade durumu]]></phrase>
+  <phrase title="phrase_text" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İfade metni]]></phrase>
+  <phrase title="phrase_text_explain" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Burada HTML kullanabilirsiniz, ancak ideal olarak işaretleme ifadelerden ziyade şablonlarda yapılmalıdır.<br>
+<br>
+Varsayılan varyantta bir simge görüntülemek için <code>&#123;icon::name&#125;</code> kullanabilir veya belirli bir varyantta bir simge görüntülemek için <code>&#123;icon:variant::name&#125;</code> kullanabilirsiniz. Örneğin, <code>&#123;icon::alien&#125;</code> veya <code>&#123;icon:fas::alien&#125;</code>.]]></phrase>
+  <phrase title="phrase_titles_cannot_contain_dot_as_last_character" version_id="2000570" version_string="2.0.5"><![CDATA[İfade başlıkları son karakter olarak nokta içeremez.]]></phrase>
+  <phrase title="phrase_titles_may_only_contain_single_dot_character" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İfade başlıkları yalnızca tek bir nokta karakteri içerebilir.]]></phrase>
+  <phrase title="phrase_titles_must_be_unique_in_language" version_id="0"><![CDATA[İfade başlıkları bir dilde benzersiz olmalıdır. Belirtilen ifade zaten kullanılıyor.]]></phrase>
+  <phrase title="phrases" version_id="0"><![CDATA[İfadeler]]></phrase>
+  <phrase title="phrases_in_this_language_can_not_be_modified" version_id="0"><![CDATA[Bu dildeki ifadeler değiştirilemez. Lütfen başka bir dil deneyin.]]></phrase>
+  <phrase title="picker" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seçici]]></phrase>
+  <phrase title="picture" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resim]]></phrase>
+  <phrase title="pinterest" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pinterest]]></phrase>
+  <phrase title="plain_text" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Düz metin]]></phrase>
+  <phrase title="please_answer_the_question_above" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Lütfen yukarıdaki soruyu yanıtlayın...]]></phrase>
+  <phrase title="please_choose_valid_moderator_type" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen geçerli bir moderatör türü seçin]]></phrase>
+  <phrase title="please_choose_valid_node_type" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Lütfen geçerli bir düğüm türü seçin.]]></phrase>
+  <phrase title="please_choose_valid_payment_profile_to_continue_with_your_purchase" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Satın alımınıza devam etmek için lütfen geçerli bir ödeme profili seçin.]]></phrase>
+  <phrase title="please_choose_valid_text_color" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Lütfen geçerli bir metin rengi seçin.]]></phrase>
+  <phrase title="please_complete_required_fields" version_id="0"><![CDATA[Lütfen tüm gerekli alanları doldurun.]]></phrase>
+  <phrase title="please_confirm_reversion_of_customized_components_from_style" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[Lütfen <em>{style}</em> stilinden {numTemplates} şablon ve {numProperties} stil özelliğini varsayılan değerlerine geri almak istediğinizi onaylayın.]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_approve_the_following" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen aşağıdakini onaylamak istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_ban_following_ip" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Lütfen aşağıdaki IP adresini yasaklamak istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_cancel_following_subscription" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen aşağıdaki aboneliği iptal etmek istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_deactivate_following_provider" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen aşağıdaki sağlayıcıyı devre dışı bırakmak istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_delete_following" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen aşağıdakini silmek istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_delete_following_widget_from_position_x" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Lütfen aşağıdaki widget'ı '{positionId}' konumundan silmek istediğinizi onaylayın.]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_delete_x_attachments" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Lütfen seçili {number} ekli dosyayı silmek istediğinizi onaylayın.]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_delete_your_bookmark_for_following_content" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Lütfen aşağıdaki içerik için yer iminizi silmek istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_disable_following_add_on" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen aşağıdaki eklentiyi devre dışı bırakmak istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_discourage_following_ip" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Lütfen aşağıdaki IP adresini caydırmak istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_downgrade_following_user" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen aşağıdaki kullanıcıyı düşürmek istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_enable_following_add_on" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen aşağıdaki eklentiyi etkinleştirmek istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_force_all_current_users_to_accept_following" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Lütfen tüm mevcut kullanıcıları aşağıdakini kabul etmeye zorlamak istediğinizi onaylayın:]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_install_following_add_on" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen aşağıdaki eklentiyi kurmak istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_lift_ban_on_following_user" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Lütfen aşağıdaki kullanıcıdaki yasağı kaldırmak istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_mark_all_alerts_read" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Lütfen tüm uyarıları okundu olarak işaretlemek istediğinizi onaylayın.]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_mark_this_alert_read" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Lütfen bu uyarıyı okundu olarak işaretlemek istediğinizi onaylayın.]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_mark_this_alert_unread" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Lütfen bu uyarıyı okunmadı olarak işaretlemek istediğinizi onaylayın.]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_rebuild_following_add_on" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen aşağıdaki eklentinin ana verilerini yeniden oluşturmak istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_regenerate_following_api_key" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Lütfen aşağıdaki API anahtarını yeniden oluşturmak istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_regenerate_following_clients_secret" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Lütfen aşağıdaki istemcinin gizli anahtarını yeniden oluşturmak istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_remove_following_user_as_moderator" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen aşağıdaki kullanıcıyı moderatör olarak kaldırmak istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_remove_following_user_as_super_moderator" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen aşağıdaki kullanıcıyı süper moderatör olarak kaldırmak istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_reset_following_button_configuration" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Lütfen aşağıdaki düğme yapılandırmasını sıfırlamak istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_reset_following_notice" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen aşağıdaki bildirimi sıfırlamak istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_restore_data_and_status_of_user" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen aşağıdaki kullanıcının verilerini ve kullanıcı durumunu geri yüklemek istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_restore_data_of_following_user" version_id="2000270" version_string="2.0.2"><![CDATA[Lütfen aşağıdaki kullanıcının verilerini geri yüklemek istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_revert_the_following" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen aşağıdaki üzerinde yapılan değişiklikleri geri almak istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_revoke_this_application" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Lütfen bu uygulamayı iptal etmek istediğinizi onaylayın.]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_run_following_cron_entry" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen aşağıdaki cron girişini çalıştırmak istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_stop_following_x" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Lütfen {name} kullanıcısını takip etmeyi durdurmak istediğinizi onaylayın.]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_stop_ignoring_x" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[Lütfen {name} kullanıcısını yok saymayı durdurmak istediğinizi onaylayın.]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_undelete_following" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen aşağıdakini geri yüklemek istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_uninstall_following_add_on" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen aşağıdaki eklentiyi kaldırmak istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_upgrade_following_add_on" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen aşağıdaki eklentiyi yükseltmek istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_wish_to_delete_files_from_following_add_on" version_id="2020770" version_string="2.2.7"><![CDATA[Lütfen aşağıdaki eklentiden dosyaları silmek istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_wish_to_mark_following_direct_message_read" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Lütfen aşağıdaki doğrudan mesajı okundu olarak işaretlemek istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_wish_to_mark_following_direct_message_unread" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Lütfen aşağıdaki doğrudan mesajı okunmadı olarak işaretlemek istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_wish_to_star_following_direct_message" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Lütfen aşağıdaki doğrudan mesajı yıldızlamak istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_wish_to_start_following_this_user" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen bu kullanıcıyı takip etmeye başlamak istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_wish_to_start_ignoring_this_user" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen bu kullanıcıyı yok saymaya başlamak istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_wish_to_stop_following_this_user" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen bu kullanıcıyı takip etmeyi durdurmak istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_wish_to_stop_ignoring_this_user" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen bu kullanıcıyı yok saymayı durdurmak istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_wish_to_unstar_following_direct_message" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Lütfen aşağıdaki doğrudan mesajın yıldızını kaldırmak istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_that_you_would_like_to_change_to_following_style" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[Lütfen aşağıdaki stile geçmek istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_want_enable_promotion_for_user" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen seçilen kullanıcı için bu terfiyi etkinleştirmek istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_want_remove_user_from_promotion" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Lütfen bu kullanıcıyı seçili terfiden kaldırmak istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_want_to_delete_forum_and_discussions" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Lütfen aşağıdaki forumu ve içindeki tüm tartışmaları silmek istediğinizi onaylayın]]></phrase>
+  <phrase title="please_confirm_you_want_mark_this_post_as_solution" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Lütfen bu mesajı çözüm olarak işaretlemek istediğinizi onaylayın.]]></phrase>
+  <phrase title="please_confirm_you_want_unmark_this_post_as_solution" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Lütfen bu mesajın çözüm işaretini kaldırmak istediğinizi onaylayın.]]></phrase>
+  <phrase title="please_create_at_least_one_payment_profile_before_continuing" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Devam etmeden önce lütfen en az bir ödeme profili oluşturun.]]></phrase>
+  <phrase title="please_enable_javascript_to_continue" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Devam etmek için lütfen JavaScript'i etkinleştirin.]]></phrase>
+  <phrase title="please_enter_a_date_in_the_future" version_id="0"><![CDATA[Lütfen gelecekte bir tarih girin.]]></phrase>
+  <phrase title="please_enter_a_date_in_the_past" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen geçmişte bir tarih girin.]]></phrase>
+  <phrase title="please_enter_a_replacement_value" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Lütfen bir değiştirme değeri girin.]]></phrase>
+  <phrase title="please_enter_a_valid_api_key" version_id="2020270" version_string="2.2.2"><![CDATA[Lütfen geçerli bir API anahtarı girin]]></phrase>
+  <phrase title="please_enter_advertising_position_key" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen geçerli bir reklam konumu anahtarı girin.]]></phrase>
+  <phrase title="please_enter_an_id_using_only_alphanumeric" version_id="0"><![CDATA[Lütfen yalnızca a-z, A-Z, 0-9 ve _ karakterlerini kullanarak bir ID girin.]]></phrase>
+  <phrase title="please_enter_another_custom_title_disallowed_words" version_id="0"><![CDATA[Lütfen başka bir özel başlık girin. Girilen değer izin verilmeyen kelimeler içeriyor.]]></phrase>
+  <phrase title="please_enter_another_name_disallowed_words" version_id="0"><![CDATA[Lütfen başka bir ad girin. Girilen değer izin verilmeyen kelimeler içeriyor.]]></phrase>
+  <phrase title="please_enter_another_name_required_format" version_id="0"><![CDATA[Lütfen başka bir ad girin. Girilen değer gerekli formatla eşleşmiyor.]]></phrase>
+  <phrase title="please_enter_at_least_one_choice" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Lütfen en az bir seçenek girin.]]></phrase>
+  <phrase title="please_enter_at_least_one_valid_recipient" version_id="0"><![CDATA[Lütfen en az bir geçerli alıcı girin.]]></phrase>
+  <phrase title="please_enter_at_least_two_poll_responses" version_id="0"><![CDATA[Lütfen en az iki anket yanıtı girin.]]></phrase>
+  <phrase title="please_enter_bb_code_tag_using_only_alphanumeric_underscore" version_id="2020033" version_string="2.2.0 Beta 3"><![CDATA[Lütfen yalnızca a-z, A-Z, 0-9 ve _ karakterlerini kullanarak bir BB kodu etiketi girin.]]></phrase>
+  <phrase title="please_enter_code_generated_by_app_on_phone" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Lütfen telefonunuzdaki uygulama tarafından oluşturulan doğrulama kodunu girin.]]></phrase>
+  <phrase title="please_enter_custom_title_that_does_not_contain_any_censored_words" version_id="0"><![CDATA[Lütfen sansürlenmiş kelime içermeyen bir özel başlık girin.]]></phrase>
+  <phrase title="please_enter_database_name" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Lütfen bir veritabanı adı girin.]]></phrase>
+  <phrase title="please_enter_either_valid_emoji_short_name_or_image_url_but_not_both" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Lütfen geçerli bir emoji-kısa adı veya görsel URL'si girin, ancak ikisini birden değil.]]></phrase>
+  <phrase title="please_enter_embed_html" version_id="0"><![CDATA[Lütfen biraz gömme HTML'si girin.]]></phrase>
+  <phrase title="please_enter_key_using_only_alphanumeric_underscore" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Lütfen yalnızca a-z, A-Z, 0-9 ve _ karakterlerini kullanarak bir anahtar girin.]]></phrase>
+  <phrase title="please_enter_list_of_sub_options_for_this_array" version_id="0"><![CDATA[Lütfen bu dizi için bir alt seçenek listesi girin.]]></phrase>
+  <phrase title="please_enter_message_with_no_more_than_x_characters" version_id="0"><![CDATA[Lütfen {count} karakterden fazla olmayan bir mesaj girin.]]></phrase>
+  <phrase title="please_enter_message_with_no_more_than_x_images" version_id="0"><![CDATA[Lütfen {count} görselden fazla olmayan bir mesaj girin.]]></phrase>
+  <phrase title="please_enter_message_with_no_more_than_x_media" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Lütfen {count} medyadan fazla içermeyen bir mesaj girin.]]></phrase>
+  <phrase title="please_enter_modification_key" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Lütfen bir değişiklik anahtarı girin.]]></phrase>
+  <phrase title="please_enter_name_that_does_not_contain_any_censored_words" version_id="0"><![CDATA[Lütfen sansürlenmiş kelime içermeyen bir ad girin.]]></phrase>
+  <phrase title="please_enter_name_that_does_not_contain_comma" version_id="0"><![CDATA[Lütfen virgül içermeyen bir ad girin.]]></phrase>
+  <phrase title="please_enter_name_that_does_not_resemble_an_email_address" version_id="0"><![CDATA[Lütfen e-posta adresine benzemeyen bir ad girin.]]></phrase>
+  <phrase title="please_enter_name_that_is_at_least_x_characters_long" version_id="0"><![CDATA[Lütfen en az {count} karakter uzunluğunda bir ad girin.]]></phrase>
+  <phrase title="please_enter_name_that_is_at_most_x_characters_long" version_id="0"><![CDATA[Lütfen en fazla {count} karakter uzunluğunda bir ad girin.]]></phrase>
+  <phrase title="please_enter_name_to_rename_this_user_to" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Lütfen bu kullanıcıyı yeniden adlandırmak için bir ad girin.]]></phrase>
+  <phrase title="please_enter_new_username_that_differs_from_current_username" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Lütfen mevcut kullanıcı adından farklı yeni bir kullanıcı adı girin.]]></phrase>
+  <phrase title="please_enter_number_that_is_at_least_x" version_id="0"><![CDATA[Lütfen en az {min} olan bir sayı girin.]]></phrase>
+  <phrase title="please_enter_number_that_is_no_more_than_x" version_id="0"><![CDATA[Lütfen en fazla {max} olan bir sayı girin.]]></phrase>
+  <phrase title="please_enter_page_content" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Lütfen sayfa içeriğini girin.]]></phrase>
+  <phrase title="please_enter_poll_question" version_id="0"><![CDATA[Lütfen geçerli bir anket sorusu girin.]]></phrase>
+  <phrase title="please_enter_positive_whole_number" version_id="0"><![CDATA[Lütfen pozitif bir tamsayı girin.]]></phrase>
+  <phrase title="please_enter_reason_for_reporting_this_message" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen bu mesajı bildirmek için bir sebep girin.]]></phrase>
+  <phrase title="please_enter_search_text" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Lütfen arama metni girin.]]></phrase>
+  <phrase title="please_enter_single_tag" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Lütfen tek bir etiket girin.]]></phrase>
+  <phrase title="please_enter_text_for_each_choice" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Lütfen her seçenek için metin girin.]]></phrase>
+  <phrase title="please_enter_title_using_only_alphanumeric_dash_underscore" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen yalnızca a-z, A-Z, 0-9, - ve _ karakterlerini kullanarak bir değer girin.]]></phrase>
+  <phrase title="please_enter_title_using_only_alphanumeric_dot" version_id="0"><![CDATA[Lütfen yalnızca a-z, A-Z, 0-9, _ ve . karakterlerini kullanarak bir başlık girin.]]></phrase>
+  <phrase title="please_enter_title_using_only_alphanumeric_dot_underscore" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen yalnızca a-z, A-Z, 0-9, _ ve . karakterlerini kullanarak bir değer girin.]]></phrase>
+  <phrase title="please_enter_title_using_only_alphanumeric_underscore" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen yalnızca a-z, A-Z, 0-9 ve _ karakterlerini kullanarak bir değer girin.]]></phrase>
+  <phrase title="please_enter_unique_content_type_field_name_combination" version_id="2000570" version_string="2.0.5"><![CDATA[Lütfen benzersiz bir content_type ve field_name kombinasyonu girin.]]></phrase>
+  <phrase title="please_enter_unique_route_prefix_and_sub_name" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen benzersiz bir rota öneki ve alt ad girin. Belirtilen kombinasyon zaten kullanılıyor.]]></phrase>
+  <phrase title="please_enter_valid_add_on_id_using_rules" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen yalnızca a-z, A-Z, 0-9 ve / karakterlerini kullanarak geçerli bir eklenti ID'si girin. Değer / ile başlayamaz veya bitemez ve 0-9 ile başlayamaz. Hiçbir ad alanı parçası 0-9 ile başlamamalıdır.]]></phrase>
+  <phrase title="please_enter_valid_addon_id" version_id="0"><![CDATA[Lütfen geçerli bir eklenti ID'si girin.]]></phrase>
+  <phrase title="please_enter_valid_admin_navigation_id" version_id="0"><![CDATA[Lütfen geçerli bir yönetici navigasyon ID'si girin.]]></phrase>
+  <phrase title="please_enter_valid_api_scope_id" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Lütfen geçerli bir API kapsam ID'si girin.]]></phrase>
+  <phrase title="please_enter_valid_base_class" version_id="2001070" version_string="2.0.10"><![CDATA[Lütfen geçerli bir temel sınıf girin.]]></phrase>
+  <phrase title="please_enter_valid_bb_code_tag" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Lütfen geçerli bir BB kodu etiketi girin.]]></phrase>
+  <phrase title="please_enter_valid_callback_class" version_id="0"><![CDATA[Lütfen geçerli bir geri çağırma sınıfı girin.]]></phrase>
+  <phrase title="please_enter_valid_callback_method" version_id="0"><![CDATA[Lütfen geçerli bir geri çağırma yöntemi girin.]]></phrase>
+  <phrase title="please_enter_valid_code_event_id" version_id="0"><![CDATA[Lütfen geçerli bir kod olay ID'si girin.]]></phrase>
+  <phrase title="please_enter_valid_content_type" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen geçerli bir içerik türü girin.]]></phrase>
+  <phrase title="please_enter_valid_cron_entry_id" version_id="0"><![CDATA[Lütfen geçerli bir cron giriş ID'si girin.]]></phrase>
+  <phrase title="please_enter_valid_currency_format" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen geçerli bir para birimi formatı girin.]]></phrase>
+  <phrase title="please_enter_valid_date_format" version_id="0"><![CDATA[Lütfen geçerli bir tarih formatı girin.]]></phrase>
+  <phrase title="please_enter_valid_date_of_birth" version_id="0"><![CDATA[Lütfen geçerli bir doğum tarihi girin.]]></phrase>
+  <phrase title="please_enter_valid_dependent_permission_id" version_id="0"><![CDATA[Lütfen geçerli bir bağımlı izin ID'si girin. Belirtilen izin bulunamadı.]]></phrase>
+  <phrase title="please_enter_valid_designer_mode_id_using_rules" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen yalnızca a-z, A-Z, 0-9, _ ve - karakterlerini kullanarak geçerli bir tasarımcı modu ID'si girin. Değer 0-9 ile başlamamalıdır.]]></phrase>
+  <phrase title="please_enter_valid_email" version_id="0"><![CDATA[Lütfen geçerli bir e-posta girin.]]></phrase>
+  <phrase title="please_enter_valid_emoji_short_name" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Lütfen geçerli bir emoji kısa adı girin.]]></phrase>
+  <phrase title="please_enter_valid_emoji_short_name_or_image_url" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Lütfen geçerli bir emoji kısa adı veya görsel URL'si girin.]]></phrase>

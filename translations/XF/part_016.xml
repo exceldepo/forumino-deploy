@@ -1,0 +1,296 @@
+  <phrase title="index_all_threads" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Tüm konuları indeksle]]></phrase>
+  <phrase title="index_threads_based_on_criteria" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Konuları kriterlere göre indeksle]]></phrase>
+  <phrase title="information" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Bilgi]]></phrase>
+  <phrase title="inherit" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Devral]]></phrase>
+  <phrase title="inherit_permissions_from" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[İzinleri şuradan devral]]></phrase>
+  <phrase title="inline" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Satır içi]]></phrase>
+  <phrase title="inline_code" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Satır içi kod]]></phrase>
+  <phrase title="inline_moderation_copy_posts" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Satır içi moderasyon - Mesajları kopyala]]></phrase>
+  <phrase title="inline_moderation_delete_posts" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Satır içi moderasyon - Mesajları sil]]></phrase>
+  <phrase title="inline_moderation_delete_profile_posts" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Satır içi moderasyon - Profil mesajlarını sil]]></phrase>
+  <phrase title="inline_moderation_delete_threads" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Satır içi moderasyon - Konuları sil]]></phrase>
+  <phrase title="inline_moderation_merge_posts" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Satır içi moderasyon - Mesajları birleştir]]></phrase>
+  <phrase title="inline_moderation_merge_threads" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Satır içi moderasyon - Konuları birleştir]]></phrase>
+  <phrase title="inline_moderation_move_posts" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Satır içi moderasyon - Mesajları taşı]]></phrase>
+  <phrase title="inline_moderation_move_threads" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Satır içi moderasyon - Konuları taşı]]></phrase>
+  <phrase title="inline_moderation_thread_prefix" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Satır içi moderasyon - Konu öneki uygula]]></phrase>
+  <phrase title="inline_moderation_thread_type" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Satır içi moderasyon - Konu türlerini değiştir]]></phrase>
+  <phrase title="inline_spoiler" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Satır içi spoyler]]></phrase>
+  <phrase title="insert" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Ekle]]></phrase>
+  <phrase title="insert_all" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tümünü ekle]]></phrase>
+  <phrase title="insert_code" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kod ekle]]></phrase>
+  <phrase title="insert_column_after" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Sonrasına sütun ekle]]></phrase>
+  <phrase title="insert_column_before" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Öncesine sütun ekle]]></phrase>
+  <phrase title="insert_gif" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[GIF ekle]]></phrase>
+  <phrase title="insert_horizontal_line" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yatay çizgi ekle]]></phrase>
+  <phrase title="insert_image" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Görsel ekle]]></phrase>
+  <phrase title="insert_link" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bağlantı ekle]]></phrase>
+  <phrase title="insert_media" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Medya ekle]]></phrase>
+  <phrase title="insert_multiple" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Çoklu ekle]]></phrase>
+  <phrase title="insert_quotes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alıntı ekle]]></phrase>
+  <phrase title="insert_row_above" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Üzerine satır ekle]]></phrase>
+  <phrase title="insert_row_below" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Altına satır ekle]]></phrase>
+  <phrase title="insert_spoiler" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spoyler ekle]]></phrase>
+  <phrase title="insert_table" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Tablo ekle]]></phrase>
+  <phrase title="insert_video" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Video ekle]]></phrase>
+  <phrase title="inserted" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Eklendi]]></phrase>
+  <phrase title="install" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kur]]></phrase>
+  <phrase title="install_app" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Uygulamayı kur]]></phrase>
+  <phrase title="install_now" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Şimdi kur]]></phrase>
+  <phrase title="install_official_xenforo_add_ons" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Resmi XenForo eklentilerini kur]]></phrase>
+  <phrase title="install_upgrade_from_archive" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Arşivden kur/yükselt]]></phrase>
+  <phrase title="install_xf_addon_terms_confirm" version_id="2021470" version_string="2.2.14"><![CDATA[<a href="https://xenforo.com/license-agreement/" target="_blank">XenForo lisans sözleşmesi</a> şartlarını kabul ediyorum.]]></phrase>
+  <phrase title="installable_add_ons" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kurulabilir eklentiler]]></phrase>
+  <phrase title="installable_official_xenforo_add_on_explain" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kurulabilecek bir veya daha fazla resmi XenForo eklentisi mevcut.<br />
+<br />
+Aşağıdan kurmak istediğiniz eklentileri seçin. Seçilen eklentiler indirilecek ve hemen kurulacaktır.]]></phrase>
+  <phrase title="installation_in_development_mode_upgrade_manually" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Bu kurulum geliştirme modundadır. Yükseltmeler manuel olarak kurulmalıdır.]]></phrase>
+  <phrase title="installed_add_ons" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kurulu eklentiler]]></phrase>
+  <phrase title="installing" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kuruluyor]]></phrase>
+  <phrase title="installing_from_archives_is_only_supported_if_you_have_ziparchive_support" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Arşivden kurulum yalnızca <code>ZipArchive</code> desteğiniz varsa desteklenir. Bunu etkinleştirmek için sunucunuzdan istek yapmanız gerekebilir.]]></phrase>
+  <phrase title="installing_from_archives_must_be_explicitly_enabled_explain" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Arşivlerden kurulum, <code>src/config.php</code> dosyasına aşağıdaki satır eklenerek açıkça etkinleştirilmelidir:
+
+<pre class="u-screenContained"><code>$config['enableAddOnArchiveInstaller'] = true;</code></pre>
+
+Arşivden kurulum yapmak için çeşitli dizinlerin web sunucusu kullanıcısı tarafından yazılabilir olması gerekir ve bu, bazı barındırma ortamlarında güvensiz olarak değerlendirilebilir. Sunucunuzda ayrıca PHP'de ZipArchive desteği bulunmalıdır.]]></phrase>
+  <phrase title="integer" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Tamsayı]]></phrase>
+  <phrase title="interact" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Etkileşim kur]]></phrase>
+  <phrase title="interface_group" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Arayüz grubu]]></phrase>
+  <phrase title="interface_group_id" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Arayüz grubu ID]]></phrase>
+  <phrase title="internal_data_directory" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Dahili veri dizini]]></phrase>
+  <phrase title="intl_support" version_id="2030470" version_string="2.3.4"><![CDATA[<code>intl</code> desteği]]></phrase>
+  <phrase title="invalid_callback" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Geçersiz geri çağırma]]></phrase>
+  <phrase title="invalid_class_x" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Geçersiz sınıf: {class}]]></phrase>
+  <phrase title="invalid_or_unreadable_directory" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Belirtilen dizin bulunamadı veya okunamıyor.]]></phrase>
+  <phrase title="invalid_page_requested" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Geçersiz sayfa istendi.]]></phrase>
+  <phrase title="invalid_purchase_request" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Geçersiz satın alma isteği. Satın alma işleminiz şu anda gerçekleştirilemiyor.]]></phrase>
+  <phrase title="invalid_regular_expression" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Geçersiz düzenli ifade]]></phrase>
+  <phrase title="invalid_subscription_endpoint_provided" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Geçersiz abonelik uç noktası sağlandı.]]></phrase>
+  <phrase title="invite" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Davet et]]></phrase>
+  <phrase title="invite_members" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Üyeleri davet et]]></phrase>
+  <phrase title="invite_members_to_direct_message" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Üyeleri doğrudan mesaja davet et]]></phrase>
+  <phrase title="invite_more" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Daha fazla davet et]]></phrase>
+  <phrase title="invited_members_see_entire_direct_message" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Davet edilen üyeler doğrudan mesajın tamamını baştan itibaren görebilecekler.]]></phrase>
+  <phrase title="ip" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[IP]]></phrase>
+  <phrase title="ip_address" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[IP adresi]]></phrase>
+  <phrase title="ip_address_information_for_content_by_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} tarafından oluşturulan içeriğin IP adresi bilgileri]]></phrase>
+  <phrase title="ip_addresses" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[IP adresleri]]></phrase>
+  <phrase title="ip_addresses_logged_for_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} için kaydedilen IP adresleri]]></phrase>
+  <phrase title="ip_information_for_online_guest" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Çevrimiçi misafir için IP bilgileri]]></phrase>
+  <phrase title="ip_information_for_online_user" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[{user} için IP adresi bilgileri]]></phrase>
+  <phrase title="ip_search_explain" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[O IP'yi kullanarak içerik göndermiş olarak kaydedilen tüm kullanıcıların listesini görmek için bir IP adresi girin. 192.168.*, 192.168.0.0/16 veya 2001:db8::/32 gibi kısmi bir IP adresi de girebilirsiniz.]]></phrase>
+  <phrase title="ip_to_ban" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yasaklanacak IP]]></phrase>
+  <phrase title="ip_to_discourage" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Caydırılacak IP]]></phrase>
+  <phrase title="ip_x_and_y_more" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{ip} ve {count} daha]]></phrase>
+  <phrase title="issues_with_license_must_resolve_before_upgrading" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Lisansınızla ilgili yükseltmeden önce çözmeniz gereken sorunlar var.]]></phrase>
+  <phrase title="it_is_not_possible_to_change_vapid_keys_after_they_have_been_set" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[VAPID anahtarları ayarlandıktan sonra değiştirmek mümkün değildir.]]></phrase>
+  <phrase title="it_is_not_possible_to_deactivate_this_provider" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu sağlayıcıyı devre dışı bırakmak mümkün değildir.]]></phrase>
+  <phrase title="it_is_not_possible_to_delete_default_reaction" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Varsayılan tepkiyi silmek mümkün değildir.]]></phrase>
+  <phrase title="it_is_not_possible_to_delete_last_language" version_id="0"><![CDATA[Son dili silmek mümkün değildir.]]></phrase>
+  <phrase title="it_is_not_possible_to_disable_default_reaction" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Varsayılan tepkiyi devre dışı bırakmak mümkün değildir.]]></phrase>
+  <phrase title="it_is_not_possible_to_export_default_reaction" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Varsayılan tepkiyi dışa aktarmak mümkün değildir.]]></phrase>
+  <phrase title="it_is_not_possible_to_move_any_of_selected_posts_to_specified_target" version_id="2000570" version_string="2.0.5"><![CDATA[Seçili mesajların hiçbirini belirtilen hedefe taşımak mümkün değildir.]]></phrase>
+  <phrase title="it_is_not_possible_to_prevent_users_from_selecting_default_language" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcıların varsayılan dili seçmesini engellemek mümkün değildir.]]></phrase>
+  <phrase title="it_is_not_possible_to_prevent_users_selecting_the_default_style" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Kullanıcıların varsayılan stili seçmesini engellemek mümkün değildir.]]></phrase>
+  <phrase title="it_is_not_possible_to_remove_default_language" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Varsayılan dili kaldırmak mümkün değildir.]]></phrase>
+  <phrase title="it_is_not_possible_to_remove_default_style" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Varsayılan stili kaldırmak mümkün değildir.]]></phrase>
+  <phrase title="it_is_not_possible_to_remove_last_style" version_id="0"><![CDATA[Son stili kaldırmak mümkün değildir.]]></phrase>
+  <phrase title="it_is_not_possible_to_test_this_provider" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu sağlayıcıyı test etmek mümkün değildir.]]></phrase>
+  <phrase title="it_is_recommended_that_you_use_image_that_is_at_least_x_pixels" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En az {width}x{height} piksel boyutunda bir görsel kullanmanız önerilir.]]></phrase>
+  <phrase title="italic" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[İtalik]]></phrase>
+  <phrase title="item1" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{item1}]]></phrase>
+  <phrase title="item1_and_item2" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{item1} ve {item2}]]></phrase>
+  <phrase title="item1_item2_and_1_other" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{item1}, {item2} ve 1 kişi daha]]></phrase>
+  <phrase title="item1_item2_and_item3" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{item1}, {item2} ve {item3}]]></phrase>
+  <phrase title="item1_item2_and_x_others" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{item1}, {item2} ve {others} kişi daha]]></phrase>
+  <phrase title="item1_item2_item3_and_1_other" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{item1}, {item2}, {item3} ve 1 kişi daha]]></phrase>
+  <phrase title="item1_item2_item3_and_x_others" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{item1}, {item2}, {item3} ve {others} kişi daha]]></phrase>
+  <phrase title="item_cannot_be_deleted_associated_with_addon_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu öğe, bir eklenti veya XenForo'nun kendisiyle ilişkili olduğundan silinemez. Kullanmak istemiyorsanız, lütfen onun yerine devre dışı bırakın.]]></phrase>
+  <phrase title="item_will_remain_viewable_by_moderators_and_may_be_restored_at_later" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Öğe moderatörler tarafından görüntülenebilir kalacak ve daha sonraki bir tarihte geri yüklenebilir.]]></phrase>
+  <phrase title="items_of_this_type_cannot_be_purchased_at_moment" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu türdeki öğeler şu anda satın alınamaz.]]></phrase>
+  <phrase title="items_to_process_per_page" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Sayfa başına işlenecek öğe sayısı]]></phrase>
+  <phrase title="javascript_is_disabled_please_enable_before_proceeding" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[JavaScript devre dışı. Daha iyi bir deneyim için, devam etmeden önce lütfen tarayıcınızda JavaScript'i etkinleştirin.]]></phrase>
+  <phrase title="join_date" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Katılım tarihi]]></phrase>
+  <phrase title="joined" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Katıldı]]></phrase>
+  <phrase title="jump_to_line" version_id="2001070" version_string="2.0.10"><![CDATA[Satıra git]]></phrase>
+  <phrase title="jump_to_new" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yeniye git]]></phrase>
+  <phrase title="justify_text" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Metni yasla]]></phrase>
+  <phrase title="keep_emoji_in_title" version_id="2030037" version_string="2.3.0 Beta 7"><![CDATA[Başlıkta emojiyi koru]]></phrase>
+  <phrase title="key_file" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Anahtar dosyası]]></phrase>
+  <phrase title="key_file_already_exists_for_this_provider" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu sağlayıcı için zaten bir anahtar dosyası var. Değiştirmek istiyorsanız aşağıdaki yükleme düğmesini kullanın.]]></phrase>
+  <phrase title="key_id" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Anahtar ID]]></phrase>
+  <phrase title="key_id_should_have_sign_in_with_apple_service_enabled_and_be" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Anahtar ID, Sign in with Apple hizmeti etkinleştirilmiş olmalı ve aşağıdaki anahtar dosyasıyla ilişkilendirilmelidir.]]></phrase>
+  <phrase title="key_provided_to_api_via_header" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Bu anahtar, API isteklerine <code>XF-Api-Key</code> başlığı aracılığıyla sağlanmalıdır.]]></phrase>
+  <phrase title="key_type" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Anahtar türü]]></phrase>
+  <phrase title="keywords" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Anahtar kelimeler]]></phrase>
+  <phrase title="label" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Etiket]]></phrase>
+  <phrase title="label_separator" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Etiket ayırıcı]]></phrase>
+  <phrase title="labels" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Etiketler]]></phrase>
+  <phrase title="labels_must_be_unique" version_id="2010053" version_string="2.1.0 Release Candidate 3"><![CDATA[Etiketler benzersiz olmalıdır. Belirtilen etiket zaten mevcut.]]></phrase>
+  <phrase title="language" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Dil]]></phrase>
+  <phrase title="language_chooser" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dil seçici]]></phrase>
+  <phrase title="language_code" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Dil]]></phrase>
+  <phrase title="language_code.af_ZA" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Afrikanca]]></phrase>
+  <phrase title="language_code.am_ET" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Amharca]]></phrase>
+  <phrase title="language_code.ar_AR" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Arapça]]></phrase>
+  <phrase title="language_code.ay_BO" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aymara]]></phrase>
+  <phrase title="language_code.az_AZ" version_id="2010370" version_string="2.1.3"><![CDATA[Azerice]]></phrase>
+  <phrase title="language_code.be_BY" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Belarusça]]></phrase>
+  <phrase title="language_code.bg_BG" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bulgarca]]></phrase>
+  <phrase title="language_code.bn_IN" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bengalce]]></phrase>
+  <phrase title="language_code.bs_BA" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Boşnakça]]></phrase>
+  <phrase title="language_code.ca_ES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Katalanca]]></phrase>
+  <phrase title="language_code.ck_US" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Çerokice]]></phrase>
+  <phrase title="language_code.cs_CZ" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Çekçe]]></phrase>
+  <phrase title="language_code.cx_PH" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sebuanca]]></phrase>
+  <phrase title="language_code.cy_GB" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Galce]]></phrase>
+  <phrase title="language_code.da_DK" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Danca]]></phrase>
+  <phrase title="language_code.de_DE" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Almanca]]></phrase>
+  <phrase title="language_code.el_GR" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yunanca]]></phrase>
+  <phrase title="language_code.en_GB" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İngilizce (İngiltere)]]></phrase>
+  <phrase title="language_code.en_US" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İngilizce (ABD)]]></phrase>
+  <phrase title="language_code.eo_EO" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Esperanto]]></phrase>
+  <phrase title="language_code.es_CL" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İspanyolca (Şili)]]></phrase>
+  <phrase title="language_code.es_CO" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İspanyolca (Kolombiya)]]></phrase>
+  <phrase title="language_code.es_ES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İspanyolca (İspanya)]]></phrase>
+  <phrase title="language_code.es_LA" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İspanyolca]]></phrase>
+  <phrase title="language_code.es_MX" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İspanyolca (Meksika)]]></phrase>
+  <phrase title="language_code.es_VE" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İspanyolca (Venezuela)]]></phrase>
+  <phrase title="language_code.et_EE" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Estonca]]></phrase>
+  <phrase title="language_code.eu_ES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Baskça]]></phrase>
+  <phrase title="language_code.fa_IR" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Farsça]]></phrase>
+  <phrase title="language_code.ff_NG" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Fulah]]></phrase>
+  <phrase title="language_code.fi_FI" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Fince]]></phrase>
+  <phrase title="language_code.fo_FO" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Faroece]]></phrase>
+  <phrase title="language_code.fr_CA" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Fransızca (Kanada)]]></phrase>
+  <phrase title="language_code.fr_FR" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Fransızca (Fransa)]]></phrase>
+  <phrase title="language_code.ga_IE" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İrlandaca]]></phrase>
+  <phrase title="language_code.gl_ES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Galiçyaca]]></phrase>
+  <phrase title="language_code.gu_IN" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gucaratça]]></phrase>
+  <phrase title="language_code.ha_NG" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hausaca]]></phrase>
+  <phrase title="language_code.he_IL" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İbranice]]></phrase>
+  <phrase title="language_code.hi_IN" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hintçe]]></phrase>
+  <phrase title="language_code.hr_HR" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hırvatça]]></phrase>
+  <phrase title="language_code.ht_HT" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Haiti Kreyolu]]></phrase>
+  <phrase title="language_code.hu_HU" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Macarca]]></phrase>
+  <phrase title="language_code.hy_AM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ermenice]]></phrase>
+  <phrase title="language_code.id_ID" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Endonezce]]></phrase>
+  <phrase title="language_code.ig_NG" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İbo]]></phrase>
+  <phrase title="language_code.is_IS" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İzlandaca]]></phrase>
+  <phrase title="language_code.it_IT" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İtalyanca]]></phrase>
+  <phrase title="language_code.ja_JP" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Japonca]]></phrase>
+  <phrase title="language_code.jv_ID" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cava dili]]></phrase>
+  <phrase title="language_code.ka_GE" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gürcüce]]></phrase>
+  <phrase title="language_code.kk_KZ" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kazakça]]></phrase>
+  <phrase title="language_code.km_KH" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Khmerce]]></phrase>
+  <phrase title="language_code.kn_IN" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kannadaca]]></phrase>
+  <phrase title="language_code.ko_KR" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Korece]]></phrase>
+  <phrase title="language_code.ku_TR" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kürtçe]]></phrase>
+  <phrase title="language_code.la_VA" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Latince]]></phrase>
+  <phrase title="language_code.li_NL" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Limburgca]]></phrase>
+  <phrase title="language_code.lo_LA" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Laoca]]></phrase>
+  <phrase title="language_code.lt_LT" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Litvanca]]></phrase>
+  <phrase title="language_code.lv_LV" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Letonca]]></phrase>
+  <phrase title="language_code.mg_MG" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Madagaskarca]]></phrase>
+  <phrase title="language_code.mk_MK" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Makedonca]]></phrase>
+  <phrase title="language_code.ml_IN" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Malayalamca]]></phrase>
+  <phrase title="language_code.mn_MN" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Moğolca]]></phrase>
+  <phrase title="language_code.mr_IN" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Marathice]]></phrase>
+  <phrase title="language_code.ms_MY" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Malayca]]></phrase>
+  <phrase title="language_code.mt_MT" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maltaca]]></phrase>
+  <phrase title="language_code.my_MM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Burmaca]]></phrase>
+  <phrase title="language_code.nb_NO" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Norveççe (bokmal)]]></phrase>
+  <phrase title="language_code.ne_NP" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Nepalce]]></phrase>
+  <phrase title="language_code.nl_NL" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hollandaca]]></phrase>
+  <phrase title="language_code.nn_NO" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Norveççe (nynorsk)]]></phrase>
+  <phrase title="language_code.or_IN" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oriyaca]]></phrase>
+  <phrase title="language_code.pa_IN" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pencapça]]></phrase>
+  <phrase title="language_code.pl_PL" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lehçe]]></phrase>
+  <phrase title="language_code.ps_AF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Peştuca]]></phrase>
+  <phrase title="language_code.pt_BR" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Portekizce (Brezilya)]]></phrase>
+  <phrase title="language_code.pt_PT" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Portekizce (Portekiz)]]></phrase>
+  <phrase title="language_code.qu_PE" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Keçuva]]></phrase>
+  <phrase title="language_code.rm_CH" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Romanşça]]></phrase>
+  <phrase title="language_code.ro_RO" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rumence]]></phrase>
+  <phrase title="language_code.ru_RU" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rusça]]></phrase>
+  <phrase title="language_code.sa_IN" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sanskritçe]]></phrase>
+  <phrase title="language_code.si_LK" version_id="2020770" version_string="2.2.7"><![CDATA[Sinhala (Sri Lanka)]]></phrase>
+  <phrase title="language_code.sk_SK" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Slovakça]]></phrase>
+  <phrase title="language_code.sl_SI" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Slovence]]></phrase>
+  <phrase title="language_code.so_SO" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Somalice]]></phrase>
+  <phrase title="language_code.sq_AL" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Arnavutça]]></phrase>
+  <phrase title="language_code.sr_RS" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sırpça]]></phrase>
+  <phrase title="language_code.sv_SE" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İsveççe]]></phrase>
+  <phrase title="language_code.sw_KE" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Svahili]]></phrase>
+  <phrase title="language_code.sy_SY" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Süryanice]]></phrase>
+  <phrase title="language_code.ta_IN" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tamilce]]></phrase>
+  <phrase title="language_code.te_IN" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Telugu]]></phrase>
+  <phrase title="language_code.tg_TJ" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tacikçe]]></phrase>
+  <phrase title="language_code.th_TH" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tayca]]></phrase>
+  <phrase title="language_code.tl_PH" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Filipince]]></phrase>
+  <phrase title="language_code.tl_ST" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Klingonca]]></phrase>
+  <phrase title="language_code.tr_TR" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Türkçe]]></phrase>
+  <phrase title="language_code.tt_RU" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tatarca]]></phrase>
+  <phrase title="language_code.uk_UA" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ukraynaca]]></phrase>
+  <phrase title="language_code.ur_PK" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Urduca]]></phrase>
+  <phrase title="language_code.uz_UZ" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Özbekçe]]></phrase>
+  <phrase title="language_code.vi_VN" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vietnamca]]></phrase>
+  <phrase title="language_code.xh_ZA" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Xhosaca]]></phrase>
+  <phrase title="language_code.yi_DE" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yidiş]]></phrase>
+  <phrase title="language_code.yo_NG" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yorubaca]]></phrase>
+  <phrase title="language_code.zh_CN" version_id="2020036" version_string="2.2.0 Beta 6"><![CDATA[Çince (Basitleştirilmiş) [Kullanım Dışı]]]></phrase>
+  <phrase title="language_code.zh_HK" version_id="2020036" version_string="2.2.0 Beta 6"><![CDATA[Çince (Geleneksel, Hong Kong) [Kullanım Dışı]]]></phrase>
+  <phrase title="language_code.zh_Hans" version_id="2020036" version_string="2.2.0 Beta 6"><![CDATA[Çince, Basitleştirilmiş]]></phrase>
+  <phrase title="language_code.zh_Hans_CN" version_id="2020036" version_string="2.2.0 Beta 6"><![CDATA[Çince, Basitleştirilmiş (ÇHC Anakara)]]></phrase>
+  <phrase title="language_code.zh_Hans_HK" version_id="2020036" version_string="2.2.0 Beta 6"><![CDATA[Çince, Basitleştirilmiş (Hong Kong)]]></phrase>
+  <phrase title="language_code.zh_Hans_MO" version_id="2020036" version_string="2.2.0 Beta 6"><![CDATA[Çince, Basitleştirilmiş (Makao)]]></phrase>
+  <phrase title="language_code.zh_Hans_SG" version_id="2020036" version_string="2.2.0 Beta 6"><![CDATA[Çince, Basitleştirilmiş (Singapur)]]></phrase>
+  <phrase title="language_code.zh_Hans_TW" version_id="2020036" version_string="2.2.0 Beta 6"><![CDATA[Çince, Basitleştirilmiş (Tayvan)]]></phrase>
+  <phrase title="language_code.zh_Hant" version_id="2020036" version_string="2.2.0 Beta 6"><![CDATA[Çince, Geleneksel]]></phrase>
+  <phrase title="language_code.zh_Hant_CN" version_id="2020036" version_string="2.2.0 Beta 6"><![CDATA[Çince, Geleneksel (ÇHC Anakara)]]></phrase>
+  <phrase title="language_code.zh_Hant_HK" version_id="2020036" version_string="2.2.0 Beta 6"><![CDATA[Çince, Geleneksel (Hong Kong)]]></phrase>
+  <phrase title="language_code.zh_Hant_MO" version_id="2020036" version_string="2.2.0 Beta 6"><![CDATA[Çince, Geleneksel (Makao)]]></phrase>
+  <phrase title="language_code.zh_Hant_SG" version_id="2020036" version_string="2.2.0 Beta 6"><![CDATA[Çince, Geleneksel (Singapur)]]></phrase>
+  <phrase title="language_code.zh_Hant_TW" version_id="2020036" version_string="2.2.0 Beta 6"><![CDATA[Çince, Geleneksel (Tayvan)]]></phrase>
+  <phrase title="language_code.zh_TW" version_id="2020036" version_string="2.2.0 Beta 6"><![CDATA[Çince (Geleneksel, Tayvan) [Kullanım Dışı]]]></phrase>
+  <phrase title="language_code.zu_ZA" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Zuluca]]></phrase>
+  <phrase title="language_settings" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Dil ayarları]]></phrase>
+  <phrase title="languages" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Diller]]></phrase>
+  <phrase title="large_toolbar" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Büyük araç çubuğu]]></phrase>
+  <phrase title="large_toolbar_desc" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Editör en az {min}px genişliğinde olduğunda kullanılır.]]></phrase>
+  <phrase title="largest" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En büyük]]></phrase>
+  <phrase title="last" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Son]]></phrase>
+  <phrase title="last_action" version_id="2001070" version_string="2.0.10"><![CDATA[Son eylem]]></phrase>
+  <phrase title="last_activity" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Son etkinlik]]></phrase>
+  <phrase title="last_administrator_cannot_be_deleted" version_id="0"><![CDATA[Son yönetici silinemez.]]></phrase>
+  <phrase title="last_day" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Son gün]]></phrase>
+  <phrase title="last_edited" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Son düzenleme]]></phrase>
+  <phrase title="last_edited_by_moderator" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Bir moderatör tarafından son düzenleme]]></phrase>
+  <phrase title="last_login" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Son giriş]]></phrase>
+  <phrase title="last_message" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Son mesaj]]></phrase>
+  <phrase title="last_modified" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Son değiştirme]]></phrase>
+  <phrase title="last_month" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Son ay]]></phrase>
+  <phrase title="last_post_between" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[Son mesaj arası]]></phrase>
+  <phrase title="last_post_in_last" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Son zamanda son mesaj]]></phrase>
+  <phrase title="last_reply_date" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Son cevap tarihi]]></phrase>
+  <phrase title="last_reply_from" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Son cevap kimden]]></phrase>
+  <phrase title="last_report_update" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Son rapor güncellemesi]]></phrase>
+  <phrase title="last_requested" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Son istenen]]></phrase>
+  <phrase title="last_seen" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Son görülme]]></phrase>
+  <phrase title="last_triggered" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Son tetikleme]]></phrase>
+  <phrase title="last_updated" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Son güncelleme]]></phrase>
+  <phrase title="last_upgrade_check_failed_see_log" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Son yükseltme kontrolü başarısız oldu. Daha fazla ayrıntı için sunucu hata günlüğüne bakın.]]></phrase>
+  <phrase title="last_upgrade_check_x" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Son yükseltme kontrolü: {date}]]></phrase>
+  <phrase title="last_used" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Son kullanılan]]></phrase>
+  <phrase title="last_username_change" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Son kullanıcı adı değişikliği]]></phrase>
+  <phrase title="last_username_change_was_too_recent_try_again_in_x_days" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Son kullanıcı adı değişikliğiniz çok yeni. {days} gün içinde tekrar deneyebilirsiniz.]]></phrase>
+  <phrase title="last_visited_between" version_id="1020032" version_string="1.2.0 Beta 2"><![CDATA[Son ziyaret arası]]></phrase>
+  <phrase title="last_week" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Son hafta]]></phrase>
+  <phrase title="later_today_at_x" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Bugün ileride {time}]]></phrase>
+  <phrase title="latest" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En son]]></phrase>
+  <phrase title="latest_activity" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En son etkinlik]]></phrase>
+  <phrase title="latest_member" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En son üye]]></phrase>
+  <phrase title="latest_threads" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En son konular]]></phrase>
+  <phrase title="latest_updates" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[En son güncellemeler]]></phrase>
+  <phrase title="latest_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En son: {name}]]></phrase>
+  <phrase title="learn_more" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Daha fazla bilgi]]></phrase>

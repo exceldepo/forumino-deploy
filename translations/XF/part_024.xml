@@ -1,0 +1,192 @@
+  <phrase title="please_enter_valid_extension_class" version_id="2001070" version_string="2.0.10"><![CDATA[Lütfen geçerli bir uzantı sınıfı girin.]]></phrase>
+  <phrase title="please_enter_valid_facebook_username_using_alphanumeric_dot_numbers" version_id="2000570" version_string="2.0.5"><![CDATA[Lütfen yalnızca a-z, 0-9, - ve . karakterlerini kullanarak geçerli bir Facebook kullanıcı/grup/sayfa adı veya yalnızca rakamlar kullanarak bir kullanıcı ID'si girin.]]></phrase>
+  <phrase title="please_enter_valid_field_id" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Lütfen geçerli bir alan ID'si girin.]]></phrase>
+  <phrase title="please_enter_valid_field_name" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen geçerli bir alan adı girin.]]></phrase>
+  <phrase title="please_enter_valid_group_name" version_id="0"><![CDATA[Lütfen geçerli bir grup adı girin.]]></phrase>
+  <phrase title="please_enter_valid_icon_class" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Lütfen geçerli bir simge sınıfı girin.]]></phrase>
+  <phrase title="please_enter_valid_import_log_table_name" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Lütfen geçerli bir içe aktarma günlüğü tablo adı girin.]]></phrase>
+  <phrase title="please_enter_valid_ip_or_ip_range" version_id="0"><![CDATA[Lütfen geçerli bir IP veya IP aralığı girin. Joker karakterler yalnızca sonda olabilir.]]></phrase>
+  <phrase title="please_enter_valid_location" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Lütfen geçerli bir konum girin.]]></phrase>
+  <phrase title="please_enter_valid_media_site_id" version_id="0"><![CDATA[Lütfen geçerli bir medya sitesi ID'si girin.]]></phrase>
+  <phrase title="please_enter_valid_member_stat_key" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen geçerli bir üye istatistik anahtarı girin.]]></phrase>
+  <phrase title="please_enter_valid_message" version_id="0"><![CDATA[Lütfen geçerli bir mesaj girin.]]></phrase>
+  <phrase title="please_enter_valid_message_to_start_direct_message" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Doğrudan mesaj başlatmak için lütfen geçerli bir mesaj girin.]]></phrase>
+  <phrase title="please_enter_valid_name" version_id="0"><![CDATA[Lütfen geçerli bir ad girin.]]></phrase>
+  <phrase title="please_enter_valid_navigation_id" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen geçerli bir navigasyon ID'si girin.]]></phrase>
+  <phrase title="please_enter_valid_option_group_id" version_id="0"><![CDATA[Lütfen geçerli bir seçenek grubu ID'si girin.]]></phrase>
+  <phrase title="please_enter_valid_option_id" version_id="0"><![CDATA[Lütfen geçerli bir seçenek ID'si girin.]]></phrase>
+  <phrase title="please_enter_valid_password" version_id="0"><![CDATA[Lütfen geçerli bir şifre girin.]]></phrase>
+  <phrase title="please_enter_valid_permission_id" version_id="0"><![CDATA[Lütfen geçerli bir izin ID'si girin.]]></phrase>
+  <phrase title="please_enter_valid_permission_interface_group_id" version_id="0"><![CDATA[Lütfen geçerli bir izin arayüz grubu ID'si girin.]]></phrase>
+  <phrase title="please_enter_valid_property_name" version_id="0"><![CDATA[Lütfen geçerli bir özellik adı girin.]]></phrase>
+  <phrase title="please_enter_valid_redirect_uris" version_id="2030570" version_string="2.3.5"><![CDATA[Lütfen geçerli yönlendirme URI'leri girin.]]></phrase>
+  <phrase title="please_enter_valid_regular_expression" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Lütfen geçerli bir düzenli ifade girin.]]></phrase>
+  <phrase title="please_enter_valid_route_class" version_id="0"><![CDATA[Lütfen geçerli bir rota sınıfı girin.]]></phrase>
+  <phrase title="please_enter_valid_route_prefix" version_id="0"><![CDATA[Lütfen geçerli bir rota öneki girin.]]></phrase>
+  <phrase title="please_enter_valid_route_type" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen geçerli bir rota türü girin.]]></phrase>
+  <phrase title="please_enter_valid_smilie_category_id" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Lütfen geçerli bir gülen yüz kategori ID'si girin]]></phrase>
+  <phrase title="please_enter_valid_smilie_text" version_id="0"><![CDATA[Lütfen geçerli bir gülen yüz metni girin.]]></phrase>
+  <phrase title="please_enter_valid_sub_name" version_id="2000270" version_string="2.0.2"><![CDATA[Lütfen geçerli bir alt ad girin.]]></phrase>
+  <phrase title="please_enter_valid_tag_name" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen geçerli bir etiket adı girin.]]></phrase>
+  <phrase title="please_enter_valid_template_title" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen geçerli bir şablon başlığı girin.]]></phrase>
+  <phrase title="please_enter_valid_time_format" version_id="0"><![CDATA[Lütfen geçerli bir saat formatı girin.]]></phrase>
+  <phrase title="please_enter_valid_title" version_id="0"><![CDATA[Lütfen geçerli bir başlık girin.]]></phrase>
+  <phrase title="please_enter_valid_title_to_start_direct_message" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Doğrudan mesaj başlatmak için lütfen geçerli bir başlık girin.]]></phrase>
+  <phrase title="please_enter_valid_twitter_name_using_alphanumeric" version_id="0"><![CDATA[Lütfen yalnızca a-z, 0-9 ve _ karakterlerini kullanarak geçerli bir Twitter adı girin.]]></phrase>
+  <phrase title="please_enter_valid_url" version_id="0"><![CDATA[Lütfen geçerli bir URL girin.]]></phrase>
+  <phrase title="please_enter_valid_url_portion" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Lütfen geçerli bir URL bölümü girin.]]></phrase>
+  <phrase title="please_enter_valid_user_name_css_rules" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Lütfen geçerli kullanıcı adı CSS kuralları girin.]]></phrase>
+  <phrase title="please_enter_valid_validator" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen geçerli bir doğrulayıcı adı girin]]></phrase>
+  <phrase title="please_enter_valid_value" version_id="0"><![CDATA[Lütfen geçerli bir değer girin.]]></phrase>
+  <phrase title="please_enter_valid_welcome_direct_message_contents" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Lütfen geçerli karşılama doğrudan mesaj içeriği girin.]]></phrase>
+  <phrase title="please_enter_value_for_all_required_fields" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Lütfen tüm gerekli alanlar için bir değer girin.]]></phrase>
+  <phrase title="please_enter_value_for_required_field" version_id="2011070" version_string="2.1.10"><![CDATA[Lütfen gerekli alan için bir değer girin.]]></phrase>
+  <phrase title="please_enter_value_for_required_field_x" version_id="0"><![CDATA[Lütfen gerekli '{field}' alanı için bir değer girin.]]></phrase>
+  <phrase title="please_enter_value_that_matches_required_format" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Lütfen gerekli formatla eşleşen bir değer girin.]]></phrase>
+  <phrase title="please_enter_value_that_matches_requirements_for_this_field" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen bu alanın gereksinimleriyle eşleşen bir değer girin.]]></phrase>
+  <phrase title="please_enter_value_using_x_characters_or_fewer" version_id="0"><![CDATA[Lütfen {count} karakter veya daha az kullanarak bir değer girin.]]></phrase>
+  <phrase title="please_enter_widget_key" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen bir widget anahtarı girin.]]></phrase>
+  <phrase title="please_enter_widget_position_key" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen bir widget konum anahtarı girin.]]></phrase>
+  <phrase title="please_enter_your_google_analytics_web_property_id_in_format" version_id="2020270" version_string="2.2.2"><![CDATA[Lütfen Google Analytics web mülk kimliğinizi / UA numaranızı UA-XXXXXX-Y formatında veya Google Analytics 4 Ölçüm Kimliğinizi G-XXXXXX formatında girin. <a href="https://support.google.com/analytics/answer/9310895" target="_blank">https://support.google.com/analytics/answer/9310895</a> adresine bakın.]]></phrase>
+  <phrase title="please_leave_this_field_blank" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Lütfen bu alanı boş bırakın.]]></phrase>
+  <phrase title="please_provide_at_least_one_answer" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Lütfen en az bir cevap sağlayın.]]></phrase>
+  <phrase title="please_provide_reason_for_this_username_change" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Lütfen bu kullanıcı adı değişikliği için bir sebep sağlayın.]]></phrase>
+  <phrase title="please_provide_url_of_non_redirect_thread" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen yönlendirme olmayan bir konunun URL'sini sağlayın.]]></phrase>
+  <phrase title="please_provide_valid_x_xml_file" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen geçerli bir {rootName} XML dosyası sağlayın.]]></phrase>
+  <phrase title="please_provide_valid_xml_file" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen geçerli bir XML dosyası sağlayın.]]></phrase>
+  <phrase title="please_read_and_accept_our_privacy_policy_before_continuing" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Devam etmeden önce lütfen gizlilik politikamızı okuyun ve kabul edin.]]></phrase>
+  <phrase title="please_read_and_accept_our_terms_and_privacy_policy_before_continuing" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Devam etmeden önce lütfen şartlarımızı ve gizlilik politikamızı okuyun ve kabul edin.]]></phrase>
+  <phrase title="please_read_and_accept_our_terms_and_rules_before_continuing" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Devam etmeden önce lütfen şartlarımızı ve kurallarımızı okuyun ve kabul edin.]]></phrase>
+  <phrase title="please_review_files" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen dosyaları gözden geçirin]]></phrase>
+  <phrase title="please_review_warnings_and_confirm_you_wish_to_proceed_installing" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen uyarıları gözden geçirin ve aşağıdaki eklentiyi kurmaya devam etmek istediğinizi onaylayın]]></phrase>
+  <phrase title="please_review_warnings_and_confirm_you_wish_to_proceed_rebuilding" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen uyarıları gözden geçirin ve aşağıdaki eklentinin ana verilerini yeniden oluşturmaya devam etmek istediğinizi onaylayın]]></phrase>
+  <phrase title="please_review_warnings_and_confirm_you_wish_to_proceed_upgrading" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen uyarıları gözden geçirin ve aşağıdaki eklentiyi yükseltmeye devam etmek istediğinizi onaylayın]]></phrase>
+  <phrase title="please_select_a_prefix" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Lütfen bir önek seçin.]]></phrase>
+  <phrase title="please_select_a_valid_type_of_moderator" version_id="0"><![CDATA[Lütfen geçerli bir moderatör türü seçin.]]></phrase>
+  <phrase title="please_select_all_applicable_events_that_should_trigger_this_webhook" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Lütfen bu webhook'u tetikleyecek tüm geçerli olayları seçin.]]></phrase>
+  <phrase title="please_select_at_least_one_payment_profile" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen en az bir ödeme profili seçin.]]></phrase>
+  <phrase title="please_select_at_least_one_smilie_to_export" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen dışa aktarmak için en az bir gülen yüz seçin.]]></phrase>
+  <phrase title="please_select_at_least_one_template_or_style_property_to_revert" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[Lütfen geri almak için en az bir şablon veya stil özelliği seçin.]]></phrase>
+  <phrase title="please_select_at_least_one_user_group" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Lütfen en az bir kullanıcı grubu seçin.]]></phrase>
+  <phrase title="please_select_at_least_one_x_to_export" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen dışa aktarmak için en az bir {tag_name} seçin.]]></phrase>
+  <phrase title="please_select_criteria_that_must_be_met" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Lütfen karşılanması gereken kriterleri seçin.]]></phrase>
+  <phrase title="please_select_data_type_array_if_you_want_to_allow_multiple_selections" version_id="0"><![CDATA[Birden fazla seçime izin vermek istiyorsanız 'array' veri türünü seçin.]]></phrase>
+  <phrase title="please_select_data_type_other_than_array_if_you_want_to_allow_single" version_id="0"><![CDATA[Yalnızca tek seçimlere izin vermek istiyorsanız 'array' dışında bir veri türü seçin.]]></phrase>
+  <phrase title="please_select_valid_ad_position" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen geçerli bir reklam konumu seçin.]]></phrase>
+  <phrase title="please_select_valid_code_event" version_id="0"><![CDATA[Lütfen geçerli bir kod olayı seçin.]]></phrase>
+  <phrase title="please_select_valid_default_sort_order" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Lütfen geçerli bir varsayılan sıralama düzeni seçin.]]></phrase>
+  <phrase title="please_select_valid_forum" version_id="0"><![CDATA[Lütfen geçerli bir forum seçin.]]></phrase>
+  <phrase title="please_select_valid_parent" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen geçerli bir üst öğe seçin.]]></phrase>
+  <phrase title="please_select_valid_parent_language" version_id="0"><![CDATA[Lütfen geçerli bir üst dil seçin. Bir dil kendisinin veya alt dillerinden birinin alt dili olamaz.]]></phrase>
+  <phrase title="please_select_valid_parent_navigation_entry" version_id="0"><![CDATA[Lütfen geçerli bir üst navigasyon girişi seçin. Bir navigasyon girişi kendisinin veya alt öğelerinden birinin alt öğesi olamaz.]]></phrase>
+  <phrase title="please_select_valid_parent_style" version_id="0"><![CDATA[Lütfen geçerli bir üst stil seçin. Bir stil kendisinin veya alt stillerinden birinin alt stili olamaz.]]></phrase>
+  <phrase title="please_select_valid_search_forum" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Lütfen geçerli bir arama forumu seçin.]]></phrase>
+  <phrase title="please_select_valid_thread_type" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Lütfen geçerli bir konu türü seçin.]]></phrase>
+  <phrase title="please_select_valid_time_zone" version_id="1000270" version_string="1.0.2"><![CDATA[Lütfen geçerli bir saat dilimi seçin.]]></phrase>
+  <phrase title="please_specify_search_query_or_name_of_member" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Lütfen bir arama sorgusu veya bir üyenin adını belirtin.]]></phrase>
+  <phrase title="please_specify_valid_spam_forum" version_id="0"><![CDATA[Lütfen spam temizleyici tarafından taşınan konular için hedef olarak geçerli bir forum belirtin.]]></phrase>
+  <phrase title="please_upload_valid_language_xml_file" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Lütfen geçerli bir dil XML dosyası yükleyin.]]></phrase>
+  <phrase title="please_upload_valid_smilies_xml_file" version_id="1030032" version_string="1.3.0 Beta 2"><![CDATA[Lütfen geçerli bir gülen yüz XML dosyası yükleyin.]]></phrase>
+  <phrase title="please_upload_valid_style_xml_file" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Lütfen geçerli bir stil XML veya arşiv dosyası yükleyin.]]></phrase>
+  <phrase title="please_vote_for_at_least_one_option" version_id="0"><![CDATA[Lütfen en az bir seçenek için oy verin.]]></phrase>
+  <phrase title="please_wait_x_seconds" version_id="2010570" version_string="2.1.5"><![CDATA[Lütfen {seconds} saniye bekleyin.]]></phrase>
+  <phrase title="plus_x_previous" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[+ {count} önceki]]></phrase>
+  <phrase title="points" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Puanlar]]></phrase>
+  <phrase title="points_and_expiry_time_editable_when_giving_warning" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Uyarı verirken puanlar ve sona erme süresi düzenlenebilir]]></phrase>
+  <phrase title="points_can_be_used_track_progression_and_change_title" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Bu puanlar ilerlemeyi izlemek ve bir kullanıcının başlığını değiştirmek için kullanılabilir.]]></phrase>
+  <phrase title="points_expire_after" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Puanlar şu süre sonra sona erer]]></phrase>
+  <phrase title="points_expiry" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Puan sona erme]]></phrase>
+  <phrase title="points_threshold" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Puan eşiği]]></phrase>
+  <phrase title="poll" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Anket]]></phrase>
+  <phrase title="poll_change_content_url" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İçerik URL'sini değiştir]]></phrase>
+  <phrase title="poll_change_content_url_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mevcut anketi değiştirmek istiyorsanız, anketi olan içeriğin URL'sini girin.]]></phrase>
+  <phrase title="poll_choice" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Anket seçeneği]]></phrase>
+  <phrase title="poll_closed" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Anket kapatıldı]]></phrase>
+  <phrase title="poll_content_url" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İçerik URL'si]]></phrase>
+  <phrase title="poll_content_url_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Şu anda anketi olan içeriğin URL'sini girin.]]></phrase>
+  <phrase title="poll_for_content" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İçerik için anket]]></phrase>
+  <phrase title="poll_for_this_content_cannot_be_found" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu içerik için anket bulunamadı. Silinmiş olabilir. Lütfen aşağıda yeni bir içerik URL'si sağlayın.]]></phrase>
+  <phrase title="poll_results" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Anket sonuçları]]></phrase>
+  <phrase title="poll_voters" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Anket katılımcıları]]></phrase>
+  <phrase title="polls" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Anketler]]></phrase>
+  <phrase title="poor" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Zayıf]]></phrase>
+  <phrase title="popular" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Popüler]]></phrase>
+  <phrase title="popular_currencies" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Popüler para birimleri]]></phrase>
+  <phrase title="popular_tags" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Popüler etiketler]]></phrase>
+  <phrase title="popup_menu" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Açılır menü]]></phrase>
+  <phrase title="port" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Port]]></phrase>
+  <phrase title="position" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konum]]></phrase>
+  <phrase title="position_id" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konum ID]]></phrase>
+  <phrase title="position_of_this_item_relative_to_other_nodes_with_same_parent" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Bu öğenin aynı üst öğeye sahip diğer düğümlere göre konumu.]]></phrase>
+  <phrase title="positive_integer" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pozitif tamsayı]]></phrase>
+  <phrase title="possible_choices" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Olası seçenekler]]></phrase>
+  <phrase title="possible_responses" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Olası yanıtlar]]></phrase>
+  <phrase title="post_comment" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yorum gönder]]></phrase>
+  <phrase title="post_date" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesaj tarihi]]></phrase>
+  <phrase title="post_edit_history" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Mesaj düzenleme geçmişi]]></phrase>
+  <phrase title="post_feed_entries_as_following_user" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Aşağıdaki kullanıcı olarak gönder:]]></phrase>
+  <phrase title="post_feed_entries_as_guest" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Misafir olarak gönder, akış verisinden ad bilgisini kullan.]]></phrase>
+  <phrase title="post_immediately" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Hemen gönder]]></phrase>
+  <phrase title="post_in_thread" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Konuda mesaj]]></phrase>
+  <phrase title="post_in_thread_x" version_id="0" global_cache="1"><![CDATA['{title}' konusunda mesaj]]></phrase>
+  <phrase title="post_messages_on_this_users_profile_page" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Bu kullanıcının profil sayfasına mesaj gönder]]></phrase>
+  <phrase title="post_messages_on_your_profile_page" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Profil sayfanıza mesaj gönder]]></phrase>
+  <phrase title="post_new_thread_in_this_forum" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu forumda yeni konu aç]]></phrase>
+  <phrase title="post_noun" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Mesaj]]></phrase>
+  <phrase title="post_poll" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Anket gönder]]></phrase>
+  <phrase title="post_public_warning" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Genel uyarı gönder]]></phrase>
+  <phrase title="post_reactions" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Mesaj tepkileri]]></phrase>
+  <phrase title="post_reply" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cevap gönder]]></phrase>
+  <phrase title="post_thread" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konu aç]]></phrase>
+  <phrase title="post_thread_in" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Şuraya konu aç...]]></phrase>
+  <phrase title="post_verb" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Gönder]]></phrase>
+  <phrase title="post_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesaj #{position}]]></phrase>
+  <phrase title="posted_by" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gönderen]]></phrase>
+  <phrase title="posted_in_thread_x_in_forum_y" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<a href="{forumLink}">{forumTitle}</a> forumundaki <a href="{postLink}">{threadTitle}</a> konusuna gönderildi]]></phrase>
+  <phrase title="posted_on_profile_post_by_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<a href="{commentLink}">{user}</a> tarafından profil mesajına gönderildi]]></phrase>
+  <phrase title="posted_on_profile_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<a href="{profilePostLink}">{user}</a> profiline gönderildi]]></phrase>
+  <phrase title="posted_on_the_profile_of_member" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Üyenin profiline gönderildi]]></phrase>
+  <phrase title="posting_user" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gönderen kullanıcı]]></phrase>
+  <phrase title="postings" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Gönderiler]]></phrase>
+  <phrase title="posts" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Mesajlar]]></phrase>
+  <phrase title="powered_by_giphy" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[GIPHY tarafından desteklenmektedir]]></phrase>
+  <phrase title="pre_reg_action_content_matched_x" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Kayıt öncesi eylem içeriği eşleşti ({details})]]></phrase>
+  <phrase title="pre_reg_action_notice" version_id="2020051" version_string="2.2.0 Release Candidate 1"><![CDATA[Katkınız için teşekkürler.
+İçeriğiniz gönderilmeden önce, lütfen ücretsiz bir kullanıcı hesabı kaydetmek için birkaç dakikanızı ayırın.]]></phrase>
+  <phrase title="pre_reg_action_notice_login" version_id="2020970" version_string="2.2.9"><![CDATA[Katkınız için teşekkürler.
+İçeriğiniz gönderilmeden önce, lütfen kullanıcı hesabınıza giriş yapmak için birkaç dakikanızı ayırın.]]></phrase>
+  <phrase title="pre_reg_content_could_not_be_automatically_submitted" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Maalesef, kaydolmadan önce oluşturduğunuz içerik otomatik olarak gönderilemedi.]]></phrase>
+  <phrase title="pre_registration_action" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kayıt öncesi eylem]]></phrase>
+  <phrase title="preferences" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Tercihler]]></phrase>
+  <phrase title="prefix" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Önek]]></phrase>
+  <phrase title="prefix_description_explain" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bu önek, ilişkili bir öğeyi görüntülerken ek açıklama gerektiriyorsa, isteğe bağlı olarak HTML kullanarak buraya bir açıklama girebilirsiniz.]]></phrase>
+  <phrase title="prefix_group" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Önek grubu]]></phrase>
+  <phrase title="prefix_search" version_id="2020670" version_string="2.2.6"><![CDATA[Önek]]></phrase>
+  <phrase title="prefix_usage_help" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Önek kullanım yardımı]]></phrase>
+  <phrase title="prefix_usage_help_explain" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bu önekin kullanımını içeriklerini hazırlayan kullanıcılara açıklamak isterseniz, buraya bir açıklama girin. HTML kullanabilirsiniz.]]></phrase>
+  <phrase title="prefix_will_only_be_applied_if_valid_for_forum" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Önek yalnızca konunun bulunduğu veya taşındığı forum için geçerliyse uygulanacaktır.]]></phrase>
+  <phrase title="prefixes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Önekler]]></phrase>
+  <phrase title="prefixes_belonging_to_this_group_will_be_disassociated_rather_than_deleted" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu gruba ait önekler silinmek yerine bağlantısı kaldırılacaktır.]]></phrase>
+  <phrase title="prepared_email_html_footer" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Bu mesaj size, tercihlerinizin "Haber ve güncelleme e-postaları al" olarak ayarlanması nedeniyle gönderildi. Bu e-postaları artık almak istemiyorsanız, <a href="{unsub}">bu posta listesinden abonelikten çıkabilir</a> veya <a href="{unsub_all}">tüm e-postaları devre dışı bırakabilirsiniz</a>.]]></phrase>
+  <phrase title="prepared_email_text_footer" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Bu mesaj size, tercihlerinizin "Haber ve güncelleme e-postaları al" olarak ayarlanması nedeniyle gönderildi. Bu e-postaları artık almak istemiyorsanız, bu posta listesinden abonelikten çıkabilir veya tüm e-postaları devre dışı bırakabilirsiniz.
+
+Posta listesinden çık: {unsub}
+Tüm e-postaları devre dışı bırak: {unsub_all}]]></phrase>
+  <phrase title="prev" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Önceki]]></phrase>
+  <phrase title="prevent_potential_issues_please_resolve_following_warnings_before_continuing" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Olası sorunları önlemek için lütfen devam etmeden önce aşağıdaki uyarıları çözün]]></phrase>
+  <phrase title="prevent_this_user_from_receiving_this_promotion_automatically" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Bu kullanıcının bu terfiyi otomatik olarak almasını engelle]]></phrase>
+  <phrase title="preview" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Önizleme]]></phrase>
+  <phrase title="preview_feed_entry" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Akış girişini önizle]]></phrase>
+  <phrase title="preview_your_text" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Metninizi önizleyin]]></phrase>
+  <phrase title="previous_moderation_action_logs_may_have_been_removed" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Önceki moderasyon eylemi günlükleri kaldırılmış olabilir.]]></phrase>
+  <phrase title="previous_slide" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Önceki slayt]]></phrase>
+  <phrase title="previous_usernames" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Önceki kullanıcı adları]]></phrase>
+  <phrase title="price" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Fiyat]]></phrase>
+  <phrase title="primary" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Birincil]]></phrase>
+  <phrase title="primary_and_sub_navigation_rows" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Birincil ve alt navigasyon satırları]]></phrase>
+  <phrase title="primary_navigation_row_only" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yalnızca birincil navigasyon satırı]]></phrase>
+  <phrase title="primary_url_for_your_other_xenforo_instance" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Diğer XenForo örneğinizin birincil URL'si. Sondaki "/" veya "index.php" eklemeyin. URL şuna benzer görünmelidir: https://www.example.com/forum]]></phrase>
+  <phrase title="primary_user_group" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Birincil kullanıcı grubu]]></phrase>
+  <phrase title="privacy" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Gizlilik]]></phrase>
+  <phrase title="privacy_options" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Gizlilik seçenekleri]]></phrase>
+  <phrase title="privacy_policy" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Gizlilik politikası]]></phrase>

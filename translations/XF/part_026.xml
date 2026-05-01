@@ -1,0 +1,200 @@
+  <phrase title="rebuild_direct_messages" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Doğrudan mesajları yeniden oluştur]]></phrase>
+  <phrase title="rebuild_forums" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forumları yeniden oluştur]]></phrase>
+  <phrase title="rebuild_icon_usage" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Simge kullanımını yeniden oluştur]]></phrase>
+  <phrase title="rebuild_likes_counted_status" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Beğeni sayıldı durumunu yeniden oluştur]]></phrase>
+  <phrase title="rebuild_now" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Şimdi yeniden oluştur]]></phrase>
+  <phrase title="rebuild_poll_information" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Anket bilgilerini yeniden oluştur]]></phrase>
+  <phrase title="rebuild_position_and_post_counters" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Konum ve mesaj sayaçlarını yeniden oluştur]]></phrase>
+  <phrase title="rebuild_post_embed_metadata" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesaj gömme meta verilerini yeniden oluştur]]></phrase>
+  <phrase title="rebuild_profile_post_comment_embed_metadata" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Profil mesajı yorumu gömme meta verilerini yeniden oluştur]]></phrase>
+  <phrase title="rebuild_profile_post_embed_metadata" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Profil mesajı gömme meta verilerini yeniden oluştur]]></phrase>
+  <phrase title="rebuild_profile_posts" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profil mesajlarını yeniden oluştur]]></phrase>
+  <phrase title="rebuild_reaction_score" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Tepki puanını yeniden oluştur]]></phrase>
+  <phrase title="rebuild_reactions_counted_status" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Tepki sayıldı durumunu yeniden oluştur]]></phrase>
+  <phrase title="rebuild_search_index" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Arama indeksini yeniden oluştur]]></phrase>
+  <phrase title="rebuild_sitemap" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Site haritasını yeniden oluştur]]></phrase>
+  <phrase title="rebuild_threads" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konuları yeniden oluştur]]></phrase>
+  <phrase title="rebuild_trophies" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kupaları yeniden oluştur]]></phrase>
+  <phrase title="rebuild_user_caches" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı önbelleklerini yeniden oluştur]]></phrase>
+  <phrase title="rebuild_user_group_promotions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı grubu terfilerini yeniden oluştur]]></phrase>
+  <phrase title="rebuilding" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Yeniden oluşturuluyor]]></phrase>
+  <phrase title="recaptcha_config_hint" version_id="2020570" version_string="2.2.5"><![CDATA[<a href="https://www.google.com/recaptcha" target="_blank">https://www.google.com/recaptcha</a><br />
+<br />
+Not: Anahtar oluştururken tür olarak "reCAPTCHA v2" seçmelisiniz. Görünmez CAPTCHA seçeneğini ayarlamak isterseniz, anahtar oluştururken "Görünmez reCAPTCHA rozeti" seçeneğini de seçmelisiniz.]]></phrase>
+  <phrase title="recaptcha_privacy_policy" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[<p>Bu site reCAPTCHA tarafından korunmaktadır ve Google <a href="https://policies.google.com/privacy" target="_blank">gizlilik politikası</a> ve <a href="https://policies.google.com/terms" target="_blank">hizmet şartları</a> geçerlidir.</p>]]></phrase>
+  <phrase title="receipt_for_your_account_upgrade_at_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{board_title} adresindeki hesap yükseltmenizin makbuzu]]></phrase>
+  <phrase title="receive_email_when_content_is_pending_approval" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[İçerik onay beklemede olduğunda e-posta al]]></phrase>
+  <phrase title="receive_email_when_content_is_reported" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[İçerik bildirildiğinde e-posta al]]></phrase>
+  <phrase title="receive_email_when_new_direct_message_is_received" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Yeni doğrudan mesaj alındığında e-posta al]]></phrase>
+  <phrase title="receive_notification_when_someone" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Biri şunu yaptığında bildirim al]]></phrase>
+  <phrase title="receive_push_notification_when_new_direct_message_is_received" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Yeni doğrudan mesaj alındığında anlık bildirim al]]></phrase>
+  <phrase title="receive_site_mailings" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Bizden e-posta yoluyla haberler ve güncellemeler al]]></phrase>
+  <phrase title="receive_site_mailings_hint" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[]]></phrase>
+  <phrase title="receive_site_mailings_option" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Haber ve güncelleme e-postaları al]]></phrase>
+  <phrase title="receive_summary_activity_email" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Etkinlik özeti e-postası al]]></phrase>
+  <phrase title="receive_this_users_news_feed" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Bu kullanıcının haber akışını al]]></phrase>
+  <phrase title="receive_your_news_feed" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Haber akışınızı alın]]></phrase>
+  <phrase title="received_by" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alan]]></phrase>
+  <phrase title="received_by_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} tarafından alındı]]></phrase>
+  <phrase title="received_unexpected_response_code_x_message_y" version_id="1030033" version_string="1.3.0 Beta 3"><![CDATA[Beklenmeyen yanıt kodu alındı {code} ({message})]]></phrase>
+  <phrase title="receiving_member" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alıcı üye]]></phrase>
+  <phrase title="recent_content_by_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} tarafından son içerik]]></phrase>
+  <phrase title="recent_years_easy_to_guess" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Son yıllar tahmin edilmesi kolaydır.]]></phrase>
+  <phrase title="recently_closed_reports" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yakın zamanda kapatılan raporlar]]></phrase>
+  <phrase title="recently_used" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Yakın zamanda kullanılan]]></phrase>
+  <phrase title="recipient" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alıcı]]></phrase>
+  <phrase title="recipients" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alıcılar]]></phrase>
+  <phrase title="recurring_payments" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yinelenen ödemeler]]></phrase>
+  <phrase title="recurring_payments_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yükseltmeyi etkin tutmak için her zaman aralığında otomatik olarak bir ödeme alınacaktır.<br />
+<br />
+<strong>Not:</strong> Etkinleştirilirse, bu yükseltmeye atanan tüm ödeme profilleri yinelenen ödemeleri desteklemelidir.]]></phrase>
+  <phrase title="reddit" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reddit]]></phrase>
+  <phrase title="redirect" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Yönlendirme]]></phrase>
+  <phrase title="redirect_changes_saved_successfully" version_id="0"><![CDATA[Değişiklikleriniz kaydedildi.]]></phrase>
+  <phrase title="redirect_uri" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Yönlendirme URI'si]]></phrase>
+  <phrase title="redirect_uri_for_this_application" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu uygulama için yönlendirme URI'si. OAuth2 ile kimlik doğrularken bu eşleşmelidir.]]></phrase>
+  <phrase title="redirect_uris" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Yönlendirme URI'leri]]></phrase>
+  <phrase title="redirection_notice" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yönlendirme bildirimi]]></phrase>
+  <phrase title="redo" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yinele]]></phrase>
+  <phrase title="referrer" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Yönlendirici]]></phrase>
+  <phrase title="refine_and_translate" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İncelt ve çevir]]></phrase>
+  <phrase title="refine_search" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aramayı incelt]]></phrase>
+  <phrase title="refreshing" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Yenileniyor]]></phrase>
+  <phrase title="regenerate_client_secret" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[İstemci gizli anahtarını yeniden oluştur]]></phrase>
+  <phrase title="regenerate_key" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Anahtarı yeniden oluştur]]></phrase>
+  <phrase title="regenerate_secret" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Gizli anahtarı yeniden oluştur]]></phrase>
+  <phrase title="regenerate_secret_for_new_device" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Yeni bir cihaz için gizli anahtarı yeniden oluştur]]></phrase>
+  <phrase title="register" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Kayıt ol]]></phrase>
+  <phrase title="register_date" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kayıt tarihi]]></phrase>
+  <phrase title="register_faster_using" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Şununla daha hızlı kayıt ol]]></phrase>
+  <phrase title="register_now" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Şimdi kayıt ol]]></phrase>
+  <phrase title="register_this_passkey" version_id="2030033" version_string="2.3.0 Beta 3"><![CDATA[Bu geçiş anahtarını kaydet]]></phrase>
+  <phrase title="register_using_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{provider} ile kayıt ol]]></phrase>
+  <phrase title="registered_between" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Kayıt olma arası]]></phrase>
+  <phrase title="registered_feeds" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kayıtlı akışlar]]></phrase>
+  <phrase title="registered_members" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kayıtlı üyeler]]></phrase>
+  <phrase title="registering" version_id="0"><![CDATA[Kayıt olunuyor]]></phrase>
+  <phrase title="registration_date" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kayıt tarihi]]></phrase>
+  <phrase title="registration_ip" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Kayıt IP'si]]></phrase>
+  <phrase title="regular_administrator" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Normal yönetici]]></phrase>
+  <phrase title="regular_expression" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Düzenli ifade]]></phrase>
+  <phrase title="regular_expression_matching" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Düzenli ifade eşleştirme]]></phrase>
+  <phrase title="reject" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Reddet]]></phrase>
+  <phrase title="reject_optional_cookies" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[İsteğe bağlı çerezleri reddet]]></phrase>
+  <phrase title="reject_with_reason" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Sebeple reddet]]></phrase>
+  <phrase title="rejected" version_id="0"><![CDATA[Reddedildi]]></phrase>
+  <phrase title="rejected_by" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reddeden]]></phrase>
+  <phrase title="rejected_user" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reddedilen kullanıcı]]></phrase>
+  <phrase title="rejected_user_log" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reddedilen kullanıcı günlüğü]]></phrase>
+  <phrase title="rejected_user_log_entry" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reddedilen kullanıcı günlük kaydı]]></phrase>
+  <phrase title="rejected_user_logs" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Reddedilen kullanıcı günlükleri]]></phrase>
+  <phrase title="rejected_users" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Reddedilen kullanıcılar]]></phrase>
+  <phrase title="rejected_users_will_not_be_deleted_user_state_will_be_set_to_rejected" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Reddedilen kullanıcılar silinmeyecek ancak 'reddedildi' olarak ayarlanacaktır. Burada bir red sebebi girilirse, bir sonraki giriş yaptıklarında görüntülenecektir.]]></phrase>
+  <phrase title="related_twitter_account" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İlgili hesap: @...]]></phrase>
+  <phrase title="release_to_refresh" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Yenilemek için bırakın]]></phrase>
+  <phrase title="relevance" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[İlgililik]]></phrase>
+  <phrase title="reload" version_id="2020470" version_string="2.2.4"><![CDATA[Yeniden yükle]]></phrase>
+  <phrase title="remove" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Kaldır]]></phrase>
+  <phrase title="remove_avatars" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avatarları kaldır]]></phrase>
+  <phrase title="remove_emoji_from_title" version_id="2030037" version_string="2.3.0 Beta 7"><![CDATA[Başlıktan emojiyi kaldır]]></phrase>
+  <phrase title="remove_formatting" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Biçimlendirmeyi kaldır]]></phrase>
+  <phrase title="remove_from_public_view" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Genel görünümden kaldır]]></phrase>
+  <phrase title="remove_reactions" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Tepkileri kaldır]]></phrase>
+  <phrase title="remove_reactions_within_last" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Son şu süredeki tepkileri kaldır]]></phrase>
+  <phrase title="remove_secondary_user_group" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İkincil kullanıcı grubunu kaldır]]></phrase>
+  <phrase title="remove_signatures" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İmzaları kaldır]]></phrase>
+  <phrase title="remove_table" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Tabloyu kaldır]]></phrase>
+  <phrase title="remove_this_filter" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu filtreyi kaldır]]></phrase>
+  <phrase title="remove_websites" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Web sitelerini kaldır]]></phrase>
+  <phrase title="removing_reactions" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Tepkiler kaldırılıyor]]></phrase>
+  <phrase title="rename_this_user_to" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Bu kullanıcıyı şuna yeniden adlandır]]></phrase>
+  <phrase title="reopen_via_admin_control_panel" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yönetici kontrol panelinden yeniden aç]]></phrase>
+  <phrase title="repeated_characters_such_as_aaa_easy_to_guess" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA["aaa" gibi tekrar eden karakterler tahmin edilmesi kolaydır.]]></phrase>
+  <phrase title="repeated_characters_such_as_abcabcabc_only_slightly_more_difficult" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA["abcabcabc" gibi tekrar eden karakterler "abc"den yalnızca biraz daha zor tahmin edilebilir.]]></phrase>
+  <phrase title="replace" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Değiştir]]></phrase>
+  <phrase title="replace_all" version_id="2001070" version_string="2.0.10"><![CDATA[Tümünü değiştir]]></phrase>
+  <phrase title="replace_key_file" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Anahtar dosyasını değiştir]]></phrase>
+  <phrase title="replace_question" version_id="2001070" version_string="2.0.10"><![CDATA[Değiştirilsin mi?]]></phrase>
+  <phrase title="replace_route_must_start_with_route_prefix" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Değiştirme rotası bir rota öneki ile başlamalıdır.]]></phrase>
+  <phrase title="replace_with" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Şununla değiştir]]></phrase>
+  <phrase title="replacement_mode" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Değiştirme modu]]></phrase>
+  <phrase title="replacement_optional" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Değiştirme (isteğe bağlı)]]></phrase>
+  <phrase title="replies" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Cevaplar]]></phrase>
+  <phrase title="reply" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cevap]]></phrase>
+  <phrase title="reply_count_between" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Cevap sayısı arası]]></phrase>
+  <phrase title="reply_placeholder" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Cevabınızı yazın...]]></phrase>
+  <phrase title="reply_quoting_this_message" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Bu mesajı alıntılayarak cevap ver]]></phrase>
+  <phrase title="reply_to_direct_message" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Doğrudan mesaja cevap ver]]></phrase>
+  <phrase title="reply_to_direct_message_at_x" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{boardTitle} adresindeki doğrudan mesaja cevap ver]]></phrase>
+  <phrase title="reply_to_thread" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konuya cevap ver]]></phrase>
+  <phrase title="reply_to_watched_thread_x" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[{title} - İzlenen konuya yeni cevap]]></phrase>
+  <phrase title="report" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bildir]]></phrase>
+  <phrase title="report_content" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İçerik bildir]]></phrase>
+  <phrase title="report_create_body_html" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[<p>{board} adresindeki {user} tarafından aşağıdaki içerik bildirildi.</p>]]></phrase>
+  <phrase title="report_for_x" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[{title} için rapor]]></phrase>
+  <phrase title="report_noun" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Rapor]]></phrase>
+  <phrase title="report_reason" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bildirme sebebi]]></phrase>
+  <phrase title="report_resolution_alert_comment_append" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[[I]Aşağıdaki uyarı gönderildi:[/I]
+[QUOTE][PLAIN]{alert}[/PLAIN][/QUOTE]]]></phrase>
+  <phrase title="report_state.assigned" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Atandı]]></phrase>
+  <phrase title="report_state.open" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Açık]]></phrase>
+  <phrase title="report_state.rejected" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Reddedildi]]></phrase>
+  <phrase title="report_state.resolved" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Çözüldü]]></phrase>
+  <phrase title="report_that_you_made_recently_has_been_resolved" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Son raporunuz çözüldü: {title}]]></phrase>
+  <phrase title="report_that_you_made_recently_has_been_resolved_comment_x" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Son raporunuz çözüldü: {title} - {comment}]]></phrase>
+  <phrase title="report_verb" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Bildir]]></phrase>
+  <phrase title="reported_content" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bildirilen içerik]]></phrase>
+  <phrase title="reported_items" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bildirilen öğeler]]></phrase>
+  <phrase title="reported_thread_message" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[[url='{userLink}']{username}[/url] tarafından gönderilen [url='{link}']{title}[/url], [url='{reporterLink}']{reporter}[/url] tarafından bildirildi. Verilen sebep:
+[quote]{reportReason}[/quote]
+
+Bildirilen içerik:
+[quote]{message}[/quote]
+{extraDetails}]]></phrase>
+  <phrase title="reported_thread_title" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bildirilen içerik: {title}]]></phrase>
+  <phrase title="reports" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Raporlar]]></phrase>
+  <phrase title="represents_portion_of_url_after_help_part_identify_page" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Bu, <i>help/</i> bölümünden sonra bu sayfayı benzersiz olarak tanımlayan URL bölümünü temsil eder. Yalnızca a-z, 0-9, _ ve - karakterleri kullanabilirsiniz.]]></phrase>
+  <phrase title="request_password" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Şifre iste]]></phrase>
+  <phrase title="request_password_be_emailed_to_you" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Size bir şifrenin e-postayla gönderilmesini isteyin]]></phrase>
+  <phrase title="request_state" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İstek durumu]]></phrase>
+  <phrase title="requested_category_not_found" version_id="0"><![CDATA[İstenen kategori bulunamadı.]]></phrase>
+  <phrase title="requested_comment_not_found" version_id="0"><![CDATA[İstenen yorum bulunamadı.]]></phrase>
+  <phrase title="requested_content_for_url_x_unavailable" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[{url} URL'si için istenen içerik kullanılamıyor.]]></phrase>
+  <phrase title="requested_direct_message_not_found" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[İstenen doğrudan mesaj bulunamadı.]]></phrase>
+  <phrase title="requested_forum_not_found" version_id="0"><![CDATA[İstenen forum bulunamadı.]]></phrase>
+  <phrase title="requested_history_not_found" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[İstenen geçmiş bulunamadı.]]></phrase>
+  <phrase title="requested_log_entry_not_found" version_id="2000370" version_string="2.0.3"><![CDATA[İstenen günlük kaydı bulunamadı.]]></phrase>
+  <phrase title="requested_member_not_found" version_id="0"><![CDATA[İstenen üye bulunamadı.]]></phrase>
+  <phrase title="requested_message_not_found" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[İstenen mesaj bulunamadı.]]></phrase>
+  <phrase title="requested_node_not_found" version_id="0"><![CDATA[İstenen düğüm bulunamadı.]]></phrase>
+  <phrase title="requested_page_cannot_be_represented_in_this_format" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[İstenen sayfa bu formatta temsil edilemez.]]></phrase>
+  <phrase title="requested_page_not_found" version_id="0"><![CDATA[İstenen sayfa bulunamadı.]]></phrase>
+  <phrase title="requested_post_not_found" version_id="0"><![CDATA[İstenen mesaj bulunamadı.]]></phrase>
+  <phrase title="requested_profile_post_not_found" version_id="0"><![CDATA[İstenen profil mesajı bulunamadı.]]></phrase>
+  <phrase title="requested_report_not_found" version_id="0"><![CDATA[İstenen rapor bulunamadı.]]></phrase>
+  <phrase title="requested_scopes" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[İstenen kapsamlar]]></phrase>
+  <phrase title="requested_search_forum_not_found" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[İstenen arama forumu bulunamadı.]]></phrase>
+  <phrase title="requested_style_property_group_not_found" version_id="0"><![CDATA[İstenen stil özellik grubu bulunamadı.]]></phrase>
+  <phrase title="requested_tag_not_found" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[İstenen etiket bulunamadı.]]></phrase>
+  <phrase title="requested_template_not_found" version_id="0"><![CDATA[İstenen şablon bulunamadı.]]></phrase>
+  <phrase title="requested_thread_not_found" version_id="0"><![CDATA[İstenen konu bulunamadı.]]></phrase>
+  <phrase title="requested_user_not_found" version_id="0"><![CDATA[İstenen kullanıcı bulunamadı.]]></phrase>
+  <phrase title="requested_user_x_not_found" version_id="0"><![CDATA[İstenen '{name}' kullanıcısı bulunamadı.]]></phrase>
+  <phrase title="requested_warning_not_found" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[İstenen uyarı bulunamadı.]]></phrase>
+  <phrase title="require_address" version_id="2000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Adres gerektir]]></phrase>
+  <phrase title="require_address_hint" version_id="2000051" version_string="2.0.0 Release Candidate 1"><![CDATA[Etkinleştirilirse, ödeme sağlayıcısı ödemeyi alırken alıcının adresini toplayacaktır.]]></phrase>
+  <phrase title="require_date_of_birth" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Doğum tarihi gerektir]]></phrase>
+  <phrase title="require_email_choice" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Site e-posta tercihini gerektir]]></phrase>
+  <phrase title="require_email_choice_hint" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Seçilirse, kullanıcılar kayıt sırasında site e-postaları alıp almayacaklarını seçmek zorunda kalacaklardır. Varsayılan değer <code>registrationDefaults</code>'a bağlıdır ve kullanıcılar tercihlerini daha sonra değiştirebilirler.]]></phrase>
+  <phrase title="require_location" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konum gerektir]]></phrase>
+  <phrase title="require_registration_manually_approved_admin" version_id="1010470" version_string="1.1.4"><![CDATA[Kaydın bir yönetici tarafından manuel olarak onaylanmasını gerektir]]></phrase>
+  <phrase title="require_users_to_select_prefix" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Kullanıcıların bir önek seçmesini gerektir]]></phrase>
+  <phrase title="required" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Gerekli]]></phrase>
+  <phrase title="required_admin_permission" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gerekli yönetici izni]]></phrase>
+  <phrase title="required_fields_will_always_be_shown_during_registration" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Gerekli alanlar kayıt sırasında her zaman gösterilecektir.]]></phrase>
+  <phrase title="required_input_missing_x" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Gerekli girdi eksik: {input}]]></phrase>
+  <phrase title="required_php_extension_x_not_found" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gerekli PHP uzantısı {extension} bulunamadı. Lütfen sunucunuzdan bu uzantıyı kurmasını isteyin.]]></phrase>
+  <phrase title="required_php_xml_extensions_not_found" version_id="2001070" version_string="2.0.10"><![CDATA[XML işleme için gerekli PHP uzantıları (DOM ve SimpleXML) bulunamadı. Lütfen sunucunuzdan bu uzantıları kurmasını isteyin.]]></phrase>
+  <phrase title="requirements" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Gereksinimler]]></phrase>
+  <phrase title="requires_user_names_new_registrations_match_regex" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bu, yeni kayıtların kullanıcı adlarının verilen düzenli ifadeyle eşleşmesini gerektirir. <b>Not</b>: sınırlayıcılar ve anahtarlar dahil tam bir ifade kullanın.]]></phrase>
+  <phrase title="requires_x_permission" version_id="2020170" version_string="2.2.1"><![CDATA['{title}' izni gerektirir]]></phrase>

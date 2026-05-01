@@ -1,0 +1,6 @@
+_releases/
+_data/development/
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db

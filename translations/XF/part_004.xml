@@ -1,0 +1,300 @@
+  <phrase title="con_acc_desc.xenforo" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="con_acc_desc.yahoo" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="con_acc_facebook_app_id_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu alan adı için <a href="https://developers.facebook.com/apps" target="_blank">Facebook uygulamanız</a> ile ilişkili ID.]]></phrase>
+  <phrase title="con_acc_facebook_app_secret_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu alan adı için oluşturduğunuz Facebook uygulamasının sırrı.]]></phrase>
+  <phrase title="con_acc_github_client_id_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu alan adı için <a href="https://github.com/settings/developers" target="_blank">GitHub geliştirici uygulamanız</a> ile ilişkili istemci ID'si.]]></phrase>
+  <phrase title="con_acc_github_client_secret_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu alan adı için oluşturduğunuz GitHub uygulamasının sırrı.]]></phrase>
+  <phrase title="con_acc_google_client_id_explain" version_id="2020970" version_string="2.2.9"><![CDATA[Bir istemci ID girmek, kullanıcıların Google hesaplarını kullanarak giriş yapmasına izin verir. Google'ın <a href="https://console.developers.google.com/" target="_blank">Geliştirici Konsolu</a> üzerinden bir istemci ID alabilirsiniz]]></phrase>
+  <phrase title="con_acc_google_client_secret_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Google istemci ID'nize karşılık gelen sır.]]></phrase>
+  <phrase title="con_acc_linkedin_client_id_explain" version_id="2010670" version_string="2.1.6"><![CDATA[Bu alan adı için <a href="https://www.linkedin.com/developers/apps/" target="_blank">Linkedin uygulamanız</a> ile ilişkili istemci ID'si.]]></phrase>
+  <phrase title="con_acc_linkedin_client_secret_explain" version_id="2010670" version_string="2.1.6"><![CDATA[Bu alan adı için oluşturduğunuz Linkedin uygulamasının istemci sırrı.]]></phrase>
+  <phrase title="con_acc_microsoft_client_id_explain" version_id="2010370" version_string="2.1.3"><![CDATA[Bu alan adı için <a href="https://portal.azure.com/#blade/Microsoft_AAD_RegisteredApps/ApplicationsListBlade" target="_blank">Microsoft Azure uygulamanız</a> ile ilişkili İstemci ID'si.]]></phrase>
+  <phrase title="con_acc_microsoft_client_secret_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu alan adı için oluşturduğunuz Microsoft uygulamasının istemci sırrı.]]></phrase>
+  <phrase title="con_acc_x_consumer_key_explain" version_id="2030570" version_string="2.3.5"><![CDATA[Kullanıcıların X hesapları ile giriş yapmasına izin vermek için bir <a href="https://developer.x.com/" target="_blank">X uygulaması</a> oluşturmalı ve tüketici anahtarı ve sırrı girmelisiniz.]]></phrase>
+  <phrase title="con_acc_x_consumer_secret_explain" version_id="2030570" version_string="2.3.5"><![CDATA[X girişine izin vermek için bir X uygulaması oluşturduysanız, uygulamanın tüketici sırrını burada ayarlayın.]]></phrase>
+  <phrase title="con_acc_yahoo_client_id_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu alan adı için <a href="https://developer.yahoo.com/apps" target="_blank">Yahoo uygulamanız</a> ile ilişkili İstemci ID'si.]]></phrase>
+  <phrase title="con_acc_yahoo_client_secret_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu alan adı için oluşturduğunuz Yahoo uygulamasının istemci sırrı.]]></phrase>
+  <phrase title="confidential" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Gizli]]></phrase>
+  <phrase title="configure_importer" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[İçe aktarıcıyı yapılandır]]></phrase>
+  <phrase title="configure_private_email_relay_service" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Apple ile Giriş kullanan ancak gerçek e-posta adreslerini gizlemeyi seçen kullanıcılara e-postaların gönderildiğinden emin olmak için kılavuza bakın.]]></phrase>
+  <phrase title="configured_search_source_does_not_support_search_suggestions" version_id="2030035" version_string="2.3.0 Beta 5"><![CDATA[Yapılandırılmış arama kaynağı arama önerilerini desteklemiyor.]]></phrase>
+  <phrase title="confirm" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Onayla]]></phrase>
+  <phrase title="confirm_action" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Eylemi onayla]]></phrase>
+  <phrase title="confirm_actions" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Eylemleri onayla]]></phrase>
+  <phrase title="confirm_cancellation_of_subscription" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Abonelik iptalini onayla]]></phrase>
+  <phrase title="confirm_convert_suggestion_reactions_in_following_forum" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Lütfen aşağıdaki forumda öneri tepkilerini dönüştürmek istediğinizi onaylayın]]></phrase>
+  <phrase title="confirm_delete_smilie_category_footnote" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Bu kategoriye ait olan ifadeler silmenin ardından kategorisiz olacak.]]></phrase>
+  <phrase title="confirm_deletion" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Silmeyi onayla]]></phrase>
+  <phrase title="confirm_deletion_of_x_threads" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{total} konunun silinmesini onayla]]></phrase>
+  <phrase title="confirm_deletion_of_x_users" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{total} kullanıcının silinmesini onayla]]></phrase>
+  <phrase title="confirm_disassociation" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İlişkilendirmenin kaldırılmasını onayla]]></phrase>
+  <phrase title="confirm_dismiss_notice" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Bu bildirimi kapatmak istediğinizden emin misiniz?]]></phrase>
+  <phrase title="confirm_file_deletion_for_x" version_id="2020770" version_string="2.2.7"><![CDATA[{title} için dosya silmeyi onayla]]></phrase>
+  <phrase title="confirm_lifting_of_ban" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yasağın kaldırılmasını onayla]]></phrase>
+  <phrase title="confirm_new_password" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yeni şifreyi onayla]]></phrase>
+  <phrase title="confirm_password" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Şifreyi onayla]]></phrase>
+  <phrase title="confirm_payment_details" version_id="2010270" version_string="2.1.2"><![CDATA[Ödeme detaylarını onayla]]></phrase>
+  <phrase title="confirm_regeneration" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yeniden oluşturmayı onayla]]></phrase>
+  <phrase title="confirm_sending_alert" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uyarı göndermeyi onayla]]></phrase>
+  <phrase title="confirm_sending_email" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[E-posta göndermeyi onayla]]></phrase>
+  <phrase title="confirm_sending_message" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesaj göndermeyi onayla]]></phrase>
+  <phrase title="confirm_that_you_want_to_remove_following_user_as_an_admin" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lütfen aşağıdaki kullanıcıyı yönetici olmaktan çıkarmak istediğinizi onaylayın]]></phrase>
+  <phrase title="confirm_your_email" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[E-postanızı onaylayın]]></phrase>
+  <phrase title="confirmation_email_has_been_resent" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Onay e-postası tekrar gönderildi.]]></phrase>
+  <phrase title="connected_account_provider_specified_cannot_be_found" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Belirtilen bağlı hesap sağlayıcısı bulunamadı.]]></phrase>
+  <phrase title="connected_account_providers" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bağlı hesap sağlayıcıları]]></phrase>
+  <phrase title="connected_accounts" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bağlı hesaplar]]></phrase>
+  <phrase title="connected_accounts_allow_you_to_log_in_to_this_site_more_easily" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bağlı hesaplar, aşağıdaki sitelerden birinde sahip olduğunuz bir hesabı kullanarak bu siteye daha kolay giriş yapmanızı sağlar.]]></phrase>
+  <phrase title="connected_application" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bağlı uygulama]]></phrase>
+  <phrase title="connection_type" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bağlantı türü]]></phrase>
+  <phrase title="consented_groups" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Onaylanan gruplar]]></phrase>
+  <phrase title="consumer_key" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tüketici anahtarı]]></phrase>
+  <phrase title="consumer_secret" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tüketici sırrı]]></phrase>
+  <phrase title="contact" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İletişim]]></phrase>
+  <phrase title="contact_details" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İletişim detayları]]></phrase>
+  <phrase title="contact_email_body_html" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>Aşağıdaki mesaj {board} adresindeki iletişim formu aracılığıyla {user} (IP: {ip}) tarafından gönderildi.</p>]]></phrase>
+  <phrase title="contact_email_subject" version_id="0"><![CDATA[{subject} ({board_title} kaynağından)]]></phrase>
+  <phrase title="contact_us" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bize ulaşın]]></phrase>
+  <phrase title="contacting_staff" version_id="1040670" version_string="1.4.6"><![CDATA[Personel ile iletişim]]></phrase>
+  <phrase title="content" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[İçerik]]></phrase>
+  <phrase title="content_action" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İçerik eylemi]]></phrase>
+  <phrase title="content_and_achievements" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İçerik ve başarılar]]></phrase>
+  <phrase title="content_awaiting_approval" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Onay bekleyen içerik]]></phrase>
+  <phrase title="content_date" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[İçerik tarihi]]></phrase>
+  <phrase title="content_embeds" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[İçerik gömmeleri]]></phrase>
+  <phrase title="content_history" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İçerik geçmişi]]></phrase>
+  <phrase title="content_ids" version_id="2000037" version_string="2.0.0 Beta 7"><![CDATA[İçerik ID'leri]]></phrase>
+  <phrase title="content_ids_cannot_be_retained_message" version_id="2000037" version_string="2.0.0 Beta 7"><![CDATA[<b>Not</b>: Mevcut verileri olan bir foruma içe aktarırken içerik ID'leri korunamaz, çünkü mevcut içerikle çakışacaktır. İçe aktarılan içerik yeni ID'ler alacak ve eşleştirme içe aktarma günlüğü aracılığıyla yapılması gerekecek.]]></phrase>
+  <phrase title="content_ip" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[İçerik IP'si]]></phrase>
+  <phrase title="content_moderators" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İçerik moderatörleri]]></phrase>
+  <phrase title="content_options" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[İçerik seçenekleri]]></phrase>
+  <phrase title="content_submitted_displayed_pending_approval" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[İçeriğiniz gönderildi ve bir moderatörün onayı beklenirken görüntülenecek.]]></phrase>
+  <phrase title="content_template_criteria_explain" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Denetleyici yanıtında belirtilen şablonun adı.]]></phrase>
+  <phrase title="content_template_is" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İçerik şablonu]]></phrase>
+  <phrase title="content_type" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İçerik türü]]></phrase>
+  <phrase title="content_type_fields" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[İçerik türü alanları]]></phrase>
+  <phrase title="content_types" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İçerik türleri]]></phrase>
+  <phrase title="content_wide" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İçerik geneli]]></phrase>
+  <phrase title="content_you_created_before_registering_posted_automatically" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kayıt olmadan önce oluşturduğunuz içerik otomatik olarak gönderildi.]]></phrase>
+  <phrase title="contentcheck_based_if_tags_not_supported_with_cell_tags" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İçerik kontrolü tabanlı if etiketleri hücre etiketleri ile desteklenmez.]]></phrase>
+  <phrase title="contentcheck_based_if_tags_not_supported_with_choice_based_tags" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İçerik kontrolü tabanlı if etiketleri seçim tabanlı etiketler ile desteklenmez.]]></phrase>
+  <phrase title="contents_of_attachments_would_appear_here" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Eklerin içerikleri burada görünecek.]]></phrase>
+  <phrase title="context_param_names_may_only_contain_alphanumeric_underscore" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bağlam parametre adları yalnızca A-Z, 0-9 ve alt çizgiler içerebilir.]]></phrase>
+  <phrase title="context_value" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bağlam değeri]]></phrase>
+  <phrase title="context_value_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Burada girdiğiniz herhangi bir değer, ek bağlam sağlamak için geri çağırma fonksiyonunuza geçirilecek.]]></phrase>
+  <phrase title="continue" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Devam et]]></phrase>
+  <phrase title="continue_reading" version_id="1000036" version_string="1.0.0 Beta 6" global_cache="1"><![CDATA[Okumaya devam et...]]></phrase>
+  <phrase title="continue_with_x" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{provider} ile devam et]]></phrase>
+  <phrase title="continuing_will_redirect_you_to_google_to_confirm_account_you_want_to" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Devam etmek sizi bağlanmak istediğiniz hesabı onaylamak için Google'a yönlendirecek.]]></phrase>
+  <phrase title="continuing_will_redirect_you_to_microsoft_to_confirm_account_you_want" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Devam etmek sizi bağlanmak istediğiniz hesabı onaylamak için Microsoft'a yönlendirecek.]]></phrase>
+  <phrase title="control_how_example_appear_on_bb_code_help_page" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Örneğin BB kodu yardım sayfasında nasıl görüneceğini kontrol edin. Bir çıktı girilmezse, örnek render edilecek.]]></phrase>
+  <phrase title="controller" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Denetleyici]]></phrase>
+  <phrase title="controller_and_action_criteria_explain" version_id="2011070" version_string="2.1.10"><![CDATA[Eylem adını <b>account-details</b> veya <b>AccountDetails</b> olarak belirtebilirsiniz, ancak ön ek olarak <b>action</b> eklemeyin. Eylem adı büyük/küçük harf duyarsız eşleştirilir. Belirtilen denetleyici içindeki tüm eylemlere uygulamak için eylemi boş bırakabilirsiniz.]]></phrase>
+  <phrase title="controller_and_action_is" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Denetleyici ve eylem]]></phrase>
+  <phrase title="convert_emoji_to_text" version_id="2030037" version_string="2.3.0 Beta 7"><![CDATA[Emojiyi metne dönüştür]]></phrase>
+  <phrase title="convert_reactions_to_votes" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Tepkileri oylara dönüştür]]></phrase>
+  <phrase title="convert_suggestion_reactions_to_votes" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Öneri tepkilerini oylara dönüştür]]></phrase>
+  <phrase title="converting_reactions" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Tepkiler dönüştürülüyor]]></phrase>
+  <phrase title="cookie_consent" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Çerez izni]]></phrase>
+  <phrase title="cookie_consent.cookie_description___crossTab" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu yerel depolama öğesi, mevcut siteler arası istek sahteciliği tokeni gibi sekmeler arasında iletişim kurmak için kullanılan bilgileri saklamak için kullanılır.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_cacheKey" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu yerel depolama öğesi, çevrimdışı depolama öğeleri için kullanılan önbellek anahtarını saklamak için kullanılır.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_consent" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerez, kullanıcının çerez izin tercihlerini saklamak için kullanılır.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_csrf" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerez, kullanıcının siteler arası istek sahteciliği tokenini saklamak için kullanılır ve diğer uygulamaların kullanıcı adına kötü niyetli istekler yapmasını önler.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_dbWriteForced" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerez, isteğin veritabanı yazma sunucusu kullanılarak tamamlanması gerektiğini belirtmek için kullanılır.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_editorDisabled" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu yerel depolama öğesi, kullanıcının zengin metin düzenleyicisini etkin olup olmadığını saklamak için kullanılır.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_emoji_usage" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerez, kullanıcının bir mesaj oluştururken yakın zamanda kullandığı emojileri saklamak için kullanılır.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_fr_copied_html" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu yerel depolama öğesi, kullanıcının metin düzenleyicisine yapıştırırken kopyalanan zengin metnini saklamak için kullanılır.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_fr_copied_text" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu yerel depolama öğesi, kullanıcının metin düzenleyicisine yapıştırırken kopyalanan düz metnini saklamak için kullanılır.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_from_search" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerez, kullanıcının siteye bir arama motorundan ne zaman geldiğini izlemek için kullanılır.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_guestUsername" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu yerel depolama öğesi, bir misafir kullanıcının kullanıcı adını saklamak için kullanılır.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_inline_mod__wildcard" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerezler, kullanıcının şu anda seçili satır içi moderasyon öğelerini saklamak için kullanılır.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_language_id" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerez, kullanıcının seçili dilini saklamak için kullanılır.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_lbSidebarDisabled" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu yerel depolama öğesi, kullanıcının lightbox kenar çubuğunu açıp açmadığını saklamak için kullanılır.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_ls" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerez, tarayıcılarının yerel depolama mekanizmasını desteklememesi durumunda kullanıcının yerel depolama içeriklerini saklamak için kullanılır.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_multiQuote_wildcard" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu yerel depolama öğeleri, kullanıcının çoklu alıntı seçimlerini saklamak için kullanılır.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_notice_dismiss" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerez, kullanıcının kapatılmış bildirilerini saklamak için kullanılır.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_push_history_user_ids" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu yerel depolama öğesi, bu cihazda hangi kullanıcıların push bildirimlerini etkinleştirdiğini saklamak için kullanılır.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_push_notice_dismiss" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerez, kullanıcının push bildirimi bildirimini kapatıp kapatmadığını belirlemek için kullanılır.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_push_subscription_updated" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerez, kullanıcının push abonelik tercihlerinin güncellenip güncellenmediğini belirlemek için kullanılır.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_session" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerez, kullanıcının oturum tanımlayıcısını saklamak için kullanılır.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_style_id" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerez, kullanıcının seçili stilini saklamak için kullanılır.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_tfa_trust" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerez, kullanıcının daha önce belirli bir süre için ek iki adımlı doğrulama gerektirmeden bu cihaza güvenmeyi seçip seçmediğini belirlemek için kullanılır.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_toggle" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerez ve yerel depolama öğesi, kullanıcının çeşitli kontrolleri açma veya kapama tercihlerini saklamak için kullanılır.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_user" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerez, kullanıcının "beni hatırla" tokenini saklamak için kullanılır ve kimlik bilgilerinin birden fazla oturumda devam etmesini sağlar.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_visitorCounts" version_id="2030037" version_string="2.3.0 Beta 7"><![CDATA[Bu yerel depolama öğesi, kullanıcının okunmamış doğrudan mesaj ve uyarı sayılarını saklamak için kullanılır.]]></phrase>
+  <phrase title="cookie_consent.group_description__required" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerezler güvenlik, ağ yönetimi ve erişilebilirlik gibi temel işlevleri etkinleştirmek için gereklidir. Bunları reddedemezsiniz.]]></phrase>
+  <phrase title="cookie_consent.group_description__third_party" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Üçüncü taraflar tarafından ayarlanan çerezler, güvenlik, analitik, performans veya reklam amaçları için çeşitli hizmet sağlayıcıları ile birlikte işlevselliği güçlendirmek için gerekli olabilir.]]></phrase>
+  <phrase title="cookie_consent.group_description_optional" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerezleri ayarlayarak tarama deneyiminiz için gelişmiş işlevsellik sunuyoruz. Bunları reddederseniz, gelişmiş işlevsellik kullanılamayacak.]]></phrase>
+  <phrase title="cookie_consent.group_label__required" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Temel çerezler]]></phrase>
+  <phrase title="cookie_consent.group_label__third_party" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Üçüncü taraf çerezleri]]></phrase>
+  <phrase title="cookie_consent.group_label_optional" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[İsteğe bağlı çerezler]]></phrase>
+  <phrase title="cookie_consent.third_party_description_apple_music" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerezler <a href="https://www.apple.com/legal/privacy/data/en/apple-music/" target="_blank">Apple Music</a> tarafından ayarlanır ve gömülü içerik görüntülemek için kullanılabilir.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_bluesky" version_id="2030570" version_string="2.3.5"><![CDATA[Bu çerezler <a href="https://bsky.social/about/support/privacy-policy" target="_blank">Bluesky</a> tarafından ayarlanır ve gömülü içerik görüntülemek için kullanılabilir.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_braintree" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerezler <a href="https://www.braintreepayments.com/pl/legal/braintree-privacy-policy" target="_blank">Braintree</a> tarafından ayarlanır ve ödeme işlemleri için kullanılabilir.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_dailymotion" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerezler <a href="https://legal.dailymotion.com/en/privacy-policy/" target="_blank">Dailymotion</a> tarafından ayarlanır ve gömülü içerik görüntülemek için kullanılabilir.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_facebook" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerezler <a href="https://www.facebook.com/privacy/policy/" target="_blank">Facebook</a> tarafından ayarlanır ve gömülü içerik görüntülemek için kullanılabilir.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_flickr" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerezler <a href="https://www.flickr.com/help/privacy" target="_blank">Flickr</a> tarafından ayarlanır ve gömülü içerik görüntülemek için kullanılabilir.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_giphy" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerezler <a href="https://support.giphy.com/hc/en-us/articles/360032872931-GIPHY-Privacy-Policy" target="_blank">Giphy</a> tarafından ayarlanır ve gömülü içerik görüntülemek için kullanılabilir.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_google_analytics" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerezler <a href="https://policies.google.com/privacy" target="_blank">Google Analytics</a> tarafından ayarlanır ve analitik için kullanılabilir.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_google_recaptcha" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerezler <a href="https://policies.google.com/privacy" target="_blank">Google reCAPTCHA</a> tarafından ayarlanır ve meşru trafiği doğrulamak için kullanılabilir.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_h_captcha" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerezler <a href="https://www.hcaptcha.com/privacy" target="_blank">HCaptcha</a> tarafından ayarlanır ve meşru trafiği doğrulamak için kullanılabilir.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_imgur" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerezler <a href="https://imgur.com/privacy" target="_blank">Imgur</a> tarafından ayarlanır ve gömülü içerik görüntülemek için kullanılabilir.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_instagram" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerezler <a href="https://www.facebook.com/privacy/policy/" target="_blank">Instagram</a> tarafından ayarlanır ve gömülü içerik görüntülemek için kullanılabilir.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_key_captcha" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerezler <a href="https://www.keycaptcha.com" target="_blank">KeyCaptcha</a> tarafından ayarlanır ve meşru trafiği doğrulamak için kullanılabilir.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_meta" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerezler <a href="https://www.facebook.com/privacy/policy/" target="_blank">Meta</a> tarafından ayarlanır ve gömülü içerik görüntülemek için kullanılabilir.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_pinterest" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerezler <a href="https://policy.pinterest.com/en/privacy-policy" target="_blank">Pinterest</a> tarafından ayarlanır ve gömülü içerik görüntülemek için kullanılabilir.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_reddit" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerezler <a href="https://www.reddit.com/policies/privacy-policy" target="_blank">Reddit</a> tarafından ayarlanır ve gömülü içerik görüntülemek için kullanılabilir.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_solve_media" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerezler <a href="https://www.solvemedia.com/privacy.html" target="_blank">SolveMedia</a> tarafından ayarlanır ve meşru trafiği doğrulamak için kullanılabilir.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_soundcloud" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerezler <a href="https://soundcloud.com/pages/privacy" target="_blank">SoundCloud</a> tarafından ayarlanır ve gömülü içerik görüntülemek için kullanılabilir.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_spotify" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerezler <a href="https://www.spotify.com/us/legal/privacy-policy/" target="_blank">Spotify</a> tarafından ayarlanır ve gömülü içerik görüntülemek için kullanılabilir.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_stripe" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerezler <a href="https://stripe.com/privacy" target="_blank">Stripe</a> tarafından ayarlanır ve ödeme işlemleri için kullanılabilir.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_tiktok" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerezler <a href="https://www.tiktok.com/legal/page/us/privacy-policy/en" target="_blank">TikTok</a> tarafından ayarlanır ve gömülü içerik görüntülemek için kullanılabilir.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_tumblr" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerezler <a href="https://www.tumblr.com/privacy" target="_blank">Tumblr</a> tarafından ayarlanır ve gömülü içerik görüntülemek için kullanılabilir.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_twitch" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerezler <a href="https://www.twitch.tv/p/en/legal/privacy-notice/" target="_blank">Twitch</a> tarafından ayarlanır ve gömülü içerik görüntülemek için kullanılabilir.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_two_checkout" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerezler <a href="https://www.2checkout.com/legal/privacy/" target="_blank">2Checkout</a> tarafından ayarlanır ve ödeme işlemleri için kullanılabilir.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_vimeo" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerezler <a href="https://vimeo.com/privacy" target="_blank">Vimeo</a> tarafından ayarlanır ve gömülü içerik görüntülemek için kullanılabilir.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_x" version_id="2030570" version_string="2.3.5"><![CDATA[Bu çerezler <a href="https://x.com/privacy" target="_blank">X</a> tarafından ayarlanır ve gömülü içerik görüntülemek için kullanılabilir.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_youtube" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu çerezler <a href="https://policies.google.com/privacy" target="_blank">YouTube</a> tarafından ayarlanır ve analitik, meşru trafik doğrulama veya diğer gömülü içerik için kullanılabilir.]]></phrase>
+  <phrase title="cookie_consent.third_party_label_apple_music" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Apple Music]]></phrase>
+  <phrase title="cookie_consent.third_party_label_bluesky" version_id="2030570" version_string="2.3.5"><![CDATA[Bluesky]]></phrase>
+  <phrase title="cookie_consent.third_party_label_braintree" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Braintree]]></phrase>
+  <phrase title="cookie_consent.third_party_label_dailymotion" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Dailymotion]]></phrase>
+  <phrase title="cookie_consent.third_party_label_facebook" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Facebook]]></phrase>
+  <phrase title="cookie_consent.third_party_label_flickr" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Flickr]]></phrase>
+  <phrase title="cookie_consent.third_party_label_giphy" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Giphy]]></phrase>
+  <phrase title="cookie_consent.third_party_label_google_analytics" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Google Analytics]]></phrase>
+  <phrase title="cookie_consent.third_party_label_google_recaptcha" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Google reCAPTCHA]]></phrase>
+  <phrase title="cookie_consent.third_party_label_h_captcha" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[HCaptcha]]></phrase>
+  <phrase title="cookie_consent.third_party_label_imgur" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Imgur]]></phrase>
+  <phrase title="cookie_consent.third_party_label_instagram" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Instagram]]></phrase>
+  <phrase title="cookie_consent.third_party_label_key_captcha" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[KeyCaptcha]]></phrase>
+  <phrase title="cookie_consent.third_party_label_meta" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Meta]]></phrase>
+  <phrase title="cookie_consent.third_party_label_pinterest" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Pinterest]]></phrase>
+  <phrase title="cookie_consent.third_party_label_reddit" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Reddit]]></phrase>
+  <phrase title="cookie_consent.third_party_label_solve_media" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[SolveMedia]]></phrase>
+  <phrase title="cookie_consent.third_party_label_soundcloud" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[SoundCloud]]></phrase>
+  <phrase title="cookie_consent.third_party_label_spotify" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Spotify]]></phrase>
+  <phrase title="cookie_consent.third_party_label_stripe" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Stripe]]></phrase>
+  <phrase title="cookie_consent.third_party_label_tiktok" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[TikTok]]></phrase>
+  <phrase title="cookie_consent.third_party_label_tumblr" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Tumblr]]></phrase>
+  <phrase title="cookie_consent.third_party_label_twitch" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Twitch]]></phrase>
+  <phrase title="cookie_consent.third_party_label_two_checkout" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[2Checkout]]></phrase>
+  <phrase title="cookie_consent.third_party_label_vimeo" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Vimeo]]></phrase>
+  <phrase title="cookie_consent.third_party_label_x" version_id="2030570" version_string="2.3.5"><![CDATA[X]]></phrase>
+  <phrase title="cookie_consent.third_party_label_youtube" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[YouTube]]></phrase>
+  <phrase title="cookie_consent_configure" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Daha fazla bilgi görüntüle ve tercihlerinizi yapılandırın]]></phrase>
+  <phrase title="cookie_consent_description" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu sitenin çalışması için temel <a href="{link}">çerezler</a> ve deneyiminizi geliştirmek için isteğe bağlı çerezler kullanıyoruz.]]></phrase>
+  <phrase title="cookie_consent_heading" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Gizliliğinize değer veriyoruz]]></phrase>
+  <phrase title="cookie_consent_label" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Çerezler]]></phrase>
+  <phrase title="cookie_consent_log" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Çerez izin günlüğü]]></phrase>
+  <phrase title="cookie_consent_log_entry" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Çerez izin günlüğü girdisi]]></phrase>
+  <phrase title="cookie_third_parties" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Çerez üçüncü tarafları]]></phrase>
+  <phrase title="cookie_third_parties_explain" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Bu medya sitesi için çerez ayarlayan her üçüncü tarafın tanımlayıcısını girin. Her tanımlayıcıyı ayrı bir satıra yerleştirin.]]></phrase>
+  <phrase title="cookies_required_to_use_this_site" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Bu siteyi kullanmak için çerezler gereklidir. Siteyi kullanmaya devam etmek için bunları kabul etmelisiniz.]]></phrase>
+  <phrase title="copy_embed_code_html" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Gömme kod HTML'sini kopyala]]></phrase>
+  <phrase title="copy_link" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Bağlantıyı kopyala]]></phrase>
+  <phrase title="copy_posts" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesajları kopyala]]></phrase>
+  <phrase title="copy_settings_from" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ayarları şuradan kopyala]]></phrase>
+  <phrase title="copy_to_clipboard" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Panoya kopyala]]></phrase>
+  <phrase title="copying_files" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Dosyalar kopyalanıyor]]></phrase>
+  <phrase title="core_caches" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Çekirdek önbellekleri]]></phrase>
+  <phrase title="correct_answers" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Doğru yanıt(lar)]]></phrase>
+  <phrase title="cost" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maliyet]]></phrase>
+  <phrase title="cost_currency_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<strong>Not:</strong> Seçilen ödeme profilleriyle olan satıcı hesabınızın yukarıdaki para birimlerini desteklediğinden emin olun. Para birimi desteği bölgeye göre değişebilir.]]></phrase>
+  <phrase title="could_not_create_new_stripe_plan" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yeni bir Stripe planı oluşturulamadı.]]></phrase>
+  <phrase title="could_not_find_any_files_to_be_deleted" version_id="2030070" version_string="2.3.0"><![CDATA[Silinecek hiçbir dosya bulunamadı.]]></phrase>
+  <phrase title="could_not_find_subscriber_id_for_this_purchase_request" version_id="2010770" version_string="2.1.7"><![CDATA[Bu satın alma isteği için Abone ID'si bulunamadı.]]></phrase>
+  <phrase title="could_not_open_x" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{fileName} açılamadı.]]></phrase>
+  <phrase title="could_not_process_x_y" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{fileName} işlenemedi: {errors}]]></phrase>
+  <phrase title="could_not_upload_svg_asset_after_sanitization" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Temizleme sonrası SVG varlığı yüklenemedi.]]></phrase>
+  <phrase title="count_messages_in_forum_toward_user_total" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Bu forumda gönderilen mesajları kullanıcı toplamına say]]></phrase>
+  <phrase title="count_views_by_guests" version_id="2030034" version_string="2.3.0 Beta 4"><![CDATA[Misafir görüntülemelerini say]]></phrase>
+  <phrase title="count_views_by_robots" version_id="2030034" version_string="2.3.0 Beta 4"><![CDATA[Robot görüntülemelerini say]]></phrase>
+  <phrase title="create_authy_id_current_email_explain" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Hesabınızdaki e-posta adresini kullanarak bir Authy ID oluşturacağız.]]></phrase>
+  <phrase title="create_authy_id_email_explain" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Burada sağladığınız e-posta adresini kullanarak bir Authy ID oluşturacağız.]]></phrase>
+  <phrase title="create_new_account" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yeni hesap oluştur]]></phrase>
+  <phrase title="create_poll" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Anket oluştur]]></phrase>
+  <phrase title="created" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oluşturuldu]]></phrase>
+  <phrase title="created_between" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Şu tarihler arasında oluşturuldu]]></phrase>
+  <phrase title="created_by" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Oluşturan]]></phrase>
+  <phrase title="created_in_last" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Son şu süre içinde oluşturuldu]]></phrase>
+  <phrase title="created_since_last_email" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Son e-postadan beri oluşturuldu]]></phrase>
+  <phrase title="criteria_date_time_is_after" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Mevcut tarih ve saat şundan sonra]]></phrase>
+  <phrase title="criteria_date_time_is_before" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Mevcut tarih ve saat şundan önce]]></phrase>
+  <phrase title="criteria_in_selected_timezone" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Seçilen saat diliminde]]></phrase>
+  <phrase title="criteria_in_visitor_timezone" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Ziyaretçinin saat diliminde]]></phrase>
+  <phrase title="criteria_leave_date_empty" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Bu kriterin her gün aynı saatte eşleşmesi için tarihi boş bırakabilirsiniz.]]></phrase>
+  <phrase title="criteria_time" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Saat]]></phrase>
+  <phrase title="criteria_userfield_choice_among" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Kullanıcı seçimi şunlar arasında]]></phrase>
+  <phrase title="criteria_userfield_contains_text" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Kullanıcı değeri metin içeriyor]]></phrase>
+  <phrase title="cron_callback" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cron geri çağırma]]></phrase>
+  <phrase title="cron_entries" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cron girdileri]]></phrase>
+  <phrase title="cron_entry.activitySummaryEmail" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Etkinlik özeti e-postası gönder]]></phrase>
+  <phrase title="cron_entry.cleanUpDaily" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Günlük temizlik]]></phrase>
+  <phrase title="cron_entry.cleanUpHourly" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Saatlik temizlik]]></phrase>
+  <phrase title="cron_entry.dailyStats" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Günlük istatistikleri kaydet]]></phrase>
+  <phrase title="cron_entry.deleteExpiredBans" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Süresi dolan yasakları sil]]></phrase>
+  <phrase title="cron_entry.downgradeExpired" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Süresi dolan kullanıcı yükseltmelerini düşür]]></phrase>
+  <phrase title="cron_entry.emailBounce" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[E-posta dönüşlerini işle]]></phrase>
+  <phrase title="cron_entry.emailUnsubscribe" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[E-posta abonelik iptali isteklerini işle]]></phrase>
+  <phrase title="cron_entry.expireTempUserChanges" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Geçici kullanıcı değişikliklerinin süresini doldur]]></phrase>
+  <phrase title="cron_entry.feeder" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Akış besleyici]]></phrase>
+  <phrase title="cron_entry.fileCheck" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dosya sağlık kontrolü gerçekleştir]]></phrase>
+  <phrase title="cron_entry.forumStatistics" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum istatistiklerini yeniden oluştur]]></phrase>
+  <phrase title="cron_entry.memberStatsCache" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Üye istatistikleri önbelleğini yeniden oluştur]]></phrase>
+  <phrase title="cron_entry.rebuildSearchForumCache" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Süresi dolan arama forumu önbelleklerini yeniden oluştur]]></phrase>
+  <phrase title="cron_entry.run_successfully" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cron girdisi başarıyla çalıştırıldı.]]></phrase>
+  <phrase title="cron_entry.sitemap" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Site haritasını yeniden oluştur]]></phrase>
+  <phrase title="cron_entry.trophy" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı kupalarını güncelle]]></phrase>
+  <phrase title="cron_entry.userGroupPromotions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kullanıcı grubu terfileri]]></phrase>
+  <phrase title="cron_entry.views" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Görüntüleme sayaçlarını güncelle]]></phrase>
+  <phrase title="cron_entry.warningExpiry" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Süresi dolan uyarıları işle]]></phrase>
+  <phrase title="cron_entry_associated_with_inactive_add_on_cannot_run" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu cron girdisi etkin olmayan bir eklenti ile ilişkili. Eklenti etkinleştirilmeden çalıştırılamaz.]]></phrase>
+  <phrase title="cron_entry_id" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cron girdisi ID]]></phrase>
+  <phrase title="cron_entry_ids_must_be_unique" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cron girdisi ID'leri benzersiz olmalıdır. Belirtilen ID zaten kullanımda.]]></phrase>
+  <phrase title="cron_entry_run_rule_x_should_be_set_to_any_or_constraints" version_id="2030037" version_string="2.3.0 Beta 7"><![CDATA[Cron girdisi çalıştırma kuralı '{type}' 'Herhangi' veya {constraintLow} ile {constraintHigh} arasında bir veya daha fazla değere ayarlanmalıdır, ancak şu anda şu değer(ler)i içeriyor: {ruleString}.]]></phrase>
+  <phrase title="cron_entry_run_successfully" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cron girdisi başarıyla çalıştırıldı.]]></phrase>
+  <phrase title="css_components" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[CSS bileşenleri]]></phrase>
+  <phrase title="css_components_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Basit kenarlık seçenekleri yalnızca kenarlık ve kenarlık yarıçapı seçilmediğinde uygulanır.]]></phrase>
+  <phrase title="css_style_property_must_have_at_least_one_css_component" version_id="0"><![CDATA[Bir CSS stil özelliğinin en az bir CSS bileşeni olmalıdır.]]></phrase>
+  <phrase title="ctrl" version_id="2001070" version_string="2.0.10"><![CDATA[Ctrl]]></phrase>
+  <phrase title="curl_ssl_version" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[cURL SSL sürümü]]></phrase>
+  <phrase title="curl_version" version_id="2001070" version_string="2.0.10"><![CDATA[cURL sürümü]]></phrase>
+  <phrase title="currency" version_id="2030036" version_string="2.3.0 Beta 6"><![CDATA[Para birimi]]></phrase>
+  <phrase title="currency.aed" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[BAE dirhemi]]></phrase>
+  <phrase title="currency.afn" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Afgan afganisi]]></phrase>
+  <phrase title="currency.all" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Arnavutluk leki]]></phrase>
+  <phrase title="currency.amd" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Ermeni dramı]]></phrase>
+  <phrase title="currency.aoa" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Angola kvanzası]]></phrase>
+  <phrase title="currency.ars" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Arjantin pesosu]]></phrase>
+  <phrase title="currency.aud" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Avustralya doları]]></phrase>
+  <phrase title="currency.awg" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Aruba florini]]></phrase>
+  <phrase title="currency.azn" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Azerbaycan manatı]]></phrase>
+  <phrase title="currency.bam" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Bosna konvertibl markı]]></phrase>
+  <phrase title="currency.bbd" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Barbados doları]]></phrase>
+  <phrase title="currency.bdt" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Bangladeş takası]]></phrase>
+  <phrase title="currency.bgn" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Bulgar levası]]></phrase>
+  <phrase title="currency.bhd" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Bahreyn dinarı]]></phrase>
+  <phrase title="currency.bif" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Burundi frangı]]></phrase>
+  <phrase title="currency.bmd" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Bermuda doları]]></phrase>
+  <phrase title="currency.bnd" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Brunei doları]]></phrase>
+  <phrase title="currency.bob" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Bolivya bolivyanosu]]></phrase>
+  <phrase title="currency.brl" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Brezilya reali]]></phrase>
+  <phrase title="currency.bwp" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Botsvana pulası]]></phrase>
+  <phrase title="currency.byn" version_id="2001270" version_string="2.0.12"><![CDATA[Belarus rublesi]]></phrase>
+  <phrase title="currency.bzd" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Belize doları]]></phrase>
+  <phrase title="currency.cad" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Kanada doları]]></phrase>
+  <phrase title="currency.cdf" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Kongo frangı]]></phrase>
+  <phrase title="currency.chf" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[İsviçre frangı]]></phrase>
+  <phrase title="currency.clp" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Şili pesosu]]></phrase>
+  <phrase title="currency.cny" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Çin yuanı]]></phrase>
+  <phrase title="currency.cop" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Kolombiya pesosu]]></phrase>
+  <phrase title="currency.crc" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Kosta Rika kolonu]]></phrase>
+  <phrase title="currency.cve" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Cape Verde eskudosu]]></phrase>
+  <phrase title="currency.czk" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Çek korunası]]></phrase>
+  <phrase title="currency.djf" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Cibuti frangı]]></phrase>
+  <phrase title="currency.dkk" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Danimarka kronu]]></phrase>
+  <phrase title="currency.dop" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Dominik pesosu]]></phrase>
+  <phrase title="currency.dzd" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Cezayir dinarı]]></phrase>
+  <phrase title="currency.egp" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Mısır lirası]]></phrase>
+  <phrase title="currency.ern" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Eritre nakfası]]></phrase>

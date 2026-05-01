@@ -1,0 +1,300 @@
+  <phrase title="bb_code_help_spoiler_desc" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Spoiler içerebilen metni gizler, böylece görüntüleyenin görmek için tıklaması gerekir.]]></phrase>
+  <phrase title="bb_code_help_spoiler_example" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[[SPOILER]Basit spoiler[/SPOILER]
+[SPOILER=Spoiler Başlığı]Başlıklı spoiler[/SPOILER]]]></phrase>
+  <phrase title="bb_code_help_spoiler_title" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[[SPOILER] - Spoiler içeren metin]]></phrase>
+  <phrase title="bb_code_help_table_desc" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[İçeriğinizde tablolar görüntülemek için özel işaretleme.]]></phrase>
+  <phrase title="bb_code_help_table_example" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[[TABLE]
+[TR]
+[TH]Başlık 1[/TH]
+[TH]Başlık 2[/TH]
+[/TR]
+[TR]
+[TD]İçerik 1[/TD]
+[TD]İçerik 2[/TD]
+[/TR]
+[/TABLE]]]></phrase>
+  <phrase title="bb_code_help_table_title" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[[TABLE] - Tablolar]]></phrase>
+  <phrase title="bb_code_help_url_email_advanced_desc" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Sarılı metni belirtilen web sayfasına veya e-posta adresine bağlar.]]></phrase>
+  <phrase title="bb_code_help_url_email_advanced_example" version_id="2000270" version_string="2.0.2"><![CDATA[[URL=https://www.example.com]example.com'a git[/URL]
+[EMAIL=example@example.com]Bana e-posta gönder[/EMAIL]]]></phrase>
+  <phrase title="bb_code_help_url_email_advanced_title" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[[URL=<span class="block-textHeader-highlight">bağlantı</span>], [EMAIL=<span class="block-textHeader-highlight">adres</span>] - Bağlama (Gelişmiş)]]></phrase>
+  <phrase title="bb_code_help_url_email_desc" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Sarılı metni hedef olarak kullanarak bir bağlantı oluşturur.]]></phrase>
+  <phrase title="bb_code_help_url_email_example" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[URL]https://www.example.com[/URL]
+[EMAIL]example@example.com[/EMAIL]]]></phrase>
+  <phrase title="bb_code_help_url_email_title" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[URL], [EMAIL] - Bağlama]]></phrase>
+  <phrase title="bb_code_help_user_desc" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bir kullanıcının profiline bağlar. Bu, genellikle bir kullanıcıdan bahsedildiğinde otomatik olarak yerleştirilir.]]></phrase>
+  <phrase title="bb_code_help_user_example" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[[USER={id}]{name}[/USER]]]></phrase>
+  <phrase title="bb_code_help_user_title" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[[USER=<span class="block-textHeader-highlight">ID</span>] - Profil Bağlama]]></phrase>
+  <phrase title="bb_code_media_site" version_id="2000270" version_string="2.0.2"><![CDATA[BB kodu medya sitesi]]></phrase>
+  <phrase title="bb_code_media_sites" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[BB kodu medya siteleri]]></phrase>
+  <phrase title="bb_code_tag" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[BB kodu etiketi]]></phrase>
+  <phrase title="bb_code_tag_will_work_with_and_without_option_provided" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Bu etiket, seçenek sağlanarak veya sağlanmadan çalışacak. Bu en yaygın olarak PHP geri çağırma fonksiyonları ile kullanılır.]]></phrase>
+  <phrase title="bb_code_tags_must_be_unique" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[BB kodu etiketleri benzersiz olmalıdır. Belirtilen etiket zaten kullanımda.]]></phrase>
+  <phrase title="bb_codes_for_addon_not_exported_independently" version_id="1030032" version_string="1.3.0 Beta 2"><![CDATA[Bir eklentiye ait BB kodları bağımsız olarak dışa aktarılamaz.]]></phrase>
+  <phrase title="before_message" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mesajdan önce]]></phrase>
+  <phrase title="beta" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[Beta]]></phrase>
+  <phrase title="birthday" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Doğum günü]]></phrase>
+  <phrase title="birthdays_limit_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu widget'ta gösterilebilecek avatar sayısını kontrol eder. 0 değeri sınırı devre dışı bırakır.]]></phrase>
+  <phrase title="block" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Engelle]]></phrase>
+  <phrase title="block_this_registration" version_id="1010470" version_string="1.1.4"><![CDATA[Bu kaydı engelle]]></phrase>
+  <phrase title="bluesky" version_id="2030570" version_string="2.3.5"><![CDATA[Bluesky]]></phrase>
+  <phrase title="board_url" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Forum URL'si]]></phrase>
+  <phrase title="board_url_option_not_match_license_url" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[<a href="{link}">Forum URL'si seçeneği</a>, lisansınız için yapılandırılmış site URL'si ile eşleşmiyor.]]></phrase>
+  <phrase title="bookmark" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[Yer imi]]></phrase>
+  <phrase title="bookmark_added" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[Yer imi eklendi]]></phrase>
+  <phrase title="bookmark_deleted_successfully" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Yer imi başarıyla silindi.]]></phrase>
+  <phrase title="bookmark_labels" version_id="2010053" version_string="2.1.0 Release Candidate 3"><![CDATA[Yer imi etiketleri]]></phrase>
+  <phrase title="bookmark_saved_successfully" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Yer imi başarıyla kaydedildi.]]></phrase>
+  <phrase title="bookmark_tools" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Yer imi araçları]]></phrase>
+  <phrase title="bookmarked" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Yer imi eklendi]]></phrase>
+  <phrase title="bookmarks" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Yer imleri]]></phrase>
+  <phrase title="boolean" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Boolean]]></phrase>
+  <phrase title="border" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kenarlık]]></phrase>
+  <phrase title="border_radius" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kenarlık yarıçapı]]></phrase>
+  <phrase title="bottom" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alt]]></phrase>
+  <phrase title="bounce" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Geri dön]]></phrase>
+  <phrase title="braintree_api_keys_explain" version_id="2021470" version_string="2.2.14"><![CDATA[<a href="https://www.braintreegateway.com/" target="_blank">Braintree Hesabınızdaki</a> Account > My User > API Keys, Tokenization Keys, Encryption Keys > View Authorizations sayfasındaki API anahtarlarını ve Merchant ID'yi girin.<br />
+<br />
+PayPal desteğini etkinleştirmek istiyorsanız, lütfen <a href="https://developer.paypal.com/braintree/articles/guides/payment-methods/paypal/setup-guide" target="_blank">talimatları izleyin</a>.]]></phrase>
+  <phrase title="braintree_merchant_account_id" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Satıcı hesap ID'si]]></phrase>
+  <phrase title="braintree_merchant_account_id_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Satıcı hesap ID'si Settings > Processing sayfası altında listelenir.<br />
+<br />
+<b>Not:</b> Varsayılan olarak Braintree birden fazla para birimini desteklemez. Satın alınabilir öğeleriniz için seçtiğiniz para birimi değeri <b><i>yok sayılacaktır</i></b>.<br />
+<br />
+Birden fazla para birimini desteklemek için, <a href="mailto:support@braintreepayments.com">Braintree ile iletişime geçerek</a> birden fazla Satıcı Hesabı oluşturmalarını isteyin. İşlemlerin hangi para biriminde işleneceğini belirleyen Satıcı Hesabıdır. Hangi Satıcı Hesabını burada kullanacağınızı belirtmeniz gerekir.]]></phrase>
+  <phrase title="braintree_merchant_id" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Satıcı ID'si]]></phrase>
+  <phrase title="braintree_plan_id" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aşağıdaki Plan ID ile yinelenen faturalandırmayı destekle]]></phrase>
+  <phrase title="braintree_plan_id_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bir satın alınabilir öğe için yinelenen faturalandırmayı desteklemek istiyorsanız, bu burada özellikle etkinleştirilmelidir ve <a href="https://www.braintreegateway.com/" target="_blank">Braintree Hesabınızda</a> bu profil ile yapılan satın almalar için kullanmak istediğiniz Plan ID'yi sağlamanız gerekir.<br />
+<br />
+Yinelenen faturalandırmayı desteklemek ve bir ödeme uyuşmazlığı açıldığında satın almaları otomatik olarak iptal etmek için, lütfen Webhooks'u aşağıdaki URL ile etkinleştirdiğinizden emin olun, aksi takdirde bunu manuel olarak izlemeniz ve yönetmeniz gerekir:<br />
+<br />
+{boardUrl}/payment_callback.php?_xfProvider=braintree]]></phrase>
+  <phrase title="braintree_private_key" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Özel anahtar]]></phrase>
+  <phrase title="braintree_public_key" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Genel anahtar]]></phrase>
+  <phrase title="browser_importer" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Tarayıcı içe aktarıcısı]]></phrase>
+  <phrase title="browsers_only_check_for_updates_to_these_values_periodically_24_hours" version_id="2020035" version_string="2.2.0 Beta 5"><![CDATA[Tarayıcılar bu değerlerin güncellemelerini yalnızca periyodik olarak kontrol eder. Değişikliklerin uygulanması 24 saate kadar sürebilir.]]></phrase>
+  <phrase title="button.attach" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dosya ekle]]></phrase>
+  <phrase title="button.cancel" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İptal]]></phrase>
+  <phrase title="button.confirm" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Onayla]]></phrase>
+  <phrase title="button.copy" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Kopyala]]></phrase>
+  <phrase title="button.delete" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Sil]]></phrase>
+  <phrase title="button.edit" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Düzenle]]></phrase>
+  <phrase title="button.export" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dışa aktar]]></phrase>
+  <phrase title="button.hide" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Gizle]]></phrase>
+  <phrase title="button.import" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İçe aktar]]></phrase>
+  <phrase title="button.login" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Giriş yap]]></phrase>
+  <phrase title="button.merge" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Birleştir]]></phrase>
+  <phrase title="button.move" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Taşı]]></phrase>
+  <phrase title="button.preview" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Önizleme]]></phrase>
+  <phrase title="button.purchase" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Satın al]]></phrase>
+  <phrase title="button.save" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Kaydet]]></phrase>
+  <phrase title="button.search" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ara]]></phrase>
+  <phrase title="button.show" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Göster]]></phrase>
+  <phrase title="button.sort" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sırala]]></phrase>
+  <phrase title="button.submit" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gönder]]></phrase>
+  <phrase title="button.translate" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Çevir]]></phrase>
+  <phrase title="button_manager_reset_it_is_not_possible_to_reverse_this_action" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Bu eylemi geri almak mümkün değildir. Bu araç çubuğunun düğme yapılandırması varsayılan durumuna sıfırlanacak.]]></phrase>
+  <phrase title="button_removed" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Düğme kaldırıldı]]></phrase>
+  <phrase title="buttons_menus_may_not_be_duplicated" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Düğmeler ve menüler çoğaltılamaz.]]></phrase>
+  <phrase title="buttons_visible" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Görünür düğmeler]]></phrase>
+  <phrase title="by" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tarafından]]></phrase>
+  <phrase title="by_registering_you_agree_to_our_privacy_policy" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[<a href="{privacy}" target="_blank">Gizlilik politikasını</a> kabul ediyorum.]]></phrase>
+  <phrase title="by_registering_you_agree_to_our_terms_and_privacy_policy" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[<a href="{tos}" target="_blank">Şartları</a> ve <a href="{privacy}" target="_blank">gizlilik politikasını</a> kabul ediyorum.]]></phrase>
+  <phrase title="by_registering_you_agree_to_our_terms_and_rules" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[<a href="{tos}" target="_blank">Şartlar ve kuralları</a> kabul ediyorum.]]></phrase>
+  <phrase title="by_url" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[URL ile]]></phrase>
+  <phrase title="by_user_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} tarafından]]></phrase>
+  <phrase title="bypass_all_https_requests" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Tüm HTTPS isteklerini atla]]></phrase>
+  <phrase title="bypass_only_domains_listed_below" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Yalnızca aşağıda listelenen alan adlarını atla]]></phrase>
+  <phrase title="cache_length" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Önbellek süresi]]></phrase>
+  <phrase title="cache_rebuilt_successfully" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[Önbellek başarıyla yeniden oluşturuldu.]]></phrase>
+  <phrase title="cache_this_phrase_globally" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Bu ifadeyi global olarak önbelleğe al]]></phrase>
+  <phrase title="callback" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Geri çağırma]]></phrase>
+  <phrase title="callback_class_method_explain" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Örnek: <b>AddOn\Path\To\ClassName</b> :: <b>methodName</b>]]></phrase>
+  <phrase title="callback_execution_order" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Geri çağırma yürütme sırası]]></phrase>
+  <phrase title="callback_failed" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Geri çağırma başarısız oldu]]></phrase>
+  <phrase title="callback_method_x_does_not_appear_to_indicate_read_only" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Geri çağırma yöntemi {method}, salt okunur bir işlevi göstermiyor gibi görünüyor, bu nedenle çağrılamıyor.]]></phrase>
+  <phrase title="callback_x_invalid_y" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Geri çağırma {callback} geçersiz ({error}).]]></phrase>
+  <phrase title="can_be_purchased" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Satın alınabilir]]></phrase>
+  <phrase title="cancel" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[İptal]]></phrase>
+  <phrase title="cancel_import" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[İçe aktarmayı iptal et]]></phrase>
+  <phrase title="cancellation" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[İptal]]></phrase>
+  <phrase title="cancelling" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[İptal ediliyor]]></phrase>
+  <phrase title="cannot_be_changed_after_creation_requires_new_api_key" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Bu, oluşturulduktan sonra değiştirilemez. Değişiklikler için yeni bir API anahtarı oluşturulması gerekir.]]></phrase>
+  <phrase title="cannot_edit_template_modifications_of_this_type" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu türdeki şablon değişiklikleri düzenlenemez]]></phrase>
+  <phrase title="cannot_find_associated_forum_node" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İlişkili forum düğümü bulunamadı.]]></phrase>
+  <phrase title="cannot_generate_new_password_without_email_address" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[E-posta adresi olmadan yeni bir şifre oluşturulamaz.]]></phrase>
+  <phrase title="cannot_install_from_archive_as_not_all_required_directories_writable" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Tüm gerekli dizinler yazılabilir olmadığından arşivden yükleme yapılamaz. Çeşitli dizinlerin arşivden yükleme yapmak için web sunucu kullanıcısı tarafından yazılabilir olması gerekir. XF kök dizinine ek olarak, aşağıdaki yolların bazıları veya tümü yazılabilir olmalıdır: {relativePaths}.]]></phrase>
+  <phrase title="cannot_proceed_with_installation_batch_without_any_valid_add_ons" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Geçerli eklenti olmadan kurulum toplu işlemine devam edilemiyor.]]></phrase>
+  <phrase title="cannot_proceed_with_installation_upgrade_of_x_because_files_not_uploaded" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{addOnTitle} kurulumuna/yükseltmesine devam edilemiyor çünkü dosyaları doğru bir şekilde yüklenmemiş olabilir.]]></phrase>
+  <phrase title="cannot_proceed_with_installation_upgrade_of_x_because_minimum_requirements" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{addOnTitle} kurulumuna/yükseltmesine devam edilemiyor çünkü minimum gereksinimleri karşılamayabilir.]]></phrase>
+  <phrase title="cannot_verify_that_your_key_x_is_valid" version_id="2010270" version_string="2.1.2"><![CDATA[{keyName} öğesinin geçerli olduğu doğrulanamıyor. Lütfen kontrol edip tekrar deneyin.]]></phrase>
+  <phrase title="cannot_view_template_modifications_of_this_type" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu türdeki şablon değişiklikleri görüntülenemez]]></phrase>
+  <phrase title="captcha" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[CAPTCHA]]></phrase>
+  <phrase title="captcha_privacy_policy" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[CAPTCHA gizlilik politikası]]></phrase>
+  <phrase title="captcha_question" version_id="2000270" version_string="2.0.2"><![CDATA[CAPTCHA sorusu]]></phrase>
+  <phrase title="captcha_question_answers_explain" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[İstediğiniz kadar doğru yanıt ekleyebilirsiniz. Boş yanıt alanları yok sayılır. Yanıtlar büyük/küçük harf duyarlı değildir.]]></phrase>
+  <phrase title="captcha_questions" version_id="2000270" version_string="2.0.2"><![CDATA[CAPTCHA soruları]]></phrase>
+  <phrase title="carousel" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Karusel]]></phrase>
+  <phrase title="carousel_view_displaying_content_in_slider" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[İçeriği bir kaydırıcıda görüntüleyen bir karusel görünümü. Bu görünüm kenar çubuğu konumları için tasarlanmamıştır.]]></phrase>
+  <phrase title="case_sensitive" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Büyük/küçük harf duyarlı]]></phrase>
+  <phrase title="cast_vote" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oy ver]]></phrase>
+  <phrase title="categories" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kategoriler]]></phrase>
+  <phrase title="category" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kategori]]></phrase>
+  <phrase title="cell_mobile_phone_number" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Cep / mobil telefon numarası]]></phrase>
+  <phrase title="certain_events_take_hints_that_can_limit_when_listener_is_run" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Belirli olaylar tetiklendiğinde, bir ipucu ile tetiklenirler. Bu ipucu, dinleyicinizi yalnızca gerektiğinde yürütülecek şekilde sınırlamak için kullanılabilir, performansı artırır.<br />
+<br />
+Bir olay bir ipucu ile tetiklenirse, olası ipucu değerleri yukarıdaki olay açıklamasında listelenecek. Burada bir ipucu belirtirseniz, dinleyiciniz yalnızca ipucunuz olay tetiklendiğinde sağlanan ipucu ile eşleşirse çalışacak.<br />
+<br />
+<strong>Not:</strong> İpucu bir sınıf adı ise, baştaki \ karakterini atlamalısınız.]]></phrase>
+  <phrase title="challenge" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Doğrulama]]></phrase>
+  <phrase title="change" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Değiştir]]></phrase>
+  <phrase title="change_email" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[E-postayı değiştir]]></phrase>
+  <phrase title="change_forum_type" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Forum türünü değiştir]]></phrase>
+  <phrase title="change_log" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Değişiklik günlüğü]]></phrase>
+  <phrase title="change_logs" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Değişiklik günlükleri]]></phrase>
+  <phrase title="change_payment" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Ödemeyi değiştir]]></phrase>
+  <phrase title="change_reason" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Değiştirme nedeni]]></phrase>
+  <phrase title="change_size" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Boyutu değiştir]]></phrase>
+  <phrase title="change_state" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Durumu değiştir]]></phrase>
+  <phrase title="change_thread_type" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Konu türünü değiştir]]></phrase>
+  <phrase title="change_type" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Türü değiştir]]></phrase>
+  <phrase title="change_username" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kullanıcı adını değiştir]]></phrase>
+  <phrase title="change_vote" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oyu değiştir]]></phrase>
+  <phrase title="changed_by" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Değiştiren]]></phrase>
+  <phrase title="changed_payment_confirmation" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Ödeme değişikliği onayı]]></phrase>
+  <phrase title="changes_saved" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Değişiklikler kaydedildi]]></phrase>
+  <phrase title="changing_forums_type_warning_desc" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Bir forumun türünü değiştirmek, forum içindeki tüm konuların türünü forumda izin verilen bir türe değiştirecek. Bu bazı veri kayıplarına neden olabilir. Devam etmeden önce doğru seçenekleri seçtiğinizden emin olun.]]></phrase>
+  <phrase title="changing_payment_details_is_only_possible_on_recurring_payments" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Ödeme detaylarını değiştirme yalnızca yinelenen ödemelerde mümkündür.]]></phrase>
+  <phrase title="changing_thread_types" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Konu türleri değiştiriliyor]]></phrase>
+  <phrase title="changing_threads_type_warning_desc" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Bir konunun türünü değiştirmek bazı veri kayıplarına neden olabilir. Devam etmeden önce doğru seçenekleri seçtiğinizden emin olun.]]></phrase>
+  <phrase title="changing_users_password_will_reset_any_security_lock_on_their_account" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bir kullanıcının şifresini değiştirmek, hesabındaki tüm güvenlik kilitlerini sıfırlayacak.]]></phrase>
+  <phrase title="characters" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Karakterler]]></phrase>
+  <phrase title="check_boxes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Onay kutuları]]></phrase>
+  <phrase title="check_completed_on_x_files" version_id="2000570" version_string="2.0.5"><![CDATA[{total_checked} dosyada kontrol tamamlandı. Aşağıda listelenen dosyalar, başlangıçta indirilenden farklı içeriklere sahiptir.
+
+Bu dosyaları kendiniz düzenlediyseniz bu mesajı yok sayabilirsiniz, aksi takdirde bu, bozulmuş veya değiştirilmiş dosyaların kanıtı olabileceğinden daha fazla araştırmalısınız.]]></phrase>
+  <phrase title="check_date" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kontrol tarihi]]></phrase>
+  <phrase title="check_dnsbl_on_registration" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kayıtta DNSBL kontrol et]]></phrase>
+  <phrase title="check_now" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Şimdi kontrol et]]></phrase>
+  <phrase title="check_spammers_ips" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Spam gönderenin IP'lerini kontrol et]]></phrase>
+  <phrase title="check_state" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Durumu kontrol et]]></phrase>
+  <phrase title="checking_integrity_of_files_for" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Şunun için dosyaların bütünlüğü kontrol ediliyor]]></phrase>
+  <phrase title="child" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Çocuk]]></phrase>
+  <phrase title="child_of_language" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Dil çocuğu]]></phrase>
+  <phrase title="child_of_style" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Stil çocuğu]]></phrase>
+  <phrase title="choose_action" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Eylem seç]]></phrase>
+  <phrase title="choose_activity_summary_definition" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Etkinlik özeti tanımı seçin]]></phrase>
+  <phrase title="choose_payment_method" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bir ödeme yöntemi seçin]]></phrase>
+  <phrase title="choose_payment_provider" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bir ödeme sağlayıcısı seçin]]></phrase>
+  <phrase title="choose_widget_definition" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bir widget tanımı seçin]]></phrase>
+  <phrase title="class" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Sınıf]]></phrase>
+  <phrase title="class_extensions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sınıf uzantıları]]></phrase>
+  <phrase title="class_extensions_must_be_unique" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sınıf uzantıları benzersiz olmalıdır. Belirtilen kombinasyon zaten kullanımda.]]></phrase>
+  <phrase title="class_implement_relevant_activity_summary_section_behaviors" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bu sınıf, ilgili tüm etkinlik özeti bölümü davranışlarını uygulamalıdır. <code>XF\ActivitySummary\AbstractSection</code>'a dayanmalıdır.]]></phrase>
+  <phrase title="class_information" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Sınıf bilgileri]]></phrase>
+  <phrase title="class_x_must_extend_abstract_xml_export_class" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sınıf '{exportService}' \XF\Service\AbstractXmlExport sınıfını genişletmelidir]]></phrase>
+  <phrase title="class_x_must_extend_abstract_xml_import_class" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sınıf '{importService}' \XF\Service\AbstractXmlImport sınıfını genişletmelidir]]></phrase>
+  <phrase title="clean" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Temiz]]></phrase>
+  <phrase title="clean_up_permissions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İzinleri temizle]]></phrase>
+  <phrase title="clear" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Temizle]]></phrase>
+  <phrase title="clear_last_edit_information" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Son düzenleme bilgilerini temizle]]></phrase>
+  <phrase title="cli_importer" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[CLI içe aktarıcısı]]></phrase>
+  <phrase title="click_image_to_change_your_avatar" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Avatarınızı değiştirmek için resme tıklayın.]]></phrase>
+  <phrase title="click_to_expand" version_id="1020032" version_string="1.2.0 Beta 2"><![CDATA[Genişletmek için tıkla...]]></phrase>
+  <phrase title="click_to_reveal_spoiler" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Spoiler'ı göstermek veya gizlemek için tıkla]]></phrase>
+  <phrase title="client_id" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İstemci ID]]></phrase>
+  <phrase title="client_id_copied_to_clipboard" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[İstemci ID panoya kopyalandı]]></phrase>
+  <phrase title="client_is_active" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[İstemci etkin]]></phrase>
+  <phrase title="client_secret" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[İstemci sırrı]]></phrase>
+  <phrase title="client_secret_copied_to_clipboard" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[İstemci sırrı panoya kopyalandı]]></phrase>
+  <phrase title="client_secret_for_oauth2_client_that_you_created_for_this" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Diğer XenForo örneğinde bu bağlı sağlayıcı için oluşturduğunuz OAuth2 istemcisinin istemci sırrı.]]></phrase>
+  <phrase title="client_type" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[İstemci türü]]></phrase>
+  <phrase title="close" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kapat]]></phrase>
+  <phrase title="close_poll_after_value_nonsense" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Anketin kapatılması gereken süre için belirtilen değer mantıklı değil.]]></phrase>
+  <phrase title="close_this_poll_after" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu anketi şu süreden sonra kapat]]></phrase>
+  <phrase title="close_this_poll_on_x" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bu anketi {close_date} tarihinde kapat]]></phrase>
+  <phrase title="close_thread" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konuyu kapat]]></phrase>
+  <phrase title="closed" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Kapalı]]></phrase>
+  <phrase title="closed_prefixes" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Kapalı ön ekler]]></phrase>
+  <phrase title="closed_prefixes_desc" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Bu ön ekler, kapatılmış (ancak uygulanmamış) bir öneriyi temsil eder. Kapatılmış öneriler artık oylanamaz. Yalnızca mevcut ön ekler seçilebilir.]]></phrase>
+  <phrase title="closed_reports" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kapatılan raporlar]]></phrase>
+  <phrase title="closed_reports_x_y" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kapatılan raporlar: {from} - {to}]]></phrase>
+  <phrase title="code" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Kod]]></phrase>
+  <phrase title="code_event_execution_order_desc" version_id="1020035" version_string="1.2.0 Beta 5"><![CDATA[Daha düşük yürütme sıraları önce çalışır. Olay ipucu belirten dinleyicilerin her zaman belirtmeyenlerden sonra çalışacağını unutmayın.]]></phrase>
+  <phrase title="code_event_ids_must_be_unique" version_id="0"><![CDATA[Kod olayı ID'leri benzersiz olmalıdır. Belirtilen ID zaten kullanımda.]]></phrase>
+  <phrase title="code_event_listener_definitions_must_be_unique" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[Kod olay dinleyici tanımları benzersiz olmalıdır.]]></phrase>
+  <phrase title="code_event_listeners" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kod olay dinleyicileri]]></phrase>
+  <phrase title="code_events" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kod olayları]]></phrase>
+  <phrase title="code_language.apacheconf" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Apache config]]></phrase>
+  <phrase title="code_language.applescript" version_id="2000270" version_string="2.0.2"><![CDATA[AppleScript]]></phrase>
+  <phrase title="code_language.aspnet" version_id="2000270" version_string="2.0.2"><![CDATA[ASP.net]]></phrase>
+  <phrase title="code_language.bash" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bash]]></phrase>
+  <phrase title="code_language.c" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[C]]></phrase>
+  <phrase title="code_language.clike" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[C-like]]></phrase>
+  <phrase title="code_language.coffeescript" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[CoffeeScript]]></phrase>
+  <phrase title="code_language.cpp" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[C++]]></phrase>
+  <phrase title="code_language.csharp" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[C#]]></phrase>
+  <phrase title="code_language.css" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[CSS]]></phrase>
+  <phrase title="code_language.diff" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Diff]]></phrase>
+  <phrase title="code_language.general" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Genel kod]]></phrase>
+  <phrase title="code_language.git" version_id="2000270" version_string="2.0.2"><![CDATA[Git]]></phrase>
+  <phrase title="code_language.html" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[HTML]]></phrase>
+  <phrase title="code_language.http" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[HTTP]]></phrase>
+  <phrase title="code_language.ini" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[INI]]></phrase>
+  <phrase title="code_language.java" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Java]]></phrase>
+  <phrase title="code_language.javascript" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[JavaScript]]></phrase>
+  <phrase title="code_language.json" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[JSON]]></phrase>
+  <phrase title="code_language.jsx" version_id="2000270" version_string="2.0.2"><![CDATA[JSX]]></phrase>
+  <phrase title="code_language.less" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Less]]></phrase>
+  <phrase title="code_language.makefile" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Makefile]]></phrase>
+  <phrase title="code_language.markdown" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Markdown (GitHub flavored)]]></phrase>
+  <phrase title="code_language.nginx" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[NGINX]]></phrase>
+  <phrase title="code_language.objectivec" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Objective-C]]></phrase>
+  <phrase title="code_language.perl" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Perl]]></phrase>
+  <phrase title="code_language.php" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[PHP]]></phrase>
+  <phrase title="code_language.python" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Python]]></phrase>
+  <phrase title="code_language.rich" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rich (BB code)]]></phrase>
+  <phrase title="code_language.ruby" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ruby]]></phrase>
+  <phrase title="code_language.sass" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sass]]></phrase>
+  <phrase title="code_language.scss" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[SCSS]]></phrase>
+  <phrase title="code_language.sql" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[SQL]]></phrase>
+  <phrase title="code_language.svg" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[SVG]]></phrase>
+  <phrase title="code_language.swift" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Swift]]></phrase>
+  <phrase title="code_language.wiki" version_id="2000270" version_string="2.0.2"><![CDATA[Wiki]]></phrase>
+  <phrase title="code_language.xml" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[XML]]></phrase>
+  <phrase title="code_language.yaml" version_id="2000270" version_string="2.0.2"><![CDATA[YAML]]></phrase>
+  <phrase title="code_listeners_extensions_disabled_warning" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kod olay dinleyicileri ve uzantılar config.php aracılığıyla devre dışı bırakıldı. Bu, bir eklentinin erişimi engellemesi durumunda kontrol paneline yeniden erişim sağlamak ve devre dışı bırakmak için bir acil durum önlemi olarak tasarlanmıştır. Bir hata ayıklama aracı olarak kullanılmamalıdır.]]></phrase>
+  <phrase title="color" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Renk]]></phrase>
+  <phrase title="column" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Sütun]]></phrase>
+  <phrase title="comma_separator" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Virgül ayırıcı]]></phrase>
+  <phrase title="command_id" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Komut ID]]></phrase>
+  <phrase title="comment" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yorum]]></phrase>
+  <phrase title="comment_date" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yorum tarihi]]></phrase>
+  <phrase title="comments" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yorumlar]]></phrase>
+  <phrase title="common_languages" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yaygın diller]]></phrase>
+  <phrase title="common_names_and_surnames_easy_to_guess" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Yaygın adlar ve soyadlar tahmin edilmesi kolaydır.]]></phrase>
+  <phrase title="commonly_edited_phrases" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Yaygın olarak düzenlenen ifadeler]]></phrase>
+  <phrase title="compare" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Karşılaştır]]></phrase>
+  <phrase title="compare_versions" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sürümleri karşılaştır]]></phrase>
+  <phrase title="compiler_error_may_be_from_another_template_modification" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Derleyici hatası (başka bir şablon değişikliğinden kaynaklanıyor olabilir)]]></phrase>
+  <phrase title="complete_import" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[İçe aktarmayı tamamla]]></phrase>
+  <phrase title="complete_upgrade" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yükseltmeyi tamamla]]></phrase>
+  <phrase title="completion_date" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tamamlanma tarihi]]></phrase>
+  <phrase title="compressed" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sıkıştırılmış]]></phrase>
+  <phrase title="computing_trending_result" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Trend olan sonuç hesaplanıyor...]]></phrase>
+  <phrase title="con_acc.apple" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Apple]]></phrase>
+  <phrase title="con_acc.facebook" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Facebook]]></phrase>
+  <phrase title="con_acc.github" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[GitHub]]></phrase>
+  <phrase title="con_acc.google" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Google]]></phrase>
+  <phrase title="con_acc.linkedin" version_id="2010670" version_string="2.1.6"><![CDATA[Linkedin]]></phrase>
+  <phrase title="con_acc.microsoft" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Microsoft]]></phrase>
+  <phrase title="con_acc.x" version_id="2030570" version_string="2.3.5"><![CDATA[X]]></phrase>
+  <phrase title="con_acc.xenforo" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[XenForo]]></phrase>
+  <phrase title="con_acc.yahoo" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yahoo]]></phrase>
+  <phrase title="con_acc_desc.apple" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Apple ile Giriş'i kurmak için ücretli bir <a href="https://developer.apple.com/programs/enroll/" target="_blank">Apple Developer üyeliği</a> gerekir. Kurulum süreci hakkında daha fazla bilgi için lütfen <a href="https://xenforo.com/goto/apple-help" target="_blank">XenForo kılavuzuna</a> bakın.]]></phrase>
+  <phrase title="con_acc_desc.facebook" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="con_acc_desc.github" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="con_acc_desc.google" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="con_acc_desc.linkedin" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="con_acc_desc.microsoft" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="con_acc_desc.x" version_id="2030570" version_string="2.3.5"><![CDATA[]]></phrase>
