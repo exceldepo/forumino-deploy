@@ -165,6 +165,18 @@
 	{{ resource_icon($resource, 's', link('resources', $resource)) }}
 </xf:if>]]></replace>
   </modification>
+  <modification type="public" template="xfrm_resource_view" modification_key="selamt_xfrmseo_view_og_image_meta" description="Featured image varsa og:image:width/height/type/alt meta tag'leri ekler (WhatsApp, Telegram, Slack için)" execution_order="5" enabled="1" action="str_replace">
+    <find><![CDATA[<article class="resourceBody-main js-lbContainer">]]></find>
+    <replace><![CDATA[<xf:if is="$resource.SeoMeta.FeaturedImage">
+	<xf:head>
+		<meta property="og:image:width" content="{$resource.SeoMeta.FeaturedImage.width}" />
+		<meta property="og:image:height" content="{$resource.SeoMeta.FeaturedImage.height}" />
+		<meta property="og:image:type" content="image/webp" />
+		<meta property="og:image:alt" content="{$resource.title|for_attr}" />
+	</xf:head>
+</xf:if>
+<article class="resourceBody-main js-lbContainer">]]></replace>
+  </modification>
   <modification type="public" template="xfrm_resource_view" modification_key="selamt_xfrmseo_view_hero_image" description="Resource view'da featured image hero banner olarak göster (display_image=1 ve görsel varsa)" execution_order="10" enabled="1" action="str_replace">
     <find><![CDATA[<article class="resourceBody-main js-lbContainer">]]></find>
     <replace><![CDATA[<xf:css src="public_selamt_xfrmseo.less" />
