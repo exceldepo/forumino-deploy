@@ -78,10 +78,41 @@ class ImportTranslations extends Command
 			}
 
 			$count = isset($xml->phrase) ? count($xml->phrase) : 0;
+			$languageId = $language->language_id;
+			$db = \XF::db();
 
+			// 1) Bu addon'a ait eski TR phrase'leri (boş addon_id'ler dahil) temizle.
+			//    XML'de phrase'lerde addon_id attribute yok (manual export); ImportService
+			//    deleteExistingPhrases() addon_id ile filtre yapıyor, boş addon_id
+			//    geçersek tüm dilin boş addon'lı phrase'lerini siler — istemediğimiz şey.
+			//    O yüzden title-bazlı temizlik yapıyoruz.
+			$titles = [];
+			foreach ($xml->phrase AS $p)
+			{
+				$titles[] = (string) $p['title'];
+			}
+			if ($titles)
+			{
+				$db->delete('xf_phrase',
+					'language_id = ? AND title IN (' . $db->quote($titles) . ')',
+					[$languageId]
+				);
+			}
+
+			// 2) ImportService ile yeni phrase'leri ekle (addon_id boş olarak gelir).
 			/** @var ImportService $importer */
 			$importer = \XF::app()->service(ImportService::class, $language);
 			$importer->importFromXml($xml, $addOnId);
+
+			// 3) Yeni oluşan boş addon_id phrase'leri bu addon'a bağla.
+			if ($addOnId !== '')
+			{
+				$db->update('xf_phrase',
+					['addon_id' => $addOnId],
+					'language_id = ? AND addon_id = ? AND title IN (' . $db->quote($titles) . ')',
+					[$languageId, '']
+				);
+			}
 
 			$output->writeln(sprintf('<info>✓</info> %s — %d phrase (addon_id: %s)', $addOnIdRaw, $count, $addOnId));
 			$totalAddons++;
@@ -112,15 +143,23 @@ class ImportTranslations extends Command
 		}
 
 		$iso = $input->getOption('language');
-		$language = $em->findOne(Language::class, ['language_code' => $iso]);
+		$isTr = ($iso === 'tr');
+		// XF locale standardı: tr → tr-TR, en → en-US
+		$canonicalCode = $isTr ? 'tr-TR' : ($iso === 'en' ? 'en-US' : $iso);
+
+		// tr veya tr-TR ile bul
+		$language = $em->findOne(Language::class, ['language_code' => $canonicalCode]);
+		if (!$language)
+		{
+			$language = $em->findOne(Language::class, ['language_code' => $iso]);
+		}
 
 		if (!$language)
 		{
 			$output->writeln("<comment>'{$iso}' dili yok, oluşturuluyor...</comment>");
 			$language = $em->create(Language::class);
-			$language->title = ($iso === 'tr') ? 'Türkçe' : strtoupper($iso);
-			$language->language_code = $iso;
-			$isTr = ($iso === 'tr');
+			$language->title = $isTr ? 'Türkçe' : strtoupper($iso);
+			$language->language_code = $canonicalCode;
 			$language->date_format = $isTr ? 'j M Y' : 'M j, Y';
 			$language->date_short_format = $isTr ? 'd.m.Y' : 'M j, Y';
 			$language->date_short_recent_format = $isTr ? 'j M' : 'M j';
@@ -128,6 +167,13 @@ class ImportTranslations extends Command
 			$language->currency_format = $isTr ? '%symbol%%amount%' : '%symbol%%amount%';
 			$language->parent_id = 0;
 			$language->save();
+		}
+		elseif ($language->language_code !== $canonicalCode)
+		{
+			// Mevcut dilin kodu non-canonical (örn: 'tr' → 'tr-TR')
+			$language->language_code = $canonicalCode;
+			$language->save();
+			$output->writeln("<comment>language_code '{$canonicalCode}' olarak güncellendi.</comment>");
 		}
 
 		return $language;
