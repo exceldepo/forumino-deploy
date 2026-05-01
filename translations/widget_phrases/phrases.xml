@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="widget.latest_followed_profile_posts" version_id="1000010" version_string="1.0.0"><![CDATA[Takip edilenlerin son profil gönderileri]]></phrase>
+  <phrase title="widget.latest_posts" version_id="1000010" version_string="1.0.0"><![CDATA[Son gönderiler]]></phrase>
+  <phrase title="widget.latest_profile_posts" version_id="1000010" version_string="1.0.0"><![CDATA[Son profil gönderileri]]></phrase>
+  <phrase title="widget.latest_watched" version_id="1000010" version_string="1.0.0"><![CDATA[Son izlenenler]]></phrase>
+  <phrase title="widget.unread_posts" version_id="1000010" version_string="1.0.0"><![CDATA[Okunmamış gönderiler]]></phrase>
+  <phrase title="widget.xfmg_wrapper_trending_media" version_id="1000010" version_string="1.0.0"><![CDATA[Trend olan medya]]></phrase>
+  <phrase title="widget.xfrm_list_featured_resources" version_id="1000010" version_string="1.0.0"><![CDATA[Öne çıkan kaynaklar]]></phrase>
+  <phrase title="widget.xfrm_list_trending_resources" version_id="1000010" version_string="1.0.0"><![CDATA[Trend olan kaynaklar]]></phrase>
+</phrases>
