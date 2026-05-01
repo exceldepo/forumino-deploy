@@ -130,23 +130,11 @@
 	<xf:option value="product">{{ phrase('selamt_xfrmseo_og_type_product') }}</xf:option>
 </xf:selectrow>
 
-<xf:formrow rowclass="noColon"
+<xf:uploadrow name="selamt_xfrmseo_featured_image"
+	accept=".jpg,.jpeg,.png,.webp"
 	label="{{ phrase('selamt_xfrmseo_featured_image') }}"
-	explain="{{ phrase('selamt_xfrmseo_featured_image_explain') }} {{ phrase('selamt_xfrmseo_featured_image_size_hint') }}">
-	<div class="contentRow">
-		<div class="contentRow-figure">
-			<span class="avatar avatar--m avatar--default">
-				<i class="fa--xf far fa-image"></i>
-			</span>
-		</div>
-		<div class="contentRow-main">
-			<xf:set var="$uploadId" value="{{ unique_id() }}" />
-			<label for="{$uploadId}">{{ phrase('selamt_xfrmseo_featured_image_upload:') }}</label>
-			<xf:upload name="selamt_xfrmseo_featured_image" accept=".jpg,.jpeg,.png,.webp" id="{$uploadId}" />
-			<xf:hiddenval name="selamt_xfrmseo[image_action]">custom</xf:hiddenval>
-		</div>
-	</div>
-</xf:formrow>
+	explain="{{ phrase('selamt_xfrmseo_featured_image_explain') }} {{ phrase('selamt_xfrmseo_featured_image_size_hint') }}" />
+<xf:hiddenval name="selamt_xfrmseo[image_action]">custom</xf:hiddenval>
 
 <xf:checkboxrow name="selamt_xfrmseo[display_image]" value="1"
 	label="{{ phrase('selamt_xfrmseo_display_image') }}"
