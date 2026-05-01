@@ -130,7 +130,7 @@
   <modification type="public" template="xfrm_resource_view" modification_key="selamt_xfrmseo_view_og_image_meta" description="Featured image varsa og:image:width/height/type/alt meta tag'leri ekler (WhatsApp, Telegram, Slack için)" execution_order="5" enabled="1" action="str_replace">
     <find><![CDATA[<article class="resourceBody-main js-lbContainer">]]></find>
     <replace><![CDATA[<xf:if is="$resource.SeoMeta.FeaturedImage">
-	<xf:head>
+	<xf:head option="selamt_xfrmseo_og_image_extras">
 		<meta property="og:image:width" content="{$resource.SeoMeta.FeaturedImage.width}" />
 		<meta property="og:image:height" content="{$resource.SeoMeta.FeaturedImage.height}" />
 		<meta property="og:image:type" content="image/webp" />
