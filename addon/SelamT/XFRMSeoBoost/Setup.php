@@ -6,7 +6,6 @@ use XF\AddOn\AbstractSetup;
 use XF\AddOn\StepRunnerInstallTrait;
 use XF\AddOn\StepRunnerUninstallTrait;
 use XF\AddOn\StepRunnerUpgradeTrait;
-use XF\Db\Schema\Alter;
 use XF\Db\Schema\Create;
 
 class Setup extends AbstractSetup
@@ -16,7 +15,7 @@ class Setup extends AbstractSetup
 	use StepRunnerUpgradeTrait;
 
 	// =============================================================
-	// INSTALL — Yeni kurulumlar 1.1.0 schema'sıyla doğrudan kurulur.
+	// INSTALL — v1.0.0 schema
 	// =============================================================
 
 	public function installStep1(): void
@@ -51,69 +50,12 @@ class Setup extends AbstractSetup
 	}
 
 	// =============================================================
-	// UPGRADE — 1.0.0 → 1.1.0 schema migrasyonu
-	// =============================================================
-
-	public function upgrade1010070Step1(): void
-	{
-		$this->schemaManager()->alterTable('xf_st_xfrmseo_meta', function (Alter $table)
-		{
-			if (!$table->getColumnDefinition('display_image'))
-			{
-				$table->addColumn('display_image', 'tinyint')->setDefault(1);
-			}
-		});
-	}
-
-	public function upgrade1010070Step2(): void
-	{
-		if (!$this->tableExists('xf_st_xfrmseo_category'))
-		{
-			$this->schemaManager()->createTable('xf_st_xfrmseo_category', function (Create $table)
-			{
-				$table->addColumn('resource_category_id', 'int')->primaryKey();
-				$table->addColumn('default_og_type', 'varchar', 50)->setDefault('');
-			});
-		}
-	}
-
-	// =============================================================
-	// UPGRADE — 1.1.0 → 1.2.0 (manuel og_type override KALDIRILDI;
-	// autoDetectOgType resource_type+price+rating üzerinden seçer)
-	// =============================================================
-
-	public function upgrade1020070Step1(): void
-	{
-		// xf_st_xfrmseo_meta.og_type kolonu kaldırılıyor — artık autoDetect kullanılıyor.
-		$this->schemaManager()->alterTable('xf_st_xfrmseo_meta', function (Alter $table)
-		{
-			if ($table->getColumnDefinition('og_type'))
-			{
-				$table->dropColumns(['og_type']);
-			}
-		});
-	}
-
-	public function upgrade1020070Step2(): void
-	{
-		// xf_st_xfrmseo_category tablosu komple kaldırılıyor (default_og_type artık yok).
-		if ($this->tableExists('xf_st_xfrmseo_category'))
-		{
-			$this->schemaManager()->dropTable('xf_st_xfrmseo_category');
-		}
-	}
-
-	// =============================================================
 	// UNINSTALL
 	// =============================================================
 
 	public function uninstallStep1(): void
 	{
-		$tables = [
-			'xf_st_xfrmseo_meta',
-			'xf_st_xfrmseo_image',
-			'xf_st_xfrmseo_category', // 1.2.0 öncesinden kalmış olabilir
-		];
+		$tables = ['xf_st_xfrmseo_meta', 'xf_st_xfrmseo_image'];
 		foreach ($tables as $table)
 		{
 			if ($this->tableExists($table))
@@ -124,15 +66,7 @@ class Setup extends AbstractSetup
 	}
 
 	// =============================================================
-	// POST-INSTALL / POST-UPGRADE — phrase cache invalidation
-	//
-	// Yeni eklenen phrase'lerin (örn. v1.1.0'da gelen
-	// xfrmseoBoost* option'ları) tüm dillerde anında görünmesi için
-	// xf_language.phrase_cache binary blob'unu temizliyoruz.
-	// Sonraki sayfa render'ında XF her dil için lazy olarak yeniden
-	// compile eder, DB'deki en güncel TR/EN/diğer çevirileri okur.
-	//
-	// Kullanıcı manuel SQL çalıştırmak zorunda kalmasın diye burada.
+	// POST-INSTALL — phrase cache invalidation
 	// =============================================================
 
 	public function postInstall(array &$stateChanges): void

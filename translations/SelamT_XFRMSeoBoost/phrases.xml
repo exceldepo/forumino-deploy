@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <phrases>
   <phrase title="selamt_xfrmseo_seo" version_id="1000070" version_string="1.0.0"><![CDATA[SEO]]></phrase>
-  <phrase title="option_group.xfrmseoboost" version_id="1010070" version_string="1.1.0"><![CDATA[XFRM SEO Boost]]></phrase>
-  <phrase title="option_group_description.xfrmseoboost" version_id="1010070" version_string="1.1.0"><![CDATA[XFRM SEO Boost eklentisi için ayarlar (öne çıkan görseller, og:type varsayılanları, JSON-LD çıktısı).]]></phrase>
-  <phrase title="option.xfrmseoBoostDisplayImageDefault" version_id="1010070" version_string="1.1.0"><![CDATA[Yeni kaynaklarda öne çıkan görseli sayfada varsayılan olarak göster]]></phrase>
-  <phrase title="option_explain.xfrmseoBoostDisplayImageDefault" version_id="1010070" version_string="1.1.0"><![CDATA[Yeni oluşturulan kaynaklar için "Sayfada göster" anahtarının varsayılan değeri. Mevcut kaynaklar etkilenmez.]]></phrase>
-  <phrase title="option.xfrmseoBoostEnableJsonLd" version_id="1010070" version_string="1.1.0"><![CDATA[Genişletilmiş JSON-LD çıktısını etkinleştir]]></phrase>
-  <phrase title="option_explain.xfrmseoBoostEnableJsonLd" version_id="1010070" version_string="1.1.0"><![CDATA[Etkinleştirilirse, kaynak sayfaları öne çıkan görsel, puanlar, indirme sayısı ve (uygunsa) Product şemasıyla genişletilmiş bir JSON-LD yapılandırılmış veri bloğu yayınlar. Google Rich Results için önerilir.]]></phrase>
-  <phrase title="option.xfrmseoBoostEnableProductSchema" version_id="1010070" version_string="1.1.0"><![CDATA[og:type=product olduğunda Product şeması kullan]]></phrase>
-  <phrase title="option_explain.xfrmseoBoostEnableProductSchema" version_id="1010070" version_string="1.1.0"><![CDATA[Bir kaynağın etkin og:type'ı "product" olduğunda JSON-LD <code>@type</code>'ını "Product" olarak değiştir; offers (fiyat + para birimi) ve aggregateRating ekle. Devre dışı bırakırsan varsayılan CreativeWork şeması korunur.]]></phrase>
+  <phrase title="option_group.xfrmseoboost" version_id="1000070" version_string="1.0.0"><![CDATA[XFRM SEO Boost]]></phrase>
+  <phrase title="option_group_description.xfrmseoboost" version_id="1000070" version_string="1.0.0"><![CDATA[XFRM SEO Boost eklentisi için ayarlar (öne çıkan görseller, og:type varsayılanları, JSON-LD çıktısı).]]></phrase>
+  <phrase title="option.xfrmseoBoostDisplayImageDefault" version_id="1000070" version_string="1.0.0"><![CDATA[Yeni kaynaklarda öne çıkan görseli sayfada varsayılan olarak göster]]></phrase>
+  <phrase title="option_explain.xfrmseoBoostDisplayImageDefault" version_id="1000070" version_string="1.0.0"><![CDATA[Yeni oluşturulan kaynaklar için "Sayfada göster" anahtarının varsayılan değeri. Mevcut kaynaklar etkilenmez.]]></phrase>
+  <phrase title="option.xfrmseoBoostEnableJsonLd" version_id="1000070" version_string="1.0.0"><![CDATA[Genişletilmiş JSON-LD çıktısını etkinleştir]]></phrase>
+  <phrase title="option_explain.xfrmseoBoostEnableJsonLd" version_id="1000070" version_string="1.0.0"><![CDATA[Etkinleştirilirse, kaynak sayfaları öne çıkan görsel, puanlar, indirme sayısı ve (uygunsa) Product şemasıyla genişletilmiş bir JSON-LD yapılandırılmış veri bloğu yayınlar. Google Rich Results için önerilir.]]></phrase>
+  <phrase title="option.xfrmseoBoostEnableProductSchema" version_id="1000070" version_string="1.0.0"><![CDATA[og:type=product olduğunda Product şeması kullan]]></phrase>
+  <phrase title="option_explain.xfrmseoBoostEnableProductSchema" version_id="1000070" version_string="1.0.0"><![CDATA[Bir kaynağın etkin og:type'ı "product" olduğunda JSON-LD <code>@type</code>'ını "Product" olarak değiştir; offers (fiyat + para birimi) ve aggregateRating ekle. Devre dışı bırakırsan varsayılan CreativeWork şeması korunur.]]></phrase>
   <phrase title="selamt_xfrmseo_seo_settings" version_id="1000070" version_string="1.0.0"><![CDATA[SEO ayarları]]></phrase>
   <phrase title="selamt_xfrmseo_meta_title" version_id="1000070" version_string="1.0.0"><![CDATA[Meta başlık]]></phrase>
   <phrase title="selamt_xfrmseo_meta_title_explain" version_id="1000070" version_string="1.0.0"><![CDATA[Arama motorlarına ve sosyal medya önizlemelerinde gösterilecek sayfa başlığını özelleştir. Boş bırakırsan kaynak başlığı otomatik kullanılır. Önerilen uzunluk: 50-60 karakter.]]></phrase>
@@ -18,15 +18,15 @@
   <phrase title="selamt_xfrmseo_focus_keyword_explain" version_id="1000070" version_string="1.0.0"><![CDATA[Bu kaynağın sıralanmasını istediğin birincil anahtar kelime. Sadece rehberlik için; HTML'e basılmaz. Meta alanlarını yazarken odaklanmana yardımcı olur.]]></phrase>
   <phrase title="selamt_xfrmseo_canonical_url" version_id="1000070" version_string="1.0.0"><![CDATA[Canonical URL]]></phrase>
   <phrase title="selamt_xfrmseo_canonical_url_explain" version_id="1000070" version_string="1.0.0"><![CDATA[<code>&lt;link rel="canonical"&gt;</code> URL'sini özelleştir. Boş bırakırsan kaynak URL'si otomatik kullanılır. Sadece aynı içerik bilinçli olarak birden fazla URL'de varsa kullan.]]></phrase>
-  <phrase title="selamt_xfrmseo_display_image" version_id="1010070" version_string="1.1.0"><![CDATA[Öne çıkan görseli sayfada göster]]></phrase>
-  <phrase title="selamt_xfrmseo_display_image_explain" version_id="1010070" version_string="1.1.0"><![CDATA[İşaretlenirse, öne çıkan görsel kaynak sayfasında (hero banner olarak) gösterilir. Sosyal medya paylaşımı için <code>og:image</code> meta etiketi bu ayardan bağımsız olarak her zaman gönderilir.]]></phrase>
+  <phrase title="selamt_xfrmseo_display_image" version_id="1000070" version_string="1.0.0"><![CDATA[Öne çıkan görseli sayfada göster]]></phrase>
+  <phrase title="selamt_xfrmseo_display_image_explain" version_id="1000070" version_string="1.0.0"><![CDATA[İşaretlenirse, öne çıkan görsel kaynak sayfasında (hero banner olarak) gösterilir. Sosyal medya paylaşımı için <code>og:image</code> meta etiketi bu ayardan bağımsız olarak her zaman gönderilir.]]></phrase>
   <phrase title="selamt_xfrmseo_featured_image" version_id="1000070" version_string="1.0.0"><![CDATA[Öne çıkan görsel]]></phrase>
   <phrase title="selamt_xfrmseo_featured_image_explain" version_id="1000070" version_string="1.0.0"><![CDATA[<code>og:image</code> olarak kullanılacak ve listelerdeki kaynak kartında gösterilecek bir öne çıkan görsel yükle. Önerilen boyut: 1200x630px (Open Graph standardı). Maks 5 MB.]]></phrase>
   <phrase title="selamt_xfrmseo_featured_image_remove" version_id="1000070" version_string="1.0.0"><![CDATA[Mevcut görseli kaldır]]></phrase>
-  <phrase title="selamt_xfrmseo_featured_image_keep" version_id="1010070" version_string="1.1.0"><![CDATA[Mevcut görseli koru]]></phrase>
-  <phrase title="selamt_xfrmseo_featured_image_replace" version_id="1010070" version_string="1.1.0"><![CDATA[Yeni görsel yükle]]></phrase>
-  <phrase title="selamt_xfrmseo_featured_image_upload" version_id="1010070" version_string="1.1.0"><![CDATA[Öne çıkan görseli yükle]]></phrase>
-  <phrase title="selamt_xfrmseo_featured_image_size_hint" version_id="1010070" version_string="1.1.0"><![CDATA[Önerilen boyut: 1200×630 piksel (Open Graph standardı). Maks 5 MB. JPG, PNG veya WebP.]]></phrase>
+  <phrase title="selamt_xfrmseo_featured_image_keep" version_id="1000070" version_string="1.0.0"><![CDATA[Mevcut görseli koru]]></phrase>
+  <phrase title="selamt_xfrmseo_featured_image_replace" version_id="1000070" version_string="1.0.0"><![CDATA[Yeni görsel yükle]]></phrase>
+  <phrase title="selamt_xfrmseo_featured_image_upload" version_id="1000070" version_string="1.0.0"><![CDATA[Öne çıkan görseli yükle]]></phrase>
+  <phrase title="selamt_xfrmseo_featured_image_size_hint" version_id="1000070" version_string="1.0.0"><![CDATA[Önerilen boyut: 1200×630 piksel (Open Graph standardı). Maks 5 MB. JPG, PNG veya WebP.]]></phrase>
   <phrase title="selamt_xfrmseo_meta_chars_remaining" version_id="1000070" version_string="1.0.0"><![CDATA[{count} karakter]]></phrase>
   <phrase title="selamt_xfrmseo_error_image_too_large" version_id="1000070" version_string="1.0.0"><![CDATA[Öne çıkan görsel çok büyük. Maksimum boyut: {max_size}.]]></phrase>
   <phrase title="selamt_xfrmseo_error_image_invalid_type" version_id="1000070" version_string="1.0.0"><![CDATA[Öne çıkan görsel JPG, PNG veya WebP olmalıdır.]]></phrase>

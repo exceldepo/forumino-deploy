@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <phrases>
-  <phrase title="option.xfrmseoBoostDisplayImageDefault" version_id="1010070" version_string="1.1.0"><![CDATA[Display featured image on resource page by default]]></phrase>
-  <phrase title="option.xfrmseoBoostEnableJsonLd" version_id="1010070" version_string="1.1.0"><![CDATA[Enable extended JSON-LD output]]></phrase>
-  <phrase title="option.xfrmseoBoostEnableProductSchema" version_id="1010070" version_string="1.1.0"><![CDATA[Use Product schema when og:type=product]]></phrase>
-  <phrase title="option_explain.xfrmseoBoostDisplayImageDefault" version_id="1010070" version_string="1.1.0"><![CDATA[The default value of the per-resource "Display on page" toggle for newly created resources. Existing resources are not affected.]]></phrase>
-  <phrase title="option_explain.xfrmseoBoostEnableJsonLd" version_id="1010070" version_string="1.1.0"><![CDATA[If enabled, resource pages emit an extended JSON-LD structured data block with featured image, ratings, downloads, and (when applicable) Product schema. Recommended for Google Rich Results.]]></phrase>
-  <phrase title="option_explain.xfrmseoBoostEnableProductSchema" version_id="1010070" version_string="1.1.0"><![CDATA[When a resource's effective og:type is "product", change the JSON-LD <code>@type</code> to "Product" with offers (price + currency) and aggregateRating. Disable to keep the default CreativeWork schema.]]></phrase>
-  <phrase title="option_group.xfrmseoboost" version_id="1010070" version_string="1.1.0"><![CDATA[XFRM SEO Boost]]></phrase>
-  <phrase title="option_group_description.xfrmseoboost" version_id="1010070" version_string="1.1.0"><![CDATA[Settings for the XFRM SEO Boost add-on (featured images, og:type defaults, JSON-LD output).]]></phrase>
+  <phrase title="option.xfrmseoBoostDisplayImageDefault" version_id="1000070" version_string="1.0.0"><![CDATA[Display featured image on resource page by default]]></phrase>
+  <phrase title="option.xfrmseoBoostEnableJsonLd" version_id="1000070" version_string="1.0.0"><![CDATA[Enable extended JSON-LD output]]></phrase>
+  <phrase title="option.xfrmseoBoostEnableProductSchema" version_id="1000070" version_string="1.0.0"><![CDATA[Use Product schema when og:type=product]]></phrase>
+  <phrase title="option_explain.xfrmseoBoostDisplayImageDefault" version_id="1000070" version_string="1.0.0"><![CDATA[The default value of the per-resource "Display on page" toggle for newly created resources. Existing resources are not affected.]]></phrase>
+  <phrase title="option_explain.xfrmseoBoostEnableJsonLd" version_id="1000070" version_string="1.0.0"><![CDATA[If enabled, resource pages emit an extended JSON-LD structured data block with featured image, ratings, downloads, and (when applicable) Product schema. Recommended for Google Rich Results.]]></phrase>
+  <phrase title="option_explain.xfrmseoBoostEnableProductSchema" version_id="1000070" version_string="1.0.0"><![CDATA[When a resource's effective og:type is "product", change the JSON-LD <code>@type</code> to "Product" with offers (price + currency) and aggregateRating. Disable to keep the default CreativeWork schema.]]></phrase>
+  <phrase title="option_group.xfrmseoboost" version_id="1000070" version_string="1.0.0"><![CDATA[XFRM SEO Boost]]></phrase>
+  <phrase title="option_group_description.xfrmseoboost" version_id="1000070" version_string="1.0.0"><![CDATA[Settings for the XFRM SEO Boost add-on (featured images, og:type defaults, JSON-LD output).]]></phrase>
   <phrase title="selamt_xfrmseo_canonical_url" version_id="1000070" version_string="1.0.0"><![CDATA[Canonical URL]]></phrase>
   <phrase title="selamt_xfrmseo_canonical_url_explain" version_id="1000070" version_string="1.0.0"><![CDATA[Override the <code>&lt;link rel="canonical"&gt;</code> URL. Leave blank to use the resource URL automatically. Use this only if the same content is intentionally available at multiple URLs.]]></phrase>
-  <phrase title="selamt_xfrmseo_display_image" version_id="1010070" version_string="1.1.0"><![CDATA[Display featured image on page]]></phrase>
-  <phrase title="selamt_xfrmseo_display_image_explain" version_id="1010070" version_string="1.1.0"><![CDATA[If checked, the featured image is shown on the resource page (as a hero banner). The <code>og:image</code> meta tag for social sharing is always sent regardless of this setting.]]></phrase>
+  <phrase title="selamt_xfrmseo_display_image" version_id="1000070" version_string="1.0.0"><![CDATA[Display featured image on page]]></phrase>
+  <phrase title="selamt_xfrmseo_display_image_explain" version_id="1000070" version_string="1.0.0"><![CDATA[If checked, the featured image is shown on the resource page (as a hero banner). The <code>og:image</code> meta tag for social sharing is always sent regardless of this setting.]]></phrase>
   <phrase title="selamt_xfrmseo_error_image_invalid_type" version_id="1000070" version_string="1.0.0"><![CDATA[The featured image must be a JPG, PNG, or WebP file.]]></phrase>
   <phrase title="selamt_xfrmseo_error_image_too_large" version_id="1000070" version_string="1.0.0"><![CDATA[The featured image is too large. Maximum size is {max_size}.]]></phrase>
   <phrase title="selamt_xfrmseo_featured_image" version_id="1000070" version_string="1.0.0"><![CDATA[Featured image]]></phrase>
   <phrase title="selamt_xfrmseo_featured_image_explain" version_id="1000070" version_string="1.0.0"><![CDATA[Upload a featured image used as <code>og:image</code> and shown on the resource card in listings. Recommended size: 1200x630px (Open Graph standard). Max 5 MB.]]></phrase>
-  <phrase title="selamt_xfrmseo_featured_image_keep" version_id="1010070" version_string="1.1.0"><![CDATA[Keep current image]]></phrase>
+  <phrase title="selamt_xfrmseo_featured_image_keep" version_id="1000070" version_string="1.0.0"><![CDATA[Keep current image]]></phrase>
   <phrase title="selamt_xfrmseo_featured_image_remove" version_id="1000070" version_string="1.0.0"><![CDATA[Remove current image]]></phrase>
-  <phrase title="selamt_xfrmseo_featured_image_replace" version_id="1010070" version_string="1.1.0"><![CDATA[Upload a new image]]></phrase>
-  <phrase title="selamt_xfrmseo_featured_image_size_hint" version_id="1010070" version_string="1.1.0"><![CDATA[Recommended size: 1200×630 pixels (Open Graph standard). Max 5 MB. JPG, PNG, or WebP.]]></phrase>
-  <phrase title="selamt_xfrmseo_featured_image_upload" version_id="1010070" version_string="1.1.0"><![CDATA[Upload featured image]]></phrase>
+  <phrase title="selamt_xfrmseo_featured_image_replace" version_id="1000070" version_string="1.0.0"><![CDATA[Upload a new image]]></phrase>
+  <phrase title="selamt_xfrmseo_featured_image_size_hint" version_id="1000070" version_string="1.0.0"><![CDATA[Recommended size: 1200×630 pixels (Open Graph standard). Max 5 MB. JPG, PNG, or WebP.]]></phrase>
+  <phrase title="selamt_xfrmseo_featured_image_upload" version_id="1000070" version_string="1.0.0"><![CDATA[Upload featured image]]></phrase>
   <phrase title="selamt_xfrmseo_focus_keyword" version_id="1000070" version_string="1.0.0"><![CDATA[Focus keyword]]></phrase>
   <phrase title="selamt_xfrmseo_focus_keyword_explain" version_id="1000070" version_string="1.0.0"><![CDATA[The primary keyword you want this resource to rank for. Used as guidance only; not output to HTML. Helps you stay focused while writing meta fields.]]></phrase>
   <phrase title="selamt_xfrmseo_meta_chars_remaining" version_id="1000070" version_string="1.0.0"><![CDATA[{count} characters]]></phrase>
