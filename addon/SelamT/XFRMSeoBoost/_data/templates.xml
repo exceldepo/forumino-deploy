@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<templates/>
+<templates>
+  <template type="public" title="public_selamt_xfrmseo.less" version_id="1000070" version_string="1.0.0"><![CDATA[/* Resource view sayfasında üst padding'i sol-sağ ile eşitle (XF default 6px 10px → top'u 10px yap) */
+.resourceBody-main
+{
+	padding-top: 10px !important;
+}
+
+.selamt_xfrmseo-heroImage img
+{
+	max-width: 100%;
+	height: auto;
+	border-radius: 6px;
+	display: block;
+	margin: 0 auto;
+}
+]]></template>
+</templates>
