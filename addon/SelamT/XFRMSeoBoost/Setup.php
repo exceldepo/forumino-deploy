@@ -72,16 +72,94 @@ class Setup extends AbstractSetup
 	public function postInstall(array &$stateChanges): void
 	{
 		$this->invalidatePhraseCache();
+		$this->importTemplatesFromXml();
+		$this->bumpStyleCacheVersion();
 	}
 
 	public function postUpgrade($previousVersion, array &$stateChanges): void
 	{
 		$this->invalidatePhraseCache();
+		$this->importTemplatesFromXml();
+		$this->bumpStyleCacheVersion();
 	}
 
 	protected function invalidatePhraseCache(): void
 	{
 		$this->db()->update('xf_language', ['phrase_cache' => ''], null);
 		$this->db()->emptyTable('xf_phrase_compiled');
+	}
+
+	/**
+	 * XF default xf-addon:install komutu _data/templates.xml dosyasını import etmiyor —
+	 * sadece template_modifications, options, phrases vb import ediyor. Bu yüzden
+	 * eklentideki LESS dosyalarını (xf_template tablosuna) manuel ekliyoruz ki kullanıcı
+	 * fresh install'da tüm CSS'lerimiz çalışsın.
+	 */
+	protected function importTemplatesFromXml(): void
+	{
+		$xmlPath = $this->addOn->getAddOnDirectory() . '/_data/templates.xml';
+		if (!file_exists($xmlPath))
+		{
+			return;
+		}
+
+		$xml = @simplexml_load_file($xmlPath);
+		if (!$xml || !isset($xml->template))
+		{
+			return;
+		}
+
+		$em = \XF::em();
+		foreach ($xml->template AS $node)
+		{
+			$title = (string) $node['title'];
+			$type = (string) $node['type'];
+			$content = (string) $node;
+
+			if ($title === '' || $type === '')
+			{
+				continue;
+			}
+
+			$existing = $em->findOne('XF:Template', [
+				'title' => $title,
+				'type' => $type,
+				'style_id' => 0,
+			]);
+
+			if ($existing)
+			{
+				$existing->bulkSet([
+					'template' => $content,
+					'version_id' => (int) $node['version_id'],
+					'version_string' => (string) $node['version_string'],
+					'addon_id' => $this->addOn->getAddOnId(),
+				]);
+				$existing->save();
+				continue;
+			}
+
+			$template = $em->create('XF:Template');
+			$template->bulkSet([
+				'type' => $type,
+				'title' => $title,
+				'style_id' => 0,
+				'template' => $content,
+				'addon_id' => $this->addOn->getAddOnId(),
+				'version_id' => (int) $node['version_id'],
+				'version_string' => (string) $node['version_string'],
+			]);
+			$template->save();
+		}
+	}
+
+	/**
+	 * CSS bundle URL'sindeki "d=<timestamp>" cache buster'ı yenilemek için xf_style
+	 * last_modified_date alanını update ediyoruz. Aksi halde browser eski CSS'i kullanır,
+	 * yeni LESS değişiklikleri ekrana yansımaz.
+	 */
+	protected function bumpStyleCacheVersion(): void
+	{
+		$this->db()->update('xf_style', ['last_modified_date' => \XF::$time], null);
 	}
 }
